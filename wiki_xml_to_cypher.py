@@ -47,7 +47,7 @@ def fRemoveBadChars(t):
 def fNodeLabel(t):
 	#Node Label: Camel case beginning with upper-case character (:VehicleOwner)
 	r = t.title().replace(" ","").replace("'","")
-	r = ":"+r
+	r = ":"+fRemoveBadChars(r)
 	# print (r)
 	return r
 
@@ -119,6 +119,7 @@ def main():
 
 		#################
 		# GET WIKITEXT
+		# NOT USED FOR CYPHER
 		wt = page.getElementsByTagName("text")[0].childNodes[0].nodeValue
 		# wt = wt_raw.replace("{{#set:"+nl+"}}","")
 		# print (wt)
@@ -147,7 +148,6 @@ def main():
 					priCat = fNodeLabel(currCat)
 
 				nodeLabels.append(fNodeLabel(currCat))
-				rowCat +=1
 
 				#advance cursor
 				currPos = wt.find("[[Category:",cEnd)+11 #find next category
@@ -186,8 +186,6 @@ def main():
 					else: #not a relationship, add as property
 						propOutput.append(fPropertyLabel(itemValue[0]) + ": " + fBoolNumString(itemValue[1]))
 
-					rowPro +=1
-
 				createText += " { " + ", ".join(propOutput) + "})"
 				print(createText +nl)
 
@@ -215,7 +213,7 @@ def main():
 		# outRelText += "RETURN type (r), r.name" + nl
 
 	# OUTPUT ALL RELATIONSHIP CYPHER TEXT
-	o.write(nl + "CREATE" + nl + outJoinDelim.join(outRelText))
+	o.write(nl + "CREATE" + nl + outJoinDelim.join(outRelText) + nl + ";")
 
 	print(nl + str(count) + " Pages Found")
 
