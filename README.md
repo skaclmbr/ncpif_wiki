@@ -15,4 +15,4 @@ See website at: http://wiki.ncpif.org
 * NC+Bird+Conservation+All+20200901141341.xml - example wiki xml export file
 
 ## Resources
-* [https://neo4j.com/docs/cypher-refcard/current/ Neo4j reference card]
+* [Neo4j reference card](https://neo4j.com/docs/cypher-refcard/current/)
