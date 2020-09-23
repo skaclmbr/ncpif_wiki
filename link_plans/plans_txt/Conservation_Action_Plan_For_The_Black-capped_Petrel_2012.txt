@@ -1,0 +1,1458 @@
+January 2012
+
+
+Conservation
+Action Plan
+for the Black-capped Petrel
+
+(Pterodroma hasitata)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edited by James Goetz, Jessica Hardesty-Norris  and Jennifer Wheeler
+
+
+
+
+
+
+
+
+
+Contact Information for Editors:
+
+James Goetz
+Cornell Lab of Ornithology Cornell University 
+Ithaca, New York, USA,  E-mail: jeg43@cornell.edu 
+
+Jessica Hardesty-Norris American Bird Conservancy The Plains, Virginia, USA 
+E-mail: jhardesty@abcbirds.org 
+
+Jennifer Wheeler
+U.S. Fish and Wildlife Service Arlington, Virginia, USA 
+E-mail: Jennifer_A_Wheeler@fws.gov 
+
+
+
+Suggested Citation: Goetz, J.E., J. H. Norris, and J.A. Wheeler. 2011. Conservation Action Plan for the Black-capped Petrel (Pterodroma hasitata). International Black-capped Petrel Conservation Group http://www.fws.gov/birds/waterbirds/petrel
+
+Funding for the production of this document  
+was provided by the U.S. Fish and Wildlife Service. 
+
+
+
+
+
+Table Of Contents
+Introduction • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •  1 Status Assessment • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •  3 
+
+Taxonomy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 Population Size And Distribution. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 Physical Description And Natural History . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 Species Functions And Values. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 Conservation And Legal Status. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6 Threats Assessment. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6 Current Management Actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8 Accounts For Range States With Known Or Potential Breeding Populations . . . . . . . . .  9 Account For At-Sea (Foraging) Range  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14 
+
+Conservation Recommendations • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •  17 Conservation Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17 Conservation Actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17 Ongoing Planning And Implementation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  20 
+
+
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21 Appendix  A: National And International Instruments . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23 Appendix B:  Planning Process And Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . .  25 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i
+Introduction 
+
+
+
+n the third of March 2011, the hard work and collaboration of an international team of researchers opened a new chapter in the story of the Black-capped Petrel, when they
+discovered an active petrel nest in a small cave on Morne Vincent, in southeast Haiti, near the border with the Dominican Republic. This discovery is important because it is the first active nest ever to be monitored throughout the brooding and nestling stages and thus provides important ecological data needed for conservation efforts. However,
+more importantly, this discovery gives petrel conservationists
+clear grounds for excitement and optimism. It demonstrates that despite the petrel’s precarious global conservation status, and despite Haiti’s lamentable human development and environmental situation, this rare species persists, and apparently can even nest successfully in areas that were
+not considered suitable habitat
+due to clear threats from nearby
+
+plan “to ensure the long-term survival of a stable population of Black-capped Petrels whose conservation status has iml proved from Endangered to Near Threatened on the IUCN Red List.” Put plainly, targeted investment in the conservation interventions detailed here are necessary to avert the extincl tion of this species.
+Despite the immense survival challenges that this species faces, it has not yet garnered conservation attention to match the seriousness of its plight. Reasons for this include lack of ecological knowledge, funding, awareness, and coordinal
+tion among interested parties throughout its international range. However, the collaborative effort of dozens of organizations and individuals required to craft this plan has contributed greatly to improve coordination and increase resources on all fronts. Now, completion of this docul ment, combined with recent field research puts us in a far better position than ever to effectively
+advance conservation of the
+human settlements and invasive
+One of the first-ever photos of a Black-capped Petrel chick.
+Photo: J. Goetz, 2011
+Black-capped Petrel.
+predators.
+From April to July 2011 researchers recorded activity at the petrel nest with a motion-sensitive camera, and periodically visited the nest to document the petrel chick’s development. Over several months the automatic camera recorded dozens of adult visits to the cave first to incubate, and later to feed the chick as it grew from puffball to sleek young seabird. In July the camera trap recorded the nestling’s trips out of the cave
+to stretch and strengthen its growing wings for its critical first flight down from the mountains and out to the sea. Although the camera’s batteries failed in early July, there is every likelil hood that the young bird successfully took flight to grow strong and mature at sea. For the next five years, it will not touch dry land, then it will return to these mountains to seek a mate and begin the cycle anew.
+Another major advance for Black-capped Petrel conl servation in 2011 is the completion of this document, the  Conservation Action Plan for this endangered species. This  document presents a clear and coherent vision of the steps  necessary to recover the species to more healthy population  levels. Concerned individuals established the International  Black-capped Petrel Conservation Group that authored this  
+The Black-capped Petrel story is a compelling one. Historil
+cally abundant in the Lesser Antilles this species was extirpatl ed from those islands in the mid-1800s by a combination of deforestation, hunting and introduced predators. After loss of all known breeding populations of this West Indian endemic, it was unclear where these petrels still bred, if at all. However, sporadic reports of birds at sea suggested that it continued to breed somewhere, although the location remained a mystery for the next 100 years.
+The puzzle of the missing breeding sites captured the imagination of an intrepid young biologist, David Wingate, who had earlier assisted in the re-discovery of the thought- to-be extinct Cahow or Bermuda Petrel. He explored several
+areas, including a remote mountain escarpment in southeastl ern Haiti, and in 1963 he found 11 petrel nesting sites. After additional extensive searches in the Lesser Antilles proved fruitless, he took part in expeditions in the early 1980s that discovered the only other two confirmed breeding populal tions, in southwest Dominican Republic at Loma del Toro, and in westernmost Haiti, at Pic Macaya.
+In the ensuing decades much about the Black-capped
+Petrel remained shrouded in mystery. This species has
+
+I 
+CONSERVATION ACTION PLAN FOR THE BLACK- CAPPED PETREL
+
+
+
+been perennially difficult to study because it spends almost its entire life at sea, returning to land only to breed in
+the darkness of night. Most of what we know about its appearance, diet, annual cycle and population size are thanks to its penchant for foraging in waters near the Gulf Stream between north Florida and southern Virginia. The known breeding locations in Haiti and the Dominican Republic
+are remote and mountainous, making access difficult. The few visits to these locations since the 1960s indicate that populations continue to decline. Although field reports have suggested that these petrels may breed on other islands in the Caribbean, the breeding status at those locations has yet to be confirmed.
+The excitement of the recent discovery of the Black-capped
+Petrel nest and documentation of the chick’s development is tempered by the knowledge of imminent threats to
+the survival of the species. The forested nest site that was discovered is threatened by agricultural expansion. Chicks and adults at this site are vulnerable to invasive mammal predators and to direct harvest by local residents – threats that exist in varying degrees at all known breeding locations. Meanwhile, marine pollution and impacts from fisheries and industry threaten Black-capped Petrels while they forage at sea. As a result of these threats, and its small, fragmented population,
+
+Black-capped Petrel at sea. Photo: J. Rose
+IUCN Red List officially classifies this species as Endangered.
+What is next in the Black-capped Petrel story? For better or worse, its fate appears to be very much in our hands, and its future will depend on how effective we are in promoting
+its conservation. Foremost among the conservation objectives for this species is addressing the land-based conservation concerns. Healthy petrel populations depend critically on reproductive success and survival of breeding adults. To effectively address threats, the conservation community
+must act quickly and decisively to halt the precipitous loss of habitat at the known nesting locations. The location harboring the greatest number of breeding pairs is the same forested escarpment at La Visite where Wingate first discovered them breeding in 1963. Driven by extreme
+poverty and a lack of alternatives, local people at this site are rapidly clearing forest to expand agriculture and support their livelihoods. Securing petrel breeding habitat at that location
+is the most urgent conservation priority. However, it is clear that we can achieve this objective only through a combination of activities, which, given the socio-economic underpinnings of the threats, must include close and mutually beneficial collaboration with the local communities.
+The Black-capped Petrel traverses long ocean distances, crossing many international borders on land and at sea. It thus connects all the countries that share this enigmatic species, countries whose human activity can positively
+or negatively impact the petrel’s future. Therefore, the International Black-capped Petrel Conservation Group will continue to include members from all nations within the species’ range and will work within the broader context
+of habitat protection, biodiversity conservation, and sustainable human communities. Further, because most of the Black-capped Petrel’s nearest relatives (the gadfly petrels,
+representing about 35 species worldwide) face similar threats, the group will emphasize sharing of management successes
+and lessons learned in an attempt to enhance the conservation of all of these species.
+This Conservation Action Plan includes a summary of information most essential to developing the conservation framework. Following the status assessment, this document presents the vision, goal, objectives, output, and actions for Black-capped Petrel conservation. A scientific monograph, now in preparation by Theodore Simons, David Lee and Christopher Haney, will provide a more detailed review of Black-capped Petrel biology and conservation history.
+
+
+
+
+
+
+
+2 
+Status Assessment 
+
+
+Taxonomy
+Class: Aves
+Order: Procellariiformes
+Family: Procellariidae
+Scientific Name: Pterodroma hasitata (Kuhl 1820)
+Common Names: Black-capped Petrel, Capped Petrel, West- Indian Petrel, Pampero de las Brujas (Cuba), Diablotín
+or Pétrel Diablotín (Dominican Republic, Puerto Rico, Guadeloupe and Martinique), Chanwan Lasel, Pétrel, Canard de Montagne, Diablotin (Haiti)
+Name used in this document: Black-capped Petrel
+
+Herein, the Black-capped Petrel is considered the species as described in Brook (2004), as one of three Pterodroma in the west central Atlantic. The other species are the Jamaica Petrel, P. caribbae, possibly extinct, and the Cahow or
+Bermuda Petrel (P. cahow) which is limited to an intensively- managed population in Bermuda of fewer than 200 birds. The systematics of the genus Pterodroma are complex and have
+yet to be fully resolved. Howell & Patteson (2008) suggested that the Black-capped Petrel actually may comprise multiple species, and recent genetic investigations suggest separate populations or possibly even subspecies (van Tuinen pers. comm.). Further genetic investigation may clarify population structure.
+
+Population Size And Distribution
+
+The population size of Black-capped Petrels before Europeans arrived in the Caribbean is unknown, but historical accounts suggest they were abundant on the islands of Dominica
+and Guadeloupe. The chief causes of population declines are thought to be consumption by humans, the impact
+of introduced mammalian predators and loss of nesting
+
+
+
+Figure 1: Present-day confirmed, unconfirmed and extirpated breeding sites of Black-capped Petrel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At sea, this highly pelagic species occurs chiefly in tropical and subtropical waters in the western North Atlantic Ocean between 10º  and 40º N.
+
+
+3 
+CONSERVATION ACTION PLAN FOR THE BLACK- CAPPED PETREL
+
+
+
+habitat. Although the most recent records of breeding populations on these islands are from in the mid- to latel
+1800s, sporadic observations continued throughout the early
+1900s. However, it was unclear where breeding populations might persist (Lee 2000 and references therein) until in
+1963, David Wingate (1964) discovered breeding Black- capped Petrels in southeastern Haiti on Massif de la Selle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Typical Black-capped Petrel, photographed in North Carolina. Photo: B. Patteson
+are highly uncertain because petrel numbers are difficult to estimate with certainty using the conventional survey techniques that are available to field researchers. Authors van Halewyn and Norton (1984) suggested a range of 2,000l
+25,000 pairs, and Lee (2000) estimated the global population at 600-2,000 pairs, with the lower end of this range currently thought to be more likely (Lee pers. comm.). Up to 650 birds have been seen in a single day from boats off Cape Hatteras, North Carolina, (Gustafson. pers. comm.).
+
+Physical Description And Natural History
+
+The Black-capped Petrel is a medium-sized, relatively long- winged brown-grey and white gadfly petrel. It has a white hindneck, brownish-grey mantle and upperwing, white rump
+This was followed by discoveries of petrels at Loma del Toro,
+in the Sierra de Bahoruco, Dominican Republic in 1981 (Bond 1982 as cited in Woods and Ottenwalder 1986), and on Pic Macaya, Massif de la Hotte, Haiti in 1984 (Woods and Ottenwalder 1986). These three locations on the island of Hispaniola remain the only confirmed breeding sites of the species; however, historical records and recent evidence
+suggest that the Black-capped Petrels might still be found on additional islands.
+At-sea, this highly pelagic species occurs chiefly in tropical
+and subtropical waters in the western Atlantic Ocean between 10º and 40º N.  The South Atlantic Bight — extending along the U.S. Coast from Cape Canaveral, Florida to Outer Banks of North Carolina — serves as the primary foraging region for the Black-capped Petrel during the non- breeding season.
+The known population of Black-capped Petrel is small, fragmented, and likely declining. Population estimates
+and uppertail-coverts, dark brown tail, and white underparts. The underwing is white with a narrow black trailing edge, black tip, a broad black edge between primaries and the
+carpal joint. The bill is black and legs are pink with feet pink proximally and black distally. Its namesake black or brownish cap extends to or beyond the eye, towards the upper breast to form a partial collar. Brooke (2004) describes its appearance in detail, including characteristics that distinguish the species from other Pterodroma species which overlap its foraging range. Black-capped Petrels vary in size (300-590 g) and plumage markings.
+Detailed natural history information on the Black-capped Petrel is sparse due to the bird’s rarity, pelagic foraging habits, and to the remoteness of its breeding locations. Lee (2000) provides a review of the species. It feeds primarily on squid, small fish, and fauna associates of Sargassum found in deep waters along current edges, eddies within the Gulf Stream and at sites of upwellings. Foraging is primarily at night, and done
+
+
+Petrel nesting habitat in the steep forested escarpment of La Visite, Haiti. Photo: J. Goetz, 2008.
+Haitian biologist Anderson Jean, now of Sociéte Audubon Haiti, speaking with interested locals at La Visite about the petrel. Photo: J. Goetz, 2008.
+
+4 
+
+singly or in small groups, often with other species. Like all procellarids, the Black-capped Petrel is highly pelagic, coming to land only to breed.
+All three known breeding locations on Hispaniola are
+above 1500 meters elevation, on slopes and cliff faces in open- canopy highland broadleaf or pine forest and where there
+are rock crevices, small solution caves, rock talus or enough soil for the birds to excavate nest burrows. Vocalizations in breeding areas, timing of molt at sea, and historical observal tions suggest that Black-capped Petrels arrive at breeding areas as early as October to begin to select nest sites and to make noisy and conspicuous courtship flights. Vocalizations have been documented to occur through February, with late season calls probably including those of pre-breeders and prospecting birds.
+
+Black-capped Petrel females lay a single egg which both parents take turns to incubate. Although specific breeding information is lacking for Black-capped petrels, in the closely- related Cahow, incubation is between 47 and 62 days, and the nestling stage requires another 80 to 110 days to complete, depending on food supply (Madeiros et al. in press). Birds probably begin breeding between their 4th and 6th year, likely returning to natal sites to breed. In long-lived seabirds such as the Black-capped Petrel (with a lifespan likely up to 40 years), high adult survival rates compensate for low reproductive
+rates and are critical to persistence of the species.
+
+Species Functions AndValues
+Information on the Black-capped Petrel’s functions and values in the ecosystem or within human society is limited.
+
+
+Table 1: Summary of habitat status and threats1 to Black-capped Petrel at known and
+potential breeding locations
+
+Estimated
+percent of             Extent
+Official/de facto        known breeding      of forest          Habitat           Invasive        Towers/       Direct
+Location               Protection Status           population             (km2)               loss             mammals        Lights        harvest      Fires
+
+Confirmed breeding locations
+
+Macaya, Haiti               Park/open access                   5%                      20                    3                      4?                   0                 0               4 (n=600-2000
+pairs)
+
+La Visite, Haiti             Park/open access                  90%                    <2.3                  5                      4?                   0                 1               3 (n=600-2000
+pairs)
+
+Loma del Toro,             Park/protected                        5%                     >20                   0                      4?                  4?                0               2
+Dominican                                                     (n=600-2000
+Republic                                                              pairs)
+
+Historical and unconfirmed locations2
+
+Mountainous areas of Dominica
+Parks/protected                                                  ~98                   0                      4?                   0                 0               0
+
+Valle Nuevo, Dominican Republic
+Park/protected                                                   >20                   2                      4?                   4                 0               1
+
+Sierra Maestra, Cuba
+Park/protected                                                   >20                   0                      4?                   0                 0               0
+
+1       Threat  estimate  codes: 0=no  significant  threat;  1 to 5= low to extremely  high. ?=uncertain  estimate;  blank  cells = insufficient data for estimate.
+2       The high level of uncertainty surrounding Black-capped Petrel distribution  precludes including  other historical or unconfirmed  locations.
+
+
+
+
+5 
+CONSERVATION ACTION PLAN FOR THE BLACK- CAPPED PETREL
+
+
+
+Moreover, current petrel abundance may be too low for funcl tions or values to be expressed.
+
+Cultural/Religious
+Local names, diablotín (‘little devil’) and bruja (‘witch’), suggest supernatural  beliefs associated with the Black-capped Petrel, likely resulting from the species’ habit of calling in the dark of night. The effects of these beliefs in the past, howl ever, as well as their persistence in the present day, are poorly documented.
+
+Socio-economic
+Although the Black-capped Petrel was once an imporl tant source of subsistence (food and fuel) for human island inhabitants, and is still harvested opportunistically in Haiti (Wingate 1964, J. Goetz, unpublished data), it is unlikely that the small petrel populations that exist today continue to be a significant resource for local people.
+The species has a non-extractive economic value to birders, who value sighting the Black-capped Petrel in part due to
+its rarity. For example, pelagic bird tour operators in the southeast U.S. specifically target this species on their tours. Difficult access to known breeding locations currently limits birding opportunities and potential economic benefit derived from birders visiting the Caribbean.
+
+Ecological
+No data on ecological function of the Black-capped Petrel is available. Although rarity may currently reduce or preclude
+a significant role, seabirds such as the Black-capped Petrel that build burrows, nest in high densities and feed at high trophic levels (which increases nitrogen content in deposited feces), can significantly affect the physical and chemical qualities of island soil and vegetation (Smith et al. 2011, Holdaway et al.
+2007).
+Conservation And Legal Status
+The Black-capped Petrel is internationally recognized as
+a species of high conservation concern. It is listed as Endanl gered on the IUCN Red List (Birdlife International 2011), ranked as Highly Imperiled in the Western Hemisphere in the North American Waterbird Conservation Plan (Kushlan et
+al. 2002), designated Red on Watchlist 2007 (Audubon/ABC
+2007) and considered a Caribbean At-Risk Species (Bradley and Norton 2008).
+The range of the Black-capped Petrel overlaps several counl tries and falls under the jurisdiction of multiple entities in some, if not all, countries. Appendix A details the legal status of the species under national and international conservation instruments. There are a variety of instruments which nomil nally protect the Black-capped Petrel or its habitat. However, the strength of any instrument depends upon its scope, coml prehensiveness and enforcement, and actual strength is often low. Moreover, there are a number of important national
+and international instruments that could yield conservation benefits for Black-capped Petrel, but for which the species is not yet listed.
+
+Threats Assessment
+Black-capped Petrels face numerous known threats on land and at sea, although additional research is needed to fully understand their impact. At breeding locations, threats include loss and degradation of forest habitat, predation by introduced mammalian predators, harvest by local people, collisions with communication towers, and climate change effects. Potential and emerging threats at sea include impacts from fisheries by-catch, collisions with wind farm structures and oil platforms, oil spills affecting foraging areas and clil
+mate change effects. Threats at sea are discussed further in the
+
+Collecting firewood at La Visite. Photo: J. Goetz, 2009.                                              Forest converted to pasture at La Visite. Photo: J. Goetz, 2009.
+
+
+6 
+
+
+Since 2006, several escaped agricultural fires have burned to the top of Pic Ma- caya, killing many of the towering pines on the summit. Strong natural regrowth is underway, but the forest needs protection from wildfires to mature. Photo: J. Goetz, 2010
+
+Account for At-Sea Range. Overall the most pressing threats to the Black-capped Petrel appear to be at breeding locations. The primary threats are deforestation to expand agriculture and, very likely, predation by invasive mammals. The nature and extent of these threats are different at each breeding local tion. This section describes the nature of each threat in detail; particular features and the extent of each threat are given in range state accounts.
+Climate change is likely to significantly affect the envil ronment in the Caribbean through 1) sea level rise, causing saline intrusion into freshwater aquifers, coastal flooding and erosion; 2) higher temperatures, increasing heat stress, coral bleaching, biodiversity loss, and vector borne disease;
+3) changes in rainfall patterns, causing droughts, floods, and reduced fresh water availability; 4) increased intensity of hurricane and other storm activity, causing direct daml age of infrastructure and habitat, and declines of human and/or wildlife populations (NAST 2000). Impacts specific to Black-capped Petrels and their terrestrial habitat could
+include changes in habitat suitability, washing out of burrows, increased inland strandings due to storm events, and increased risk from vector-borne disease.
+
+Loss and Degradation of Critical Forest Habitat
+The most pressing threat to breeding Black-capped Petrel is loss and degradation of forested areas in which adult
+petrels locate or excavate nest burrows. Since colonization by Europeans, much of the original breeding habitat has been cleared for agriculture or other uses. Practices that degrade habitat include clearing and degradation of forest to expand agriculture and pasture, charcoal production, lumber for construction, and extraction of non-timber forest products
+(epiphytes, tree ferns and moss for the orchid trade) (Goetz
+2009). Additionally, fires set to clear land or started by lightning strikes endanger forest habitat. Fires that occur during incubation can be fatal to adults and chicks.
+The habitat requirements of Black-capped Petrels are unl certain. It is unknown if current locations are marginal parts of their former range or if these are preferred habitat. It could be that the species selects steep slopes and cliffs because they
+are good congregation areas that provide suitable nesting sites, or that the petrels choose these locations because the cliffs
+offer protection from some current threats such as mongoose or feral cats. If predator avoidance better explains habitat preference, then it may be possible to find or establish populal tions at lower elevations. In other words, searches for breeding locations and consideration of areas to establish new breeding locations should take this uncertainty into account.
+
+Introduced Mammalian Predators
+Introduced mammals are one of the principal causes of extirpation of island seabird populations worldwide. Likely, the species with the most negative impact on breeding popul lations of Black-capped Petrel are rats and feral cats. Both are abundant at all known Black-capped Petrel breeding local tions (Wingate 1964, Woods 1986, Rimmer et al. 2010).
+The current impact of these predators on breeding petrels is unknown. However in other petrel species, predation causes significant nest failure and fledgling and adult mortality. Del renne and Mougin (1976) suggest that feral cats were responl sible for the local extinction of ten petrel species in the Crozet Islands.
+Mongoose, pigs and dogs are implicated in the extirpation of the Jamaican Petrel (Pterdroma caribbaea; Douglas 2000). These species appear to be rare at known Black-capped Petrel breeding locations (Wingate 1964, J. Goetz, unpublished data). However, they are all able predators of adults and thus even at low densities could have a large impact on breeding petrel populations.
+
+Rat photographed by an automatic camera at the entrance of the petrel nest discovered by members of Grupo Jaragua in 2010.
+
+7 
+CONSERVATION ACTION PLAN FOR THE BLACK- CAPPED PETREL
+
+
+
+Communication Towers and Lights
+During nightly courtship flights, Black-capped Petrels fly in groups at high speed at varying heights, often just a few meters above tree-level. This makes them highly vulnerable to fatal collisions with communication towers or the guy wires used to stabilize them on high mountain ridges at breeding locations. Lighting of the towers can attract petrels and inl crease risk of fatal collision. Towers topped with a flashing red light pose a lower threat to birds flying at night (Longcore et al. 2008), but at some Black-capped Petrel breeding sites such as Loma del Toro, towers are fitted with bright white lights at the base to assist guards with security surveillance.
+Moreover, based on studies of the Bermuda Petrel, bright lights may also pose a threat by discouraging courtship activl ity or new nest prospecting at sites close to the lighted areas.
+At some towers, security guards maintain an open fire throughout the night for warmth and light, which may pose a fatal attraction to petrels. This practice has the additional impact of forest clearing and a greatly increased danger of forest fires. Finally, guards often have multiple dogs on site
+that serve as sentries and are free to roam at night. These dogs could prey on petrel adults or nestlings.
+
+Consumption by Humans
+Direct consumption by humans is implicated in the extirl pation of Black-capped Petrel on Martinique and Guadeloupe (Lee 2000). Wingate (1964) reported that locals would light campfires on cliff tops at La Visite in Haiti during Black- capped Petrel breeding season. Fires and other bright lights appear to disorient the petrels, causing them to crash to the ground. Locals at that site recently reported that they used to harvest “petrels by the sackful”, but that this method was no longer common. People also harvest petrel chicks and adults from nest burrows if they encounter them when clearing forl est. Estimates of take are difficult to obtain in interviews with locals. It appears that harvest of petrels still occurs, but is curl rently more opportunistic than planned (Goetz unpublished data).
+
+Current Management Actions
+Currently the Black-capped Petrel is not the object of concerted management efforts, largely because of a lack of information about the precise nature and extent of threats
+at breeding locations, and also because few actual nests have been found. There is however, broad consensus that its high montane forest habitat is important for conservation.
+Most of the known or potential breeding locations for the species have been designated as Important Bird Areas (IBAs; Birdlife International 2008). In the case of the known breedl ing locations near the Haitian-Dominican border and potenl tial location in Cuba, the presence of Black-capped Petrels
+This brightly-lit cell phone tower is within 30 m from the cliff where petrels breed at Loma del Toro, Dominican Republic.The lights are likely to attract petrels to this tower, and two nearby guyed towers, creating a fatal threat to breeding petrels at this site. Photo: Goetz, 2009
+
+
+triggered IBA status. The Declaración de Santo Domingo: Corredor Biológico del Caribe signed by the Dominican Rel public, Haiti and Cuba in 2007 acknowledges the importance of a cohesive environmental policy for its mountain ranges in order to preserve biodiversity and to integrate communities into a harmonious development with nature. The declaral
+tion provides a framework for international collaboration and the 2010 action plan specifically targets Black-capped Petrel conservation issues.
+Because of the ecological services and biodiversity provided by the montane forests of Hispaniola, there are a number of international treaty bodies and private foundations dedicated to supporting initiatives to address land degradation and wal tershed conservation. Although the petrel is not recognized as a conservation target in some of these current plans and projl
+ects, the species would enjoy significant benefits if the projects are successfully implemented. Drawing additional attention to the petrel and ensuring that forest conservationists are aware
+of its breeding locations and conservation status are important actions for the species.
+Several organizations have made petrel conservation an institutional priority, especially in recent years, but dedicated staff and funding sources have been lacking. Specifically, several Hispaniolan non-governmental organizations have demonstrated increasing interest in petrel conservation, and this planning process may help attract the support needed to sustain that interest.
+Although the Black-capped Petrel has not been the focus of population management  actions, several closely related
+
+8 
+
+Figure 2:  Known Hispaniolan breeding locations  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breeding Locations
+
+Breeding
+Location
+Surrounding
+Park Name
+Mountain
+Range
+
+
+
+
+
+species offer pertinent management examples. In particular, the Cahow has made a remarkable recovery from 18 pairs in
+1951 to almost 100 pairs today, in part because of intensive
+Macaya
+
+La Visite
+
+Loma del Toro
+Parc National Pic Macaya
+
+Parc National La Visite
+
+Parque Nacional
+Sierra de Bahoruco
+Massif de la Hotte
+
+Massif de la Selle1
+
+Sierra de
+Bahoruco1
+management at artificial nests. Conservationists restored nestl ing habitat on Nonsuch Island, and implemented a transloca- tion program to re-establish the long-extirpated colony there, which has been successful in attracting dozens of breeding birds. Other petrel management expertise has been developed in support of the Hawaiian Petrel and the Magenta Petrel, much of which is shared by the Gadfly Petrel Conservation Group, moderated by BirdLife International.
+
+Accounts Ior Range States witK Known or
+Potential Breeding Populations
+HAITI
+Historical Information and Recent Observations
+Massif de la Selle
+The sparse historical record of Black-capped Petrel in Haiti leading up to Wingate’s 1963 discovery of petrels breeding
+on Massif de La Selle is characterized by sporadic reports of individual birds and is detailed by Wingate (1964), Woods and Ottenwalder (1986) and Lee (2000).
+In the course of his fieldwork in Haiti, Wingate (1964) discovered 11 breeding sites on the forested cliffs of Massif de la Selle, in southeast Haiti, estimating each site to contain at
+1 Massif de la Selle and Sierra de Bahoruco are part of the same
+geological formation that spans the Haitian-Dominican  border.
+
+
+
+least 50 birds. All sites were between 1,500 m and 2,000 m ell evation. In 1982 Woods and Ottenwalder (1983) re-surveyed the five western-most  of Wingate’s Massif de la Selle sites that fell within the proposed boundaries for La Visite National
+Park. Although a lack of familiarity with Wingate’s estimation techniques made it “impossible to estimate numbers and acl curately compare current population densities with Wingate’s estimate of 50 pairs per colony,” they suggested that to the extent that estimation results were comparable, populations may have decreased by 40% at those sites since Wingate’s
+1963 observations.
+In 2005, Rimmer et al. (2010) visited the western-most section of Massif de la Selle at La Visite on two nights and heard vocalizations of at least four birds. Expedition teams led by Goetz (2009) visited the Wingate’s survey area three
+times between January 2008 and February 2009, covering 13 km of the escarpment from the westernmost point at Pic La Visite, to an area east of Tet Blokòs. On each trip they found multiple aggregations of vocalizing petrels, some of which
+
+
+9 
+CONSERVATION ACTION PLAN FOR THE BLACK- CAPPED PETREL
+
+
+
+Clearing for agriculture along the border between Haiti and the Dominican Republic (foreground), near Loma del Toro. Photo: Goetz, 2009
+
+
+they estimated to contain dozens of birds. They captured two birds in mist nets and two birds that landed on the ground, possibly attracted by the light of a headlamp. The 20 km escarpment from the easternmost point that Goetz surveyed
+in 2009 to Pic La Selle (N 18.360º, W 71.975º) has not been surveyed.
+In 1963 Wingate surveyed near Pic La Selle and detected petrels at two of six sites. No researchers have surveyed the
+25 km topographically complex section between Pic La Selle and the Loma del Toro escarpment, which is <1 km from the Haitian-Dominican border.
+
+Massif de la Hotte
+In 1984, Paryski and Woods located a petrel breeding
+site on the south slope of Pic Macaya, Massif de la Hotte, in southwest Haiti, and reported a possible second site on the northwest face of adjacent Pic Formon that lies just to the south of Pic Macaya. Both sites are within the limits prol posed for Pic Macaya National Park (Woods and Ottenwalder
+1986). Rimmer et al. (2006) visited Pic Formon in early February 2006 and observed two Black-capped Petrels flying over, one of them vocalizing. In December 2010 a team of researchers spotlighted  six birds flying and vocalizing on the south slope of Macaya (Goetz unpublished data).
+
+Current Threats and Management Actions
+In addition to its importance  as a breeding site for Black- capped Petrel, Massif de la Selle escarpment is an important area for biodiversity conservation. In their stewardship plan for the national parks of Haiti, Woods and Harris (1985)
+recommended the north-facing escarpment at La Visite as a core zone of Parc National La Visite because of its high endemism, scenic view, and water catchment capacity. The escarpment was included in the Aux Diablotins Important Bird Area (IBA) identified by Birdlife International (2008), with the presence of Black-capped Petrels serving as an IBA trigger. Recently, the escarpment was included in the Massif de la Selle Key Biodiversity Area (CEPF 2010).
+Formal park management of La Visite is all but non-exisl tent, though there has been private investment and sponsorl ship of conservation activities to build stewardship among local communities,  especially in the wake of earthquake. The surrounding areas have been severely impacted  by clearing for
+agriculture. The remnant broadleaf forest on the escarpment is a <2.3 km2 strip that is 7 km long and ranges from 40-500 m wide (Goetz 2009).
+Massif de la Hotte has also been designated as a priority for conservation action. The massif is largely encompassed by the Parc National Macaya, which although declared in 1983, has no legal definition of its boundaries. The area is a Key Biodil versity Area (CEPF 2010), and it is also with in a UNESCO Biosphere Reserve. The forested areas of Macaya are much larger and in better condition than at LaVisite, but still greatly threatened as management  capacity is very low. The cliffs with wet broadleaf forest generally escape burning, but fires from agricultural clearing remain a great risk. In fact, the southwest slope of Macaya burned up to the peak in 2006 and 2008 (Goetz unpublished data).
+
+
+
+10 
+
+DominiCAn RePuBliC
+Historical Information and Recent Observations
+Sierra de Bahoruco
+Historical evidence of Black-capped Petrel in the Dol minican Republic is limited. There are scattered reports from the first half of the 20th century, and in 1981, Wingate and others discovered an estimated 40 to 50 breeding pairs at an escarpment referred to as Loma del Toro (Woods and Otl tenwalder 1983, van Halewyn and Norton 1984). Loma del Toro is within the Sierra de Bahoruco, the name of the eastern portion of a continuous karst ridge that spans the southern Haitian-Dominican border (the Haitian portion is the Massif de la Selle).
+Over the course of one week in 2001, Simons et al. (2002) surveyed and nest-searched several kilometers of the cliff at Loma del Toro. They found only one active nest, but suggested that the level of vocalizations heard was consistent with a popul lation of about 200 breeding pairs based on their experience.
+In January 2009, researchers systematically surveyed several kilometers of the cliff and detected only “a handful of birds” at any one survey location (Goetz 2009). Based on these surveys, it appears that the birds are found predominantly at the Loma del Toro cliff that extends approximately 8 km southeast from Loma de Toro at an elevation of 2200 m, in an area domil nated by Hispaniolan pine. The terrain is rocky and the soil is generally shallow, so abundance  of breeding birds there may be largely limited by crevices in the cliffs that are appropriate for nesting petrels (Simons et al. 2002, Goetz, unpublished data).
+A number of reports point to the possibility of breeding Black-capped Petrels in other locations in the Dominican Republic. Parque Nacional Valle Nuevo in the Central Cordillera may provide suitable nesting habitat for Black-
+
+Dominican biologist Esteban Garrido, of Grupo Jaragua, near petrel nesting grounds in Parque Nacional  Sierra de Bahoruco. Photo: J. Goetz, 2009.
+
+capped Petrels. Eladio Fernández (pers. comm.) found a downed bird there during the 2010/2011 survey, although researchers did not detect petrels there in February or March
+2009 (Goetz 2009) or February 2011 (Goetz unpublished data.). In July 1977, there were unconfirmed reports of petrels nesting in the Cabo Falso cliffs on the Península de Barahona, and a small group of petrels were observed flying off the northeast point of Isla Beata. In October 1978, three birds were seen flying northeast near Alto Velo Island, which does have cliff faces similar to those that support petrel nesting sites (Wiley and Ottenwalder 1990).
+
+Current Threats and Management Actions
+Parque Nacional Sierra de Bahoruco, was created in 1983 and current management capacity is modest. Threats to the park include illegal use of timber and other forest resources. Fires in the pine forest can occur naturally, but many of them are started deliberately and their increased frequency
+has detrimental effects on vegetation cover and composition. Charcoal is the main cooking fuel in Haiti and the demand for its production greatly affects the area of the park along the Haitian-Dominican border. The advancing agricultural fronl tier has severely degraded the region once covered by humid forest. Both subsistence and commercial cultivation for short cycle produce such as potatoes and onions have cleared large extensions of this forest and continue to threaten what is left.
+Parque Nacional Sierra de Bahoruco is within an IBA (Birdlife International 2008) and is also a Key Biodiversity Area (CEPF 2010). The park is also one of the three core zones of the Jaragua-Bahoruco-Enriquillo Biosphere Reserve, which includes protected and unprotected properties. Activil ties in the reserve include research, conservation, recreation and ecotourism.
+In recent years, park infrastructure, park-guard training, and other conservation activities have improved significantly due to the efforts of the Dominican government  as well as local and international conservation organizations. New facilities for park-guards and forest rangers were built in Loma Charco Azul, in Zapoten and on the southern slope near the entrance to the park. A watch tower for fire control was erected on Loma del Toro, which is an important aid for spotting fires quickly. However, this new tall structure along
+with the already existing communication  towers may actually create a hazard for flying petrels.
+Although the infrastructure of Parque Nacional Sierra de Bahoruco has improved significantly, the chronic under- staffing of personnel, communication hurdles between the different stations, and lack of adequate transportation conl tinue to trouble park administration.
+
+
+
+
+11 
+CONSERVATION ACTION PLAN FOR THE BLACK- CAPPED PETREL
+
+
+
+Figure 3: extirpated or unconfirPed breeding
+locations in the Lesser Antilles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MArTINIquE
+Historical Information and Recent Observations
+Black-capped Petrels historically bred on this island (Bond
+1956), but were likely extirpated in the pre-Columbian era due to harvest by Carib Indians (Pinchon 1967, van Halewyn and Norton 1984), although there is some evidence they may have persisted into the 1800s (Wetmore 1952). There are no records of Black-capped Petrels breeding on Martinique in the twentieth century.
+
+Current Threats and Management Actions
+There are no management actions currently underway for Black-capped Petrels in Martinique, since there is no conl firmed breeding population. Martinique may have suitable areas for petrel breeding; it contains some of the best forest remaining in the Caribbean, in tracts of up to 9,000 ha.
+
+GuADELOuPE
+Historical Information and Recent Observations
+Black-capped petrels were common on Guadeloupe in the early nineteenth century (van Halewyn and Norton 1984, Lee
+2000). Early accounts indicate that this bird was heavily exl ploited for food. The loss of breeding habitat due to an 1847 earthquake may have led to extirpation or vast reduction in numbers (Lawrence 1891); if it persisted, its demise may have been accelerated from predation by the Indian mongoose in the 1880s (Hoagland et al. 1989).
+Black-capped Petrels have been sighted off-shore in recent years, but did not exhibit behavior suggestive of nearby breedl ing locations. From 2001 to 2007, a coastal observer program on the island of Petite-Terre in the Guadeloupe archipelago
+documented ten Black-capped Petrels between the islands of Désirade and Marie-Galante (Levesque and Yesou 2005, Levesque pers. comm., 2011). During this same period, 16 more gadfly petrels were observed that were thought likely to be Black-capped Petrels.
+
+Current Threats and Management Actions
+There are no management actions currently underway for Black-capped Petrels in Guadeloupe, since there is no conl firmed breeding population. There are high-altitude forests still intact on the western island of Basse Terre, though introl duced mammals are present (Birdlife International 2008)
+
+DOMINICA
+Historical Information and Recent Observations
+Black-capped Petrels were likely numerous in the early to mid-nineteenth century (Lawrence 1878, van Halewyn and Norton 1984), perhaps into the latter half of the century (Bent 1922).
+As on the other Lesser Antilles islands, the Black-capped Petrel was heavily harvested by humans and numbers declined sharply. In 1977 there were unverified records of the species at Morne Diablotin (Halewijn and Norton 1984). In November
+1984, two birds were heard and seen flying at Petit Coulibri in the direction of Morne Vert in southern Dominica (Evans and James 1997).
+Collier et al. (2003) conducted call-playback searches on Morne Fou, part of the Petit Coulibri Estate, in January 2002, but found no petrels. However, they spoke with a fisherman who heard vocalizations while fishing at night below Morne Fou, and with two other individuals who reported seeing a petrel in the mountains of the Grand Bay area. In May 2007, an adult female Black-capped Petrel with a clear brood patch
+
+
+Domenica may still harbor a breeding population of Black-capped Petrels. Photo: Martha Boston
+
+12 
+
+was found by Vincent Theophile in an area known as Padu
+at the entrance to Trafalgar Village (James pers. comm.). The mountain closest to the location of collected bird is Morne Micotrin, just above the village of Laudat, which is above the village of Trafalgar. The specimen was preserved by David Wingate and is stored at the Forestry and Wildlife Division in Roseau. Environmental Protection in the Caribbean (EPIC) staff visited Morne Micotrin in October 2009 to scout for potential petrel nesting habitat, but found that the thick
+cloud forest made searching difficult.
+In February and July 2010, near-shore searches using fish oil as an attractant were conducted by EPIC’s Katharine Lowrie and David Lowrie, along with David Wingate, but were unsuccessful. The team did observe two individual birds likely to be Black-capped Petrels much farther offshore, one in February and one in May (Lowrie pers. comm.).
+
+Current Threats and Management Actions
+There may still be populations of Black-capped Petrels breeding on Dominica. As a result of successful conservation policy, 60% of the island is forested. The breeding female that was found in Dominica in 2007 was a few kilometers southwest of Morne Micotrin, one of the taller mountains within Morne Trois Pitons National Park, which is an Important Bird Area and has been an UNESCO World Heritage Site since 1997. The management of the park is strong, and there is little threat from agricultural expansion or volcanic activity. Morne Diablotin is also within a legally protected area, the Morne Diablotin National Park.
+
+CuBA
+Historical Information and Recent Observations
+In Cuba, the bird is regularly seen at sea, but there is only one unconfirmed report of a petrel nesting site on the island. There is no fossil record of the Black-capped Petrel in Cuba, although in 1973 a botanist reported a bird which matched the petrel description in Pico Suecia (Lee and Viña 1993).
+Garrido (1985) reported that breeding Black-capped Petrels were discovered by Nicasio Viña Bayes along the southern coastal slopes of Sierra Maestra in December 1976 but a nest site was never found. The report was from near “Las Brujas” between the Turquino and Bayamesa mountain ranges. Nearby, there is a stretch of southeast coastline of about 13 km where the birds are consistently heard late and very early in the year, during petrel breeding season (Viña Davila, pers. comm.). The inaccessibility of these places has hindered access by researchers and no further information is available.
+Just offshore at Punta Bruja, the species feeds in an area of upwelling. In 1977 Viña put to sea in a small boat and
+collected six Black-capped Petrels while the birds were flying towards the mountains from out at sea (Lee and Viña 1993). A single night of observations in January 1992 in the same area yielded birds vocalizing between dusk and dawn; again these birds appeared to be coming in from out at sea but no birds were seen or heard over land (Lee and Viña 1993).
+In February 2004, a group of biologists from the Centro Oriental de Ecosistemas y Biodiversidad (BIOECO), the Cornell Lab of Ornithology and the Field Museum along with Nicasio Viña Bayes visited off the coast of Parque Nacional La Bayamesa. Results of the visit included
+observations of around forty petrels on the water just offshore at dusk and after dark. Vocalizations indicated that some of
+the petrels flew ashore and up the steep mountainside towards the Sierra Maestra peaks. Cuban ornithologists also visited
+this coastal area on 26 January 2006, but the lack of trails and roads made accessibility a significant obstacle to searchers. A search of Pico Suecia for breeding sites in December 2006 yielded no results (Rodriguez, undated).
+
+Current Threats and Management Actions
+BIOECO, a Cuban research center, has identified two locations that seem to provide habitat appropriate for breeding petrels. The two sites are within the borders of Pico Turquino and La Bayamesa National Parks. Both parks are
+recognized for their importance to birds, including the Black- capped Petrel (they are collectively designated  as an IBA, Birdlife International 2008); they have active management plans, focused on protecting biodiversity; and neither is subject to high human pressure, though threats do exist.
+If petrels are breeding in Cuba, three large-scale projects currently underway may aid their conservation. One is a collaborative project with BIOECO started in 2002 to build local capacity among young scientist and conservation groups across Cuba. Awareness and international collaboration is being furthered under the Declaración de Santo Domingo: Corredor Biológico del Caribe, discussed previously. Finally, the Global Environmental Facility project Enhancing prevention, control, and management of Invasive Alien Species in vulnerable ecosystems in Cuba could reduce the impact of invasive species.
+
+JAMAICA
+Historical Information and Recent Observations
+The Jamaican Petrel (Pterodroma caribbaea), considered  a separate species from the Black-capped Petrel (following Brooke 2004) was last collected in 1879, after a drastic del cline in numbers through the 19th century, which may have resulted from the effects of introduced rats and mongooses (Raffaele et al. 1998). Several searches since the mid-1990s
+
+
+13 
+CONSERVATION ACTION PLAN FOR THE BLACK- CAPPED PETREL
+
+
+
+have failed to locate any birds, but nocturnal petrels are notol riously difficult to record, and it may conceivably occur elsel where in the Caribbean. The only confirmed nesting location was in the Blue and John Crow Mountains of eastern Jamaica, where nesting populations may persist (Douglas 2000).
+In November of 2009, a pelagic expedition aimed primarl ily at searching for the Jamaican Petrel was conducted as part of a larger work on genetics, geographic variation, and conl servation of Caribbean petrels (Shirihai et al. 2010). A total
+of 46 Black-capped Petrels were observed coming towards the island at during late afternoon and early evening. Some lingered at sea below the mountains as if waiting for darkness before flying inland, a behavior that suggests that they may
+be Jamaican breeders. The John Crow Mountains are considl ered the most likely breeding location, based on topography and vegetation.  As reported by Shirihai et al. (2010), only
+one other Black-capped Petrel has been reported in Jamaican waters, south of the island heading towards Morant Cays (Zonfrillo and Douglas 2000).
+
+Current Threats and Management Actions
+The historical threat of mongooses and rats in Jamaica persists today, and may be exacerbated by habitat degradation and loss, which has negatively impacted other avian species
+in the John Crow Mountains (JCDT 2005). Climate change may further impact habitat composition there and its suitabill ity for petrels.
+There are no management actions currently underway for Black-capped Petrels in Jamaica, since there is no confirmed breeding population. Habitat for potential nesting areas falling within the Blue Mountain and John Crow Mountains National Park, established in 1993, are managed by a local NGO, the Jamaica Conservation & Development Trust, through a delegation agreement with the Natural Resources Conservation Authority and a co-management agreement with the Forestry Department.
+
+Account For At-Sea (Foraging) range
+
+Historical Information and Recent Observations
+There is more known about the Black-capped Petrel’s marine ecology than its land ecology. This species is known to occur largely in tropical and subtropical waters in the western North Atlantic Ocean between 10º and 40º N (Haney 1987), however, there are scattered records farther north, ranging as far as western Europe. Black-capped Petrels have been sighted or heard during the breeding season (winter to late spring) throughout the Caribbean basin. Black-capped Petrels also occur in the Gulf of Mexico (Peake and Elwonger 1996) although not much is known about the species’ use of that
+region. More information may become available as a result
+of interest in seabird use of Gulf of Mexico waters due to the
+Deepwater Horizon oil spill in the summer of 2010.
+Beginning in the 1970s, observers realized that Black- capped Petrels were regular visitors to some offshore areas in the South Atlantic Bight (Lee 1984, 1986). Black-capped Petrels are the most numerous gadfly petrel off of North Carolina. Most are observed over deeper water, normally near the western edge of the Gulf Stream (Patteson and Brinkley
+2004). The Catalog of Northwest Atlantic Seabirds At Sea, a project overseen by Allan O’Connell with the U.S. Geological Survey, includes thousands of records of Black-capped Petrels collected between 1979 and 2006, and confirms that the western edge of the Gulf Stream near Cape Hatteras is a sigl nificant foraging area for the species during the non-breeding season.
+
+Current Threats and Management Actions
+Changes in Prey Resources
+Though the effects are difficult to document and quantify because of our poor understanding of the birds’ physiologil cal needs, marine resources have been undergoing dramatic changes in distribution and quantity in recent decades. This may have effects on productivity and survival of the Black- capped Petrel.
+
+Collisions at sea
+Bright lights, especially on foggy nights, are known to attract petrels and other nocturnal birds, and lighted facilities (e.g., wind turbines, oil rigs) might pose a collision threat for Black-capped Petrels at sea. Development  of oil extraction facilities along the edge of the U.S. continental shelf is a concern,  as petrels fly at high speeds, and collisions with oil- rigging would certainly be fatal (Lee and Socci 1989).
+Due to the highly pelagic nature of Black-capped Petrels and their near absence from continental shelf waters off the southeastern United States, it seems unlikely that offshore wind energy development will be detrimental to this species there. There is more concern about collisions at offshore wind energy developments within the Caribbean Basin, were they
+to be located near breeding areas where petrels are flying at elevation or if the offshore structures attract seabirds by conl centrating prey or increasing prey productivity.
+
+Oil Development
+Lee and Socci (1989) discussed the susceptibility of the Black-capped Petrel to oil pollution, but noted that little information is available because of the apparent lack of enl counters of tropical seabirds with oil spills. However, Holman (1952) found a Black-capped Petrel on a Connecticut beach
+
+
+
+14 
+
+in 1938 coated with oil and Haney (1987) reported small pieces of petroleum residue in the stomach of one petrel he examined. The habit of settling on the water while resting makes petrels vulnerable to contamination, as might their atl traction to surface-floating oils.
+Given that the South Atlantic Bight serves as the primary foraging region for the Black-capped Petrel during the non- breeding season, a major oil spill in that area could jeopardize the global population of the species. Currently there is a high probability that an exploratory test well will begin operation along the edge of the continental shelf off the Outer Banks of North Carolina; discovery and development of reserves there brings the threat of oil pollution.
+
+Pelagic Fishery Bycatch
+Black-capped Petrels are attracted to chum and probably also to fishery operations.  However, as surface feeders (Haney
+1987), they are unlikely candidates for bycatch in longline
+and pelagic gillnet fisheries, and their marine distribution liml its their vulnerability to inshore fisheries over the continental shelf. The U.S.’s National Marine Fisheries Service (NOAA Fisheries), through the authority of the Magnuson-Stevens Fishery Conservation and Management Act is required to
+track seabird bycatch, however, it is possible that Pterodroma bycatch has been missed, due to low coverage of the pelagic fishing fleet, observer workload and prioritization,  as well as significant species identification challenges.
+
+Climate change
+Predictions for climate change at the global and especially regional levels are highly uncertain. The Gulf Stream and its associated water masses in the western North Atlantic form a key foraging area for the Black-capped Petrel, and effects in that system (e.g., stoppage or reversal) would likely signifil cantly impact the species.
+
+
+The Premiere Explorer of Venice, La. stands by near a controlled burn of spilled oil from in the Deepwater Horizon/BP oil spill in the Gulf of Mexico. Photo by
+Petty Officer First Class J. Masson, 2010.
+
+
+
+15 
+CONSERVATION ACTION PLAN FOR THE BLACK- CAPPED PETREL
+
+
+
+Mercury Contamination
+Whaling, et al. (1980) examined total natural-source merl cury loads in marine birds collected off the North Carolina coast between 1979 and 1982 and found Black-capped Petrels to contain the elevated concentrations of natural mercury in their tissues that were 7 to 9 times higher than most of the
+27 species examined. The implications of these levels to the
+health of the Black-capped Petrel are unknown, but it raises concerns about increased exposure to mercury in the environl ment. Oil drilling and other activities in the Black-capped Petrel’s foraging areas would likely release mercury and other heavy metals from the bottom sediments and into the water column, upwellings, and food chain, and thus increase merl cury loads in petrels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16 
+Conservation Recommendations 
+
+
+
+ConserYation FraPeworN                                        Conservation Actions
+
+Vision: The Black-capped Petrel is flourishing throughout its historical range
+Goal: Ensure the long-term survival of a stable population of Black-capped Petrel whose conservation status has improved from Endangered to Near Threatened on the IUCN Red List
+Objectives:
+1. Effective management of critical on-land breeding locations, identification and mitigation of land-based threats, and discovery of additional breeding locations
+2. Effective management of critical at sea foraging locations, identification and mitigation of at-sea threats
+3. Develop methods to increase size and number of breeding locations, and implement projects, if warranted
+
+The planning horizon for the vision is long term (i.e., 25l
+50 years), whereas the planning horizon for the goal is shorter (i.e., 10-20 years). The three objectives are conceived as a comprehensive framework for conservation.
+
+Table 2 presents the outputs and actions developed for each Black-capped Petrel conservation objective.
+Foremost of the Black-capped Petrel conservation objecl tives is addressing the land-based portion of the petrel’s anl nual cycle. The health of the petrel population depends on its breeding success, which is likely the life stage at which mortall ity for adults and young is highest. To meet this objective,
+the conservation community must act quickly and decisively to halt the precipitous  loss of available habitat at the known nesting locations, as well as address other threats there. The forested escarpment at La Visite on Massif de la Selle, Haiti harbors the largest known breeding population. Local farmers are rapidly clearing this forest and converting it to agriculture. Securing that location is an extremely urgent conservation priority.
+The conservation future for petrels will be more secure if there are robust regional populations at more than the three currently confirmed locations, and if petrels are more broadly distributed across their historical range. Confirming presence of petrels at additional historical, and yet unconfirmed local tions is thus also a high near-term priority, because existence of additional sites beyond the three confirmed locations on Hispaniola may affect conservation action priorities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clearing for agriculture along steep slopes (foreground) near the known petrel nesting habitat of La Visite (background). Photo: J. Goetz, 2010.
+
+
+
+17 
+CONSERVATION ACTION PLAN FOR THE BLACK-CAPPED  PETREL
+
+
+
+Table 2: ConserYation $ctions Ior tKe BlacN capped Petrel (BCPe)
+
+oBjeCtive          outPut                     $Ction
+
+
+1. Effective management of critical on-land breeding locations identification
+and mitigation of
+1.A. reduce Existing Threats: Known threats of habitat loss predation and tower kills quantified prioritized and reduced
+I.$.i. I.$.ii.
+Maintain e[isting forest cover at known sites; incorporate petrel conservation into e[isting reforestation proMects
+$ssess which towers pose mortality threat; prioritize actions in accordance with assessment; develop mitigation measures such as reduced lighting re locating and co locating on e[isting towers to reduce number of structures
+land based tKreats                                                    I.$.iii.
+and discovery of additional breeding
+Identify key predators and predation levels; prioritize sites and
+predators; reduce predator impact on BCPE with traps or other predator control methods
+locations                                                                  I.$.iv.     Increase fire control measures and increase vigilance and enforcement
+
+
+I.B. Community                  I.B.i.      Conduct social research to understand human dependency and impact Involvement:                                   on BCPE forest habitat as well as potential direct impacts on BCPE Communities adMacent to                         populations
+known breeding sites are
+integrated in a participatory conservation process
+I. B.ii. I.B.iii.
+Create participatory management plans for sites with human impacts
+Work with communities to manage hunting pressures and or predation
+
+I.C. Breeding Distribution:  I.C.i.      Develop habitat model that accurately characterizes known nesting sites Nesting sites are known                         (e.g. with satellite images and spatially e[plicit modeling that accounts mapped and characterized                    for slope and vegetation cover)
+across the breeding range          I.C.i.      Identify potential nesting and restoration sites based on characterization
+I.C.ii.     Compare historical and potential BCPE nesting sites on Cuba Dominica Guadeloupe Hispaniola Jamaica Navassa etc. to known BCPE nesting characteristics and survey sites with most potential
+I.C.iii.     Develop and refine search methodologies for individual nests and nesting sites e.g. radar search dogs transmitters on birds caught at sea
+
+I.D. Knowledge:                  I.D.i.      Understand limiting factors and mortality drivers: quantify population
+$dditional factors that affect                   vital rates and create a demographic model conduct Population Viability population size structure and                  $nalysis
+vulnerability are identified         I.D.ii.     Determine whether BCPE is nest site limited through investigation of intra specific and inter specific competition at nest sites
+I.D.iii.    Investigate current and historical population structure using genetic studies esp. to determine unique populations
+I.D.iv.     $ssess prevalence and impact of parasites and or disease
+
+
+1.E. Management and           I.E.i.       Protected area boundaries defined legally and marked on the ground Policy: $ppropriate legal and     I.E.ii.      Where they do not e[ist develop and circulate area management plans policy protection                                 in appropriate languages
+I.E.iii.     Implement long term protection measures for e[panded breeding areas by elevating protected status or securing conservation concessions
+I.E.iv.     E[plore national legal protections for the species e.g. address the possibility of U.6. Endangered 6pecies $ct listing; provide international technical support for the process
+I.E.v.      E[plore international legal protections for the species e.g. inclusion in
+CM6 (see $ppendi[ $)
+
+
+
+18 
+
+Table 2: Conservation Actions for the Black-capped Petrel (BCPE)
+
+oBjECTivE          ouTPuT                     ACTion
+
+2. Effective                    2.A.At-Sea Surveys and      2.A.i.     Place transmitters on birds at nesting sites to understand at-sea management of            Seasonal Movements:                      movements; investigate differences in at-sea range in the breeding and critical at sea                Seasonal movements and at-                   non-breeding season
+foraging locations,
+identification and
+mitigation of at-sea threats
+sea range of BCPE understood  2.A.ii.
+
+
+
+2.A.iii.
+Continue compilation of at-sea sightings by U.S. Geological Survey and update other databases such as eBird; identify data gaps, e.g. winter surveys off Cape +atteras
+Collect information on at-sea sightings between Cuba and Jamaica
+2.A.iv.    Recruit fishermen, sailors, etc. to report sightings
+
+
+2.B.At-Sea Threats: At-sea threats and factors that affect population size identified
+and reduced
+2.B.i.
+2.B.ii.
+2.B.iii.
+
+2.B.iv.
+Identify prey and dynamics of prey base
+Investigate and if warranted, reduce fishery impacts on mortality Investigate marine lighting as a source of mortality, e.g. map locations of relevant platforms; develop mitigation for identified threats
+Assess risk posed by wind development in Caribbean areas
+
+
+J. Develop methods to increase size and number of breeding locations
+3.A. E[panded Breeding Locations: Available nesting habitat at known sites increased by doubling the area of suitable threat-free habitat and/or increasing density
+using artificial nests or other measures. Suitable threat-free habitat at the existing three sites doubled in area
+3.A.i.
+
+3.A.ii.
+3.A.iii.
+3.A.iv.
+Assess potential for habitat restoration to expand suitable habitat at
+Macaya, La Visite, and Loma del Toro
+Implement habitat restoration proMects at the three locations
+Monitor the regeneration and restoration of forest areas
+Use artificial nest burrows, playback attraction and/or translocation to expand current BCPE breeding sites
+
+3.B. new locations: 1ew       3.B.i. breeding locations established
+in a minimum of three new
+areas through translocation,     3.B.ii. artificial nests, attraction
+3.B.iii.
+
+3.B.iv.
+
+
+
+3.B.v.
+Identify new locations suitable for BCPE breeding
+(near existing breeding sites, or in completely new areas) based on habitat model from item I.C.i.
+Assess the feasibility of securing suitable habitat and establishing breeding sites in new locations
+Secure suitable habitat (managing and mitigating for threats) and implement long-term protection measures
+Install artificial nest burrows in the new areas and attract birds to nest (through spotlight attraction of adults and introduction to artificial nests, and also through translocation of pre-fledging young)
+Carry out late-provisioning studies at known nests to acquire data necessary for translocation applications
+
+
+JC. Management of              3.C.i.     Set in place long-term protection measures for the newly discovered
+new locations: 1ewly                        populations; develop area management plans if needed
+discovered or created sites       3.C.ii.    Manage land cover appropriately at each new colony, e.g. assess protected and expanded                       feasibility of tree planting or restoration to consolidate and expand
+habitat
+3.C.iii.   Manage for habitat and invasive predator threats at new and expanded breeding locations
+
+
+
+19 
+CONSERVATION ACTION PLAN FOR THE BLACK-CAPPED  PETREL
+
+
+
+Ongoing Planning and Implementation
+
+Many subject experts and representatives from known and potential range states collaborated to develop the conl servation Vision, Goal, Objectives, Outputs and Actions for the Black-capped Petrel. Appendix B details the planning process used to produce the contents of this document.
+This document is intended to be realistic and practical, and because it is international, to be sufficiently general to allow an easy transfer to national-scale planning. Detailed local strategies and projects, which identify lead parties and potential partners, must be developed and communicated regularly to international partners in order for this plan to succeed.
+Continued international engagement by partners throughout the known and potential range is critical to the conservation of the Black-capped Petrel. In particular, the continued participation by partners in the Dominican Rel public, Haiti, and other Caribbean islands will best inform conservation actions on those islands, and ultimately the evolution of this plan.
+
+
+Communication will be vital to the success of this plan and the International Black-capped Petrel Conservation Group, can provide a forum for partners to discuss ongoing activities and track the progress towards refining and achievl ing the goals in this plan. This group will operate under
+the auspices of the Society for the Conservation and Study of Caribbean Birds to take advantage of its international reach and influence. There are also opportunities  for synerl gies with other international working groups, such as the Bicknell’s Thrush International Working Group, focused on another species reliant on Hispaniolan montane forests, and the international Gadfly Petrel Conservation Group, focused on conserving all members of the genus Pterodroma and Pseudobulweria worldwide.
+
+
+
+
+
+
+
+
+
+Black-capped Petrel off the coast of
+1orth Carolina. Photo: G.Tepke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20 
+References 
+
+
+American Bird Conservancy (ABC) and Audubon, 2007.
+United States WatchList of Birds of Conservation Concern. www.abcbirds.org or www.audubon.org
+
+Bent, A. C. 1922. Life Histories of North American Petrels and Pelicans and Their Allies. Bulletin U.S. National Museum 121. 325 pp.
+
+Bond, J. 1982. Comments on Hispaniolan birds. Publ. Parque
+Zoologico Nacional, Zoodom 1:1-4.
+
+Birdlife International. 2008. Important Bird Areas in the
+Haney, J.C. 1987. Aspects of the pelagic ecology and behavior of
+the Black-capped Petrel (Pterodroma hasitata). Wilson Bulletin 99:
+153-168.
+
+Hoagland, D.B., G.R. Horst and C.W. Kilpatrick. 1989.
+Biogeography and population biology of the mongoose in the West Indies. Pp. 611-634 in Biogeography of the West Indies (C.A. Woods, ed). Sandhill Crane Press, Gainesville, Florida. 878 pp.
+
+Holdaway, R.N., Hawke, D. J., Hyatt, O. M., and Wood, G. C.
+
+Caribbean:  key sites for conservation. Cambridge, UK: BirdLife
+(2007). Stable isotopic (δ15
+N, δ
+13C) analysis of wood in trees
+International. (Birdlife Conservation  Series No. 15).
+
+BirdLife International. 2011. Important Bird Areas factsheet: Aux Diablotins. Accessed from http://www.birdlife.org on
+01/05/2011
+
+Bradley, P.E. and R.L. Norton. 2008. An Inventory of Breeding Seabirds of the Caribbean. University  Press of Florida. Gainesville, FL.
+
+Brooke, M. 2004. Albatrosses and Petrels across the World, Bird
+Families of the World. Oxford University Press Inc., New York.
+
+Collier, N., A.C. Brown and M. Hester. 2003. Searches for Seabird
+Breeding Colonies in the Lesser Antilles.  El Pitirre 15(3).
+
+Critical Ecosystem Partnership Fund (CEPF). 2010. Ecosystem Profile for the Caribbean Islands Biodiversity Hotspot. Prepared by Birdlife International. Final Report 15 January 2010. http://www.cepf.net/
+
+Derenne, P. & Mougin, J.L. (1976). Données écologiques sur les mammifères introduits de l’Ile aux Cochons, Archipel Crozet. Mammalia 40: 21–52.
+
+Douglas, Leo. 2000. Status of the Jamaican Petrel in the West Indies. Pp. 19-24 in Status and conservation of West Indian seabirds (E. A. Schreiber and D. S. Lee, eds.).
+
+Evans, P.G.H., and A. James. 1997. Dominica, nature island of the Caribbean: a guide to birdwatching. Ecosystems Ltd.
+
+Farnsworth, A., D.F. Stotz and L. O. Melian. 2005. Birds In Cuba: Parque Nacional L Bayamesa. Pp. 76-81, 143-147, 232-237
+in Rapid Inventory No. 13, ed. D. Maceira F. A. Fong, W. S. Alverson and T. Wachter. The Field Museum, Chicago.
+
+Garrido, O.H. 1985. Cuban Endangered Birds. Ornithological Monographs, No. 36, Neotropical Ornithology 992-999. University of California Press for the American Ornithologists’ Union.
+
+Goetz, J. E. 2009. Interim report on Black-capped Petrel field research on Hispaniola, 2008–2009. Unpublished report to U.S. Fish and Wildlife Service. Cornell Laboratory of  Ornithology, Ithaca, NY.  
+growing in past and present colonies of burrow-nesting seabirds
+in New Zealand. I. δ15N in two species of conifer (Podocarpaceae) from a mainland colony of Westland petrels (Procellaria westlandica), Punakaiki, South Island.  Journal of the Royal Society of New Zealand 37, 75-84.
+
+Holman, J.P. 1952. West Indian Black-capped Petrel, Pterodroma hasitata, picked up on Fairfield Beach, CT. Auk 69: 459-460.
+
+Harrison, P. 1983. Seabirds: an identification guide. Houghton- Mifflin, Boston, Massachusetts.
+
+Howell, S.N.G., and J.B. Patteson. 2008. A Swinhoe’s Petrel
+off North Carolina, USA, and a review of dark storm-petrel identification. Birding World 21:255–262.
+
+Jamaica Conservation & Development Trust (JCDT). 2005 Blue and John Crow Mountains National Park Management Plan
+2005-2010.
+
+J.A. Kushlan, Melanie J. Steinkamp, Katharine C. Parsons, Jack Capp, Martin Acosta Cruz, Malcolm Coulter, Ian Davidson, Loney Dickson, Naomi Edelson, Richard Elliot, R. Michael Erwin, Scott Hatch, Stephen Kress, Robert Milko, Steve Miller, Kyra Mills, Richard Paul, Roberto Phillips, Jorge E. Saliva, Bill Sydeman, John Trapp, Jennifer Wheeler, and Kent Wohl. 2002. Waterbird  Conservation for the Americas: The North American Waterbird Conservation Plan, Version 1. Waterbird Conservation for the Americas. Washington, DC, U.S.A.
+
+Lee, D.S. 1984. Petrels and storm-petrels in North Carolina’s offshore waters: including species previously unrecorded for North America. American Birds 38: 151-163.
+
+Lee, D.S. 1986. Seasonal distribution of marine birds in North
+Carolina waters, 1975-1986. American Birds 40(3): 409-412.
+
+Lee, D.S. 2000. Status and conservation priorities for Black-capped Petrels in the West Indies. Pp. 11-18 in Status and conservation of West Indian seabirds (E. A. Schreiber and D. S. Lee, eds.).
+
+Lee, D. S. and M. C. Socci. 1989. Potential effects of oil spills on seabirds and selected other oceanic vertebrates off the North Carolina coast. Occasional Papers of the North Carolina Biological Survey 1989-1. 64 pp.
+
+21 
+CONSERVATION ACTION PLAN FOR THE BLACK- CAPPED PETREL
+
+
+
+Lee and Viña. 1993. A Re-Evaluation  of the Status of the Endangered Black-capped Petrel, Pterodroma hasitata, in Cuba. Ornithologia Neotropical. 4:99-101.
+
+Lawrence, G.N. 1878. Catalougue of the birds of Dominica, from collections made for the Smithsonian Institute by Frederick A. Ober. Proceedings U.S. Nat. Mus., 1:48-69.
+
+Lawrence, G.N. 1891. Description of a new subspecies of Cypselidae
+of the genus Chaetura, with a note on the Diablotin. The Auk, vol. 8, p. 59.
+
+Levesque A. and Yésou P., 2005. The abundance of shearwaters and petrels off the Lesser Antilles: results from a Guadeloupe-based study, 2001-2004. North American Birds, 59(4): 672-677.
+
+Longcore, T., Rich, C. and S.A. Gauthreaux, Jr. 2008. Height, Guy Wires, and Steady-burning Lights Increase Hazard of Communication Towers to Nocturnal Migrants:  A Review and Meta-analysis. Auk 125(2):485-492.
+
+Madeiros, J., N. Carlile, and D. Priddel. In press. Breeding biology and population increase of the Endangered Bermuda Petrel Pterodroma cahow. Bird Conservation International.
+
+National Assessment Synthesis Team (NAST). 2000. Overview: Islands in the Caribbean and Pacific. Pp. 80-83 in Climate Change Impacts on the United States: The Potential Consequences
+of Climate Variability and Change. U.S. Global Change Research
+Program.
+
+Patteson, J.B. and E.S. Brinkley. 2004. A petrel primer: the gadflies of North Carolina. Birding 6:586-596.
+
+Peake, D.E. and M. Elwonger. 1996. A New Frontier: Pelagic
+Birding in the Gulf of Mexico. In Winging It, a publication of
+the American Birding Association. Volume 8, Number 1; January
+1996.
+
+Pinchon, R. 1967. Quelques  aspects de la nature aux antilles.
+Fort-de-France. 254 pp.
+
+Raffaele, H., J. Wiley, O.. Garrido, A. Keith, and J. Raffaele.
+2008. Birds of the West Indies. Princeton Field Guide. Princeton
+University Press, Princeton, NJ, USA.
+
+Rimmer, C.C, Goetz, J.E, Gomez, E.G, Brocca, J.L, Bayard, P, Hilaire, J.V. 2010. Avifaunal Surveys in La Visite National Park— Last Vestiges of Montane  Broadleaf Forest in Eastern Haiti. JCO
+23(1) 31-43.
+
+Rimmer, C.C., J.E. Goetz, E.G. Gomez, J.L. Brocca, P. Bayard, and J.V. Hilaire. 2006. Ornithological Field Investigations In Macaya Biosphere Reserve, Haiti, 2-10 February 2006. Vermont Institute of Natural Science Technical Report 06-04.
+
+Rodriguez, F. undated. Report by Eastern Ecosystem and
+Biodiversity Centre (BIOECO) to BirdLife International.
+Shirihai, H., V. Bretagnolle and D. Wege. 2010. Petrels of the Caribbean (the Jamaica Petrel pelagic expedition. A pelagic expedition off Jamaica, and off the islands of Guadeloupe and Dominica.) Web report on www.birdlife.org
+
+Simons, T., J. Gerwin, J. Collazo, and R. Hylton. 1999. Recent Sightings of Black-capped Petrels, by 31 December 2006. Chapter 6 from unpublished Simons et al. 2006 compendium prepared for USFWS.
+
+Simons, T., J. Collazo, D. Lee, and J. Gerwin. 2002. Conservation status of Black-capped Petrels (Pterodroma hasitata): colony surveys at Sierra de Bahoruco, Dominican Republic, January
+2002 by December 2002. Chapter 3 from unpublished Simons et al. 2006 compendium prepared for USFWS.
+
+Smith, J.L, and C.P.H. Mulder, and J.C. Ellis. 2011. Chapter 2: Seabirds as Ecosystem Engineers: Nutrient Inputs and Physical Disturbance in Mulder, CPH, WB Anderson, DR Towns, and
+PJ Bellingham (eds) 2011. Seabird Islands. Ecology, Invasion,  and
+Restoration, Oxford University Press.
+
+van Halewyn, R. and R.L. Norton. 1984. The status and conservation of seabirds in the Caribbean. Pp. 169-222 in Status and Conservation of the World’s Seabirds (Croxall, J. P., P. G. H. Evans and R. W. Schreiber, eds.). ICBP Technical Publication No. 2.
+
+Wetmore, A. 1952. A record for the Black-capped Petrel,
+Pterodroma hasitata, in Martinque. Auk 69: 460.
+
+Whaling, P., D. S. Lee, J. Bonaventura, and M. Rentzepis. 1980.
+The body burden approach of looking at natural mercury accumulations in pelagic seabirds. 1980 Annual Meeting American Ornithologist’s Union.
+
+Wingate, D.B. 1964. Discovery of breeding Black-capped Petrels on
+Hispaniola. Auk 81:147–159.
+
+Wiley, J.W., and J.A. Ottenwalder. 1990. Birds of Islas Beata and Alto Velo, Dominican Republic. Studies on Neotropical Fauna and Environment 25(2):65-88.
+
+Woods, C.A. and L. Harris. 1986. Stewardship Plan for the National
+Parks of Haiti. Report, USAID/Haiti. Port-au-Prince, 272 pp.
+
+Woods, C.A. and J.A. Ottenwalder. 1983. The montane avifauna of
+Haiti. Proceedings of the Jean Delacour/IFCB Symposium, pp.
+576-590, 607-622.
+
+Woods, C.A. and J.A. Ottenwalder. 1986. The Birds of Parc National La Visite and Parc National Pic Macaya, Haiti. Report, USAID Haiti. Port-au-Prince, 241 pp.
+
+Woods C. 1986. Mammals of the National Parks of Haiti. Prepared for USAID/Haiti under Contract Number 521-0169-C-00l
+3083-00.
+
+Zonfrillo, B. and L. Douglas. 2000. Scarce migrant birds in Jamaica.
+Birdlife Jamaica.
+
+
+
+22 
+APPENDIX A:  
+National And International Instruments 
+
+
+Table I: legal Status of Black-capped Petrels (BCPE) According to national instruments
+
+
+Actual degree
+BCPE or BCPE               of protection/ Nation                                    Legal Instrument and Status                                     Locations Covered?             enforcement
+
+Haiti
+
+
+
+
+Dominican
+Republic Cuba Dominica
+
+Guadeloupe/ Martinque
+
+Jamaica
+
+
+
+
+U•S•
+Decree on hunting and wild bird protection (Moniteur number 26, 1 April 1971), decree on national natural parks (Moniteur number 41, 23 June 1983)
+
+Environment and Natural Resources General Law (No.64l
+00) and sector- specific laws such as the Law of Protected
+Areas (No.202-04)
+
+La Ley 81 (1997) del Medio Ambiente and other laws, decrees, and resolutions that protect habitat.
+
+Forestry and Wildlife Act [Ch. 60:02, 1976], National Parks and Protected Areas Act [Ch. 42:02, 1975], and associated regulations
+
+Nature Protection Law 1976
+
+
+1945 Wildlife Protection Act, enhanced by many regulations,
+1991 Natural Resources Conservation Authority Act
+
+
+Migratory Bird Treaty Act
+
+U.S. Endangered Species Act
+
+Magnuson-Stevens Fishery Conservation and Management
+Act
+Yes, as a wild bird, and to the degree habitat is in protected areas
+
+Yes, to the degree habitat is in protected areas
+
+
+Yes, to the degree habitat is in the protected areas
+
+Yes, as a wild bird, and to the degree habitat is in protected areas
+
+Yes, to the degree habitat is in protected areas
+
+Yes, as a wild bird and
+the degree habitat is in protected areas
+
+Yes, as a wild bird
+
+Not included
+
+Yes, as subject  to bycatch
+Poor
+
+
+
+
+Fair
+
+
+
+
+Good
+
+
+Good
+
+
+
+
+Fair
+
+
+Fair
+
+
+
+
+Good N/A Poor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Photo: B, +ubick
+
+23 
+CONSERVATION ACTION PLAN FOR THE BLACK-CAPPED PETREL
+
+
+
+
+
+
+Table 2: International InstrumentsThat Include or Could Include Black-capped Petrel (BCPE)  
+
+
+
+Instrument
+
+Declaración de Santo Domingo: Corredor Biológico del Caribe
+BCPE or BCPE Locations
+Designated?          Haiti           DR              Cuba       Dominica
+
+Yes                                                   
+Guadeloupe / Martinique
+(France)     Jamaica           U•S•
+
+Protocol Concerning Specially Protected Areas and Wildlife to the Convention for the Protection and Development of the Marine Environment
+of the Wider Caribbean
+Region (SPAW Protocol to Cartagena Convention)
+No                                                                                                    n        
+
+Convention on International Trade in Endangered Species (CITES)
+No                                                                                                               
+
+Agreement on the                        No
+Conservation of
+Albatrosses and Petrels
+(ACAP)
+
+Convention on Migratory Species (CMS)
+No                                                                                                          n
+
+Convention on Biological Diversity (CBD)
+No                               n                                                                    n
+
+World Heritage
+Convention (WHC)
+One
+(Dominica)
+                                                                                        
+
+
+ = signed and ratified
+n = signed but not ratified
+
+
+
+
+
+
+
+
+
+24 
+APPENDIX B:  
+Planning Process And Acknowledgements 
+
+
+
+This document is the result of a collaborative effort by many people and the support of their organizations.
+
+Firstly, special recognition is due to Elena Babij, who
+launched the formation of the working group and the process to create this plan.
+
+Warmly acknowledged are the authors of sections of this document and those who provided written comments
+upon review: Verónica Anadón, Elena Babij, Marlon Beale, Nick Carlile, Natalia Collier, Chris Haney, Eduardo Iñigo- Elias, Arlington James, Ben Lascelles, David Lee, Anthony Levesque, Jeremy Madeiros, Nicasio Viña Davila, David Wege
+
+Appreciation is extended to all participants at the participatory workshops and informational meetings held during the planning process:
+
+Hatteras, North Carolina, U•S•
+(July 25, 2009): Elena Babij, Chris Haney, Jessica Hardesty- Norris, Wayne Irvin, Dave Lee, Will Mackin, Stefani
+Melvin, Britta Muiznieks, Brian Patteson, Ted Simons, Kate Sutherland, Marcel Van Tuinen, Jennifer Wheeler, David Wingate
+
+Jolly Beach, Antigua (July 18, 2009): Elena Babij,
+Jorge Brocca, Phillipe Feldman, Jim Goetz, Floyd Hayes, Jean Vilmond Hilaire, Matt Jeffery, Brad Keitt, Niels Larson, Anthony Levesque, Catherine and David Lowrie, Jeremy Madeiros, Stefani Melvin, Fernando Simal, Kirsty Swinnerton, Jennifer Wheeler
+
+Santo Domingo, Dominican Republic (November 2-4,
+2010): Abdel Abellard, Hodali Almonte, Maria Altagracia Camilo, Verónica Anadón, Hector Andujar, Hubert Askanas, Magalys Asunción,  Yves Aubry, Elena Babij, Philippe
+Bayard, Marlon Beale, Jorge Brocca, Frederic Bussiere, Greg
+Campbell, Ted Cheskey, Rob Crowley, Mildred Dawaria
+Méndez, Altagracia Espinosa, Kevin Fraser, Nelson Garcia, Jim Goetz, Jessica Hardesty-Norris, Paul Hamel, Pamela Hunt, Sixto Inchaustegui, Eduardo Iñigo-Elias, Esteban Garrido, Anderson Jean, Dolores Jimenez Feliz, Juan Klavins, Miguel Angel Landestoy, Steve Latta, Leonardo Liriano,
+Carol Lively, Rafael Lorenzo, Enold Louis-Jean, Evelyn Martinez, Kent McFarland, Dave Mehlman, Vinicio Mejia, Ricardo Miller, Celeste Mir, José Nuñez Mino, Alcides L. Morales Pérez, Ivan Mota, Nils Navarro, Robert Ortiz, Laura Perdomo, Len Reitsma, Angel Eduardo Reyes Vazquez, Chris Rimmer, Sesar Rodriguez, Andrew Rothman, Ernst Rupp, Judith Scarl, Cristian Simard, Domingo Siri, Becky Stewart, Carlos Suriel, Ann Sutton, Nicasio Viña, Kate Wallace, David Wege, Jennifer Wheeler, Becky Whittam
+
+Freeport, Grand Bahamas, Bahamas (July 25, 2011): Verónica Anadón, Yvonne Arias, Marlon Beale, Jorge Brocca, Natalia Collier, Boris Fabres, Esteban Garrido, Eduardo
+Iñigo-Elias, Matt Jeffrey, Brad Keitt, Adam Kent, Sara
+Lara, Mildred Méndez, Ricardo Miller, Nat Miller, Andrew Rothman, Bonnie Rusk, Ann Sutton, Kirsty Swinnerton, David Wege and Jennifer Wheeler
+
+Field crew on Pic Macaya summit. Photo: Goetz, 2009
+
+
+
+
+
+
+
+
+25 
+CONSERVATION ACTION PLAN FOR THE BLACK- CAPPED PETREL
+
+
+
+
+
+Finally, a thank-you to all members of the International Black-capped Petrel Conservation Group, the working group whose interest and activities will allow this plan to become a reality:
+
+Abdel Abellard, David Allen, Verónica Anadón, Yvonne Arias, Elena Babij, Phillipe Bayard, Marlon Beale, Patricia Bradley, Jorge Brocca, Adam Brown, Greg Budney, Chris Burney, Eric Carey, Jaime A. Collazo, Natalia Collier, Samson Compère, Edy Devalon, Adrian del Nevo, Dean Demarest, Becky Desjardins, Andrew Dobson, Leo Douglas, Stephen Durand, Judex Paul Edouarzin, Peter Evans, Jourdain Jean Fanfan, Philippe Feldmann, Eladio Fernandez, Cindy Fury, Lynn Gape, Esteban Garrido, John Gerwin, Jim Goetz, Walker Golder, Elie Guesly, Simon Guerrero, Chris Haney, Jessica Hardesty-Norris, Julie Hart, Jessie Haspil, Floyd Hayes, Geoff M. Hilton, Becky Hylton, Eduardo Iñigo-Elias, Arlington James, Anderson Jean, Matthew Jeffery, Patrick Jodice, Brad Keitt, Juan Klavins, Stephen Kress, James Kushlan, Niels Larsen, Steve Latta, David Lee, Anthony Levesque, Rafael Lorenzo, Enold Louis Jean, Will Mackin, Jeremy Madeiros, Herve Magnin, Meredith Manella, Eddie Massiah, David Mehlman, James Millett, Kenold Moreau, Lourdes Mugica, Robert Norton, Francisco Núñez, Mike Parr, Paul Paryski, Brian Patteson, Yves Robert Persona, Amarilis Polonia, Herb Raffaele, Chris Rimmer, Freddy Rodriguez Santana, Andrew Rothman, Ernesto Rupp, Jorge Saliva, Paul Scofield, Florence Sergile, Fernando Simal, Ted Simons, Lisa Sorenson, Brian L. Sullivan, Kate Sutherland, Ann Sutton, Joel Timyan, Ruud
+van Halewijn, Marcel Van Tuinen, Richard Veit, Nicasio
+Viña Bayes, Nicasio Viña Davila, Kate Wallace, David Wege, Jennifer Wheeler, David Wingate
+Petrel field biologists Enold Louis-Jean and Anderson Jean. Photo: Goetz, 2009
+
+
+
+
+James Goetz holding a petrel that landed near researchers during surveys. Photo: J. Goetz, 2008.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+American Bird Conservancy (ABC) is a 501(c)(3) not-for-profit membership organization whose mission is to conserve native birds and their habitats throughout the Americas. ABC acts by safeguarding the rarest species, conserving and restoring habitats, and reducing threats, while building capacity in the bird conservation movement.
+
+The Cornell Lab of Ornithology’s mission is to interpret and conserve the earth’s biological diversity through research, education, and citizen science focused on birds. www.birds.cornell.edu
+
+The U•S• Fish & Wildlife Service works with others to conserve, protect and enhance fish, wildlife, and plants and their habitats for the continuing benefit of the American people

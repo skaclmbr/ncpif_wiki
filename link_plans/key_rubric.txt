@@ -1,0 +1,47 @@
+Rubrick for developing key slugs
+
+Note that an individual entity may occur more than once in the list, but must have the same key! For example, Cooper's hawk may be listed as Cooper's hawk, coopers hawk, accipiter cooperii, but all of these terms should be associated with the same key value -> coopers-hawk.
+
+In General:
+-the key should be clear - use a slugified plain text version of the item when possible
+-the key should be hierarchical (elements should be from larger to smaller context). If done properly, sorting by key will be in a natural organization
+
+Organization:
+-slugify organization name: org-american-bird-conservancy
+-remove all punctuation
+
+Species:
+-slugify common name: spp-coopers-hawk = Cooper's hawk
+-remove all punctuation
+
+WAP Habitats:
+-slugify WAP Habitat + 1 letter region: 
+	Piedmont Dry Coniferous Woodlands = ncwap-hab-p-dry-coniferous-woodlands
+	Mountain Spruce Fir Forest = ncwap-hab-m-spruce-fir-forest
+-be sure to include region letter regardless of whether the habitat occurs in more than one region
+
+Other habitats: 
+-slugify habitat classification schema (NCGAP) + hab + region name
+	Coastal Plain Mixed Successional Forest = ncgap-hab-coastal-plain-mixed-successional-forest
+
+
+WAP Priorities:
+-slugify 'ncwap' + p-type + 'priority' + unique number:
+	"Focus survey priorities on species believed to be declining, at risk, or exclusively dependent on the rare spruce-fir forest communities (e;g; red crossbill, brown creeper, black-capped chickadee, rock vole, rock shrew, northern flying squirrel, Weller's salamander, pigmy  salamander);" , survey priority #1 = ncwap-pri-s-1
+
+SEGAP Habitats:
+-slugify 'segap' + habitat class : 
+	East Gulf Coastal Plain Maritime Forest = segap-east-gulf-coastal-plain-maritime-forest
+	
+WAP literature:
+-slugify 'ncwap' + 'lit' + 'last name**' + 'year'
+
+**if there is more than 2 authors, list last name of first author and add “et-al” else, if there are 2 authors “smith-and-anderson-2001”, else 1 author “anderson-2001”
+Also, if there is more than one smith-et-al-2001, you would put smith-et-al-2001a and smith-et-al-2001b
+
+Smith, W.P., H.E. Hunt, and W.K. Townley. 2001. A comparison of breeding bird communities and habitat features between old-growth and second-growth bottomland hardwood forest. U.S. Department of Agriculture, Forest Service, Southern Research Station, Asheville, NC. Gen. Tech. Rep. SRS 42.
+ 
+Would be “ncwap-lit-smith-et-al-2001”
+ 
+
+	

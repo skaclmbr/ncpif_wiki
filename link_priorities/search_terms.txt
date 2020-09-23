@@ -1,0 +1,11 @@
+search_term|WikiPage
+bird|Category:Bird
+waterbirds|Category:Waterbird
+shorebird|Category:Shorebird
+shorebirds|Category:Shorebird
+raptor|Category:Raptor
+songbird|Category:Songbird
+songbirds|Category:Songbird
+swallowtailed kite|Swallow-tailed Kite
+neotropical migrants|Category:Songbird
+BBS|Breeding Bird Survey

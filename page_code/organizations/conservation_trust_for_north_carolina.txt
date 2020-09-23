@@ -1,0 +1,20 @@
+{{CC Infobox|categorytype=Organization}}
+
+The [https://www.ctnc.org/ CTNC] Mission:
+
+    CTNC’s mission grows out of our expertise in land conservation, our skill in bringing new people to conservation, and our expanding network of partner organizations and communities. Brought together, these capabilities direct us to conserve land in ways that inspire and enable people to build resilient, just communities.
+
+CTNC implements our mission by seeking to:
+
+    *Conserve land in collaboration with communities,
+    *Use conservation to lessen the impacts of a changing climate, and
+    *Ensure conservation benefits everyone by being more inclusive and equitable.
+
+    In our envisioned future, North Carolina’s most important natural and cultural lands are permanently protected. If we are successful in following our values, we at CTNC believe we will contribute to a North Carolina where all communities share in the benefits of healthy lands.
+
+[[Category:Organization]]
+[[Category:Non-Government]]
+
+{{#set:
+ Has Geography=North Carolina
+}}

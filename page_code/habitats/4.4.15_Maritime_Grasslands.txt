@@ -1,0 +1,56 @@
+{{Habitat Page}}
+=Description=
+<p>Maritime grasslands all occur along the coast and are unable  to support trees because of heavy salt spray or overwash by saltwater during storms. This community includes four types: dune grass, maritime dry grassland, maritime wet grassland, and upper beach.
+*Dune grass communities occur on the line of foredunes just behind the active beach and on unstable sand dunes farther back on barrier islands. The loose, shifting sand with its low water holding capacity and low nutrient reserves makes these environments habitable by only a handful of specialized plant species. Sea oats grass is the dominant plant in most examples, with American beach grass dominating examples in the northern part of the state. Artificial dune stabilization by planting of grasses or placing snow fences modifies the natural dune structure and dynamics. The higher, more continuous artificial dunes are more susceptible to erosion on the front because there are no passages through which seawater can wash.
+*Maritime dry grassland communities occur on more stable sands in the interior of barrier islands. They may be on low, stable, old dunes, but are most typically found on sandy flats on low islands that lack continuous foredunes. Seawater overwashes the low islands during severe storms and kills any invading woody vegetation. The characteristic dominant grass in these communities is saltmeadow cordgrass, though Seaside Little Bluestem occurs in a few examples, and overall plant diversity is fairly low.
+*Maritime wet grasslands may occur on low sand flats or in dune swales at the water table level and are resilient to salt spray and overwash. Some examples may even be flooded for substantial periods. Saltmeadow cordgrass is generally dominant but a great diversity of other species is present.
+*The upper beach type is not technically a grassland, but is closely related to the other community types. It occurs above the mean high tide line behind the intertidal beach. The environment is very harsh for plants, with almost constant salt spray and with periodic flooding and reworking of sand during storms. A handful of mostly annual, salt-tolerant herbs occur as sparse patches and scattered individuals on the sand. Small mounds of sand may develop around the few perennial plants, such as sea oats and marsh elder, forming the beginnings of dunes.</p>
+<p>The 2005 WAP describes the mid-atlantic Coastal Plain beach/dune community as a priority habitat (see Chapter 5) (NCWRC 2005).</p>
+=Location of Habitat=
+<p>Maritime grasslands are located in the Coastal Plain ecoregion on barrier islands and Atlantic Ocean shore areas.</p>
+=Problems Affecting Habitats=
+<p>These communities are well adapted to overwash and this may or may not be harmful to them. It may reverse the artificial exclusion of overwash that has altered some examples, such as those on parts of Bodie and Hatteras islands and the Currituck Banks. Overwash is important for transporting sand to the back of barrier islands, allowing them to migrate landward with rising sea level. Increased erosion of foredunes and possible disappearance of whole barrier islands will substantially reduce acreage.</p><p>This group will likely shrink drastically in the near future. The most extensive examples occur on narrow barrier islands which are most likely to disappear or be substantially altered by erosion. Examples should survive where barrier islands are able to migrate. Examples should survive on larger, more stable, higher islands, and may migrate to higher elevations or expand there at the expense of maritime upland forest and maritime wetland forest. Much of the narrower part of the Outer Banks could disappear entirely (Riggs 2010). With the loss of area will come increased fragmentation, which is already a problem in smaller examples that are isolated by developed areas.</p><p>Barrier islands can be expected to migrate landward, if allowed to, and could survive if sea level does not rise too rapidly. The wider, more stable, and generally higher parts of barrier islands are likely to remain. Grassland communities will also shift and change as the result of increased storm activity and its associated erosion, increased salt spray, overwash, and saltwater intrusion. Increased coastal erosion may breach the foredunes, allowing overwash, which can offset the effects of artificial barriers (e.g., sand fencing and plantings) installed to alter the structure of dune grass communities.</p><p>Increased natural disturbance and milder temperatures can be expected to change composition. Species native to comparable communities farther south may be able to migrate in. Because the harsh physical environment already limits species present, and because the expected changes on surviving islands are mostly increases in processes already active, the degree of compositional change is expected to be limited in most of these communities. Structural changes may be more significant. However the wet grasslands in particular may be more drastically affected. New exotic species may appear or become invasive in the warmer climate, though none are specifically known. Mild winters may allow new exotic species to invade, or may allow more natural compositional change that will be locally substantial but may be negligible over larger areas.</p>
+=Climate Change Compared to Other Threats=
+<p>Comparing climate change to other ecosystem threats can help define shortand long-term conservation actions and recommendations. While the climate is expected to be warmer, and rainfall change estimates vary widely, the most important effects on these systems will be rising sea level and an increase in storms. Table 4.40 summarizes the comparison of climate change with other existing threats.</p>
+=Impacts to Wildlife=
+<p>A genetic study of the [[Crystal Skipper]] (Atrytonopsis n. sp. 1) indicated that its population is subdivided into three distinct groups, one at Fort Macon and nearby dredged-material island, one at Emerald Isle, and one at Bear Island. These findings indicate that dispersal may be fairly infrequent across ocean inlets as well as wide strips of maritime forest and development. The [[Seaside Dusted Skipper]] is one of the rarest species in the state. Even if it turns out to be an isolated population of the [[Loammi Skipper]], that species is also highly threatened and currently only known to exist in Florida. The Fort Macon population of a moth (''Faronta aleada'') in the Noctuidae family appears to be associated with the same habitat as the Crystal Skipper, but not necessarily Seaside Little Bluestem. Sea level rise may have an effect through increased fragmentation of the restricted range of these species. However, the sites they occupy are among the most stable in this type of habitat  and likely to persist.</p><p>The beach/dune habitat is particularly important to sea turtles, beach-nesting birds, and shorebirds. Many of the bird species rely on the dynamic nature of the beach, and need storms to recreate wide beaches with bare sand and shell overwash areas. The swash zone (the area between high and low tide) is particularly important to beach invertebrates which are used as a food source by fish and waterbirds. These habitats are also well imitated by dredged-material islands within our sounds that are often devoid of the predators that have invaded the barrier beaches.</p><p>Several of the bird species we are most concerned about require early successional habitat for nesting and these habitats have been destroyed or severely altered. Predators (native and nonnative) have increased many-fold; many of these species (cats, herring, and [[Great Black-backed Gull]]s, Raccoons, foxes) were not present before the beach became populated with people and their associated trash. These predators have caused significant problems for beach-nesting birds and sea turtles. Vehicle use has also created disturbance issues as well as direct impacts to nesting turtles and birds. Chronic human disturbance is becoming a problem at many sites. People are now able to access even the most remote beaches via shallow draft boats and personal watercrafts. Direct and indirect disturbance, not only by humans but also by their pets, causes problems for nesting and non-nesting birds.</p><p>Grazing by feral horses is a significant threat to some protected areas, such as Shackleford Banks and the Rachel Carson Preserve and Currituck National Wildlife Refuge. Grazing and trampling contribute to loss of dune elevation (Porter et al. 2014) and has severely damaged the maritime grasslands in these sites. Patches of Seaside Little Bluestem, which support some of the rarest insects in the state, are now almost absent outside of artificial horse exclosures. Wild horses and other large mammals (including domestic dogs) are also generally incompatible with beach-nesting birds. These mammals inadvertently step on nests and chicks, and cause colony abandonment by adult birds.</p><p>Beach renourishment and beach bulldozing can cover or destroy macroinvertebrates in the swash zone and on the beach that foraging shorebirds and surf fishes depend upon. These activities can also destroy sea turtle nests when conducted between May and November. Even under the best survey conditions, all sea turtle nests cannot be found and marked or relocated to prevent take from these activities. Beach renourishment can also lead to more development and possibly decrease washover and increase vegetation, thus decreasing the amount of suitable nesting habitat for beach-nesting birds. Landscaping choices (e.g., introduced species such as Vitex) can also strongly affect the dune system.</p>
+{{NCWAP15 Citation}}
+[[Category:Habitat]]
+[[Category:NCWAP15 Habitat]]
+{{#set:
+Has NCWAP15 Index=4.4.15
+|Has Geography=North Carolina
+|Has Plan=2015 North Carolina Wildlife Action Plan
+|Has Plan=2005 North Carolina Wildlife Action Plan
+|Has Geography=Atlantic Coastal Plain
+|Has Community Type=Upland Communities
+|Has Species=American Oystercatcher
+|Has Species=Black Skimmer
+|Has Species=Black-bellied Plover
+|Has Species=Black-crowned Night-Heron
+|Has Species=Brown Pelican
+|Has Species=Caspian Tern
+|Has Species=Common Nighthawk
+|Has Species=Common Tern
+|Has Species=European Starling
+|Has Species=Great Black-backed Gull
+|Has Species=Gull-billed Tern
+|Has Species=Herring Gull
+|Has Species=LeConte's Sparrow
+|Has Species=Least Tern
+|Has Species=Mourning Dove
+|Has Species=Northern Harrier
+|Has Species=Peregrine Falcon
+|Has Species=Piping Plover
+|Has Species=Purple Martin
+|Has Species=Red Knot
+|Has Species=Royal Tern
+|Has Species=Ruddy Turnstone
+|Has Species=Sanderling
+|Has Species=Sandwich Tern
+|Has Species=Savannah Sparrow
+|Has Species=Tree Swallow
+|Has Species=Whimbrel
+|Has Species=Willet
+|Has Species=Wilson's Plover
+}}

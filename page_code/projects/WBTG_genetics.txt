@@ -1,0 +1,16 @@
+
+{{Project Page}}
+=Description=
+Obtain genetic material to determine distiveness of wayneii subspecies from nominate race.
+
+
+[[Category:Project]]
+{{#set:
+Has Geography=North Carolina
+|Has Geography=Bird Conservation Region 29
+|Has Organization=North Carolina Wildlife Resources Commission
+|Has Partner=North Carolina Audubon
+|Has Phenology=Breeding
+|Has Species=Black-throated Green Warbler
+|Has Project Status=Proposed
+}}

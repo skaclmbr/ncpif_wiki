@@ -426,7 +426,7 @@ def main():
 
 
 
-	wb.save(timestamp + '_wiki_ncpif.xlsx')
+	wb.save('output_files/' + timestamp + '_wiki_ncpif.xlsx')
 
 	print(str(count) + " Pages Found")
 

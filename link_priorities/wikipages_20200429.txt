@@ -1,0 +1,370 @@
+type|title
+Species|American Oystercatcher
+Species|Piping Plover
+Species|American Goldfinch
+Species|Velvet Scoter
+Species|Acadian Flycatcher
+Species|Alder Flycatcher
+Species|American Avocet
+Species|American Bittern
+Species|American Black Duck
+Species|American Coot
+Species|American Crow
+Species|American Kestrel
+Species|American Pipit
+Species|American Redstart
+Species|American Robin
+Species|American Wigeon
+Species|American Woodcock
+Species|Anhinga
+Species|Bachman's Sparrow
+Species|Bachman's Warbler
+Species|Bald Eagle
+Species|Baltimore Oriole
+Species|Bank Swallow
+Species|Barn Owl
+Species|Barn Swallow
+Species|Barred Owl
+Species|Bay-breasted Warbler
+Species|Belted Kingfisher
+Species|Bewick's Wren
+Species|Black-and-white Warbler
+Species|Black-bellied Plover
+Species|Black-billed Cuckoo
+Species|Blackburnian Warbler
+Species|Black-capped Chickadee
+Species|Black-crowned Night-Heron
+Species|Black-necked Stilt
+Species|Blackpoll Warbler
+Species|Black Rail
+Species|Black Scoter
+Species|Black Skimmer
+Species|Black-throated Blue Warbler
+Species|Black-throated Green Warbler
+Species|Black Vulture
+Species|Blue-gray Gnatcatcher
+Species|Blue Grosbeak
+Species|Blue-headed Vireo
+Species|Blue Jay
+Species|Blue-winged Teal
+Species|Blue-winged Warbler
+Species|Red-eyed Vireo
+Species|Redhead
+Species|Red-headed Woodpecker
+Species|Red Knot
+Species|Red-necked Phalarope
+Species|Red-shouldered Hawk
+Species|Red-tailed Hawk
+Species|Red-throated Loon
+Species|Red-winged Blackbird
+Species|Ring-billed Gull
+Species|Ring-necked Duck
+Species|Rock Pigeon
+Species|Roseate Tern
+Species|Rose-breasted Grosbeak
+Species|Royal Tern
+Species|Ruby-crowned Kinglet
+Species|Ruby-throated Hummingbird
+Species|Ruddy Duck
+Species|Ruddy Turnstone
+Species|Ruffed Grouse
+Species|Rufous Hummingbird
+Species|Rusty Blackbird
+Species|Saltmarsh Sparrow
+Species|Sanderling
+Species|Sandwich Tern
+Species|Savannah Sparrow
+Species|Scarlet Tanager
+Species|Seaside Sparrow
+Species|Sedge Wren
+Species|Semipalmated Plover
+Species|Semipalmated Sandpiper
+Species|Sharp-shinned Hawk
+Species|Short-billed Dowitcher
+Species|Short-eared Owl
+Species|Snow Goose
+Species|Snowy Egret
+Species|Solitary Sandpiper
+Species|Song Sparrow
+Species|Sora
+Species|Spotted Sandpiper
+Species|Stilt Sandpiper
+Species|Summer Tanager
+Species|Surf Scoter
+Species|Swainson's Thrush
+Species|Swainson's Warbler
+Species|Swallow-tailed Kite
+Species|Swamp Sparrow
+Species|Tennessee Warbler
+Species|Tree Swallow
+Species|Tricolored Heron
+Species|Tufted Titmouse
+Species|Tundra Swan
+Species|Turkey Vulture
+Species|Upland Sandpiper
+Species|Veery
+Species|Vesper Sparrow
+Species|Virginia Rail
+Species|Warbling Vireo
+Species|Western Sandpiper
+Species|Whimbrel
+Species|Eastern Whip-poor-will
+Species|White-breasted Nuthatch
+Species|White-crowned Sparrow
+Species|White-eyed Vireo
+Species|White Ibis
+Species|White-rumped Sandpiper
+Species|White-throated Sparrow
+Species|White-winged Scoter
+Species|Wild Turkey
+Species|Willet
+Species|Willow Flycatcher
+Species|Wilson's Plover
+Species|Wilson's Snipe
+Species|Winter Wren
+Species|Wood Duck
+Species|Wood Stork
+Species|Wood Thrush
+Species|Worm-eating Warbler
+Species|Yellow-bellied Sapsucker
+Species|Yellow-billed Cuckoo
+Species|Yellow-breasted Chat
+Species|Yellow-crowned Night-Heron
+Species|Yellow Rail
+Species|Yellow-rumped Warbler
+Species|Yellow-throated Vireo
+Species|Yellow-throated Warbler
+Species|Least Bittern
+Species|Yellow Warbler
+Species|Boat-tailed Grackle
+Species|Bobolink
+Species|Bonaparte's Gull
+Species|Brant
+Species|Brewer's Blackbird
+Species|Broad-winged Hawk
+Species|Brown Creeper
+Species|Brown-headed Cowbird
+Species|Brown-headed Nuthatch
+Species|Brown Pelican
+Species|Brown Thrasher
+Species|Bufflehead
+Species|Canada Goose
+Species|Canada Warbler
+Species|Canvasback
+Species|Cape May Warbler
+Species|Carolina Chickadee
+Species|Carolina Wren
+Species|Caspian Tern
+Species|Cattle Egret
+Species|Cedar Waxwing
+Species|Cerulean Warbler
+Species|Chestnut-sided Warbler
+Species|Chimney Swift
+Species|Chipping Sparrow
+Species|Chuck-will's-widow
+Species|Clapper Rail
+Species|Clay-colored Sparrow
+Species|Cliff Swallow
+Species|Common Gallinule
+Species|Common Goldeneye
+Species|Common Grackle
+Species|Common Loon
+Species|Common Merganser
+Species|Common Nighthawk
+Species|Common Raven
+Species|Common Tern
+Species|Common Yellowthroat
+Species|Connecticut Warbler
+Species|Cooper's Hawk
+Species|Dark-eyed Junco
+Species|Dickcissel
+Species|Double-crested Cormorant
+Species|Downy Woodpecker
+Species|Dunlin
+Species|Eastern Bluebird
+Species|Eastern Kingbird
+Species|Eastern Meadowlark
+Species|Painted Bunting
+Species|Eastern Phoebe
+Species|Eastern Screech-Owl
+Species|Eastern Towhee
+Species|Eastern Wood-Pewee
+Species|European Starling
+Species|Evening Grosbeak
+Species|Field Sparrow
+Species|Golden Eagle
+Species|Fish Crow
+Species|Forster's Tern
+Species|Fox Sparrow
+Species|Gadwall
+Species|Glossy Ibis
+Species|Golden-crowned Kinglet
+Species|Golden-winged Warbler
+Species|Grasshopper Sparrow
+Species|Gray Catbird
+Species|Gray-cheeked Thrush
+Species|Great Black-backed Gull
+Species|Great Blue Heron
+Species|Great Crested Flycatcher
+Species|Great Egret
+Species|Greater Scaup
+Species|Greater Yellowlegs
+Species|Great Horned Owl
+Species|Green Heron
+Species|Green-winged Teal
+Species|Gull-billed Tern
+Species|Hairy Woodpecker
+Species|Henslow's Sparrow
+Species|Hermit Thrush
+Species|Herring Gull
+Species|Hooded Merganser
+Species|Hooded Warbler
+Species|Horned Grebe
+Species|Horned Lark
+Species|House Wren
+Species|Indigo Bunting
+Species|Ivory-billed Woodpecker
+Species|Kentucky Warbler
+Species|Killdeer
+Species|King Rail
+Species|Kirtland's Warbler
+Species|Lark Sparrow
+Species|Laughing Gull
+Species|Least Flycatcher
+Species|Least Sandpiper
+Species|Least Tern
+Species|LeConte's Sparrow
+Species|Lesser Scaup
+Species|Lesser Yellowlegs
+Species|Lincoln's Sparrow
+Species|Little Blue Heron
+Species|Loggerhead Shrike
+Species|Long-billed Dowitcher
+Species|Long-tailed Duck
+Species|Louisiana Waterthrush
+Species|Magnolia Warbler
+Species|Marbled Godwit
+Species|Marsh Wren
+Species|Merlin
+Species|Mississippi Kite
+Species|Mourning Dove
+Species|Nashville Warbler
+Species|Nelson's Sparrow
+Species|Northern Bobwhite
+Species|Northern Cardinal
+Species|Northern Flicker
+Species|Northern Gannet
+Species|Northern Harrier
+Species|Northern Mockingbird
+Species|Northern Parula
+Species|Northern Pintail
+Species|Northern Rough-winged Swallow
+Species|Northern Saw-whet Owl
+Species|Northern Shoveler
+Species|Northern Waterthrush
+Species|Olive-sided Flycatcher
+Species|Orange-crowned Warbler
+Species|Orchard Oriole
+Species|Osprey
+Species|Ovenbird
+Species|Palm Warbler
+Species|Pectoral Sandpiper
+Species|Peregrine Falcon
+Species|Philadelphia Vireo
+Species|Pied-billed Grebe
+Species|Pileated Woodpecker
+Species|Pine Siskin
+Species|Pine Warbler
+Species|Prairie Warbler
+Species|Prothonotary Warbler
+Species|Purple Finch
+Species|Purple Martin
+Species|Purple Sandpiper
+Species|Red-bellied Woodpecker
+Species|Red-breasted Merganser
+Species|Red-breasted Nuthatch
+Species|Red-cockaded Woodpecker
+Species|Red Crossbill
+Species|Reddish Egret
+Habitat|Bogs and Fens
+Habitat|Caves and Mines
+Habitat|Central Appalachian Broadleaf Forest Coniferous Forest Meadow Province
+Habitat|Cove Forests
+Habitat|Dry Coniferous Woodlands
+Habitat|Dry Longleaf Pine Communities
+Habitat|Estuarine Wetland Communities
+Habitat|Floodplains-Blackwater Systems
+Habitat|Floodplains-Brownwater Systems
+Habitat|Floodplains-Inland Systems
+Habitat|Freshwater Tidal Wetlands
+Habitat|Grass and Heath Balds
+Habitat|Groundwater, Springs/Caves
+Habitat|Headwater Streams/Small Creeks
+Habitat|High Elevation Cliffs and Rock Outcrops
+Habitat|Large River Systems
+Habitat|Low Elevation Flatrocks, Cliffs, and Rock Outcrops
+Habitat|Mafic Glades and Barrrens
+Habitat|Maritime Forests
+Habitat|Maritime Grasslands
+Habitat|Medium River Systems
+Habitat|Mesic Forests
+Habitat|Montane Oak Forests
+Habitat|Natural Lakes
+Habitat|Nonalluvial Mineral Wetlands
+Habitat|Northern Hardwood Forests
+Habitat|Oak and Mixed Hardwood/Pine Forests and Managed Timber
+Habitat|Pocosins
+Organization|Golden-Winged Warbler Working Group
+Organization|Conservation Trust for North Carolina
+Organization|North Carolina Wildlife Resources Commission
+Organization|United States North American Bird Conservation Initiative
+Organization|North Carolina Audubon Society
+Organization|United States Shorebird Conservation Partnership
+Organization|United States Fish and Wildlife Service
+Organization|American Oystercatcher Working Group
+Organization|Cornell Lab of Ornithology
+Organization|Atlantic Coast Joint Venture
+Organization|Appalachian Mountain Joint Venture
+Organization|Partners in Flight Eastern Working Group
+Organization|AFWA Migratory Shore and Upland Game Bird Working Group
+Organization|Golden Eagle Working Group
+Organization|Loggerhead Shrike Working Group
+Project|North Carolina Colonial Waterbird Surveys
+Project|North Carolina Birding Trail
+Plan|North Carolina Wildlife Action Plan
+Plan|South Atlantic Migratory Bird Initiative Implementation Plan 2008
+Plan|North Carolina Wildlife Action Plan 2015
+Plan|North Carolina Wildlife Action Plan 2005
+Plan|American Woodcock Management Plan 1990
+Plan|Partners In Flight Landbird Conservation Plan 2016
+Plan|Atlantic Flyway Shorebird Business Strategy 2013
+Plan|Conservation Plan For The American Oystercatcher 2007
+Plan|Conservation Action Plan For The Cerulean Warbler 2007
+Plan|Golden-Winged Warbler Status Review And Conservation Plan 2012
+Plan|Summary of Secretive Marsh Bird Surveys in the Atlantic Flyway 2020
+Geography|Bird Conservation Region 29
+Geography|Atlantic Coastal Plain
+Geography|Southern Blue Ridge
+Geography|Piedmont
+Geography|Sandhills
+Geography|Bird Conservation Region 27
+Geography|Bird Conservation Region 28
+Geography|Flyways
+Geography|Atlantic Flyway
+Geography|Atlantic Coast Joint Venture Region
+Geography|Appalachian Mountain Joint Venture Region
+Habitat|Reservoirs and Impoundments
+Habitat|Sand, Shell, and Wrack Active Shoreline
+Habitat|Small River Systems/Large Creeks
+Habitat|Sparsely Settled Mixed Habitats
+Habitat|Spruce-Fir Forest
+Habitat|Stream Swamps
+Habitat|Successional Communities
+Habitat|Upland Pools and Depressions
+Habitat|Upland Seepages and Spray Cliffs
+Habitat|Wet Pine Savannas
+Habitat|Category:Aquatic Communities
+Habitat|Estuarine Aquatic Communities
+Habitat|Coldwater Streams
+Habitat|Coolwater Streams
+Habitat|Warmwater Streams

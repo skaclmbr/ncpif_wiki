@@ -1,6 +1,8 @@
 # NC Partners in Flight Wiki
 Python code for extracting and reformatting wiki xml export data for the NC Partners in Flight wiki (wiki.ncpif.org) with Semantic MediaWiki data.
 
+Recent update converts wiki xml output to cypher query languate for import into graph database like Neo4j.
+
 See website at: http://wiki.ncpif.org
 
 ## Files

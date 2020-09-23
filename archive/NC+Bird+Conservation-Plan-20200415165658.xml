@@ -1,0 +1,1021 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>NC Bird Conservation</sitename>
+    <dbname>ncbirdin_conwiki</dbname>
+    <base>http://wiki.ncpif.org/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.34.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">NC Bird Conservation</namespace>
+      <namespace key="5" case="first-letter">NC Bird Conservation talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="114" case="first-letter">Rule</namespace>
+      <namespace key="115" case="first-letter">Rule talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>North Carolina Wildlife Action Plan</title>
+    <ns>0</ns>
+    <id>19</id>
+    <revision>
+      <id>6234</id>
+      <parentid>6233</parentid>
+      <timestamp>2020-04-03T17:56:25Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2252">{{Plan Page}}
+
+See the [[North Carolina Wildlife Action Plan]] for other versions. Refer to the [[North Carolina Wildlife Resources Commission]]'s [https://www.ncwildlife.org/plan NC WAP page here] for more information.
+
+=Introduction=
+FOR 75 YEARS,  state fish and wildlife agencies across the United States have benefited from federal aid funds provided by the [http://www.fws.gov/southeast/federalaid/pittmanrobertson.html Wildlife Restoration Act] (Pittman–Robertson or PR), [https://www.fws.gov/laws/lawsdigest/FASPORT.HTML Sport Fisheries Restoration Act] (Dingell–Johnson or DJ), and the [https://www.fws.gov/wsfrprograms/Subpages/GrantPrograms/SFR/SFR_Act_Amend.htm%231984Amendment Wallop-Breaux Act], which support the conservation and management of game fish and wildlife species. These funds are  generated through federal excise taxes collected at the manufacturers’  level and have been critical to the establishment of long-term agency  conservation planning related to game species.
+
+Yet conservation efforts for nongame fish and wildlife species (those that are not hunted or fished) have historically been opportunistic and crisis-driven. This is largely because of limited resources, such as a lack of dedicated funding, and a lack of strategic approaches to species and habitat conservation. With nearly 600 wildlife species listed nationally on the federal endangered and threatened species list, the need for a complementary source of funding for nongame species remains critical for the continued conservation, protection, and restoration of the  full array of North Carolina’s wildlife species.
+
+=Relationship to wiki.ncpif.org=
+This site is an experiment in progress to make the Wildlife Action Plan more accessible. It is designed to highlight relationships between the species, habitats, projects, and organizations that make conservation possible.
+
+=Versions=
+*[[2005 North Carolina Wildlife Action Plan]]
+*[[2015 North Carolina Wildlife Action Plan]]
+
+[[Category:Plan]]
+{{#set:
+Has Geography=North Carolina
+|Has Geography=Bird Conservation Region 27
+|Has Geography=Bird Conservation Region 28
+|Has Geography=Bird Conservation Region 29
+|Has Primary Author Organization=North Carolina Wildlife Resources Commission
+}}</text>
+      <sha1>i55vqptogfktszttj4yxjposp7xnfo6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>South Atlantic Migratory Bird Initiative Implementation Plan 2008</title>
+    <ns>0</ns>
+    <id>832</id>
+    <revision>
+      <id>10782</id>
+      <parentid>10780</parentid>
+      <timestamp>2020-04-15T16:38:12Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9827">{{Plan Page}}
+=Executive Summary=
+The South Atlantic Migratory Bird Initiative (SAMBI) is a vision and process of integrated bird conservation planning and implementation of the Management Board of the Atlantic Coast Joint Venture (ACJV). This vision and process began in 1999 when the North American Bird Conservation Initiative (NABCI) was emerging as a framework for integrated bird conservation planning in North America. SAMBI is a partnership of traditional joint venture partners (federal, state, non-governmental, and private) and new partners that are dedicated to delivering conservation of “all birds across all habitats” in the south Atlantic coastal plain of the United States. This effort was the first effort of its kind under the framework of NABCI by a joint venture, and this plan was approved by the Management Board of the ACJV in July 2005.
+
+This Plan provides a regional scale framework for the conservation of waterfowl, shorebirds, waterbirds, landbirds, and upland game birds. This framework utilizes existing national and regional plans of the [[North American Waterfowl Management Plan 2018|North American Waterfowl Management Plan]], [[United States Shorebird Conservation Plan]], [[Partners In Flight Landbird Conservation Plan 2016|Partners In Flight]], [[Waterbird Conservation of the Americas]], and the [[Northern Bobwhite Conservation Initiative]], to build a framework for regional bird conservation. This framework seeks to integrate common goals and objectives of these national and regional plans, providing conservationists a strategy for meeting the challenge of sustaining healthy ecosystems and healthy bird populations in the midst of increasing threats along the Atlantic Coast.
+
+The South Atlantic coastline and coastal plain is under extreme threat of commercial, industrial, and residential development. However, there is opportunity to conserve much of the habitat that remains. This plan identifies priority species, priority habitats, priority areas, and strategies to achieve the conservation of “all birds across all habitats” in this region. This Plan is a result of the collaboration of federal, state, non-governmental, and private interests to build a cohesive strategy for bird conservation in the southeastern United States. Pelagic bird conservation is addressed, and international opportunities for bird conservation are also explored. [[South Atlantic Bird Conservation Iniative|SAMBI]] provides a regional framework for the conservation of birds and bird habitats that has implications at multiple scales: local, state, regional, pelagic, international, and hemispheric. 
+=Download=
+[[File:SAMBIImplementation_Plan_12_08.pdf]]
+
+[[Category:Plan]]
+{{#set:
+Has Publication Year=2008
+|Has Geography=Virginia
+|Has Geography=North Carolina
+|Has Geography=South Carolina
+|Has Geography=Georgia
+|Has Geography=Florida
+|Has Geography=Bird Conservation Region 27
+|Has Geography=Bird Conservation Region 77
+|Has Geography=Bird Conservation Region 74
+|Has Primary Author Organization=South Atlantic Migratory Bird Initiative
+|Has Organization=South Atlantic Migratory Bird Initiative
+|Has Organization=Atlantic Coast Joint Venture
+|Has Organization=United States North American Bird Conservation Initiative
+|Has Organization=Southeast Quail Study Group
+|Has Organization=Atlantic Coast Joint Venture
+|Has Organization=The Nature Conservancy
+|Has Organization=Ducks Unlimited
+|Has Organization=Smithsonian Institute
+|Has Organization=United States Fish and Wildlife Service
+|Has Organization=American Bird Conservancy
+|Has Organization=National Audubon Society
+|Has Organization=Partners in Flight
+|Has Organization=North Carolina Natural Heritage Program
+|Has Organization=Association of Fish and Wildlife Agencies
+|Has Organization=Center for Conservation Biology
+|Has Organization=United States Geological Service
+|Has Organization=North Carolina State University
+|Has Organization=National Fish and Wildlife Foundation
+|Has Organization=North Carolina Wildlife Resources Commission
+|Has Organization=United States Department of Agriculture
+|Has Organization=Manomet Center for Conservation Sciences
+|Has Organization=North Carolina Partners in Flight
+|Has Organization=Southeast Association of Fish and Wildlife Agencies
+|Has Partner=Waterbird Conservation for the Americas
+|Has Species=Acadian Flycatcher
+|Has Species=American Avocet
+|Has Species=American Bittern
+|Has Species=American Black Duck
+|Has Species=American Coot
+|Has Species=American Coot
+|Has Species=American Golden-Plover
+|Has Species=American Kestrel
+|Has Species=American Oystercatcher
+|Has Species=American White Pelican
+|Has Species=American Wigeon
+|Has Species=American Wigeon
+|Has Species=American Woodcock
+|Has Species=Audubon's Shearwater
+|Has Species=Bachman's Sparrow
+|Has Species=Bachman's Warbler
+|Has Species=Bald Eagle
+|Has Species=Band-rumped Storm-Petrel
+|Has Species=Barn Owl
+|Has Species=Bermuda Petrel
+|Has Species=Bicknell's Thrush
+|Has Species=Black Rail
+|Has Species=Black Scoter
+|Has Species=Black Skimmer
+|Has Species=Black Tern
+|Has Species=Black Vulture
+|Has Species=Black-bellied Plover
+|Has Species=Black-capped Petrel
+|Has Species=Black-crowned Night-Heron
+|Has Species=Blackpoll Warbler
+|Has Species=Black-throated Blue Warbler
+|Has Species=Black-throated Green Warbler
+|Has Species=Blue-winged Teal
+|Has Species=Blue-winged Teal
+|Has Species=Bobolink
+|Has Species=Bonaparte's Gull
+|Has Species=Brant
+|Has Species=Bridled Tern
+|Has Species=Brown Pelican
+|Has Species=Brown Thrasher
+|Has Species=Brown-headed Nuthatch
+|Has Species=Buff-breasted Sandpiper
+|Has Species=Bufflehead
+|Has Species=Burrowing Owl
+|Has Species=Canada Goose
+|Has Species=Canada Goose
+|Has Species=Canvasback
+|Has Species=Cape May Warbler
+|Has Species=Cattle Egret
+|Has Species=Cerulean Warbler
+|Has Species=Chimney Swift
+|Has Species=Chuck-will's-widow
+|Has Species=Clapper Rail
+|Has Species=Common Goldeneye
+|Has Species=Common Goldeneye
+|Has Species=Common Ground Dove
+|Has Species=Common Loon
+|Has Species=Common Moorhen
+|Has Species=Common Tern
+|Has Species=Connecticut Warbler
+|Has Species=Cooper's Hawk
+|Has Species=Cory's Shearwater
+|Has Species=Double-crested Cormorant
+|Has Species=Dunlin
+|Has Species=Eastern Kingbird
+|Has Species=Eastern Meadowlark
+|Has Species=Eastern Towhee
+|Has Species=Eastern Wood-Pewee
+|Has Species=Field Sparrow
+|Has Species=Forster's Tern
+|Has Species=Gadwall
+|Has Species=Glossy Ibis
+|Has Species=Grasshopper Sparrow
+|Has Species=Great Black-backed Gull
+|Has Species=Great Egret
+|Has Species=Great Shearwater
+|Has Species=Greater Scaup
+|Has Species=Greater Yellowlegs
+|Has Species=Gull-billed Tern
+|Has Species=Henslow's Sparrow
+|Has Species=Herring Gull
+|Has Species=Hooded Warbler
+|Has Species=Horned Grebe
+|Has Species=Indigo Bunting
+|Has Species=Ivory-billed Woodpecker
+|Has Species=Kentucky Warbler
+|Has Species=King Rail
+|Has Species=Kirtland's Warbler
+|Has Species=Laughing Gull
+|Has Species=Least Bittern
+|Has Species=Least Sandpiper
+|Has Species=Least Tern
+|Has Species=LeConte's Sparrow
+|Has Species=Lesser Scaup
+|Has Species=Lesser Yellowlegs
+|Has Species=Limpkin
+|Has Species=Little Blue Heron
+|Has Species=Loggerhead Shrike
+|Has Species=Long-billed Curlew
+|Has Species=Louisiana Waterthrush
+|Has Species=Mallard
+|Has Species=Mallard
+|Has Species=Manx Shearwater
+|Has Species=Marbled Godwit
+|Has Species=Marsh Wren
+|Has Species=Mississippi Kite
+|Has Species=Mottled Duck
+|Has Species=Mourning Dove
+|Has Species=Nelson's Sparrow
+|Has Species=Northern Bobwhite
+|Has Species=Northern Flicker
+|Has Species=Northern Gannet
+|Has Species=Northern Harrier
+|Has Species=Northern Harrier
+|Has Species=Northern Parula
+|Has Species=Northern Pintail
+|Has Species=Orchard Oriole
+|Has Species=Painted Bunting
+|Has Species=Pectoral Sandpiper
+|Has Species=Peregrine Falcon
+|Has Species=Pied-billed Grebe
+|Has Species=Pine Warbler
+|Has Species=Piping Plover
+|Has Species=Prairie Warbler
+|Has Species=Prothonotary Warbler
+|Has Species=Purple Gallinule
+|Has Species=Razorbill
+|Has Species=Red Knot
+|Has Species=Red Phalarope
+|Has Species=Red-cockaded Woodpecker
+|Has Species=Reddish Egret
+|Has Species=Redhead
+|Has Species=Red-headed Woodpecker
+|Has Species=Red-shouldered Hawk
+|Has Species=Red-throated Loon
+|Has Species=Ring-necked Duck
+|Has Species=Roseate Tern
+|Has Species=Royal Tern
+|Has Species=Ruddy Turnstone
+|Has Species=Rusty Blackbird
+|Has Species=Saltmarsh Sparrow
+|Has Species=Sanderling
+|Has Species=Sandhill Crane
+|Has Species=Sandhill Crane
+|Has Species=Sandwich Tern
+|Has Species=Seaside Sparrow
+|Has Species=Sedge Wren
+|Has Species=Semipalmated Plover
+|Has Species=Semipalmated Sandpiper
+|Has Species=Short-billed Dowitcher
+|Has Species=Short-eared Owl
+|Has Species=Snow Goose
+|Has Species=Snow Goose
+|Has Species=Snowy Egret
+|Has Species=Snowy Plover
+|Has Species=Solitary Sandpiper
+|Has Species=Sora
+|Has Species=Spotted Sandpiper
+|Has Species=Stilt Sandpiper
+|Has Species=Summer Tanager
+|Has Species=Swainson's Warbler
+|Has Species=Swallow-tailed Kite
+|Has Species=Swamp Sparrow
+|Has Species=Tricolored Heron
+|Has Species=Upland Sandpiper
+|Has Species=Vesper Sparrow
+|Has Species=Virginia Rail
+|Has Species=Western Sandpiper
+|Has Species=Whimbrel
+|Has Species=White Ibis
+|Has Species=White-eyed Vireo
+|Has Species=White-tailed Tropicbird
+|Has Species=White-throated Sparrow
+|Has Species=White-winged Scoter
+|Has Species=Whooping Crane
+|Has Species=Wild Turkey
+|Has Species=Willet
+|Has Species=Wilson's Phalarope
+|Has Species=Wilson's Plover
+|Has Species=Wilson's Snipe
+|Has Species=Wood Duck
+|Has Species=Wood Stork
+|Has Species=Wood Thrush
+|Has Species=Worm-eating Warbler
+|Has Species=Yellow Rail
+|Has Species=Yellow-billed Cuckoo
+|Has Species=Yellow-crowned Night-Heron
+|Has Species=Yellow-throated Vireo
+|Has Species=Yellow-throated Warbler}}</text>
+      <sha1>6r0wengp3n1lgvwh6homurbqf4l9sd8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>North Carolina Wildlife Action Plan 2015</title>
+    <ns>0</ns>
+    <id>808</id>
+    <revision>
+      <id>10184</id>
+      <parentid>9342</parentid>
+      <timestamp>2020-04-15T14:48:53Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>Ncpif admin moved page [[2015 North Carolina Wildlife Action Plan]] to [[North Carolina Wildlife Action Plan 2015]]: change plan naming nomenclature</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3189">{{Plan Page}}
+=Introduction=
+This site is designed to build upon the 2015 North Carolina Wildlife Action Plan, making the information more accessible and digestible.
+
+This page is for the 2015 version. See the [[North Carolina Wildlife Action Plan]] for other versions. Refer to the [[North Carolina Wildlife Resources Commission]]'s [https://www.ncwildlife.org/plan NC WAP page here] for more information.
+
+=Contents=
+==Introduction==
+*[[1.1 The Origin of Wildlife Action Plans]]
+*[[1.2 State Wildlife Grants Eligibility and Requirements]]
+*[[1.3 From 2005 to 2015 - Revision of North Carolina's Wildlife Action Plan]]
+
+==The Need For Conservation==
+*[[2.1 Introduction]]
+*[[2.2 Population Changes]]
+*[[2.3 Natural Resources Changes]]
+*[[2.4 Uncertainty of Future Conditions]]
+*[[2.5 Conclusion]]
+==North Carolina's Wildlife==
+*[[3.1 Introduction]]
+*[[3.2 Amphibians]]
+*[[3.3 Birds]]
+*[[3.4 Crayfishes]]
+*[[3.5 Freshwater Fish]]
+*[[3.6 Freshwater Mussels]]
+*[[3.7 Mammals]]
+*[[3.8 Reptiles]]
+*[[3.9 Snails]]
+*[[3.10 Marine Species]]
+*[[3.11 Pelagic Seabirds]]
+*[[3.12 Insects]]
+==[[:Category:NCWAP15 Habitats|Habitats]]==
+*[[4.1 Introduction]]
+*[[4.2 Aquatic Communities]]
+*[[4.3 Wetland Natural Communities]]
+&lt;div style="padding-left:1em"&gt;
+{{#ask:
+[[Category:NCWAP15 Habitat]]
+[[Has Community Type::Wetland Natural Communities]]
+|format=ul
+|order=asc
+}}
+&lt;/div&gt;
+*[[4.4 Terrestrial Communities]]
+&lt;div style="padding-left:1em"&gt;
+{{#ask:
+[[Category:NCWAP15 Habitat]]
+[[Has Community Type::Upland Communities]]
+|format=ul
+|order=asc
+}}
+&lt;/div&gt;
+*[[4.5 River Basins]]
+==Threats and Emerging Concerns==
+*[[5.1 Introduction]]
+*[[5.2 Threats, Stressors, and Emerging Concerns]]
+*[[5.3 Residential and Commercial Development]]
+*[[5.4 Agriculture and Aquaculture]]
+*[[5.5 Energy Production and Mining]]
+*[[5.6 Transportation and Service Corridors]]
+*[[5.7 Biological Resource Use]]
+*[[5.8 Human Intrusions and Disturbance]]
+*[[5.9 Natural System Modifications]]
+*[[5.10 Invasive and Other Problematic Species and Genes]]
+*[[5.11 Pollution and Contaminants]]
+*[[5.12 Climate Change]]
+*[[5.13 Disease and Pathogens]]
+==Conservation Goals and Priorities in North Carolina==
+*[[6.1 Introduction]]
+*[[6.2 Planning and Implementing Conservation]]
+*[[6.3 Conservation Opportunities and Incentives]]
+*[[6.4 Federal Conservation Partners]]
+*[[6.5 State Conservation Partners]]
+*[[6.6 Native American Indian Lands]]
+*[[6.7 Land Trusts and Private Conservation Organizations]]
+*[[6.8 Local and Municipal Programs]]
+*[[6.9 Other Statewide Conservation Partners and Initiatives]]
+==Monitoring==
+*[[7.1 Introduction]]
+*[[7.2 Monitoring Protocols]]
+*[[7.3 Species Monitoring]]
+*[[7.4 Habitat Monitoring]]
+==Review, Coordination, Revision, and Next Steps==
+*[[8.1 Introduction]]
+*[[8.2 Required 10-Year Comprehensive Review and Revision]]
+*[[8.3 Future Review and Revision]]
+
+=Download=
+[[File:NCWAP-2015-All-Documents.pdf]]
+
+[[Category:Plan]]
+{{#set:
+Has Publication Year=2015
+|Has Geography=North Carolina
+|Has Geography=Bird Conservation Region 27
+|Has Geography=Bird Conservation Region 28
+|Has Geography=Bird Conservation Region 29
+|Has Primary Author Organization=North Carolina Wildlife Resources Commission
+}}</text>
+      <sha1>etbvymwjjt25o5nxnsidhnfkjl1ge7i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>North Carolina Wildlife Action Plan 2005</title>
+    <ns>0</ns>
+    <id>950</id>
+    <revision>
+      <id>10182</id>
+      <parentid>10176</parentid>
+      <timestamp>2020-04-15T14:47:39Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>Ncpif admin moved page [[2005 North Carolina Wildlife Action Plan]] to [[North Carolina Wildlife Action Plan 2005]]: change plan name nomenclature</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="417">=Description=
+See the [https://www.ncwildlife.org/plan#6718620-2005-document-downloads North Carolina Wildlife Resources Commission] website for more information.
+=Download=
+[[:File:2005NCWAP.pdf|2005 North Carolina Wildlife Action Plan]]
+[[Category:Plan]]
+{{#set:
+Has Plan=North Carolina Wildlife Action Plan
+|Has Publication Year=2005
+|Has Primary Author Organization=North Carolina Wildlife Resources Commission
+}}</text>
+      <sha1>0v36tobcsgj8jy5m7c9rbt5s77nob2m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>American Woodcock Management Plan 1990</title>
+    <ns>0</ns>
+    <id>954</id>
+    <revision>
+      <id>10109</id>
+      <parentid>9956</parentid>
+      <timestamp>2020-04-15T14:38:10Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="385">{{Plan Page}}
+
+=Download=
+[[:File:American Woodcock Management Plan 1990.pdf|American Woodcock Management Plan 1990]]
+[[Category:Plan]]
+{{#set:
+Has Geography=North Carolina
+|Has Publication Year=1990
+|Has Primary Author Organization=United States Fish and Wildlife Service
+|Has Species=American Woodcock
+|Has Species=Ruff
+|Has Species=Ruffed Grouse
+|Has Organization=Ducks Unlimited
+}}</text>
+      <sha1>48aslb6t8xzbjjg4vuesebxocnvtdu2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Partners In Flight Landbird Conservation Plan 2016</title>
+    <ns>0</ns>
+    <id>959</id>
+    <revision>
+      <id>10180</id>
+      <parentid>10179</parentid>
+      <timestamp>2020-04-15T14:46:07Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8389">{{Plan Page}}
+
+=Download=
+[[File:Partners In Flight Landbird Conservation Plan 2016.pdf]]
+[[Category:Plan]]
+{{#set:
+Has Geography=North America
+|Has Year=2016
+|Has Primary Author Organization=Partners in Flight
+|Has Organization=Cornell Lab of Ornithology
+|Has Organization=Bird Studies Canada
+|Has Organization=Smithsonian Institute
+|Has Organization=Partners in Flight
+|Has Organization=United States Fish and Wildlife Service
+|Has Organization=Ducks Unlimited
+|Has Organization=American Bird Conservancy
+|Has Organization=BirdLife International
+|Has Organization=United States North American Bird Conservation Initiative
+|Has Organization=Carolina Bird Club
+|Has Organization=United States Department of Agriculture
+|Has Organization=United States Geological Service
+|Has Species=Evening Grosbeak
+|Has Species=Northern Bobwhite
+|Has Species=Ivory-billed Woodpecker
+|Has Species=Red-cockaded Woodpecker
+|Has Species=Golden-winged Warbler
+|Has Species=Saltmarsh Sparrow
+|Has Species=Seaside Sparrow
+|Has Species=Band-tailed Pigeon
+|Has Species=Black-billed Cuckoo
+|Has Species=Eastern Whip-poor-will
+|Has Species=Long-eared Owl
+|Has Species=Olive-sided Flycatcher
+|Has Species=Red-headed Woodpecker
+|Has Species=Rufous Hummingbird
+|Has Species=Snowy Owl
+|Has Species=Canada Warbler
+|Has Species=Cape May Warbler
+|Has Species=Cerulean Warbler
+|Has Species=Chestnut-collared Longspur
+|Has Species=Connecticut Warbler
+|Has Species=Kentucky Warbler
+|Has Species=Prairie Warbler
+|Has Species=Prothonotary Warbler
+|Has Species=Wood Thrush
+|Has Species=Bobolink
+|Has Species=Passenger Pigeon
+|Has Species=Blackpoll Warbler
+|Has Species=Common Nighthawk
+|Has Species=Bank Swallow
+|Has Species=Rusty Blackbird
+|Has Species=Lark Bunting
+|Has Species=Pine Siskin
+|Has Species=Chimney Swift
+|Has Species=Eastern Meadowlark
+|Has Species=Grasshopper Sparrow
+|Has Species=Loggerhead Shrike
+|Has Species=Horned Lark
+|Has Species=Short-eared Owl
+|Has Species=Chuck-will's-widow
+|Has Species=Brewer's Blackbird
+|Has Species=Field Sparrow
+|Has Species=Varied Thrush
+|Has Species=Wilson's Warbler
+|Has Species=Common Grackle
+|Has Species=Least Flycatcher
+|Has Species=American Tree Sparrow
+|Has Species=Bald Eagle
+|Has Species=Osprey
+|Has Species=Peregrine Falcon
+|Has Species=Red-tailed Hawk
+|Has Species=Eastern Bluebird
+|Has Species=European Starling
+|Has Species=American Redstart
+|Has Species=Gray Catbird
+|Has Species=Savannah Sparrow
+|Has Species=Willow Flycatcher
+|Has Species=Yellow-billed Cuckoo
+|Has Species=Henslow's Sparrow
+|Has Species=Black Rail
+|Has Species=Brown Thrasher
+|Has Species=Brown-headed Nuthatch
+|Has Species=Black-headed Grosbeak
+|Has Species=Common Yellowthroat
+|Has Species=Spotted Towhee
+|Has Species=Yellow Warbler
+|Has Species=Yellow-breasted Chat
+|Has Species=Allen's Hummingbird
+|Has Species=Bachman's Sparrow
+|Has Species=Nelson's Sparrow
+|Has Species=Sprague's Pipit
+|Has Species=Green-tailed Towhee
+|Has Species=Dickcissel
+|Has Species=Painted Bunting
+|Has Species=Scissor-tailed Flycatcher
+|Has Species=Swallow-tailed Kite
+|Has Species=Northern Harrier
+|Has Species=Harris's Sparrow
+|Has Species=Sandhill Crane
+|Has Species=Baltimore Oriole
+|Has Species=Lapland Longspur
+|Has Species=Snow Bunting
+|Has Species=American Pipit
+|Has Species=Rough-legged Hawk
+|Has Species=Calliope Hummingbird
+|Has Species=Warbling Vireo
+|Has Species=Bay-breasted Warbler
+|Has Species=Yellow-bellied Flycatcher
+|Has Species=Magnolia Warbler
+|Has Species=Philadelphia Vireo
+|Has Species=White-throated Sparrow
+|Has Species=Palm Warbler
+|Has Species=Ruby-crowned Kinglet
+|Has Species=Barn Swallow
+|Has Species=American Goldfinch
+|Has Species=Song Sparrow
+|Has Species=Tree Swallow
+|Has Species=Cedar Waxwing
+|Has Species=Rose-breasted Grosbeak
+|Has Species=Clay-colored Sparrow
+|Has Species=Vesper Sparrow
+|Has Species=Bicknell's Thrush
+|Has Species=Blackburnian Warbler
+|Has Species=Chestnut-sided Warbler
+|Has Species=Veery
+|Has Species=Broad-winged Hawk
+|Has Species=Black-throated Green Warbler
+|Has Species=Blue-headed Vireo
+|Has Species=Yellow-bellied Sapsucker
+|Has Species=Northern Parula
+|Has Species=Ovenbird
+|Has Species=Black-and-white Warbler
+|Has Species=Alder Flycatcher
+|Has Species=Western Tanager
+|Has Species=Tennessee Warbler
+|Has Species=Orange-crowned Warbler
+|Has Species=Swamp Sparrow
+|Has Species=Yellow-rumped Warbler
+|Has Species=Ruff
+|Has Species=Ruffed Grouse
+|Has Species=Black Vulture
+|Has Species=Turkey Vulture
+|Has Species=Wild Turkey
+|Has Species=Cooper's Hawk
+|Has Species=Mississippi Kite
+|Has Species=Northern Goshawk
+|Has Species=Sharp-shinned Hawk
+|Has Species=Snail Kite
+|Has Species=White-tailed Kite
+|Has Species=Red-shouldered Hawk
+|Has Species=Swainson's Hawk
+|Has Species=Golden Eagle
+|Has Species=Mourning Dove
+|Has Species=White-winged Dove
+|Has Species=Smooth-billed Ani
+|Has Species=Barn Owl
+|Has Species=Eastern Screech-Owl
+|Has Species=Great Horned Owl
+|Has Species=Barred Owl
+|Has Species=Burrowing Owl
+|Has Species=Antillean Nighthawk
+|Has Species=Lesser Nighthawk
+|Has Species=Northern Saw-whet Owl
+|Has Species=Anna's Hummingbird
+|Has Species=Black-chinned Hummingbird
+|Has Species=Ruby-throated Hummingbird
+|Has Species=Broad-billed Hummingbird
+|Has Species=Broad-tailed Hummingbird
+|Has Species=Buff-bellied Hummingbird
+|Has Species=Belted Kingfisher
+|Has Species=Red-bellied Woodpecker
+|Has Species=Downy Woodpecker
+|Has Species=Hairy Woodpecker
+|Has Species=American Kestrel
+|Has Species=Crested Caracara
+|Has Species=Merlin
+|Has Species=Northern Flicker
+|Has Species=Pileated Woodpecker
+|Has Species=Eastern Wood-Pewee
+|Has Species=Acadian Flycatcher
+|Has Species=Gray Flycatcher
+|Has Species=Eastern Phoebe
+|Has Species=Say's Phoebe
+|Has Species=Vermilion Flycatcher
+|Has Species=Ash-throated Flycatcher
+|Has Species=Eastern Kingbird
+|Has Species=Gray Kingbird
+|Has Species=Tropical Kingbird
+|Has Species=Western Kingbird
+|Has Species=Bell's Vireo
+|Has Species=Northern Shrike
+|Has Species=White-eyed Vireo
+|Has Species=Yellow-throated Vireo
+|Has Species=Black-whiskered Vireo
+|Has Species=Red-eyed Vireo
+|Has Species=Blue Jay
+|Has Species=American Crow
+|Has Species=Common Raven
+|Has Species=Fish Crow
+|Has Species=Purple Martin
+|Has Species=Carolina Chickadee
+|Has Species=Cave Swallow
+|Has Species=Cliff Swallow
+|Has Species=Black-capped Chickadee
+|Has Species=Tufted Titmouse
+|Has Species=Red-breasted Nuthatch
+|Has Species=White-breasted Nuthatch
+|Has Species=Brown Creeper
+|Has Species=Bewick's Wren
+|Has Species=Carolina Wren
+|Has Species=House Wren
+|Has Species=Marsh Wren
+|Has Species=Sedge Wren
+|Has Species=Winter Wren
+|Has Species=Blue-gray Gnatcatcher
+|Has Species=Golden-crowned Kinglet
+|Has Species=Gray-cheeked Thrush
+|Has Species=Northern Wheatear
+|Has Species=Townsend's Solitaire
+|Has Species=Swainson's Thrush
+|Has Species=American Robin
+|Has Species=Hermit Thrush
+|Has Species=Sage Thrasher
+|Has Species=Northern Mockingbird
+|Has Species=White Wagtail
+|Has Species=Bachman's Warbler
+|Has Species=Louisiana Waterthrush
+|Has Species=Northern Waterthrush
+|Has Species=Smith's Longspur
+|Has Species=Worm-eating Warbler
+|Has Species=Blue-winged Warbler
+|Has Species=MacGillivray's Warbler
+|Has Species=Nashville Warbler
+|Has Species=Swainson's Warbler
+|Has Species=Mourning Warbler
+|Has Species=Hooded Warbler
+|Has Species=Kirtland's Warbler
+|Has Species=Black-throated Blue Warbler
+|Has Species=Black-throated Gray Warbler
+|Has Species=Pine Warbler
+|Has Species=Townsend's Warbler
+|Has Species=Yellow-throated Warbler
+|Has Species=Cassin's Sparrow
+|Has Species=Eastern Towhee
+|Has Species=Chipping Sparrow
+|Has Species=Lark Sparrow
+|Has Species=Fox Sparrow
+|Has Species=Lincoln's Sparrow
+|Has Species=White-crowned Sparrow
+|Has Species=Dark-eyed Junco
+|Has Species=Golden-crowned Sparrow
+|Has Species=Northern Cardinal
+|Has Species=Scarlet Tanager
+|Has Species=Summer Tanager
+|Has Species=Blue Grosbeak
+|Has Species=Indigo Bunting
+|Has Species=Lazuli Bunting
+|Has Species=Red-winged Blackbird
+|Has Species=Yellow-headed Blackbird
+|Has Species=Boat-tailed Grackle
+|Has Species=Shiny Cowbird
+|Has Species=Brown-headed Cowbird
+|Has Species=Bullock's Oriole
+|Has Species=Hooded Oriole
+|Has Species=Orchard Oriole
+|Has Species=Scott's Oriole
+|Has Species=House Finch
+|Has Species=Purple Finch
+|Has Species=Common Redpoll
+|Has Species=Lesser Goldfinch
+|Has Species=Red Crossbill
+|Has Species=White-winged Crossbill
+}}</text>
+      <sha1>0blwm93eq8lswpgohefzpsrurwko8b6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Atlantic Flyway Shorebird Business Strategy 2013</title>
+    <ns>0</ns>
+    <id>966</id>
+    <revision>
+      <id>10487</id>
+      <parentid>10195</parentid>
+      <timestamp>2020-04-15T15:19:35Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1159">{{Plan Page}}
+
+=Download=
+[[File:Atlantic Flyway Shorebird Business Strategy 2013.pdf]]
+[[Category:Plan]]
+{{#set:
+Has Geography=Atlantic Flyway
+|Has Publication Year=2013
+|Has Primary Author Organization=United States Fish and Wildlife Service
+|Has Primary Author Organization=Manomet Center for Conservation Sciences
+|Has Species=Willet
+|Has Species=Piping Plover
+|Has Species=Red Knot
+|Has Species=Snowy Plover
+|Has Species=Whimbrel
+|Has Species=Baird's Sandpiper
+|Has Species=American Oystercatcher
+|Has Species=Buff-breasted Sandpiper
+|Has Species=Semipalmated Sandpiper
+|Has Species=Sanderling
+|Has Species=Greater Yellowlegs
+|Has Species=Lesser Yellowlegs
+|Has Species=Wilson's Plover
+|Has Species=Marbled Godwit
+|Has Species=Purple Sandpiper
+|Has Species=Ruddy Turnstone
+|Has Species=Red-necked Phalarope
+|Has Species=Dunlin
+|Has Organization=Smithsonian Institute
+|Has Organization=American Bird Conservancy
+|Has Organization=National Audubon Society
+|Has Organization=National Fish and Wildlife Foundation
+|Has Organization=United States Fish and Wildlife Service
+|Has Organization=Center for Conservation Biology
+|Has Organization=Quail Unlimited
+}}</text>
+      <sha1>382bxjoff1x3n1fhbf4w293w5360ff8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Conservation Plan For The American Oystercatcher 2007</title>
+    <ns>0</ns>
+    <id>968</id>
+    <revision>
+      <id>10707</id>
+      <parentid>10354</parentid>
+      <timestamp>2020-04-15T15:23:04Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1740">{{Plan Page}}
+
+=Download=
+[[File:Conservation Plan For The American Oystercatcher 2007.pdf]]
+[[Category:Plan]]
+{{#set:
+Has Geography=Atlantic Flyway
+|Has Publication Year=2007
+|Has Primary Author Organization=United States Fish and Wildlife Service
+|Has Primary Author Organization=USGS North Carolina Cooperative Fish and Wildlife Research Unit
+|Has Primary Author Organization=Manomet Center for Conservation Sciences
+|Has Species=American Oystercatcher
+|Has Species=American Crow
+|Has Species=Fish Crow
+|Has Species=Great Black-backed Gull
+|Has Species=Herring Gull
+|Has Species=Laughing Gull
+|Has Species=Piping Plover
+|Has Species=Wilson's Plover
+|Has Species=Black Skimmer
+|Has Organization=North Carolina State University
+|Has Organization=USGS North Carolina Cooperative Fish and Wildlife Research Unit
+|Has Organization=Manomet Center for Conservation Sciences
+|Has Organization=United States Fish and Wildlife Service
+|Has Organization=Western Hemisphere Shorebird Reserve Network
+|Has Organization=National Fish and Wildlife Foundation
+|Has Organization=United States Geological Service
+|Has Organization=American Oystercatcher Working Group
+|Has Organization=Ducks Unlimited
+|Has Organization=Smithsonian Institute
+|Has Organization=National Audubon Society
+|Has Organization=North Carolina Wildlife Resources Commission
+|Has Organization=United States National Park Service
+|Has Organization=The Nature Conservancy
+|Has Organization=Atlantic Coast Joint Venture
+|Has Organization=Center for Conservation Biology
+|Has Organization=College of William and Mary
+|Has Organization=American Bird Conservancy
+|Has Organization=United States Department of Agriculture
+|Has Organization=Virginia Division of Game and Inland Fisheries
+}}</text>
+      <sha1>mj8gka8ukpm3mngxk2h3hoj0jjza6cq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Infobox</title>
+    <ns>10</ns>
+    <id>25</id>
+    <revision>
+      <id>6859</id>
+      <parentid>6855</parentid>
+      <timestamp>2020-04-07T16:08:59Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1735">&lt;div class="container-fluid"&gt;
+	&lt;div class="row clearfix" style="text-align:center;font-size:0.75em;"&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="species"&gt;&lt;span class="fa fa-crow"&gt;&lt;/span&gt;&lt;br&gt;species&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Species]]{{{categorytype}}}|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="habitats"&gt;&lt;span class="fa fa-tree"&gt;&lt;/span&gt;&lt;br&gt;habitats&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Habitat]][[Has {{{1}}}::{{PAGENAME}}]]|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="organizations"&gt;&lt;span class="fa fa-user-friends"&gt;&lt;/span&gt;&lt;br&gt;organizations&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Organization]][[Has {{{1}}}::{{PAGENAME}}]]|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="plans"&gt;&lt;span class="fa fa-tasks"&gt;&lt;/span&gt;&lt;br&gt;plans&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Plan]][[Has {{{1}}}::{{PAGENAME}}]]|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="plans"&gt;&lt;span class="fa fa-paper-plane"&gt;&lt;/span&gt;&lt;br&gt;projects&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Projects]][[Has {{{1}}}::{{PAGENAME}}]]|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="Download"&gt;&lt;span class="fa fa-globe-americas"&gt;&lt;/span&gt;&lt;br&gt;geographies&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Geography]][[Has {{{1}}}::{{PAGENAME}}]]|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;</text>
+      <sha1>du0tfna0qax9w1l0mmg4brtnut08f7p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Plan Page</title>
+    <ns>10</ns>
+    <id>834</id>
+    <revision>
+      <id>6874</id>
+      <parentid>6867</parentid>
+      <timestamp>2020-04-07T17:04:38Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32">{{CC Infobox|categorytype=Plan}}</text>
+      <sha1>e70f6bsi2h2oknzbov6fmtsnvoxwo94</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:CC Infobox</title>
+    <ns>10</ns>
+    <id>854</id>
+    <revision>
+      <id>9275</id>
+      <parentid>9273</parentid>
+      <timestamp>2020-04-07T20:28:00Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2002">&lt;div class="container-fluid"&gt;
+	&lt;div class="row clearfix" style="text-align:center;font-size:0.75em;"&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="species"&gt;&lt;span class="fa fa-crow"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Species|species]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Species]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="habitats"&gt;&lt;span class="fa fa-tree"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Habitat|habitats]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Habitat]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="organizations"&gt;&lt;span class="fa fa-user-friends"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Organization|organizations]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Organization]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="plans"&gt;&lt;span class="fa fa-tasks"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Plan|plans]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Plan]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="plans"&gt;&lt;span class="fa fa-paper-plane"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Project|projects]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Projects]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="Download"&gt;&lt;span class="fa fa-globe-americas"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Geography|geographies]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Geography]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;</text>
+      <sha1>b4p45hhrftemcvf6mowb33n822apj17</sha1>
+    </revision>
+  </page>
+</mediawiki>

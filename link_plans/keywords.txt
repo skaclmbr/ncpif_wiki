@@ -1,0 +1,2080 @@
+search_term,id
+AFWA Wildlife Viewing and Nature Tourism Group,org-afwa-wildlife-viewing-and-nature-tourism-group
+AFWA,org-afwa-wildlife-viewing-and-nature-tourism-group
+American Bird Conservancy,org-american-bird-conservancy
+ABC,org-american-bird-conservancy
+American Birding Association,org-american-birding-association
+ABA,org-american-birding-association
+American Oystercatcher Working Group,org-american-oystercatcher-working-group
+AOWG,org-american-oystercatcher-working-group
+Appalachian Landscape Conservation Cooperative,org-appalachian-landscape-conservation-cooperative
+ALCC,org-appalachian-landscape-conservation-cooperative
+Association of Fish and Wildlife Agencies,org-association-of-fish-and-wildlife-agencies
+AFWA,org-association-of-fish-and-wildlife-agencies
+Atlantic Coast Joint Venture,org-atlantic-coast-joint-venture
+ACJV,org-atlantic-coast-joint-venture
+Atlantic Flyway Council,org-atlantic-flyway-council
+AFC,org-atlantic-flyway-council
+Biodiversity and Spatial Information Center,org-biodiversity-and-spatial-information-center
+BSIC,org-biodiversity-and-spatial-information-center
+BirdLife International,org-birdlife-international
+BLI,org-birdlife-international
+Cape Fear Arch Conservation Collaboration,org-cape-fear-arch-conservation-collaboration
+CFACC,org-cape-fear-arch-conservation-collaboration
+Carolina Bird Club,org-carolina-bird-club
+CBC,org-carolina-bird-club
+Catawba College,org-catawba-college
+CC,org-catawba-college
+Center for Conservation Biology,org-center-for-conservation-biology
+CCB,org-center-for-conservation-biology
+Chatham Conservation Partnership,org-chatham-conservation-partnership
+CCP,org-chatham-conservation-partnership
+College of William and Mary,org-college-of-william-and-mary
+W&M,org-college-of-william-and-mary
+Cornell Lab of Ornithology,org-cornell-lab-of-ornithology
+CLO,org-cornell-lab-of-ornithology
+Defenders of Wildlife,org-defenders-of-wildlife
+DOF,org-defenders-of-wildlife
+Ducks Unlimited,org-ducks-unlimited
+DU,org-ducks-unlimited
+Environment Canada,org-environment-canada
+EC,org-environment-canada
+Grandfather Mountain,org-grandfather-mountain
+GM,org-grandfather-mountain
+Greater Uwharrie Conservation Partnership,org-greater-uwharrie-conservation-partnership
+GUCP,org-greater-uwharrie-conservation-partnership
+Institute for Bird Populations,org-institute-for-bird-populations
+IBP,org-institute-for-bird-populations
+Max Planck Institute for Ornithology,org-max-planck-institute-for-ornithology
+MPIO ,org-max-planck-institute-for-ornithology
+National Aeronautics and Space Administration,org-national-aeronautics-and-space-administration
+NASA,org-national-aeronautics-and-space-administration
+National Audubon Society,org-national-audubon-society
+NAS,org-national-audubon-society
+National Bobwhite Quail Initiative,org-national-bobwhite-quail-initiative
+NBQI,org-national-bobwhite-quail-initiative
+National Fish and Wildlife Foundation,org-national-fish-and-wildlife-foundation
+NFWF,org-national-fish-and-wildlife-foundation
+National Park Service,org-national-park-service
+NPS,org-national-park-service
+National Wildlife Federation,org-national-wildlife-federation
+NWF,org-national-wildlife-federation
+NatureServe,org-natureserve
+NS,org-natureserve
+NC Audubon Society,org-nc-audubon-society
+NCAS,org-nc-audubon-society
+NC Department of Parks and Recreation,org-nc-department-of-parks-and-recreation
+NCDPR,org-nc-department-of-parks-and-recreation
+NC Museum of Natural Sciences,org-nc-museum-of-natural-sciences
+NCMNS,org-nc-museum-of-natural-sciences
+NC Natural Heritage Program,org-nc-natural-heritage-program
+NCNHP,org-nc-natural-heritage-program
+NC Partners in Flight,org-nc-partners-in-flight
+NCPIF,org-nc-partners-in-flight
+NC Source Water Initiative,org-nc-source-water-initiative
+NCSWI,org-nc-source-water-initiative
+NC State University,org-nc-state-university
+NCSU,org-nc-state-university
+NCSU Cooperative Extension,org-ncsu-cooperative-extension
+NCSU CE,org-ncsu-cooperative-extension
+NC Wildlife Resources Commission,org-nc-wildlife-resources-commission
+NCWRC,org-nc-wildlife-resources-commission
+North American Bird Conservation Initiative,org-north-american-bird-conservation-initiative
+NABC,org-north-american-bird-conservation-initiative
+North Carolina Partners in Amphibian and Reptile Conservation,org-north-carolina-partners-in-amphibian-and-reptile-conservation
+NCPARC,org-north-carolina-partners-in-amphibian-and-reptile-conservation
+North Carolina Sandhills Conservation Partnership,org-north-carolina-sandhills-conservation-partnership
+NCSCP,org-north-carolina-sandhills-conservation-partnership
+Onslow Bight Conservation Forum,org-onslow-bight-conservation-forum
+OBCF,org-onslow-bight-conservation-forum
+Partners in Flight,org-partners-in-flight
+PIF,org-partners-in-flight
+Quail and Upland Wildlife Federation,org-quail-and-upland-wildlife-federation
+QUWF,org-quail-and-upland-wildlife-federation
+Quail Unlimited,org-quail-unlimited
+QU,org-quail-unlimited
+SeaGrant North Carolina,org-seagrant-north-carolina
+SGNC,org-seagrant-north-carolina
+Smithsonian Institute,org-smithsonian-institute
+SI,org-smithsonian-institute
+Smithsonian Migratory Bird Center,org-smithsonian-migratory-bird-center
+SMBC,org-smithsonian-migratory-bird-center
+South Atlantic Landscape Conservation Cooperative,org-south-atlantic-landscape-conservation-cooperative
+SALCC,org-south-atlantic-landscape-conservation-cooperative
+Southeast Association of Fish and Wildlife Agencies,org-southeast-association-of-fish-and-wildlife-agencies
+SEAFWA,org-southeast-association-of-fish-and-wildlife-agencies
+Southeast Climate Science Center,org-southeast-climate-science-center
+SECSC,org-southeast-climate-science-center
+Southeastern Cooperative Wildlife Disease Study,org-southeastern-cooperative-wildlife-disease-study
+SCWDS,org-southeastern-cooperative-wildlife-disease-study
+Southeast Partners in Flight,org-southeast-partners-in-flight
+SEPIF,org-southeast-partners-in-flight
+Southern Appalachian Research Center,org-southern-appalachian-research-center
+SARC,org-southern-appalachian-research-center
+Tar River Land Conservancy,org-tar-river-land-conservancy
+TRLC,org-tar-river-land-conservancy
+The Nature Conservancy,org-the-nature-conservancy
+TNC,org-the-nature-conservancy
+Town of Cary,org-town-of-cary
+TOC,org-town-of-cary
+University of North Carolina - Chapel Hill,org-university-of-north-carolina-chapel-hill
+UNC,org-university-of-north-carolina-chapel-hill
+University of North Carolina - Wilmington,org-university-of-north-carolina-wilmington
+UNCW,org-university-of-north-carolina-wilmington
+USDA Farm Service Agency,org-usda-farm-service-agency
+USDA FSA,org-usda-farm-service-agency
+US Department of Agriculture,org-us-department-of-agriculture
+USDA,org-us-department-of-agriculture
+US Fish and Wildlife Service,org-us-fish-and-wildlife-service
+USFWS,org-us-fish-and-wildlife-service
+US Geological Service,org-us-geological-service
+USGS,org-us-geological-service
+USGS Forest and Rangeland Ecosystem Science Center,org-usgs-forest-and-rangeland-ecosystem-science-center
+FRESC,org-usgs-forest-and-rangeland-ecosystem-science-center
+USGS NC Cooperative Research Unit,org-usgs-nc-cooperative-research-unit
+NCCRU,org-usgs-nc-cooperative-research-unit
+USGS Pautuxent Wildlife Research Center,org-usgs-pautuxent-wildlife-research-center
+PWRC,org-usgs-pautuxent-wildlife-research-center
+USGS Rocky Mountain Geographic Science Center,org-usgs-rocky-mountain-geographic-science-center
+RMGSC,org-usgs-rocky-mountain-geographic-science-center
+USGS Water Resources Division,org-usgs-water-resources-division
+WRD,org-usgs-water-resources-division
+USGS Western Ecological Research Center,org-usgs-western-ecological-research-center
+WERC,org-usgs-western-ecological-research-center
+US National Park Service,org-us-national-park-service
+USNPS,org-us-national-park-service
+Virginia Division of Game and Inland Fisheries,org-virginia-division-of-game-and-inland-fisheries
+VDGIF,org-virginia-division-of-game-and-inland-fisheries
+Weyehaueser,org-weyehaueser
+WY,org-weyehaueser
+Wildlife Conservation Society,org-wildlife-conservation-society
+WCS,org-wildlife-conservation-society
+Beach/ dune,ncwap-hab-beach-dune
+Beach Beach/ dune,ncwap-hab-beach-dune
+dune,ncwap-hab-beach-dune
+dune Beach/ dune,ncwap-hab-beach-dune
+Bogs and associated wetlands,ncwap-hab-bogs-and-associated-wetlands
+Caves and mines,ncwap-hab-caves-and-mines
+Cove forest,ncwap-hab-cove-forest
+Dry coniferous woodlands (Loblolly/ slash pine forest),ncwap-hab-dry-coniferous-woodlands-loblolly-slash-pine-forest
+Dry coniferous woodlands  Dry coniferous woodlands (Loblolly/ slash pine forest),ncwap-hab-dry-coniferous-woodlands-loblolly-slash-pine-forest
+Loblolly slash pine forest,ncwap-hab-dry-coniferous-woodlands-loblolly-slash-pine-forest
+Loblolly slash pine forest Dry coniferous woodlands (Loblolly/ slash pine forest),ncwap-hab-dry-coniferous-woodlands-loblolly-slash-pine-forest
+Dry longleaf pine,ncwap-hab-dry-longleaf-pine
+Estuarine communities,ncwap-hab-estuarine-communities
+High elevation rock outcrops,ncwap-hab-high-elevation-rock-outcrops
+Low elevation cliffs/ rock outcrops,ncwap-hab-low-elevation-cliffs-rock-outcrops
+Early successional habitats,ncwap-hab-macp-early-successional-habitats
+mid atlantic coastal Early successional habitats,ncwap-hab-macp-early-successional-habitats
+mid atlantic coastal plain Early successional habitats,ncwap-hab-macp-early-successional-habitats
+Floodplain forest,ncwap-hab-macp-floodplain-forest
+mid atlantic coastal Floodplain forest,ncwap-hab-macp-floodplain-forest
+mid atlantic coastal plain Floodplain forest,ncwap-hab-macp-floodplain-forest
+Lakes and reservoirs,ncwap-hab-macp-lakes-and-reservoirs
+mid atlantic coastal Lakes and reservoirs,ncwap-hab-macp-lakes-and-reservoirs
+mid atlantic coastal plain Lakes and reservoirs,ncwap-hab-macp-lakes-and-reservoirs
+Mesic forest,ncwap-hab-macp-mesic-forest
+mid atlantic coastal Mesic forest,ncwap-hab-macp-mesic-forest
+mid atlantic coastal plain Mesic forest,ncwap-hab-macp-mesic-forest
+Oak forest (including mixed hardwoods and pine),ncwap-hab-macp-oak-forest-including-mixed-hardwoods-and-pine
+mid atlantic coastal Oak forest (including mixed hardwoods and pine),ncwap-hab-macp-oak-forest-including-mixed-hardwoods-and-pine
+mid atlantic coastal plain Oak forest (including mixed hardwoods and pine),ncwap-hab-macp-oak-forest-including-mixed-hardwoods-and-pine
+Riverine aquatic communities,ncwap-hab-macp-riverine-aquatic-communities
+mid atlantic coastal Riverine aquatic communities,ncwap-hab-macp-riverine-aquatic-communities
+mid atlantic coastal plain Riverine aquatic communities,ncwap-hab-macp-riverine-aquatic-communities
+Maritime forest/shrub,ncwap-hab-maritime-forestshrub
+Maritime forest Maritime forest/shrub,ncwap-hab-maritime-forestshrub
+Maritime shrub,ncwap-hab-maritime-forestshrub
+Maritime shrub forest,ncwap-hab-maritime-forestshrub
+Nonalluvial mineral wetlands,ncwap-hab-nonalluvial-mineral-wetlands
+Northern hardwoods,ncwap-hab-northern-hardwoods
+Dry coniferous woodlands,ncwap-hab-p-dry-coniferous-woodlands
+piedmont Dry coniferous woodlands,ncwap-hab-p-dry-coniferous-woodlands
+Early successional habitats,ncwap-hab-p-early-successional-habitats
+piedmont Early successional habitats,ncwap-hab-p-early-successional-habitats
+Floodplain forest,ncwap-hab-p-floodplain-forest
+piedmont Floodplain forest,ncwap-hab-p-floodplain-forest
+Piedmont small wetland communities,ncwap-hab-piedmont-small-wetland-communities
+Lakes and reservoirs,ncwap-hab-p-lakes-and-reservoirs
+piedmont Lakes and reservoirs,ncwap-hab-p-lakes-and-reservoirs
+Mesic forest,ncwap-hab-p-mesic-forest
+piedmont Mesic forest,ncwap-hab-p-mesic-forest
+Oak forest (including mixed hardwoods and pine),ncwap-hab-p-oak-forest-including-mixed-hardwoods-and-pine
+piedmont Oak forest (including mixed hardwoods and pine),ncwap-hab-p-oak-forest-including-mixed-hardwoods-and-pine
+Pocosin,ncwap-hab-pocosin
+Riverine aquatic communities,ncwap-hab-p-riverine-aquatic-communities
+piedmont Riverine aquatic communities,ncwap-hab-p-riverine-aquatic-communities
+Dry coniferous woodlands,ncwap-hab-sbr-dry-coniferous-woodlands
+Southern Blue Ridge Dry coniferous woodlands,ncwap-hab-sbr-dry-coniferous-woodlands
+Blue Ridge Dry coniferous woodlands,ncwap-hab-sbr-dry-coniferous-woodlands
+Early successional habitats,ncwap-hab-sbr-early-successional-habitats
+Southern Blue Ridge Early successional habitats,ncwap-hab-sbr-early-successional-habitats
+Blue Ridge Early successional habitats,ncwap-hab-sbr-early-successional-habitats
+Floodplain forest,ncwap-hab-sbr-floodplain-forest
+Southern Blue Ridge Floodplain forest,ncwap-hab-sbr-floodplain-forest
+Blue Ridge Floodplain forest,ncwap-hab-sbr-floodplain-forest
+Oak forest (including mixed hardwoods and pine),ncwap-hab-sbr-oak-forest-including-mixed-hardwoods-and-pine
+Southern Blue Ridge Oak forest (including mixed hardwoods and pine),ncwap-hab-sbr-oak-forest-including-mixed-hardwoods-and-pine
+Blue Ridge Oak forest (including mixed hardwoods and pine),ncwap-hab-sbr-oak-forest-including-mixed-hardwoods-and-pine
+Riverine aquatic communities,ncwap-hab-sbr-riverine-aquatic-communities
+Southern Blue Ridge Riverine aquatic communities,ncwap-hab-sbr-riverine-aquatic-communities
+Blue Ridge Riverine aquatic communities,ncwap-hab-sbr-riverine-aquatic-communities
+Small wetland communities,ncwap-hab-small-wetland-communities
+Spruce-fir forest,ncwap-hab-spruce-fir-forest
+Tidal swamp forest and wetlands,ncwap-hab-tidal-swamp-forest-and-wetlands
+Wet pine savanna,ncwap-hab-wet-pine-savanna
+other grasses (other than pasture/hay),ncgap-hab-other-grasses-other-than-pasture-hay
+other grasses other than pasture hay,ncgap-hab-other-grasses-other-than-pasture-hay
+evergreen forest,ncgap-hab-evergreen-forest
+mixed forest,ncgap-hab-mixed-forest
+deciduous forest,ncgap-hab-deciduous-forest
+woody wetlands,ncgap-hab-woody-wetlands
+emergent wetlands,ncgap-hab-emergent-wetlands
+Tidewater,ncgap-hab-tidewater
+Coastal Flatwoods,ncgap-hab-coastal-flatwoods
+Coastal Plains,ncgap-hab-coastal-plains
+Sandhills,ncgap-hab-sandhills
+Piedmont,ncgap-hab-piedmont
+Blue Ridge,ncgap-hab-blue ridge
+Open Water,segap-hab-open-water
+Perennial Ice/Snow,segap-hab-perennial-ice-snow
+Developed Open Space,segap-hab-developed-open-space
+Developed Low Intensity,segap-hab-developed-low-intensity
+Developed Medium Intensity,segap-hab-developed-medium-intensity
+Developed High Intensity,segap-hab-developed-high-intensity
+Barren Land (Rock/Sand/Clay),segap-hab-barren-land-rock-sand-clay
+Barren Land Rock Sand Clay,segap-hab-barren-land-rock-sand-clay
+Unconsolidated Shore,segap-hab-unconsolidated-shore
+Deciduous Forest,segap-hab-deciduous-forest
+Evergreen Forest,segap-hab-evergreen-forest
+Mixed Forest,segap-hab-mixed-forest
+Dwarf Scrub ,segap-hab-dwarf-scrub
+Shrub Scrub,segap-hab-shrub-scrub
+Grassland Herbaceous,segap-hab-grassland-herbaceous
+Sedge Herbaceous,segap-hab-sedge-herbaceous
+Lichens,segap-hab-lichens
+Moss,segap-hab-moss
+Pasture Hay,segap-hab-pasture-hay
+Cultivated Crops,segap-hab-cultivated-crops
+Woody Wetlands,segap-hab-woody-wetlands
+Palustrine Forested Wetland,segap-hab-palustrine-forested-wetland
+Palustrine Scrub/Shrub Wetland,segap-hab-palustrine-scrub-shrub-wetland
+Palustrine Scrub Shrub Wetland,segap-hab-palustrine-scrub-shrub-wetland
+Estuarine Forested Wetland,segap-hab-estuarine-forested-wetland
+Estuarine Scrub/Shrub Wetland,segap-hab-estuarine-scrub-shrub-wetland
+Emergent Herbaceous Wetlands,segap-hab-emergent-herbaceous-wetlands
+Persistent Palustrine Emergent Wetland,segap-hab-persistent-palustrine-emergent-wetland
+Estuarine Emergent Wetland,segap-hab-estuarine-emergent-wetland
+Palustrine Aquatic Bed,segap-hab-palustrine-aquatic-bed
+Estuarine Aquatic Bed,segap-hab-estuarine-aquatic-bed
+acadian flycatcher,spp-acadian-flycatcher
+alder flycatcher,spp-alder-flycatcher
+allens hummingbird,spp-allens-hummingbird
+allen hummingbird,spp-allens-hummingbird
+american avocet,spp-american-avocet
+american bittern,spp-american-bittern
+american black duck,spp-american-black-duck
+american coot,spp-american-coot
+american crow,spp-american-crow
+american goldenplover,spp-american-golden-plover
+american goldfinch,spp-american-goldfinch
+american kestrel,spp-american-kestrel
+american oystercatcher,spp-american-oystercatcher
+american pipit,spp-american-pipit
+american redstart,spp-american-redstart
+american robin,spp-american-robin
+american tree sparrow,spp-american-tree-sparrow
+american white pelican,spp-american-white-pelican
+american wigeon,spp-american-wigeon
+american woodcock,spp-american-woodcock
+anhinga,spp-anhinga
+annas hummingbird,spp-annas-hummingbird
+anna hummingbird,spp-annas-hummingbird
+antillean nighthawk,spp-antillean-nighthawk
+arctic tern,spp-arctic-tern
+ashthroated flycatcher,spp-ash-throated-flycatcher
+atlantic puffin,spp-atlantic-puffin
+audubons shearwater,spp-audubons-shearwater
+audubon shearwater,spp-audubons-shearwater
+bachmans sparrow,spp-bachmans-sparrow
+bachman sparrow,spp-bachmans-sparrow
+bachmans warbler,spp-bachmans-warbler
+bachman warbler,spp-bachmans-warbler
+bairds sandpiper,spp-bairds-sandpiper
+baird sandpiper,spp-bairds-sandpiper
+bald eagle,spp-bald-eagle
+baltimore oriole,spp-baltimore-oriole
+bandrumped stormpetrel,spp-band-rumped-storm-petrel
+bandtailed pigeon,spp-band-tailed-pigeon
+bank swallow,spp-bank-swallow
+barnacle goose,spp-barnacle-goose
+barn owl,spp-barn-owl
+barn swallow,spp-barn-swallow
+barred owl,spp-barred-owl
+bartailed godwit,spp-bar-tailed-godwit
+baybreasted warbler,spp-bay-breasted-warbler
+bells vireo,spp-bells-vireo
+bell vireo,spp-bells-vireo
+belted kingfisher,spp-belted-kingfisher
+bermuda petrel,spp-bermuda-petrel
+bewicks wren,spp-bewicks-wren
+bewick wren,spp-bewicks-wren
+bicknells thrush,spp-bicknells-thrush
+bicknell thrush,spp-bicknells-thrush
+blackandwhite warbler,spp-black-and-white-warbler
+blackbellied plover,spp-black-bellied-plover
+blackbellied stormpetrel,spp-black-bellied-storm-petrel
+blackbellied whistlingduck,spp-black-bellied-whistling-duck
+blackbilled cuckoo,spp-black-billed-cuckoo
+blackbrowed albatross,spp-black-browed-albatross
+blackburnian warbler,spp-blackburnian-warbler
+blackcapped chickadee,spp-black-capped-chickadee
+blackcapped petrel,spp-black-capped-petrel
+blackchinned hummingbird,spp-black-chinned-hummingbird
+blackcrowned nightheron,spp-black-crowned-night-heron
+black guillemot,spp-black-guillemot
+blackheaded grosbeak,spp-black-headed-grosbeak
+blackheaded gull,spp-black-headed-gull
+blacklegged kittiwake,spp-black-legged-kittiwake
+blacknecked stilt,spp-black-necked-stilt
+blackpoll warbler,spp-blackpoll-warbler
+black rail,spp-black-rail
+black scoter,spp-black-scoter
+black skimmer,spp-black-skimmer
+blacktailed godwit,spp-black-tailed-godwit
+blacktailed gull,spp-black-tailed-gull
+black tern,spp-black-tern
+blackthroated blue warbler,spp-black-throated-blue-warbler
+blackthroated gray warbler,spp-black-throated-gray-warbler
+blackthroated green warbler,spp-black-throated-green-warbler
+black vulture,spp-black-vulture
+blackwhiskered vireo,spp-black-whiskered-vireo
+bluegray gnatcatcher,spp-blue-gray-gnatcatcher
+blue grosbeak,spp-blue-grosbeak
+blueheaded vireo,spp-blue-headed-vireo
+blue jay,spp-blue-jay
+bluewinged teal,spp-blue-winged-teal
+bluewinged warbler,spp-blue-winged-warbler
+boattailed grackle,spp-boat-tailed-grackle
+bobolink,spp-bobolink
+bonapartes gull,spp-bonapartes-gull
+bonaparte gull,spp-bonapartes-gull
+brambling,spp-brambling
+brant,spp-brant
+brewers blackbird,spp-brewers-blackbird
+brewer blackbird,spp-brewers-blackbird
+bridled tern,spp-bridled-tern
+broadbilled hummingbird,spp-broad-billed-hummingbird
+broadtailed hummingbird,spp-broad-tailed-hummingbird
+broadwinged hawk,spp-broad-winged-hawk
+brown booby,spp-brown-booby
+brown creeper,spp-brown-creeper
+brownheaded cowbird,spp-brown-headed-cowbird
+brownheaded nuthatch,spp-brown-headed-nuthatch
+brown noddy,spp-brown-noddy
+brown pelican,spp-brown-pelican
+brown thrasher,spp-brown-thrasher
+buffbreasted sandpiper,spp-buff-breasted-sandpiper
+bufflehead,spp-bufflehead
+bullocks oriole,spp-bullocks-oriole
+bullock oriole,spp-bullocks-oriole
+bulwers petrel,spp-bulwers-petrel
+bulwer petrel,spp-bulwers-petrel
+burrowing owl,spp-burrowing-owl
+cackling goose,spp-cackling-goose
+california gull,spp-california-gull
+calliope hummingbird,spp-calliope-hummingbird
+canada goose,spp-canada-goose
+canada warbler,spp-canada-warbler
+canvasback,spp-canvasback
+cape may warbler,spp-cape-may-warbler
+cape verde shearwater,spp-cape-verde-shearwater
+carolina chickadee,spp-carolina-chickadee
+carolina wren,spp-carolina-wren
+caspian tern,spp-caspian-tern
+cattle egret,spp-cattle-egret
+cave swallow,spp-cave-swallow
+cedar waxwing,spp-cedar-waxwing
+cerulean warbler,spp-cerulean-warbler
+chestnutcollared longspur,spp-chestnut-collared-longspur
+chestnutsided warbler,spp-chestnut-sided-warbler
+chimney swift,spp-chimney-swift
+chipping sparrow,spp-chipping-sparrow
+chuck-wills-widow,spp-chuck-wills-widow
+chuck-will-widow,spp-chuck-wills-widow
+cinnamon teal,spp-cinnamon-teal
+clapper rail,spp-clapper-rail
+clarks grebe,spp-clarks-grebe
+clark grebe,spp-clarks-grebe
+claycolored sparrow,spp-clay-colored-sparrow
+cliff swallow,spp-cliff-swallow
+common eider,spp-common-eider
+common goldeneye,spp-common-goldeneye
+common grackle,spp-common-grackle
+common grounddove,spp-common-ground-dove
+common loon,spp-common-loon
+common merganser,spp-common-merganser
+common moorhen,spp-common-moorhen
+common murre,spp-common-murre
+common nighthawk,spp-common-nighthawk
+common raven,spp-common-raven
+common redpoll,spp-common-redpoll
+common tern,spp-common-tern
+common yellowthroat,spp-common-yellowthroat
+connecticut warbler,spp-connecticut-warbler
+Cooper's Hawk,spp-coopers-hawk
+coopers hawk,spp-coopers-hawk
+cooper hawk,spp-coopers-hawk
+corys shearwater,spp-corys-shearwater
+cory shearwater,spp-corys-shearwater
+curlew sandpiper,spp-curlew-sandpiper
+darkeyed junco,spp-dark-eyed-junco
+dickcissel,spp-dickcissel
+doublecrested cormorant,spp-double-crested-cormorant
+dovekie,spp-dovekie
+downy woodpecker,spp-downy-woodpecker
+dunlin,spp-dunlin
+eared grebe,spp-eared-grebe
+eastern bluebird,spp-eastern-bluebird
+eastern kingbird,spp-eastern-kingbird
+eastern meadowlark,spp-eastern-meadowlark
+eastern phoebe,spp-eastern-phoebe
+eastern screechowl,spp-eastern-screech-owl
+eastern towhee,spp-eastern-towhee
+eastern woodpewee,spp-eastern-wood-pewee
+eurasian collareddove,spp-eurasian-collared-dove
+eurasian wigeon,spp-eurasian-wigeon
+european starling,spp-european-starling
+european stormpetrel,spp-european-storm-petrel
+evening grosbeak,spp-evening-grosbeak
+feas petrel,spp-feas-petrel
+fea petrel,spp-feas-petrel
+field sparrow,spp-field-sparrow
+fish crow,spp-fish-crow
+forktailed flycatcher,spp-fork-tailed-flycatcher
+forsters tern,spp-forsters-tern
+forster tern,spp-forsters-tern
+fox sparrow,spp-fox-sparrow
+franklins gull,spp-franklins-gull
+franklin gull,spp-franklins-gull
+fulvous whistlingduck,spp-fulvous-whistling-duck
+gadwall,spp-gadwall
+garganey,spp-garganey
+glaucous gull,spp-glaucous-gull
+glossy ibis,spp-glossy-ibis
+goldencrowned kinglet,spp-golden-crowned-kinglet
+golden eagle,spp-golden-eagle
+goldenwinged warbler,spp-golden-winged-warbler
+grasshopper sparrow,spp-grasshopper-sparrow
+gray catbird,spp-gray-catbird
+graycheeked thrush,spp-gray-cheeked-thrush
+gray flycatcher,spp-gray-flycatcher
+gray kingbird,spp-gray-kingbird
+great blackbacked gull,spp-great-black-backed-gull
+great blue heron,spp-great-blue-heron
+great cormorant,spp-great-cormorant
+great crested flycatcher,spp-great-crested-flycatcher
+great egret,spp-great-egret
+greater scaup,spp-greater-scaup
+greater shearwater,spp-greater-shearwater
+greater whitefronted goose,spp-greater-white-fronted-goose
+greater yellowlegs,spp-greater-yellowlegs
+great horned owl,spp-great-horned-owl
+great skua,spp-great-skua
+greenbreasted mango,spp-green-breasted-mango
+green heron,spp-green-heron
+greentailed towhee,spp-green-tailed-towhee
+green violetear,spp-green-violet-ear
+greenwinged teal,spp-green-winged-teal
+groovebilled ani,spp-groove-billed-ani
+gullbilled tern,spp-gull-billed-tern
+gyrfalcon,spp-gyrfalcon
+hairy woodpecker,spp-hairy-woodpecker
+harlequin duck,spp-harlequin-duck
+Harris's Sparrow,spp-harriss-sparrow
+harriss sparrow,spp-harriss-sparrow
+harris sparrow,spp-harriss-sparrow
+henslows sparrow,spp-henslows-sparrow
+henslow sparrow,spp-henslows-sparrow
+herald petrel,spp-herald-petrel
+hermit thrush,spp-hermit-thrush
+herring gull,spp-herring-gull
+hooded merganser,spp-hooded-merganser
+hooded warbler,spp-hooded-warbler
+horned grebe,spp-horned-grebe
+horned lark,spp-horned-lark
+house finch,spp-house-finch
+house sparrow,spp-house-sparrow
+house wren,spp-house-wren
+hudsonian godwit,spp-hudsonian-godwit
+iceland gull,spp-iceland-gull
+indigo bunting,spp-indigo-bunting
+kentucky warbler,spp-kentucky-warbler
+killdeer,spp-killdeer
+king eider,spp-king-eider
+king rail,spp-king-rail
+kirtlands warbler,spp-kirtlands-warbler
+kirtland warbler,spp-kirtlands-warbler
+lapland longspur,spp-lapland-longspur
+lark bunting,spp-lark-bunting
+lark sparrow,spp-lark-sparrow
+laughing gull,spp-laughing-gull
+lazuli bunting,spp-lazuli-bunting
+leachs storm-petrel,spp-leachs-storm-petrel
+leach storm-petrel,spp-leachs-storm-petrel
+least bittern,spp-least-bittern
+least flycatcher,spp-least-flycatcher
+least sandpiper,spp-least-sandpiper
+least tern,spp-least-tern
+le contes sparrow,spp-le-contes-sparrow
+le conte sparrow,spp-le-contes-sparrow
+lesser blackbacked gull,spp-lesser-black-backed-gull
+lesser goldfinch,spp-lesser-goldfinch
+lesser nighthawk,spp-lesser-nighthawk
+lesser scaup,spp-lesser-scaup
+lesser yellowlegs,spp-lesser-yellowlegs
+limpkin,spp-limpkin
+lincolns sparrow,spp-lincolns-sparrow
+lincoln sparrow,spp-lincolns-sparrow
+little blue heron,spp-little-blue-heron
+little gull,spp-little-gull
+little stint,spp-little-stint
+loggerhead shrike,spp-loggerhead-shrike
+longbilled curlew,spp-long-billed-curlew
+longbilled dowitcher,spp-long-billed-dowitcher
+longbilled murrelet,spp-long-billed-murrelet
+longeared owl,spp-long-eared-owl
+longtailed duck,spp-long-tailed-duck
+longtailed jaeger,spp-long-tailed-jaeger
+louisiana waterthrush,spp-louisiana-waterthrush
+macgillivrays warbler,spp-macgillivrays-warbler
+macgillivray warbler,spp-macgillivrays-warbler
+magnificent frigatebird,spp-magnificent-frigatebird
+magnolia warbler,spp-magnolia-warbler
+mallard,spp-mallard
+manx shearwater,spp-manx-shearwater
+marbled godwit,spp-marbled-godwit
+marsh wren,spp-marsh-wren
+masked booby,spp-masked-booby
+masked duck,spp-masked-duck
+merlin,spp-merlin
+mew gull,spp-mew-gull
+mississippi kite,spp-mississippi-kite
+mottled duck,spp-mottled-duck
+mountain bluebird,spp-mountain-bluebird
+mourning dove,spp-mourning-dove
+mourning warbler,spp-mourning-warbler
+mute swan,spp-mute-swan
+nashville warbler,spp-nashville-warbler
+nelsons sharp-tailed sparrow,spp-nelsons-sharp-tailed-sparrow
+nelson sharp-tailed sparrow,spp-nelsons-sharp-tailed-sparrow
+northern bobwhite,spp-northern-bobwhite
+northern cardinal,spp-northern-cardinal
+northern flicker,spp-northern-flicker
+northern fulmar,spp-northern-fulmar
+northern gannet,spp-northern-gannet
+northern goshawk,spp-northern-goshawk
+northern harrier,spp-northern-harrier
+northern lapwing,spp-northern-lapwing
+northern mockingbird,spp-northern-mockingbird
+northern parula,spp-northern-parula
+northern pintail,spp-northern-pintail
+northern roughwinged swallow,spp-northern-rough-winged-swallow
+northern sawwhet owl,spp-northern-saw-whet-owl
+northern shoveler,spp-northern-shoveler
+northern shrike,spp-northern-shrike
+northern waterthrush,spp-northern-waterthrush
+northern wheatear,spp-northern-wheatear
+olivesided flycatcher,spp-olive-sided-flycatcher
+orangecrowned warbler,spp-orange-crowned-warbler
+orchard oriole,spp-orchard-oriole
+osprey,spp-osprey
+ovenbird,spp-ovenbird
+pacific loon,spp-pacific-loon
+pacificslope/cordilleran flycatcher,spp-pacific-slope/cordilleran-flycatcher
+painted bunting,spp-painted-bunting
+palm warbler,spp-palm-warbler
+parasitic jaeger,spp-parasitic-jaeger
+pectoral sandpiper,spp-pectoral-sandpiper
+peregrine falcon,spp-peregrine-falcon
+philadelphia vireo,spp-philadelphia-vireo
+piedbilled grebe,spp-pied-billed-grebe
+pileated woodpecker,spp-pileated-woodpecker
+pine grosbeak,spp-pine-grosbeak
+pine siskin,spp-pine-siskin
+pine warbler,spp-pine-warbler
+piping plover,spp-piping-plover
+pomarine jaeger,spp-pomarine-jaeger
+prairie warbler,spp-prairie-warbler
+prothonotary warbler,spp-prothonotary-warbler
+purple finch,spp-purple-finch
+purple gallinule,spp-purple-gallinule
+purple martin,spp-purple-martin
+purple sandpiper,spp-purple-sandpiper
+razorbill,spp-razorbill
+redbellied woodpecker,spp-red-bellied-woodpecker
+redbilled tropicbird,spp-red-billed-tropicbird
+redbreasted merganser,spp-red-breasted-merganser
+redbreasted nuthatch,spp-red-breasted-nuthatch
+redcockaded woodpecker,spp-red-cockaded-woodpecker
+red crossbill,spp-red-crossbill
+reddish egret,spp-reddish-egret
+redeyed vireo,spp-red-eyed-vireo
+redhead,spp-redhead
+redheaded woodpecker,spp-red-headed-woodpecker
+red knot,spp-red-knot
+rednecked grebe,spp-red-necked-grebe
+rednecked phalarope,spp-red-necked-phalarope
+red phalarope,spp-red-phalarope
+redshouldered hawk,spp-red-shouldered-hawk
+redtailed hawk,spp-red-tailed-hawk
+redthroated loon,spp-red-throated-loon
+redwinged blackbird,spp-red-winged-blackbird
+ringbilled gull,spp-ring-billed-gull
+ringnecked duck,spp-ring-necked-duck
+ringnecked pheasant,spp-ring-necked-pheasant
+rock pigeon,spp-rock-pigeon
+roseate spoonbill,spp-roseate-spoonbill
+roseate tern,spp-roseate-tern
+rosebreasted grosbeak,spp-rose-breasted-grosbeak
+rosss goose,spp-rosss-goose
+ross goose,spp-rosss-goose
+roughlegged hawk,spp-rough-legged-hawk
+royal tern,spp-royal-tern
+rubycrowned kinglet,spp-ruby-crowned-kinglet
+rubythroated hummingbird,spp-ruby-throated-hummingbird
+ruddy duck,spp-ruddy-duck
+ruddy turnstone,spp-ruddy-turnstone
+ruff,spp-ruff
+ruffed grouse,spp-ruffed-grouse
+rufous hummingbird,spp-rufous-hummingbird
+rusty blackbird,spp-rusty-blackbird
+sabines gull,spp-sabines-gull
+sabine gull,spp-sabines-gull
+sage thrasher,spp-sage-thrasher
+saltmarsh sharptailed sparrow,spp-saltmarsh-sharp-tailed-sparrow
+sanderling,spp-sanderling
+sandhill crane,spp-sandhill-crane
+sandwich tern,spp-sandwich-tern
+savannah sparrow,spp-savannah-sparrow
+says phoebe,spp-says-phoebe
+say phoebe,spp-says-phoebe
+scarlet tanager,spp-scarlet-tanager
+scissortailed flycatcher,spp-scissor-tailed-flycatcher
+seaside sparrow,spp-seaside-sparrow
+sedge wren,spp-sedge-wren
+semipalmated plover,spp-semipalmated-plover
+semipalmated sandpiper,spp-semipalmated-sandpiper
+sharpshinned hawk,spp-sharp-shinned-hawk
+shiny cowbird,spp-shiny-cowbird
+shortbilled dowitcher,spp-short-billed-dowitcher
+shorteared owl,spp-short-eared-owl
+slatybacked gull,spp-slaty-backed-gull
+smiths longspur,spp-smiths-longspur
+smith longspur,spp-smiths-longspur
+smoothbilled ani,spp-smooth-billed-ani
+snow bunting,spp-snow-bunting
+snow goose,spp-snow-goose
+snowy egret,spp-snowy-egret
+snowy owl,spp-snowy-owl
+snowy plover,spp-snowy-plover
+solitary sandpiper,spp-solitary-sandpiper
+song sparrow,spp-song-sparrow
+sooty shearwater,spp-sooty-shearwater
+sooty tern,spp-sooty-tern
+sora,spp-sora
+south polar skua,spp-south-polar-skua
+spotted redshank,spp-spotted-redshank
+spotted sandpiper,spp-spotted-sandpiper
+spotted towhee,spp-spotted-towhee
+spragues pipit,spp-spragues-pipit
+sprague pipit,spp-spragues-pipit
+stilt sandpiper,spp-stilt-sandpiper
+summer tanager,spp-summer-tanager
+surf scoter,spp-surf-scoter
+swainsons hawk,spp-swainsons-hawk
+swainson hawk,spp-swainsons-hawk
+swainsons thrush,spp-swainsons-thrush
+swainson thrush,spp-swainsons-thrush
+swainsons warbler,spp-swainsons-warbler
+swainson warbler,spp-swainsons-warbler
+swallowtailed kite,spp-swallow-tailed-kite
+swamp sparrow,spp-swamp-sparrow
+swinhoes storm-petrel,spp-swinhoes-storm-petrel
+swinhoe storm-petrel,spp-swinhoes-storm-petrel
+tennessee warbler,spp-tennessee-warbler
+thayers gull,spp-thayers-gull
+thayer gull,spp-thayers-gull
+thickbilled murre,spp-thick-billed-murre
+townsends warbler,spp-townsends-warbler
+townsend warbler,spp-townsends-warbler
+tree swallow,spp-tree-swallow
+tricolored heron,spp-tricolored-heron
+tropical kingbird,spp-tropical-kingbird
+trumpeter swan,spp-trumpeter-swan
+tufted titmouse,spp-tufted-titmouse
+tundra swan,spp-tundra-swan
+turkey vulture,spp-turkey-vulture
+upland sandpiper,spp-upland-sandpiper
+veery,spp-veery
+vermilion flycatcher,spp-vermilion-flycatcher
+vesper sparrow,spp-vesper-sparrow
+virginia rail,spp-virginia-rail
+warbling vireo,spp-warbling-vireo
+waynes black-throated green warbler,spp-waynes-black-throated-green-warbler
+wayne black-throated green warbler,spp-waynes-black-throated-green-warbler
+western grebe,spp-western-grebe
+western kingbird,spp-western-kingbird
+western meadowlark,spp-western-meadowlark
+western sandpiper,spp-western-sandpiper
+western tanager,spp-western-tanager
+whimbrel,spp-whimbrel
+whippoorwill,spp-whip-poor-will
+whitebreasted nuthatch,spp-white-breasted-nuthatch
+White-crowned Sparrow,spp-white-crowned-sparrow
+whitecrowned sparrow,spp-white-crowned-sparrow
+whiteeyed vireo,spp-white-eyed-vireo
+whitefaced ibis,spp-white-faced-ibis
+whitefaced stormpetrel,spp-white-faced-storm-petrel
+white ibis,spp-white-ibis
+whiterumped sandpiper,spp-white-rumped-sandpiper
+whitetailed kite,spp-white-tailed-kite
+whitetailed tropicbird,spp-white-tailed-tropicbird
+White-throated Sparrow,spp-white-throated-sparrow
+whitethroated sparrow,spp-white-throated-sparrow
+white wagtail,spp-white-wagtail
+whitewinged crossbill,spp-white-winged-crossbill
+whitewinged dove,spp-white-winged-dove
+whitewinged scoter,spp-white-winged-scoter
+whitewinged tern,spp-white-winged-tern
+wild turkey,spp-wild-turkey
+willet,spp-willet
+willow flycatcher,spp-willow-flycatcher
+wilsons phalarope,spp-wilsons-phalarope
+wilson phalarope,spp-wilsons-phalarope
+wilsons plover,spp-wilsons-plover
+wilson plover,spp-wilsons-plover
+wilsons snipe,spp-wilsons-snipe
+wilson snipe,spp-wilsons-snipe
+wilsons storm-petrel,spp-wilsons-storm-petrel
+wilson storm-petrel,spp-wilsons-storm-petrel
+wilsons warbler,spp-wilsons-warbler
+wilson warbler,spp-wilsons-warbler
+winter wren,spp-winter-wren
+wood duck,spp-wood-duck
+wood stork,spp-wood-stork
+wood thrush,spp-wood-thrush
+wormeating warbler,spp-worm-eating-warbler
+yellowbellied flycatcher,spp-yellow-bellied-flycatcher
+yellowbellied sapsucker,spp-yellow-bellied-sapsucker
+yellowbilled cuckoo,spp-yellow-billed-cuckoo
+yellowbreasted chat,spp-yellow-breasted-chat
+yellowcrowned nightheron,spp-yellow-crowned-night-heron
+yellowheaded blackbird,spp-yellow-headed-blackbird
+yellowlegged gull,spp-yellow-legged-gull
+yellownosed albatross,spp-yellow-nosed-albatross
+yellow rail,spp-yellow-rail
+yellowrumped warbler,spp-yellow-rumped-warbler
+yellowthroated vireo,spp-yellow-throated-vireo
+yellowthroated warbler,spp-yellow-throated-warbler
+yellow warbler,spp-yellow-warbler
+Accipiter cooperii,spp-coopers-hawk
+Accipiter gentilis,spp-northern-goshawk
+Accipiter striatus,spp-sharp-shinned-hawk
+Actitis macularius,spp-spotted-sandpiper
+Aechmophorus clarkii,spp-clarks-grebe
+Aechmophorus occidentalis,spp-western-grebe
+Aegolius acadicus,spp-northern-saw-whet-owl
+Agelaius phoeniceus,spp-red-winged-blackbird
+Aimophila aestivalis,spp-bachmans-sparrow
+Aix sponsa,spp-wood-duck
+Alca torda,spp-razorbill
+Alle alle,spp-dovekie
+Ammodramus caudacutus,spp-saltmarsh-sharp-tailed-sparrow
+Ammodramus henslowii,spp-henslows-sparrow
+Ammodramus leconteii,spp-le-contes-sparrow
+Ammodramus maritimus,spp-seaside-sparrow
+Ammodramus nelsoni,spp-nelsons-sharp-tailed-sparrow
+Ammodramus savannarum,spp-grasshopper-sparrow
+Anas acuta,spp-northern-pintail
+Anas americana,spp-american-wigeon
+Anas clypeata,spp-northern-shoveler
+Anas crecca,spp-green-winged-teal
+Anas cyanoptera,spp-cinnamon-teal
+Anas discors,spp-blue-winged-teal
+Anas fulvigula,spp-mottled-duck
+Anas penelope,spp-eurasian-wigeon
+Anas platyrhynchos,spp-mallard
+Anas querquedula,spp-garganey
+Anas rubripes,spp-american-black-duck
+Anas strepera,spp-gadwall
+Anhinga anhinga,spp-anhinga
+Anous stolidus,spp-brown-noddy
+Anser albifrons,spp-greater-white-fronted-goose
+Anthracothorax prevostii,spp-green-breasted-mango
+Anthus rubescens,spp-american-pipit
+Anthus spragueii,spp-spragues-pipit
+Aquila chrysaetos,spp-golden-eagle
+Aramus guarauna,spp-limpkin
+Archilochus alexandri,spp-black-chinned-hummingbird
+Archilochus colubris,spp-ruby-throated-hummingbird
+Ardea alba,spp-great-egret
+Ardea herodias,spp-great-blue-heron
+Arenaria interpres,spp-ruddy-turnstone
+Asio flammeus,spp-short-eared-owl
+Asio otus,spp-long-eared-owl
+Athene cunicularia,spp-burrowing-owl
+Aythya affinis,spp-lesser-scaup
+Aythya americana,spp-redhead
+Aythya collaris,spp-ring-necked-duck
+Aythya marila,spp-greater-scaup
+Aythya valisineria,spp-canvasback
+Baeolophus bicolor,spp-tufted-titmouse
+Bartramia longicauda,spp-upland-sandpiper
+Bombycilla cedrorum,spp-cedar-waxwing
+Bonasa umbellus,spp-ruffed-grouse
+Botaurus lentiginosus,spp-american-bittern
+Brachyramphus perdix,spp-long-billed-murrelet
+Branta bernicla,spp-brant
+Branta canadensis,spp-canada-goose
+Branta hutchinsii,spp-cackling-goose
+Branta leucopsis,spp-barnacle-goose
+Bubo scandiacus,spp-snowy-owl
+Bubo virginianus,spp-great-horned-owl
+Bubulcus ibis,spp-cattle-egret
+Bucephala albeola,spp-bufflehead
+Bucephala clangula,spp-common-goldeneye
+Bulweria bulwerii,spp-bulwers-petrel
+Buteo jamaicensis,spp-red-tailed-hawk
+Buteo lagopus,spp-rough-legged-hawk
+Buteo lineatus,spp-red-shouldered-hawk
+Buteo platypterus,spp-broad-winged-hawk
+Buteo swainsoni,spp-swainsons-hawk
+Butorides virescens,spp-green-heron
+Calamospiza melanocorys,spp-lark-bunting
+Calcarius lapponicus,spp-lapland-longspur
+Calcarius ornatus,spp-chestnut-collared-longspur
+Calcarius pictus,spp-smiths-longspur
+Calidris alba,spp-sanderling
+Calidris alpina,spp-dunlin
+Calidris bairdii,spp-bairds-sandpiper
+Calidris canutus,spp-red-knot
+Calidris ferruginea,spp-curlew-sandpiper
+Calidris fuscicollis,spp-white-rumped-sandpiper
+Calidris himantopus,spp-stilt-sandpiper
+Calidris maritima,spp-purple-sandpiper
+Calidris mauri,spp-western-sandpiper
+Calidris melanotos,spp-pectoral-sandpiper
+Calidris minuta,spp-little-stint
+Calidris minutilla,spp-least-sandpiper
+Calidris pusilla,spp-semipalmated-sandpiper
+Calonectris diomedea,spp-corys-shearwater
+Calonectris edwardsii,spp-cape-verde-shearwater
+Calypte anna,spp-annas-hummingbird
+Caprimulgus carolinensis,spp-chuck-wills-widow
+Caprimulgus vociferus,spp-whip-poor-will
+Cardinalis cardinalis,spp-northern-cardinal
+Carduelis flammea,spp-common-redpoll
+Carduelis pinus,spp-pine-siskin
+Carduelis psaltria,spp-lesser-goldfinch
+Carduelis tristis,spp-american-goldfinch
+Carpodacus mexicanus,spp-house-finch
+Carpodacus purpureus,spp-purple-finch
+Cathartes aura,spp-turkey-vulture
+Catharus bicknelli,spp-bicknells-thrush
+Catharus fuscescens,spp-veery
+Catharus guttatus,spp-hermit-thrush
+Catharus minimus,spp-gray-cheeked-thrush
+Catharus ustulatus,spp-swainsons-thrush
+Cepphus grylle,spp-black-guillemot
+Certhia americana,spp-brown-creeper
+Ceryle alcyon,spp-belted-kingfisher
+Chaetura pelagica,spp-chimney-swift
+Charadrius alexandrinus,spp-snowy-plover
+Charadrius melodus,spp-piping-plover
+Charadrius semipalmatus,spp-semipalmated-plover
+Charadrius vociferus,spp-killdeer
+Charadrius wilsonia,spp-wilsons-plover
+Chen caerulescens,spp-snow-goose
+Chen rossii,spp-rosss-goose
+Chlidonias leucopterus,spp-white-winged-tern
+Chlidonias niger,spp-black-tern
+Chondestes grammacus,spp-lark-sparrow
+Chordeiles acutipennis,spp-lesser-nighthawk
+Chordeiles gundlachii,spp-antillean-nighthawk
+Chordeiles minor,spp-common-nighthawk
+Circus cyaneus,spp-northern-harrier
+Cistothorus palustris,spp-marsh-wren
+Cistothorus platensis,spp-sedge-wren
+Clangula hyemalis,spp-long-tailed-duck
+Coccothraustes vespertinus,spp-evening-grosbeak
+Coccyzus americanus,spp-yellow-billed-cuckoo
+Coccyzus erythropthalmus,spp-black-billed-cuckoo
+Colaptes auratus,spp-northern-flicker
+Colibri thalassinus,spp-green-violet-ear
+Colinus virginianus,spp-northern-bobwhite
+Columba livia,spp-rock-pigeon
+Columbina passerina,spp-common-ground-dove
+Contopus cooperi,spp-olive-sided-flycatcher
+Contopus virens,spp-eastern-wood-pewee
+Coragyps atratus,spp-black-vulture
+Corvus brachyrhynchos,spp-american-crow
+Corvus corax,spp-common-raven
+Corvus ossifragus,spp-fish-crow
+Coturnicops noveboracensis,spp-yellow-rail
+Crotophaga ani,spp-smooth-billed-ani
+Crotophaga sulcirostris,spp-groove-billed-ani
+Cyanocitta cristata,spp-blue-jay
+Cygnus buccinator,spp-trumpeter-swan
+Cygnus columbianus,spp-tundra-swan
+Cygnus olor,spp-mute-swan
+Cynanthus latirostris,spp-broad-billed-hummingbird
+Dendrocygna autumnalis,spp-black-bellied-whistling-duck
+Dendrocygna bicolor,spp-fulvous-whistling-duck
+Dendroica caerulescens,spp-black-throated-blue-warbler
+Dendroica castanea,spp-bay-breasted-warbler
+Dendroica cerulea,spp-cerulean-warbler
+Dendroica coronata,spp-yellow-rumped-warbler
+Dendroica discolor,spp-prairie-warbler
+Dendroica dominica,spp-yellow-throated-warbler
+Dendroica fusca,spp-blackburnian-warbler
+Dendroica kirtlandii,spp-kirtlands-warbler
+Dendroica magnolia,spp-magnolia-warbler
+Dendroica nigrescens,spp-black-throated-gray-warbler
+Dendroica palmarum,spp-palm-warbler
+Dendroica pensylvanica,spp-chestnut-sided-warbler
+Dendroica petechia,spp-yellow-warbler
+Dendroica pinus,spp-pine-warbler
+Dendroica striata,spp-blackpoll-warbler
+Dendroica tigrina,spp-cape-may-warbler
+Dendroica townsendi,spp-townsends-warbler
+Dendroica virens,spp-black-throated-green-warbler
+Dendroica virens waynei,spp-waynes-black-throated-green-warbler
+Dolichonyx oryzivorus,spp-bobolink
+Dryocopus pileatus,spp-pileated-woodpecker
+Dumetella carolinensis,spp-gray-catbird
+Egretta caerulea,spp-little-blue-heron
+Egretta rufescens,spp-reddish-egret
+Egretta thula,spp-snowy-egret
+Egretta tricolor,spp-tricolored-heron
+Elanoides forficatus,spp-swallow-tailed-kite
+Elanus leucurus,spp-white-tailed-kite
+Empidonax alnorum,spp-alder-flycatcher
+Empidonax difficilis/occidentalis,spp-pacific-slopecordilleran-flycatcher
+Empidonax flaviventris,spp-yellow-bellied-flycatcher
+Empidonax minimus,spp-least-flycatcher
+Empidonax traillii,spp-willow-flycatcher
+Empidonax virescens,spp-acadian-flycatcher
+Empidonax wrightii,spp-gray-flycatcher
+Eremophila alpestris,spp-horned-lark
+Eudocimus albus,spp-white-ibis
+Euphagus carolinus,spp-rusty-blackbird
+Euphagus cyanocephalus,spp-brewers-blackbird
+Falco columbarius,spp-merlin
+Falco peregrinus,spp-peregrine-falcon
+Falco rusticolus,spp-gyrfalcon
+Falco sparverius,spp-american-kestrel
+Fratercula arctica,spp-atlantic-puffin
+Fregata magnificens,spp-magnificent-frigatebird
+Fregetta tropica,spp-black-bellied-storm-petrel
+Fringilla montifringilla,spp-brambling
+Fulica americana,spp-american-coot
+Fulmarus glacialis,spp-northern-fulmar
+Gallinago delicata,spp-wilsons-snipe
+Gallinula chloropus,spp-common-moorhen
+Gavia immer,spp-common-loon
+Gavia pacifica,spp-pacific-loon
+Gavia stellata,spp-red-throated-loon
+Gelochelidon nilotica,spp-gull-billed-tern
+Geothlypis trichas,spp-common-yellowthroat
+Grus canadensis,spp-sandhill-crane
+Haematopus palliatus,spp-american-oystercatcher
+Haliaeetus leucocephalus,spp-bald-eagle
+Helmitheros vermivorum,spp-worm-eating-warbler
+Himantopus mexicanus,spp-black-necked-stilt
+Hirundo rustica,spp-barn-swallow
+Histrionicus histrionicus,spp-harlequin-duck
+Hydrobates pelagicus,spp-european-storm-petrel
+Hydroprogne caspia,spp-caspian-tern
+Hylocichla mustelina,spp-wood-thrush
+Icteria virens,spp-yellow-breasted-chat
+Icterus bullockii,spp-bullocks-oriole
+Icterus galbula,spp-baltimore-oriole
+Icterus spurius,spp-orchard-oriole
+Ictinia mississippiensis,spp-mississippi-kite
+Ixobrychus exilis,spp-least-bittern
+Junco hyemalis,spp-dark-eyed-junco
+Lanius excubitor,spp-northern-shrike
+Lanius ludovicianus,spp-loggerhead-shrike
+Larus argentatus,spp-herring-gull
+Larus atricilla,spp-laughing-gull
+Larus cachinnans,spp-yellow-legged-gull
+Larus californicus,spp-california-gull
+Larus canus,spp-mew-gull
+Larus crassirostris,spp-black-tailed-gull
+Larus delawarensis,spp-ring-billed-gull
+Larus fuscus,spp-lesser-black-backed-gull
+Larus glaucoides,spp-iceland-gull
+Larus hyperboreus,spp-glaucous-gull
+Larus marinus,spp-great-black-backed-gull
+Larus minutus,spp-little-gull
+Larus philadelphia,spp-bonapartes-gull
+Larus pipixcan,spp-franklins-gull
+Larus ridibundus,spp-black-headed-gull
+Larus schistisagus,spp-slaty-backed-gull
+Larus thayeri,spp-thayers-gull
+Laterallus jamaicensis,spp-black-rail
+Limnodromus griseus,spp-short-billed-dowitcher
+Limnodromus scolopaceus,spp-long-billed-dowitcher
+Limnothlypis swainsonii,spp-swainsons-warbler
+Limosa fedoa,spp-marbled-godwit
+Limosa haemastica,spp-hudsonian-godwit
+Limosa lapponica,spp-bar-tailed-godwit
+Limosa limosa,spp-black-tailed-godwit
+Lophodytes cucullatus,spp-hooded-merganser
+Loxia curvirostra,spp-red-crossbill
+Loxia leucoptera,spp-white-winged-crossbill
+Megascops asio,spp-eastern-screech-owl
+Melanerpes carolinus,spp-red-bellied-woodpecker
+Melanerpes erythrocephalus,spp-red-headed-woodpecker
+Melanitta fusca,spp-white-winged-scoter
+Melanitta nigra,spp-black-scoter
+Melanitta perspicillata,spp-surf-scoter
+Meleagris gallopavo,spp-wild-turkey
+Melospiza georgiana,spp-swamp-sparrow
+Melospiza lincolnii,spp-lincolns-sparrow
+Melospiza melodia,spp-song-sparrow
+Mergus merganser,spp-common-merganser
+Mergus serrator,spp-red-breasted-merganser
+Mimus polyglottos,spp-northern-mockingbird
+Mniotilta varia,spp-black-and-white-warbler
+Molothrus ater,spp-brown-headed-cowbird
+Molothrus bonariensis,spp-shiny-cowbird
+Morus bassanus,spp-northern-gannet
+Motacilla alba,spp-white-wagtail
+Mycteria americana,spp-wood-stork
+Myiarchus cinerascens,spp-ash-throated-flycatcher
+Myiarchus crinitus,spp-great-crested-flycatcher
+Nomonyx dominicus,spp-masked-duck
+Numenius americanus,spp-long-billed-curlew
+Numenius phaeopus,spp-whimbrel
+Nyctanassa violacea,spp-yellow-crowned-night-heron
+Nycticorax nycticorax,spp-black-crowned-night-heron
+Oceanites oceanicus,spp-wilsons-storm-petrel
+Oceanodroma castro,spp-band-rumped-storm-petrel
+Oceanodroma leucorhoa,spp-leachs-storm-petrel
+Oceanodroma monorhis,spp-swinhoes-storm-petrel
+Oenanthe oenanthe,spp-northern-wheatear
+Onychoprion anaethetus,spp-bridled-tern
+Onychoprion fuscatus,spp-sooty-tern
+Oporornis agilis,spp-connecticut-warbler
+Oporornis formosus,spp-kentucky-warbler
+Oporornis philadelphia,spp-mourning-warbler
+Oporornis tolmiei,spp-macgillivrays-warbler
+Oreoscoptes montanus,spp-sage-thrasher
+Oxyura jamaicensis,spp-ruddy-duck
+Pandion haliaetus,spp-osprey
+Parula americana,spp-northern-parula
+Passer domesticus,spp-house-sparrow
+Passerculus sandwichensis,spp-savannah-sparrow
+Passerella iliaca,spp-fox-sparrow
+Passerina amoena,spp-lazuli-bunting
+Passerina caerulea,spp-blue-grosbeak
+Passerina ciris,spp-painted-bunting
+Passerina cyanea,spp-indigo-bunting
+Patagioenas fasciata,spp-band-tailed-pigeon
+Pelagodroma marina,spp-white-faced-storm-petrel
+Pelecanus erythrorhynchos,spp-american-white-pelican
+Pelecanus occidentalis,spp-brown-pelican
+Petrochelidon fulva,spp-cave-swallow
+Petrochelidon pyrrhonota,spp-cliff-swallow
+Phaethon aethereus,spp-red-billed-tropicbird
+Phaethon lepturus,spp-white-tailed-tropicbird
+Phalacrocorax auritus,spp-double-crested-cormorant
+Phalacrocorax carbo,spp-great-cormorant
+Phalaropus fulicarius,spp-red-phalarope
+Phalaropus lobatus,spp-red-necked-phalarope
+Phalaropus tricolor,spp-wilsons-phalarope
+Phasianus colchicus,spp-ring-necked-pheasant
+Pheucticus ludovicianus,spp-rose-breasted-grosbeak
+Pheucticus melanocephalus,spp-black-headed-grosbeak
+Philomachus pugnax,spp-ruff
+Picoides borealis,spp-red-cockaded-woodpecker
+Picoides pubescens,spp-downy-woodpecker
+Picoides villosus,spp-hairy-woodpecker
+Pinicola enucleator,spp-pine-grosbeak
+Pipilo chlorurus,spp-green-tailed-towhee
+Pipilo erythrophthalmus,spp-eastern-towhee
+Pipilo maculatus,spp-spotted-towhee
+Piranga ludoviciana,spp-western-tanager
+Piranga olivacea,spp-scarlet-tanager
+Piranga rubra,spp-summer-tanager
+Platalea ajaja,spp-roseate-spoonbill
+Plectrophenax nivalis,spp-snow-bunting
+Plegadis chihi,spp-white-faced-ibis
+Plegadis falcinellus,spp-glossy-ibis
+Pluvialis dominica,spp-american-golden-plover
+Pluvialis squatarola,spp-black-bellied-plover
+Podiceps auritus,spp-horned-grebe
+Podiceps grisegena,spp-red-necked-grebe
+Podiceps nigricollis,spp-eared-grebe
+Podilymbus podiceps,spp-pied-billed-grebe
+Poecile atricapillus,spp-black-capped-chickadee
+Poecile carolinensis,spp-carolina-chickadee
+Polioptila caerulea,spp-blue-gray-gnatcatcher
+Pooecetes gramineus,spp-vesper-sparrow
+Porphyrio martinica,spp-purple-gallinule
+Porzana carolina,spp-sora
+Progne subis,spp-purple-martin
+Protonotaria citrea,spp-prothonotary-warbler
+Pterodroma arminjoniana,spp-herald-petrel
+Pterodroma cahow,spp-bermuda-petrel
+Pterodroma feae,spp-feas-petrel
+Pterodroma hasitata,spp-black-capped-petrel
+Puffinus gravis,spp-greater-shearwater
+Puffinus griseus,spp-sooty-shearwater
+Puffinus lherminieri,spp-audubons-shearwater
+Puffinus puffinus,spp-manx-shearwater
+Pyrocephalus rubinus,spp-vermilion-flycatcher
+Quiscalus major,spp-boat-tailed-grackle
+Quiscalus quiscula,spp-common-grackle
+Rallus elegans,spp-king-rail
+Rallus limicola,spp-virginia-rail
+Rallus longirostris,spp-clapper-rail
+Recurvirostra americana,spp-american-avocet
+Regulus calendula,spp-ruby-crowned-kinglet
+Regulus satrapa,spp-golden-crowned-kinglet
+Riparia riparia,spp-bank-swallow
+Rissa tridactyla,spp-black-legged-kittiwake
+Rynchops niger,spp-black-skimmer
+Sayornis phoebe,spp-eastern-phoebe
+Sayornis saya,spp-says-phoebe
+Scolopax minor,spp-american-woodcock
+Seiurus aurocapilla,spp-ovenbird
+Seiurus motacilla,spp-louisiana-waterthrush
+Seiurus noveboracensis,spp-northern-waterthrush
+Selasphorus platycercus,spp-broad-tailed-hummingbird
+Selasphorus rufus,spp-rufous-hummingbird
+Selasphorus sasin,spp-allens-hummingbird
+Setophaga ruticilla,spp-american-redstart
+Sialia currucoides,spp-mountain-bluebird
+Sialia sialis,spp-eastern-bluebird
+Sitta canadensis,spp-red-breasted-nuthatch
+Sitta carolinensis,spp-white-breasted-nuthatch
+Sitta pusilla,spp-brown-headed-nuthatch
+Somateria mollissima,spp-common-eider
+Somateria spectabilis,spp-king-eider
+Sphyrapicus varius,spp-yellow-bellied-sapsucker
+Spiza americana,spp-dickcissel
+Spizella arborea,spp-american-tree-sparrow
+Spizella pallida,spp-clay-colored-sparrow
+Spizella passerina,spp-chipping-sparrow
+Spizella pusilla,spp-field-sparrow
+Stelgidopteryx serripennis,spp-northern-rough-winged-swallow
+Stellula calliope,spp-calliope-hummingbird
+Stercorarius longicaudus,spp-long-tailed-jaeger
+Stercorarius maccormicki,spp-south-polar-skua
+Stercorarius parasiticus,spp-parasitic-jaeger
+Stercorarius pomarinus,spp-pomarine-jaeger
+Stercorarius skua,spp-great-skua
+Sterna dougallii,spp-roseate-tern
+Sterna forsteri,spp-forsters-tern
+Sterna hirundo,spp-common-tern
+Sterna paradisaea,spp-arctic-tern
+Sternula antillarum,spp-least-tern
+Streptopelia decaocto,spp-eurasian-collared-dove
+Strix varia,spp-barred-owl
+Sturnella magna,spp-eastern-meadowlark
+Sturnella neglecta,spp-western-meadowlark
+Sturnus vulgaris,spp-european-starling
+Sula dactylatra,spp-masked-booby
+Sula leucogaster,spp-brown-booby
+Tachycineta bicolor,spp-tree-swallow
+Thalassarche chlororhynchos,spp-yellow-nosed-albatross
+Thalassarche melanophris,spp-black-browed-albatross
+Thalasseus maximus,spp-royal-tern
+Thalasseus sandvicensis,spp-sandwich-tern
+Thryomanes bewickii,spp-bewicks-wren
+Thryothorus ludovicianus,spp-carolina-wren
+Toxostoma rufum,spp-brown-thrasher
+Tringa erythropus,spp-spotted-redshank
+Tringa flavipes,spp-lesser-yellowlegs
+Tringa melanoleuca,spp-greater-yellowlegs
+Tringa semipalmata,spp-willet
+Tringa solitaria,spp-solitary-sandpiper
+Troglodytes aedon,spp-house-wren
+Troglodytes troglodytes,spp-winter-wren
+Tryngites subruficollis,spp-buff-breasted-sandpiper
+Turdus migratorius,spp-american-robin
+Tyrannus dominicensis,spp-gray-kingbird
+Tyrannus forficatus,spp-scissor-tailed-flycatcher
+Tyrannus melancholicus,spp-tropical-kingbird
+Tyrannus savana,spp-fork-tailed-flycatcher
+Tyrannus tyrannus,spp-eastern-kingbird
+Tyrannus verticalis,spp-western-kingbird
+Tyto alba,spp-barn-owl
+Uria aalge,spp-common-murre
+Uria lomvia,spp-thick-billed-murre
+Vanellus vanellus,spp-northern-lapwing
+Vermivora bachmanii,spp-bachmans-warbler
+Vermivora celata,spp-orange-crowned-warbler
+Vermivora chrysoptera,spp-golden-winged-warbler
+Vermivora peregrina,spp-tennessee-warbler
+Vermivora pinus,spp-blue-winged-warbler
+Vermivora ruficapilla,spp-nashville-warbler
+Vireo altiloquus,spp-black-whiskered-vireo
+Vireo bellii,spp-bells-vireo
+Vireo flavifrons,spp-yellow-throated-vireo
+Vireo gilvus,spp-warbling-vireo
+Vireo griseus,spp-white-eyed-vireo
+Vireo olivaceus,spp-red-eyed-vireo
+Vireo philadelphicus,spp-philadelphia-vireo
+Vireo solitarius,spp-blue-headed-vireo
+Wilsonia canadensis,spp-canada-warbler
+Wilsonia citrina,spp-hooded-warbler
+Wilsonia pusilla,spp-wilsons-warbler
+Xanthocephalus xanthocephalus,spp-yellow-headed-blackbird
+Xema sabini,spp-sabines-gull
+Zenaida asiatica,spp-white-winged-dove
+Zenaida macroura,spp-mourning-dove
+Zonotrichia albicollis,spp-white-throated-sparrow
+Zonotrichia leucophrys,spp-white-crowned-sparrow
+Zonotrichia querula,spp-harriss-sparrow
+fraser fir forest (herb subtype) ,saw-hab-fraser-fir-forest-herb-subtype
+fraser fir forest (rhododendron subtype) ,saw-hab-fraser-fir-forest-rhododendron-subtype
+red spruce–fraser fir forest (herb subtype) ,saw-hab-red-spruce-fraser-fir-forest-herb-subtype
+red spruce–fraser fir forest (rhododendron subtype) ,saw-hab-red-spruce-fraser-fir-forest-rhododendron-subtype
+red spruce–fraser fir forest (boulderfield subtype),saw-hab-red-spruce-fraser-fir-forest-boulderfield-subtype
+red spruce–fraser fir forest (birch transition herb subtype) ,saw-hab-red-spruce-fraser-fir-forest-birch-transition-herb-subtype
+red spruce–fraser fir forest (birch transition shrub subtype) ,saw-hab-red-spruce-fraser-fir-forest-birch-transition-shrub-subtype
+red spruce–fraser fir forest (low rhododendron subtype) ,saw-hab-red-spruce-fraser-fir-forest-low-rhododendron-subtype
+grassy bald (grass subtype),saw-hab-grassy-bald-grass-subtype
+grassy bald (sedge subtype ,saw-hab-grassy-bald-sedge-subtype
+grassy bald (alder subtype) ,saw-hab-grassy-bald-alder-subtype
+heath bald (catawba rhododendron subtype) ,saw-hab-heath-bald-catawba-rhododendron-subtype
+heath bald (carolina rhododendron subtype) ,saw-hab-heath-bald-carolina-rhododendron-subtype
+heath bald (southern mixed subtype) ,saw-hab-heath-bald-southern-mixed-subtype
+heath bald (slate subtype) ,saw-hab-heath-bald-slate-subtype
+heath bald (sand myrtle subtype) ,saw-hab-heath-bald-sand-myrtle-subtype
+heath bald (low elevation subtype) ,saw-hab-heath-bald-low-elevation-subtype
+northern hardwood forest (typic subtype) ,saw-hab-northern-hardwood-forest-typic-subtype
+northern hardwood forest (rich subtype) ,saw-hab-northern-hardwood-forest-rich-subtype
+northern hardwood forest (beech gap subtype),saw-hab-northern-hardwood-forest-beech-gap-subtype
+high elevation birch boulderfield forest,saw-hab-high-elevation-birch-boulderfield-forest
+rich cove forest (montane intermediate subtype) ,saw-hab-rich-cove-forest-montane-intermediate-subtype
+rich cove forest (montane rich subtype) ,saw-hab-rich-cove-forest-montane-rich-subtype
+rich cove forest (foothills intermediate subtype) ,saw-hab-rich-cove-forest-foothills-intermediate-subtype
+rich cove forest (foothills rich subtype) ,saw-hab-rich-cove-forest-foothills-rich-subtype
+rich cove forest (red oak subtype) ,saw-hab-rich-cove-forest-red-oak-subtype
+rich cove forest (boulderfield subtype),saw-hab-rich-cove-forest-boulderfield-subtype
+acidic cove forest (typic subtype) ,saw-hab-acidic-cove-forest-typic-subtype
+acidic cove forest (high elevation subtype) ,saw-hab-acidic-cove-forest-high-elevation-subtype
+acidic cove forest (silverbell subtype),saw-hab-acidic-cove-forest-silverbell-subtype
+canada hemlock forest (typic subtype) ,saw-hab-canada-hemlock-forest-typic-subtype
+canada hemlock forest (white pine subtype),saw-hab-canada-hemlock-forest-white-pine-subtype
+mesic mixed hardwood forest (piedmont subtype) ,saw-hab-mesic-mixed-hardwood-forest-piedmont-subtype
+mesic mixed hardwood forest (coastal plain subtype) ,saw-hab-mesic-mixed-hardwood-forest-coastal-plain-subtype
+basic mesic forest (piedmont subtype),saw-hab-basic-mesic-forest-piedmont-subtype
+basic mesic forest (coastal plain subtype) ,saw-hab-basic-mesic-forest-coastal-plain-subtype
+piedmont/coastal plain heath bluff ,saw-hab-piedmont-coastal-plain-heath-bluff
+cape fear valley mixed bluff forest ,saw-hab-cape-fear-valley-mixed-bluff-forest
+pine–oak / heath (typic subtype) ,saw-hab-pine-oak-heath-typic-subtype
+pine–oak / heath (high elevation subtype) ,saw-hab-pine-oak-heath-high-elevation-subtype
+carolina hemlock forest (typic subtype) ,saw-hab-carolina-hemlock-forest-typic-subtype
+carolina hemlock forest (pine subtype) ,saw-hab-carolina-hemlock-forest-pine-subtype
+carolina hemlock forest (mesic subtype),saw-hab-carolina-hemlock-forest-mesic-subtype
+white pine forest ,saw-hab-white-pine-forest
+low mountain pine forest (shortleaf pine subtype) ,saw-hab-low-mountain-pine-forest-shortleaf-pine-subtype
+low mountain pine forest (montane pine subtype),saw-hab-low-mountain-pine-forest-montane-pine-subtype
+southern mountain pine–oak forest ,saw-hab-southern-mountain-pine-oak-forest
+southern mountain xeric pine–oak woodland ,saw-hab-southern-mountain-xeric-pine-oak-woodland
+high elevation red oak forest (typic herb subtype) ,saw-hab-high-elevation-red-oak-forest-typic-herb-subtype
+high elevation red oak forest (rich subtype) ,saw-hab-high-elevation-red-oak-forest-rich-subtype
+high elevation red oak forest (heath subtype) ,saw-hab-high-elevation-red-oak-forest-heath-subtype
+high elevation red oak forest (orchard forest subtype) ,saw-hab-high-elevation-red-oak-forest-orchard-forest-subtype
+high elevation red oak forest (stunted woodland subtype) ,saw-hab-high-elevation-red-oak-forest-stunted-woodland-subtype
+high elevation white oak forest ,saw-hab-high-elevation-white-oak-forest
+chestnut oak forest (dry heath subtype) ,saw-hab-chestnut-oak-forest-dry-heath-subtype
+chestnut oak forest (herb subtype) ,saw-hab-chestnut-oak-forest-herb-subtype
+chestnut oak forest (white pine subtype) ,saw-hab-chestnut-oak-forest-white-pine-subtype
+chestnut oak forest (mesic subtype) ,saw-hab-chestnut-oak-forest-mesic-subtype
+montane oak–hickory forest (acidic subtype) ,saw-hab-montane-oak-hickory-forest-acidic-subtype
+montane oak–hickory forest (basic subtype) ,saw-hab-montane-oak-hickory-forest-basic-subtype
+montane oak–hickory forest (low dry subtype) ,saw-hab-montane-oak-hickory-forest-low-dry-subtype
+montane oak–hickory forest (white pine subtype),saw-hab-montane-oak-hickory-forest-white-pine-subtype
+low montane red oak forest ,saw-hab-low-montane-red-oak-forest
+calcareous oak–walnut forest ,saw-hab-calcareous-oak-walnut-forest
+montane grape opening ,saw-hab-montane-grape-opening
+dry-mesic oak–hickory forest (piedmont subtype) ,saw-hab-dry-mesic-oak-hickory-forest-piedmont-subtype
+dry-mesic oak-hickory forest (coastal plain subtype) ,saw-hab-dry-mesic-oak-hickory-forest-coastal-plain-subtype
+dry oak–hickory forest (piedmont subtype) ,saw-hab-dry-oak-hickory-forest-piedmont-subtype
+dry oak–hickory forest (coastal plain subtype) ,saw-hab-dry-oak-hickory-forest-coastal-plain-subtype
+dry-mesic basic oak–hickory forest (piedmont subtype) ,saw-hab-dry-mesic-basic-oak-hickory-forest-piedmont-subtype
+dry-mesic basic oak–hickory forest (coastal plain subtype) ,saw-hab-dry-mesic-basic-oak-hickory-forest-coastal-plain-subtype
+dry basic oak–hickory forest ,saw-hab-dry-basic-oak-hickory-forest
+piedmont monadnock forest (typic subtype) ,saw-hab-piedmont-monadnock-forest-typic-subtype
+piedmont monadnock forest (pine subtype) ,saw-hab-piedmont-monadnock-forest-pine-subtype
+piedmont monadnock forest (heath subtype) ,saw-hab-piedmont-monadnock-forest-heath-subtype
+mixed moisture hardpan forest ,saw-hab-mixed-moisture-hardpan-forest
+swamp island evergreen forest,saw-hab-swamp-island-evergreen-forest
+high elevation rocky summit (typic subtype) ,saw-hab-high-elevation-rocky-summit-typic-subtype
+high elevation rocky summit (high peak subtype) ,saw-hab-high-elevation-rocky-summit-high-peak-subtype
+high elevation rocky summit (little bluestem basic subtype) ,saw-hab-high-elevation-rocky-summit-little-bluestem-basic-subtype
+high elevation rocky summit (ninebark basic subtype) ,saw-hab-high-elevation-rocky-summit-ninebark-basic-subtype
+high elevation rocky summit (high peak lichen subtype) ,saw-hab-high-elevation-rocky-summit-high-peak-lichen-subtype
+high elevation granitic dome ,saw-hab-high-elevation-granitic-dome
+low elevation rocky summit (acidic subtype),saw-hab-low-elevation-rocky-summit-acidic-subtype
+low elevation rocky summit (basic subtype),saw-hab-low-elevation-rocky-summit-basic-subtype
+low elevation rocky summit (quartzite ledge subtype) ,saw-hab-low-elevation-rocky-summit-quartzite-ledge-subtype
+low elevation granitic dome ,saw-hab-low-elevation-granitic-dome
+montane cliff (acidic herb subtype) ,saw-hab-montane-cliff-acidic-herb-subtype
+montane cliff (acidic lichen subtype) ,saw-hab-montane-cliff-acidic-lichen-subtype
+montane cliff (carolina rocktripe subtype) ,saw-hab-montane-cliff-carolina-rocktripe-subtype
+montane cliff (mafic subtype),saw-hab-montane-cliff-mafic-subtype
+montane cliff (calcareous subtype),saw-hab-montane-cliff-calcareous-subtype
+talus vineland ,saw-hab-talus-vineland
+piedmont cliff (acidic subtype) ,saw-hab-piedmont-cliff-acidic-subtype
+piedmont cliff (basic subtype) ,saw-hab-piedmont-cliff-basic-subtype
+coastal plain cliff ,saw-hab-coastal-plain-cliff
+coastal plain marl outcrop (bluff subtype) ,saw-hab-coastal-plain-marl-outcrop-bluff-subtype
+coastal plain marl outcrop (lake shore subtype) ,saw-hab-coastal-plain-marl-outcrop-lake-shore-subtype
+granitic flatrock (annual herb subtype) ,saw-hab-granitic-flatrock-annual-herb-subtype
+granitic flatrock (perennial herb subtype) ,saw-hab-granitic-flatrock-perennial-herb-subtype
+granitic flatrock border woodland ,saw-hab-granitic-flatrock-border-woodland
+high elevation mafic glade ,saw-hab-high-elevation-mafic-glade
+low elevation acidic glade (grass subtype) ,saw-hab-low-elevation-acidic-glade-grass-subtype
+low elevation acidic glade (biltmore sedge subtype) ,saw-hab-low-elevation-acidic-glade-biltmore-sedge-subtype
+low elevation basic glade (montane subtype) ,saw-hab-low-elevation-basic-glade-montane-subtype
+low elevation basic glade (brushy mountain subtype) ,saw-hab-low-elevation-basic-glade-brushy-mountain-subtype
+montane red cedar–hardwood woodland ,saw-hab-montane-red-cedar-hardwood-woodland
+granitic dome basic woodland ,saw-hab-granitic-dome-basic-woodland
+ultramafic outcrop barren (pitch pine subtype) ,saw-hab-ultramafic-outcrop-barren-pitch-pine-subtype
+ultramafic outcrop barren (white oak subtype) ,saw-hab-ultramafic-outcrop-barren-white-oak-subtype
+ultramafic outcrop barren (virginia pine subtype) ,saw-hab-ultramafic-outcrop-barren-virginia-pine-subtype
+ultramafic outcrop barren (piedmont subtype),saw-hab-ultramafic-outcrop-barren-piedmont-subtype
+acidic shale slope woodland ,saw-hab-acidic-shale-slope-woodland
+calcareous shale slope woodland ,saw-hab-calcareous-shale-slope-woodland
+piedmont acidic glade,saw-hab-piedmont-acidic-glade
+piedmont basic glade (typic subtype),saw-hab-piedmont-basic-glade-typic-subtype
+piedmont basic glade (falls dam slope subtype) ,saw-hab-piedmont-basic-glade-falls-dam-slope-subtype
+diabase glade ,saw-hab-diabase-glade
+xeric hardpan forest (basic hardpan subtype) ,saw-hab-xeric-hardpan-forest-basic-hardpan-subtype
+xeric hardpan forest (northern prairie barren subtype) ,saw-hab-xeric-hardpan-forest-northern-prairie-barren-subtype
+xeric hardpan forest (southern prairie barren subtype) ,saw-hab-xeric-hardpan-forest-southern-prairie-barren-subtype
+xeric hardpan forest (acidic hardpan subtype) ,saw-hab-xeric-hardpan-forest-acidic-hardpan-subtype
+xeric hardpan forest (basic rocky subtype) ,saw-hab-xeric-hardpan-forest-basic-rocky-subtype
+xeric piedmont slope woodland ,saw-hab-xeric-piedmont-slope-woodland
+dune grass (southern subtype) ,saw-hab-dune-grass-southern-subtype
+dune grass (bluestem subtype) ,saw-hab-dune-grass-bluestem-subtype
+dune grass (northern subtype) ,saw-hab-dune-grass-northern-subtype
+live dune barren ,saw-hab-live-dune-barren
+stable dune barren (southern subtype) ,saw-hab-stable-dune-barren-southern-subtype
+stable dune barren (beach heather subtype) ,saw-hab-stable-dune-barren-beach-heather-subtype
+maritime dry grassland (typic subtype) ,saw-hab-maritime-dry-grassland-typic-subtype
+maritime dry grassland (northern subtype) ,saw-hab-maritime-dry-grassland-northern-subtype
+maritime vine tangle ,saw-hab-maritime-vine-tangle
+maritime shrub (stunted tree subtype) ,saw-hab-maritime-shrub-stunted-tree-subtype
+maritime shrub (wax-myrtle subtype) ,saw-hab-maritime-shrub-wax-myrtle-subtype
+maritime shrub (bayberry subtype) ,saw-hab-maritime-shrub-bayberry-subtype
+maritime evergreen forest (mid atlantic subtype) ,saw-hab-maritime-evergreen-forest-mid-atlantic-subtype
+maritime evergreen forest (south atlantic subtype) ,saw-hab-maritime-evergreen-forest-south-atlantic-subtype
+maritime deciduous forest ,saw-hab-maritime-deciduous-forest
+coastal fringe evergreen forest (typic subtype) ,saw-hab-coastal-fringe-evergreen-forest-typic-subtype
+coastal fringe evergreen forest (sand spit woodland subtype) ,saw-hab-coastal-fringe-evergreen-forest-sand-spit-woodland-subtype
+calcareous coastal fringe forest (northern subtype) ,saw-hab-calcareous-coastal-fringe-forest-northern-subtype
+calcareous coastal fringe forest (southern subtype) ,saw-hab-calcareous-coastal-fringe-forest-southern-subtype
+marsh hammock ,saw-hab-marsh-hammock
+coastal fringe shell woodland ,saw-hab-coastal-fringe-shell-woodland
+dry piedmont longleaf pine forest,saw-hab-dry-piedmont-longleaf-pine-forest
+sand barren (typic subtype) ,saw-hab-sand-barren-typic-subtype
+sand barren (coastal fringe subtype) ,saw-hab-sand-barren-coastal-fringe-subtype
+xeric sandhill scrub (typic subtype) ,saw-hab-xeric-sandhill-scrub-typic-subtype
+xeric sandhill scrub (coastal fringe subtype) ,saw-hab-xeric-sandhill-scrub-coastal-fringe-subtype
+pine/scrub oak sandhill (blackjack subtype) ,saw-hab-pine-scrub-oak-sandhill-blackjack-subtype
+pine/scrub oak sandhill (mixed oak subtype),saw-hab-pine-scrub-oak-sandhill-mixed-oak-subtype
+pine/scrub oak sandhill (mesic transition subtype) ,saw-hab-pine-scrub-oak-sandhill-mesic-transition-subtype
+pine/scrub oak sandhill (clay/rock hilltop subtype),saw-hab-pine-scrub-oak-sandhill-clay-rock-hilltop-subtype
+pine/scrub oak sandhill (coastal fringe subtype) ,saw-hab-pine-scrub-oak-sandhill-coastal-fringe-subtype
+pine/scrub oak sandhill (northern subtype),saw-hab-pine-scrub-oak-sandhill-northern-subtype
+mesic pine savanna (coastal plain subtype) ,saw-hab-mesic-pine-savanna-coastal-plain-subtype
+mesic pine savanna (sandhills subtype) ,saw-hab-mesic-pine-savanna-sandhills-subtype
+mesic pine savanna (little river subtype) ,saw-hab-mesic-pine-savanna-little-river-subtype
+mesic pine savanna (lumbee subtype) ,saw-hab-mesic-pine-savanna-lumbee-subtype
+brownwater levee forest (high levee subtype) ,saw-hab-brownwater-levee-forest-high-levee-subtype
+brownwater levee forest (medium levee subtype) ,saw-hab-brownwater-levee-forest-medium-levee-subtype
+brownwater levee forest (low levee subtype) ,saw-hab-brownwater-levee-forest-low-levee-subtype
+brownwater levee forest (bar subtype) ,saw-hab-brownwater-levee-forest-bar-subtype
+blackwater levee/bar forest ,saw-hab-blackwater-levee-bar-forest
+brownwater bottomland hardwoods (high subtype) ,saw-hab-brownwater-bottomland-hardwoods-high-subtype
+brownwater bottomland hardwoods (low subtype) ,saw-hab-brownwater-bottomland-hardwoods-low-subtype
+brownwater bottomland hardwoods (swamp transition subtype) ,saw-hab-brownwater-bottomland-hardwoods-swamp-transition-subtype
+blackwater bottomland hardwoods (high subtype) ,saw-hab-blackwater-bottomland-hardwoods-high-subtype
+blackwater bottomland hardwoods (low subtype) ,saw-hab-blackwater-bottomland-hardwoods-low-subtype
+blackwater bottomland hardwoods (evergreen subtype),saw-hab-blackwater-bottomland-hardwoods-evergreen-subtype
+blackwater bottomland hardwoods (swamp transition subtype) ,saw-hab-blackwater-bottomland-hardwoods-swamp-transition-subtype
+cypress–gum swamp (brownwater subtype) ,saw-hab-cypress-gum-swamp-brownwater-subtype
+cypress-gum swamp (intermediate subtype) ,saw-hab-cypress-gum-swamp-intermediate-subtype
+cypress--gum swamp (blackwater subtype) ,saw-hab-cypress-gum-swamp-blackwater-subtype
+cypress–gum swamp (blackwater cove subtype) ,saw-hab-cypress-gum-swamp-blackwater-cove-subtype
+sandhill streamhead swamp,saw-hab-sandhill-streamhead-swamp
+coastal plain small stream swamp ,saw-hab-coastal-plain-small-stream-swamp
+oxbow lake (brownwater subtype) ,saw-hab-oxbow-lake-brownwater-subtype
+oxbow lake (blackwater subtype),saw-hab-oxbow-lake-blackwater-subtype
+sand and mud bar (brownwater subtype) ,saw-hab-sand-and-mud-bar-brownwater-subtype
+sand and mud bar (blackwater sand bar subtype) ,saw-hab-sand-and-mud-bar-blackwater-sand-bar-subtype
+sand and mud bar (blackwater drawdown bar subtype) ,saw-hab-sand-and-mud-bar-blackwater-drawdown-bar-subtype
+sand and mud bar (narrowleaf pond-lily subtype) ,saw-hab-sand-and-mud-bar-narrowleaf-pond-lily-subtype
+riverine floating mat ,saw-hab-riverine-floating-mat
+coastal plain semipermanent impoundment (open water subtype) ,saw-hab-coastal-plain-semipermanent-impoundment-open-water-subtype
+coastal plain semipermanent impoundment (typic marsh subtype) ,saw-hab-coastal-plain-semipermanent-impoundment-typic-marsh-subtype
+coastal plain semipermanent impoundment (sandhills marsh subtype) 115,saw-hab-coastal-plain-semipermanent-impoundment-sandhills-marsh-subtype115
+coastal plain semipermanent impoundment (sandhills mire subtype) ,saw-hab-coastal-plain-semipermanent-impoundment-sandhills-mire-subtype
+coastal plain semipermanent impoundment (cypress-gum subtype) ,saw-hab-coastal-plain-semipermanent-impoundment-cypress-gum-subtype
+montane alluvial forest (small river subtype) ,saw-hab-montane-alluvial-forest-small-river-subtype
+montane alluvial forest (large river subtype) ,saw-hab-montane-alluvial-forest-large-river-subtype
+montane alluvial forest (high terrace subtype) ,saw-hab-montane-alluvial-forest-high-terrace-subtype
+montane floodplain slough forest ,saw-hab-montane-floodplain-slough-forest
+piedmont alluvial forest ,saw-hab-piedmont-alluvial-forest
+piedmont headwater stream forest (typic subtype) ,saw-hab-piedmont-headwater-stream-forest-typic-subtype
+piedmont headwater stream forest (hardpan subtype) ,saw-hab-piedmont-headwater-stream-forest-hardpan-subtype
+piedmont levee forest (typic subtype) ,saw-hab-piedmont-levee-forest-typic-subtype
+piedmont levee forest (beech subtype) ,saw-hab-piedmont-levee-forest-beech-subtype
+piedmont bottomland forest (high subtype),saw-hab-piedmont-bottomland-forest-high-subtype
+piedmont bottomland forest (typic low subtype) ,saw-hab-piedmont-bottomland-forest-typic-low-subtype
+piedmont bottomland forest (northern low subtype ,saw-hab-piedmont-bottomland-forest-northern-low-subtype
+piedmont swamp forest ,saw-hab-piedmont-swamp-forest
+piedmont/mountain canebrake,saw-hab-piedmont-mountain-canebrake
+floodplain pool ,saw-hab-floodplain-pool
+piedmont/mountain semipermanent impoundment (open water subtype) 128,saw-hab-piedmont-mountain-semipermanent-impoundment-open-water-subtype128
+piedmont/mountain semipermanent impoundment (montane marsh subtype) ,saw-hab-piedmont-mountain-semipermanent-impoundment-montane-marsh-subtype
+piedmont/mountain semipermanent impoundment (piedmont marsh ,saw-hab-piedmont-mountain-semipermanent-impoundment-piedmont-marsh
+piedmont/mountain semipermanent impoundment (shrub subtype) ,saw-hab-piedmont-mountain-semipermanent-impoundment-shrub-subtype
+rocky bar and shore (alder-yellowroot subtype) ,saw-hab-rocky-bar-and-shore-alder-yellowroot-subtype
+rocky bar and shore (twisted sedge subtype) ,saw-hab-rocky-bar-and-shore-twisted-sedge-subtype
+rocky bar and shore (water willow subtype) ,saw-hab-rocky-bar-and-shore-water-willow-subtype
+rocky bar and shore (mixed bar subtype) ,saw-hab-rocky-bar-and-shore-mixed-bar-subtype
+rocky bar and shore (mountain bedrock scour subtype) ,saw-hab-rocky-bar-and-shore-mountain-bedrock-scour-subtype
+rocky bar and shore (yadkin falls bedrock scour subtype) ,saw-hab-rocky-bar-and-shore-yadkin-falls-bedrock-scour-subtype
+rocky bar and shore (riverweed subtype),saw-hab-rocky-bar-and-shore-riverweed-subtype
+rocky bar and shore (southern wild rice subtype) ,saw-hab-rocky-bar-and-shore-southern-wild-rice-subtype
+swamp forest–bog complex (typic subtype) ,saw-hab-swamp-forest-bog-complex-typic-subtype
+swamp forest–bog complex (spruce subtype) ,saw-hab-swamp-forest-bog-complex-spruce-subtype
+southern appalachian bog (typic subtype),saw-hab-southern-appalachian-bog-typic-subtype
+southern appalachian bog (low elevation subtype) ,saw-hab-southern-appalachian-bog-low-elevation-subtype
+southern appalachian bog (long hope valley subtype),saw-hab-southern-appalachian-bog-long-hope-valley-subtype
+southern appalachian bog (skunk cabbage subtype) ,saw-hab-southern-appalachian-bog-skunk-cabbage-subtype
+french broad valley bog ,saw-hab-french-broad-valley-bog
+low mountain seepage bog ,saw-hab-low-mountain-seepage-bog
+southern appalachian fen (bluff mountain subtype) ,saw-hab-southern-appalachian-fen-bluff-mountain-subtype
+southern appalachian fen (glades subtype) ,saw-hab-southern-appalachian-fen-glades-subtype
+spray cliff ,saw-hab-spray-cliff
+high elevation boggy seep ,saw-hab-high-elevation-boggy-seep
+rich montane seep ,saw-hab-rich-montane-seep
+low elevation seep (typic subtype) ,saw-hab-low-elevation-seep-typic-subtype
+low elevation seep (montane subtype) ,saw-hab-low-elevation-seep-montane-subtype
+low elevation seep (piedmont/mountain springhead subtype) ,saw-hab-low-elevation-seep-piedmont-mountain-springhead-subtype
+low elevation seep (floodplain subtype ,saw-hab-low-elevation-seep-floodplain-subtype
+hillside seepage bog,saw-hab-hillside-seepage-bog
+piedmont boggy streamhead ,saw-hab-piedmont-boggy-streamhead
+coastal plain seepage bank ,saw-hab-coastal-plain-seepage-bank
+upland depression swamp forest,saw-hab-upland-depression-swamp-forest
+upland pool (typic piedmont subtype) ,saw-hab-upland-pool-typic-piedmont-subtype
+upland pool (pleasant grove subtype) ,saw-hab-upland-pool-pleasant-grove-subtype
+upland pool (roberdo subtype) ,saw-hab-upland-pool-roberdo-subtype
+upland pool (mountain subtype) ,saw-hab-upland-pool-mountain-subtype
+nonriverine wet hardwood forest (oak flat subtype) ,saw-hab-nonriverine-wet-hardwood-forest-oak-flat-subtype
+nonriverine wet hardwood forest (oak-gum slough subtype) ,saw-hab-nonriverine-wet-hardwood-forest-oak-gum-slough-subtype
+wet marl forest ,saw-hab-wet-marl-forest
+nonriverine swamp forest (cypress-gum subtype) ,saw-hab-nonriverine-swamp-forest-cypress-gum-subtype
+nonriverine swamp forest (mixed subtype) ,saw-hab-nonriverine-swamp-forest-mixed-subtype
+nonriverine swamp forest (poplar-pawpaw subtype) ,saw-hab-nonriverine-swamp-forest-poplar-pawpaw-subtype
+nonriverine swamp forest (sweetgum subtype),saw-hab-nonriverine-swamp-forest-sweetgum-subtype
+peatland atlantic white cedar forest ,saw-hab-peatland-atlantic-white-cedar-forest
+low pocosin (gallberry-fetterbush subtype) ,saw-hab-low-pocosin-gallberry-fetterbush-subtype
+low pocosin (titi subtype) ,saw-hab-low-pocosin-titi-subtype
+pocosin opening (sedge-fern subtype) ,saw-hab-pocosin-opening-sedge-fern-subtype
+pocosin opening (pitcher plant subtype) ,saw-hab-pocosin-opening-pitcher-plant-subtype
+pocosin opening (cranberry subtype) ,saw-hab-pocosin-opening-cranberry-subtype
+high pocosin (evergreen subtype) ,saw-hab-high-pocosin-evergreen-subtype
+high pocosin (deciduous subtype) ,saw-hab-high-pocosin-deciduous-subtype
+pond pine woodland (typic subtype) ,saw-hab-pond-pine-woodland-typic-subtype
+pond pine woodland (northern subtype) ,saw-hab-pond-pine-woodland-northern-subtype
+pond pine woodland (canebrake subtype) ,saw-hab-pond-pine-woodland-canebrake-subtype
+peatland canebrake ,saw-hab-peatland-canebrake
+bay forest ,saw-hab-bay-forest
+streamhead pocosin ,saw-hab-streamhead-pocosin
+streamhead atlantic white cedar forest ,saw-hab-streamhead-atlantic-white-cedar-forest
+streamhead canebrake ,saw-hab-streamhead-canebrake
+wet piedmont longleaf pine forest ,saw-hab-wet-piedmont-longleaf-pine-forest
+wet pine flatwoods (typic subtype) ,saw-hab-wet-pine-flatwoods-typic-subtype
+wet pine flatwoods (sand myrtle subtype),saw-hab-wet-pine-flatwoods-sand-myrtle-subtype
+wet pine flatwoods (depression subtype) ,saw-hab-wet-pine-flatwoods-depression-subtype
+sandy pine savanna (typic subtype) ,saw-hab-sandy-pine-savanna-typic-subtype
+sandy pine savanna (rush featherling subtype) ,saw-hab-sandy-pine-savanna-rush-featherling-subtype
+wet loamy pine savanna ,saw-hab-wet-loamy-pine-savanna
+very wet loamy pine savanna ,saw-hab-very-wet-loamy-pine-savanna
+northern wet pine savanna ,saw-hab-northern-wet-pine-savanna
+sandhill seep (wet subtype) ,saw-hab-sandhill-seep-wet-subtype
+sandhill seep (very wet subtype) ,saw-hab-sandhill-seep-very-wet-subtype
+small depression pocosin (typic subtype) ,saw-hab-small-depression-pocosin-typic-subtype
+small depression pocosin (blueberry subtype) ,saw-hab-small-depression-pocosin-blueberry-subtype
+small depression shrub border ,saw-hab-small-depression-shrub-border
+coastal plain depression swamp (mixed subtype) ,saw-hab-coastal-plain-depression-swamp-mixed-subtype
+coastal plain depression swamp (pocosin subtype) ,saw-hab-coastal-plain-depression-swamp-pocosin-subtype
+coastal plain depression swamp (cypress dome subtype) ,saw-hab-coastal-plain-depression-swamp-cypress-dome-subtype
+vernal pool (typic subtype) ,saw-hab-vernal-pool-typic-subtype
+vernal pool (sphagnum subtype) ,saw-hab-vernal-pool-sphagnum-subtype
+cypress savanna (typic subtype) ,saw-hab-cypress-savanna-typic-subtype
+cypress savanna (acid subtype) ,saw-hab-cypress-savanna-acid-subtype
+small depression drawdown meadow (typic subtype) ,saw-hab-small-depression-drawdown-meadow-typic-subtype
+small depression drawdown meadow (boggy pool subtype),saw-hab-small-depression-drawdown-meadow-boggy-pool-subtype
+small depression pond (typic marsh subtype) ,saw-hab-small-depression-pond-typic-marsh-subtype
+small depression pond (cutgrass prairie subtype ,saw-hab-small-depression-pond-cutgrass-prairie-subtype
+small depression pond (open lily pond subtype) ,saw-hab-small-depression-pond-open-lily-pond-subtype
+floating bog ,saw-hab-floating-bog
+natural lake shoreline swamp (sweetgum subtype) ,saw-hab-natural-lake-shoreline-swamp-sweetgum-subtype
+natural lake shoreline swamp (rich subtype) ,saw-hab-natural-lake-shoreline-swamp-rich-subtype
+natural lake shoreline swamp (cypress subtype) ,saw-hab-natural-lake-shoreline-swamp-cypress-subtype
+natural lake shoreline swamp (lake waccamaw subtype) ,saw-hab-natural-lake-shoreline-swamp-lake-waccamaw-subtype
+natural lake shoreline marsh (typic subtype) ,saw-hab-natural-lake-shoreline-marsh-typic-subtype
+natural lake shoreline marsh (lake waccamaw pond-lily subtype) ,saw-hab-natural-lake-shoreline-marsh-lake-waccamaw-pond-lily-subtype
+maritime wet grassland (southern hairgrass subtype) ,saw-hab-maritime-wet-grassland-southern-hairgrass-subtype
+maritime wet grassland (switchgrass subtype) ,saw-hab-maritime-wet-grassland-switchgrass-subtype
+interdune marsh ,saw-hab-interdune-marsh
+interdune pond ,saw-hab-interdune-pond
+maritime swamp forest (typic subtype) ,saw-hab-maritime-swamp-forest-typic-subtype
+maritime swamp forest (cypress subtype) ,saw-hab-maritime-swamp-forest-cypress-subtype
+maritime shrub swamp (dogwood subtype) ,saw-hab-maritime-shrub-swamp-dogwood-subtype
+maritime shrub swamp (red bay subtype) ,saw-hab-maritime-shrub-swamp-red-bay-subtype
+maritime shrub swamp (willow subtype) ,saw-hab-maritime-shrub-swamp-willow-subtype
+estuarine fringe pine forest (loblolly pine subtype) ,saw-hab-estuarine-fringe-pine-forest-loblolly-pine-subtype
+estuarine fringe pine forest (pond pine subtype) ,saw-hab-estuarine-fringe-pine-forest-pond-pine-subtype
+estuarine beach forest ,saw-hab-estuarine-beach-forest
+tidal freshwater marsh (giant cordgrass subtype) ,saw-hab-tidal-freshwater-marsh-giant-cordgrass-subtype
+tidal freshwater marsh (sawgrass subtype) ,saw-hab-tidal-freshwater-marsh-sawgrass-subtype
+tidal freshwater marsh (needlerush subtype) ,saw-hab-tidal-freshwater-marsh-needlerush-subtype
+tidal freshwater marsh (threesquare subtype) ,saw-hab-tidal-freshwater-marsh-threesquare-subtype
+tidal freshwater marsh (cattail subtype) ,saw-hab-tidal-freshwater-marsh-cattail-subtype
+tidal freshwater marsh (southern wild rice subtype) ,saw-hab-tidal-freshwater-marsh-southern-wild-rice-subtype
+tidal freshwater marsh (wild rice subtype) ,saw-hab-tidal-freshwater-marsh-wild-rice-subtype
+tidal freshwater marsh (oligohaline low marsh subtype),saw-hab-tidal-freshwater-marsh-oligohaline-low-marsh-subtype
+tidal freshwater marsh (mixed freshwater subtype) ,saw-hab-tidal-freshwater-marsh-mixed-freshwater-subtype
+tidal freshwater marsh (shoreline lawn subtype) ,saw-hab-tidal-freshwater-marsh-shoreline-lawn-subtype
+tidal freshwater marsh (broadleaf pondlily subtype) ,saw-hab-tidal-freshwater-marsh-broadleaf-pondlily-subtype
+tidal freshwater marsh (narrowleaf pondlily subtype) ,saw-hab-tidal-freshwater-marsh-narrowleaf-pondlily-subtype
+tidal freshwater marsh (shrub subtype) ,saw-hab-tidal-freshwater-marsh-shrub-subtype
+freshwater marsh pool ,saw-hab-freshwater-marsh-pool
+tidal swamp (cypress–gum subtype) ,saw-hab-tidal-swamp-cypress-gum-subtype
+tidal swamp (mixed subtype) ,saw-hab-tidal-swamp-mixed-subtype
+tidal red cedar forest ,saw-hab-tidal-red-cedar-forest
+salt marsh (carolinian subtype) ,saw-hab-salt-marsh-carolinian-subtype
+salt marsh (virginian subtype) ,saw-hab-salt-marsh-virginian-subtype
+brackish marsh (salt meadow cordgrass subtype) ,saw-hab-brackish-marsh-salt-meadow-cordgrass-subtype
+brackish marsh (needlerush subtype) ,saw-hab-brackish-marsh-needlerush-subtype
+brackish marsh (smooth cordgrass subtype) ,saw-hab-brackish-marsh-smooth-cordgrass-subtype
+brackish marsh (transitional subtype) ,saw-hab-brackish-marsh-transitional-subtype
+tidal mud flat ,saw-hab-tidal-mud-flat
+salt flat,saw-hab-salt-flat
+salt shrub (high subtype) ,saw-hab-salt-shrub-high-subtype
+salt shrub (low subtype) ,saw-hab-salt-shrub-low-subtype
+upper beach (northern subtype) ,saw-hab-upper-beach-northern-subtype
+upper beach (southern subtype) ,saw-hab-upper-beach-southern-subtype
+sand flat ,saw-hab-sand-flat
+ urban or built up land,macs-hab-urban-or-built-up-land
+ residential,macs-hab-residential
+ commercial and services,macs-hab-commercial-and-services
+ industrial,macs-hab-industrial
+ transportation communications and utilities,macs-hab-transportation-communications-and-utilities
+ industrial and commercial complexes,macs-hab-industrial-and-commercial-complexes
+ mixed urban or built up land,macs-hab-mixed-urban-or-built-up-land
+ other urban or built up land,macs-hab-other-urban-or-built-up-land
+ agricultural land ,macs-hab-agricultural-land
+ cropland and pasture,macs-hab-cropland-and-pasture
+ orchards groves vineyards nurseries and ornamental horticultural areas,macs-hab-orchards-groves-vineyards-nurseries-and-ornamental-horticultural-areas
+ confined feeding operations,macs-hab-confined-feeding-operations
+ other agricultural land,macs-hab-other-agricultural-land
+ rangeland,macs-hab-rangeland
+ herbaceous rangeland,macs-hab-herbaceous-rangeland
+ shrub and brush rangeland,macs-hab-shrub-and-brush-rangeland
+ mixed rangeland,macs-hab-mixed-rangeland
+ forest land,macs-hab-forest-land
+ deciduous forest land,macs-hab-deciduous-forest-land
+ evergreen forest land,macs-hab-evergreen-forest-land
+ mixed forest land,macs-hab-mixed-forest-land
+ water,macs-hab-water
+ streams and canals,macs-hab-streams-and-canals
+ lakes,macs-hab-lakes
+ reservoirs,macs-hab-reservoirs
+ bays and estuaries,macs-hab-bays-and-estuaries
+ wetland,macs-hab-wetland
+ forested wetland,macs-hab-forested-wetland
+ nonforested wetland,macs-hab-nonforested-wetland
+ barren land,macs-hab-barren-land
+ dry salt flats,macs-hab-dry-salt-flats
+ beaches,macs-hab-beaches
+ sandy areas other than beaches,macs-hab-sandy-areas-other-than-beaches
+ bare exposed rock,macs-hab-bare-exposed-rock
+ strip mines quarries and gravel pits,macs-hab-strip-mines-quarries-and-gravel-pits
+ transitional areas,macs-hab-transitional-areas
+ mixed barren land,macs-hab-mixed-barren-land
+ tundra,macs-hab-tundra
+ shrub and brush tundra,macs-hab-shrub-and-brush-tundra
+ herbaceous tundra,macs-hab-herbaceous-tundra
+ bare ground tundra,macs-hab-bare-ground-tundra
+ wet tundra,macs-hab-wet-tundra
+ mixed tundra,macs-hab-mixed-tundra
+ perennial snow or ice,macs-hab-perennial-snow-or-ice
+ perennial snowfields,macs-hab-perennial-snowfields
+ glaciers,macs-hab-glaciers
+M211D,bailey-hab-adirondack-highlands-section
+Adirondack Highlands Section,bailey-hab-adirondack-highlands-section
+M211,bailey-hab-adirondack-new-england-mixed-forest-coniferous-forest-alpine-meadow-province
+Adirondack New England Mixed Forest Coniferous Forest Alpine Meadow Province,bailey-hab-adirondack-new-england-mixed-forest-coniferous-forest-alpine-meadow-province
+M221B,bailey-hab-allegheny-mountains-section
+Allegheny Mountains Section,bailey-hab-allegheny-mountains-section
+322,bailey-hab-american-semidesert-and-desert-province
+American Semidesert and Desert Province,bailey-hab-american-semidesert-and-desert-province
+M313,bailey-hab-arizona-new-mexico-mountains-semidesert-open-woodland-coniferous-forest-alpine-meadow-province
+Arizona New Mexico Mountains Semidesert Open Woodland Coniferous Forest Alpine Meadow Province,bailey-hab-arizona-new-mexico-mountains-semidesert-open-woodland-coniferous-forest-alpine-meadow-province
+234E,bailey-hab-arkansas-alluvial-plains-section
+Arkansas Alluvial Plains Section,bailey-hab-arkansas-alluvial-plains-section
+331I,bailey-hab-arkansas-tablelands-section
+Arkansas Tablelands Section,bailey-hab-arkansas-tablelands-section
+231G,bailey-hab-arkansas-valley-section
+Arkansas Valley Section,bailey-hab-arkansas-valley-section
+211A,bailey-hab-aroostook-hills-and-lowlands-section
+Aroostook Hills and Lowlands Section,bailey-hab-aroostook-hills-and-lowlands-section
+234C,bailey-hab-atchafalaya-and-red-river-alluvial-plains-section
+Atchafalaya and Red River Alluvial Plains Section ,bailey-hab-atchafalaya-and-red-river-alluvial-plains-section
+232C,bailey-hab-atlantic-coastal-flatwoods-section
+Atlantic Coastal Flatwoods Section,bailey-hab-atlantic-coastal-flatwoods-section
+342E,bailey-hab-bear-lake-section
+Bear Lake Section,bailey-hab-bear-lake-section
+M332E,bailey-hab-beaverhead-mountains-section
+Beaverhead Mountains Section ,bailey-hab-beaverhead-mountains-section
+M332D,bailey-hab-belt-mountains-meadow-section
+Belt Mountains Meadow Section ,bailey-hab-belt-mountains-meadow-section
+331N,bailey-hab-belt-mountains-section
+Belt Mountains Section ,bailey-hab-belt-mountains-section
+342A,bailey-hab-bighorn-basin-section
+Bighorn Basin Section,bailey-hab-bighorn-basin-section
+M331B,bailey-hab-bighorn-mountains-section
+Bighorn Mountains Section ,bailey-hab-bighorn-mountains-section
+M333D,bailey-hab-bitterroot-mountains-section
+Bitterroot Mountains Section,bailey-hab-bitterroot-mountains-section
+M334,bailey-hab-black-hills-coniferous-forest-province
+Black Hills Coniferous Forest Province,bailey-hab-black-hills-coniferous-forest-province
+M334A,bailey-hab-black-hills-section
+Black Hills Section,bailey-hab-black-hills-section
+255B,bailey-hab-blackland-prairies-section
+Blackland Prairies Section ,bailey-hab-blackland-prairies-section
+342H,bailey-hab-blue-mountain-foothills-section
+Blue Mountain Foothills Section,bailey-hab-blue-mountain-foothills-section
+M332G,bailey-hab-blue-mountains-section
+Blue Mountains Section,bailey-hab-blue-mountains-section
+M221D,bailey-hab-blue-ridge-mountains-section
+Blue Ridge Mountains Section,bailey-hab-blue-ridge-mountains-section
+341A,bailey-hab-bonneville-basin-section
+Bonneville Basin Section,bailey-hab-bonneville-basin-section
+M223A,bailey-hab-boston-mountains-section
+Boston Mountains Section,bailey-hab-boston-mountains-section
+261,bailey-hab-california-coastal-chaparral-forest-and-shrub-province
+California Coastal Chaparral Forest and Shrub Province ,bailey-hab-california-coastal-chaparral-forest-and-shrub-province
+M262,bailey-hab-california-coastal-range-open-woodland-shrub-coniferous-forest-meadow-province
+California Coastal Range Open Woodland Shrub Coniferous Forest Meadow Province,bailey-hab-california-coastal-range-open-woodland-shrub-coniferous-forest-meadow-province
+263,bailey-hab-california-coastal-steppe-mixed-forest-and-redwood-forest-province
+"California Coastal Steppe, Mixed Forest, and Redwood Forest Province  ",bailey-hab-california-coastal-steppe-mixed-forest-and-redwood-forest-province
+262,bailey-hab-california-dry-steppe-province
+California Dry Steppe Province,bailey-hab-california-dry-steppe-province
+M242,bailey-hab-cascade-mixed-forest-coniferous-forest-alpine-meadow-province
+Cascade Mixed Forest Coniferous Forest Alpine Meadow Province  ,bailey-hab-cascade-mixed-forest-coniferous-forest-alpine-meadow-province
+211I,bailey-hab-catskill-mountains-section
+Catskill Mountains Section ,bailey-hab-catskill-mountains-section
+M221,bailey-hab-central-appalachian-broadleaf-forest-coniferous-forest-meadow-province
+Central Appalachian Broadleaf Forest Coniferous Forest Meadow Province,bailey-hab-central-appalachian-broadleaf-forest-coniferous-forest-meadow-province
+231I,bailey-hab-central-appalachian-piedmont-section
+Central Appalachian Piedmont Section,bailey-hab-central-appalachian-piedmont-section
+342F,bailey-hab-central-basin-and-hills-section
+Central Basin and Hills Section,bailey-hab-central-basin-and-hills-section
+M262A,bailey-hab-central-california-coast-ranges-section
+Central California Coast Ranges Section,bailey-hab-central-california-coast-ranges-section
+261A,bailey-hab-central-california-coast-section
+Central California Coast Section,bailey-hab-central-california-coast-section
+251C,bailey-hab-central-dissected-till-plains-section
+Central Dissected Till Plains Section ,bailey-hab-central-dissected-till-plains-section
+255D,bailey-hab-central-gulf-prairies-and-marshes-section
+Central Gulf Prairies and Marshes Section,bailey-hab-central-gulf-prairies-and-marshes-section
+331H,bailey-hab-central-high-plains-section
+Central High Plains Section ,bailey-hab-central-high-plains-section
+331C,bailey-hab-central-high-tablelands-section
+Central High Tablelands Section,bailey-hab-central-high-tablelands-section
+223,bailey-hab-central-interior-broadleaf-forest-province
+Central Interior Broadleaf Forest Province,bailey-hab-central-interior-broadleaf-forest-province
+211D,bailey-hab-central-maine-coastal-and-embayment-section
+Central Maine Coastal and Embayment Section,bailey-hab-central-maine-coastal-and-embayment-section
+221J,bailey-hab-central-ridge-and-valley-section
+Central Ridge and Valley Section,bailey-hab-central-ridge-and-valley-section
+315H,bailey-hab-central-rio-grande-intermontaine-section
+Central Rio Grande Intermontaine Section ,bailey-hab-central-rio-grande-intermontaine-section
+251D,bailey-hab-central-till-plains-and-grand-prairies-section
+Central Till Plains and Grand Prairies Section,bailey-hab-central-till-plains-and-grand-prairies-section
+222H,bailey-hab-central-till-plains-beech-maple-section
+Central Till Plains Beech Maple Section,bailey-hab-central-till-plains-beech-maple-section
+223G,bailey-hab-central-till-plains-oak-hickory-section
+Central Till Plains Oak Hickory Section ,bailey-hab-central-till-plains-oak-hickory-section
+M332F,bailey-hab-challis-volcanics-section
+Challis Volcanics Section ,bailey-hab-challis-volcanics-section
+321A,bailey-hab-chihuahuan-desert-basin-and-range-section
+Chihuahuan Desert Basin and Range Section,bailey-hab-chihuahuan-desert-basin-and-range-section
+321,bailey-hab-chihuahuan-semidesert-province
+Chihuahuan Semidesert Province,bailey-hab-chihuahuan-semidesert-province
+232F,bailey-hab-coastal-plains-and-flatwoods-western-gulf-section
+Coastal Plains and Flatwoods Western Gulf Section,bailey-hab-coastal-plains-and-flatwoods-western-gulf-section
+231H,bailey-hab-coastal-plains-loess-section
+Coastal Plains Loess Section ,bailey-hab-coastal-plains-loess-section
+231B,bailey-hab-coastal-plains-middle-section
+Coastal Plains Middle Section,bailey-hab-coastal-plains-middle-section
+322C,bailey-hab-colorado-desert-section
+Colorado Desert Section,bailey-hab-colorado-desert-section
+313,bailey-hab-colorado-plateau-semidesert-province
+Colorado Plateau Semidesert Province,bailey-hab-colorado-plateau-semidesert-province
+342I,bailey-hab-columbia-basin-section
+Columbia Basin Section ,bailey-hab-columbia-basin-section
+255A,bailey-hab-cross-timbers-and-prairies-section
+Cross Timbers and Prairies Section,bailey-hab-cross-timbers-and-prairies-section
+342J,bailey-hab-eastern-basin-and-range-section
+Eastern Basin and Range Section,bailey-hab-eastern-basin-and-range-section
+221,bailey-hab-eastern-broadleaf-forest-province
+Eastern Broadleaf Forest Province ,bailey-hab-eastern-broadleaf-forest-province
+M242C,bailey-hab-eastern-cascades-section
+Eastern Cascades Section,bailey-hab-eastern-cascades-section
+315G,bailey-hab-eastern-rolling-plains-section
+Eastern Rolling Plains Section,bailey-hab-eastern-rolling-plains-section
+212R,bailey-hab-eastern-upper-peninsula-section
+Eastern Upper Peninsula Section,bailey-hab-eastern-upper-peninsula-section
+M341A,bailey-hab-east-great-basin-and-mountains-section
+East Great Basin and Mountains Section,bailey-hab-east-great-basin-and-mountains-section
+315D,bailey-hab-edwards-plateau-section
+Edwards Plateau Section,bailey-hab-edwards-plateau-section
+222I,bailey-hab-erie-and-ontario-lake-plain-section
+Erie and Ontario Lake Plain Section,bailey-hab-erie-and-ontario-lake-plain-section
+411,bailey-hab-everglades-province
+Everglades Province,bailey-hab-everglades-province
+411A,bailey-hab-everglades-section
+Everglades Section,bailey-hab-everglades-section
+M333B,bailey-hab-flathead-valley-section
+Flathead Valley Section ,bailey-hab-flathead-valley-section
+251F,bailey-hab-flint-hills-section
+Flint Hills Section,bailey-hab-flint-hills-section
+232G,bailey-hab-florida-coastal-lowlands-atlantic-section
+Florida Coastal Lowlands Atlantic Section,bailey-hab-florida-coastal-lowlands-atlantic-section
+232D,bailey-hab-florida-coastal-lowlands-gulf-section
+Florida Coastal Lowlands Gulf Section,bailey-hab-florida-coastal-lowlands-gulf-section
+232K,bailey-hab-florida-coastal-plains-central-highlands-section
+Florida Coastal Plains Central Highlands Section,bailey-hab-florida-coastal-plains-central-highlands-section
+211C,bailey-hab-fundy-coastal-and-interior-section
+Fundy Coastal and Interior Section,bailey-hab-fundy-coastal-and-interior-section
+331L,bailey-hab-glaciated-northern-grasslands-section
+Glaciated Northern Grasslands Section ,bailey-hab-glaciated-northern-grasslands-section
+313A,bailey-hab-grand-canyon-section
+Grand Canyon Section,bailey-hab-grand-canyon-section
+331,bailey-hab-great-plains-palouse-dry-steppe-province
+Great Plains Palouse Dry Steppe Province ,bailey-hab-great-plains-palouse-dry-steppe-province
+332,bailey-hab-great-plains-steppe-province
+Great Plains Steppe Province,bailey-hab-great-plains-steppe-province
+262A,bailey-hab-great-valley-section
+Great Valley Section ,bailey-hab-great-valley-section
+212Z,bailey-hab-green-bay-manitowac-upland-section
+Green Bay Manitowac Upland Section,bailey-hab-green-bay-manitowac-upland-section
+342G,bailey-hab-green-river-basin-section
+Green River Basin Section,bailey-hab-green-river-basin-section
+M211C,bailey-hab-green-taconic-berkshire-mountains-section
+"Green, Taconic, Berkshire Mountains Section",bailey-hab-green-taconic-berkshire-mountains-section
+232L,bailey-hab-gulf-coastal-lowlands-section
+Gulf Coastal Lowlands Section,bailey-hab-gulf-coastal-lowlands-section
+232B,bailey-hab-gulf-coastal-plains-and-flatwoods-section
+Gulf Coastal Plains and Flatwoods Section ,bailey-hab-gulf-coastal-plains-and-flatwoods-section
+221B,bailey-hab-hudson-valley-section
+Hudson Valley Section,bailey-hab-hudson-valley-section
+M332A,bailey-hab-idaho-batholith-section
+Idaho Batholith Section ,bailey-hab-idaho-batholith-section
+223F,bailey-hab-interior-low-plateau-bluegrass-section
+Interior Low Plateau Bluegrass Section ,bailey-hab-interior-low-plateau-bluegrass-section
+223E,bailey-hab-interior-low-plateau-highland-rim-section
+Interior Low Plateau Highland Rim Section,bailey-hab-interior-low-plateau-highland-rim-section
+223D,bailey-hab-interior-low-plateau-shawnee-hills-section
+Interior Low Plateau Shawnee Hills Section ,bailey-hab-interior-low-plateau-shawnee-hills-section
+223B,bailey-hab-interior-low-plateau-transition-hills-section
+Interior Low Plateau Transition Hills Section,bailey-hab-interior-low-plateau-transition-hills-section
+341,bailey-hab-intermountain-semidesert-and-desert-province
+Intermountain Semidesert and Desert Province ,bailey-hab-intermountain-semidesert-and-desert-province
+342,bailey-hab-intermountain-semidesert-province
+Intermountain Semidesert Province,bailey-hab-intermountain-semidesert-province
+M261A,bailey-hab-klamath-mountains-section
+Klamath Mountains Section,bailey-hab-klamath-mountains-section
+222N,bailey-hab-lake-agassiz-aspen-parklands-section
+Lake Agassiz Aspen Parklands Section ,bailey-hab-lake-agassiz-aspen-parklands-section
+222U,bailey-hab-lake-whittlesey-glaciolacustrine-plain-section
+Lake Whittlesey Glaciolacustrine Plain Section ,bailey-hab-lake-whittlesey-glaciolacustrine-plain-section
+212,bailey-hab-laurentian-mixed-forest-province
+Laurentian Mixed Forest Province,bailey-hab-laurentian-mixed-forest-province
+232E,bailey-hab-louisiana-coastal-prairies-and-marshes-section
+Louisiana Coastal Prairies and Marshes Section,bailey-hab-louisiana-coastal-prairies-and-marshes-section
+234,bailey-hab-lower-mississippi-riverine-forest-province
+Lower Mississippi Riverine Forest Province,bailey-hab-lower-mississippi-riverine-forest-province
+221A,bailey-hab-lower-new-england-section
+Lower New England Section,bailey-hab-lower-new-england-section
+211B,bailey-hab-maine-new-brunswick-foothills-and-lowlands-section
+Maine New Brunswick Foothills and Lowlands Section ,bailey-hab-maine-new-brunswick-foothills-and-lowlands-section
+231E,bailey-hab-mid-coastal-plains-western-section
+Mid Coastal Plains Western Section,bailey-hab-mid-coastal-plains-western-section
+232H,bailey-hab-middle-atlantic-coastal-plains-and-flatwoods-section
+Middle Atlantic Coastal Plains and Flatwoods Section,bailey-hab-middle-atlantic-coastal-plains-and-flatwoods-section
+M332,bailey-hab-middle-rocky-mountain-steppe-coniferous-forest-alpine-meadow-province
+Middle Rocky Mountain Steppe Coniferous Forest Alpine Meadow Province,bailey-hab-middle-rocky-mountain-steppe-coniferous-forest-alpine-meadow-province
+222,bailey-hab-midwest-broadleaf-forest-province
+Midwest Broadleaf Forest Province ,bailey-hab-midwest-broadleaf-forest-province
+222M,bailey-hab-minnesota-and-northeast-iowa-morainal-oak-savanna-section
+Minnesota and Northeast Iowa Morainal Oak Savanna Section,bailey-hab-minnesota-and-northeast-iowa-morainal-oak-savanna-section
+331M,bailey-hab-missouri-plateau-section
+Missouri Plateau Section,bailey-hab-missouri-plateau-section
+M261G,bailey-hab-modoc-plateau-section
+Modoc Plateau Section,bailey-hab-modoc-plateau-section
+322A,bailey-hab-mojave-desert-section
+Mojave Desert Section,bailey-hab-mojave-desert-section
+341D,bailey-hab-mono-section
+Mono Section,bailey-hab-mono-section
+313B,bailey-hab-navaho-canyonlands-section
+Navaho Canyonlands Section,bailey-hab-navaho-canyonlands-section
+251H,bailey-hab-nebraska-rolling-hills-section
+Nebraska Rolling Hills Section,bailey-hab-nebraska-rolling-hills-section
+332C,bailey-hab-nebraska-sand-hills-section
+Nebraska Sand Hills Section,bailey-hab-nebraska-sand-hills-section
+M341,bailey-hab-nevada-utah-mountains-semidesert-coniferous-forest-alpine-meadow-province
+Nevada Utah Mountains Semidesert Coniferous Forest Alpine Meadow Province,bailey-hab-nevada-utah-mountains-semidesert-coniferous-forest-alpine-meadow-province
+M211B,bailey-hab-new-england-piedmont-section
+New England Piedmont Section,bailey-hab-new-england-piedmont-section
+251B,bailey-hab-north-central-glaciated-plains-section
+North Central Glaciated Plains Section,bailey-hab-north-central-glaciated-plains-section
+332D,bailey-hab-north-central-great-plains-section
+North Central Great Plains Section,bailey-hab-north-central-great-plains-section
+M331H,bailey-hab-north-central-highlands-and-rocky-mountains-section
+North Central Highlands and Rocky Mountains Section ,bailey-hab-north-central-highlands-and-rocky-mountains-section
+331K,bailey-hab-north-central-highlands-section
+North Central Highlands Section,bailey-hab-north-central-highlands-section
+222L,bailey-hab-north-central-us-driftless-and-escarpment-section
+North Central US Driftless and Escarpment Section ,bailey-hab-north-central-us-driftless-and-escarpment-section
+212Q,bailey-hab-north-central-wisconsin-uplands-section
+North Central Wisconsin Uplands Section,bailey-hab-north-central-wisconsin-uplands-section
+332A,bailey-hab-northeastern-glaciated-plains-section
+Northeastern Glaciated Plains Section,bailey-hab-northeastern-glaciated-plains-section
+331E,bailey-hab-northeastern-glaciated-plains-section-palouse
+Northeastern Glaciated Plains Section Palouse,bailey-hab-northeastern-glaciated-plains-section-palouse
+341G,bailey-hab-northeastern-great-basin-section
+Northeastern Great Basin Section,bailey-hab-northeastern-great-basin-section
+211,bailey-hab-northeastern-mixed-forest-province
+Northeastern Mixed Forest Province,bailey-hab-northeastern-mixed-forest-province
+221D,bailey-hab-northern-appalachian-piedmont-section
+Northern Appalachian Piedmont Section ,bailey-hab-northern-appalachian-piedmont-section
+232I,bailey-hab-northern-atlantic-coastal-flatwoods-section
+Northern Atlantic Coastal Flatwoods Section ,bailey-hab-northern-atlantic-coastal-flatwoods-section
+232A,bailey-hab-northern-atlantic-coastal-plain-section
+Northern Atlantic Coastal Plain Section ,bailey-hab-northern-atlantic-coastal-plain-section
+M261B,bailey-hab-northern-california-coast-ranges-section
+Northern California Coast Ranges Section ,bailey-hab-northern-california-coast-ranges-section
+263A,bailey-hab-northern-california-coast-section
+Northern California Coast Section,bailey-hab-northern-california-coast-section
+M261C,bailey-hab-northern-california-interior-coast-ranges-section
+Northern California Interior Coast Ranges Section,bailey-hab-northern-california-interior-coast-ranges-section
+341B,bailey-hab-northern-canyon-lands-section
+Northern Canyon Lands Section,bailey-hab-northern-canyon-lands-section
+M242D,bailey-hab-northern-cascades-section
+Northern Cascades Section,bailey-hab-northern-cascades-section
+M221C,bailey-hab-northern-cumberland-mountains-section
+Northern Cumberland Mountains Section,bailey-hab-northern-cumberland-mountains-section
+221H,bailey-hab-northern-cumberland-plateau-section
+Northern Cumberland Plateau Section ,bailey-hab-northern-cumberland-plateau-section
+211F,bailey-hab-northern-glaciated-allegheny-plateau-section
+Northern Glaciated Allegheny Plateau Section,bailey-hab-northern-glaciated-allegheny-plateau-section
+212T,bailey-hab-northern-green-bay-lobe-section
+Northern Green Bay Lobe Section ,bailey-hab-northern-green-bay-lobe-section
+212X,bailey-hab-northern-highlands-section
+Northern Highlands Section ,bailey-hab-northern-highlands-section
+212H,bailey-hab-northern-lower-peninsula-section
+Northern Lower Peninsula Section,bailey-hab-northern-lower-peninsula-section
+212M,bailey-hab-northern-minnesota-and-ontario-section
+Northern Minnesota and Ontario Section ,bailey-hab-northern-minnesota-and-ontario-section
+212N,bailey-hab-northern-minnesota-drift-and-lake-plains-section
+Northern Minnesota Drift and Lake Plains Section,bailey-hab-northern-minnesota-drift-and-lake-plains-section
+341E,bailey-hab-northern-mono-section
+Northern Mono Section ,bailey-hab-northern-mono-section
+M331I,bailey-hab-northern-parks-and-ranges-section
+Northern Parks and Ranges Section,bailey-hab-northern-parks-and-ranges-section
+M221A,bailey-hab-northern-ridge-and-valley-section
+Northern Ridge and Valley Section,bailey-hab-northern-ridge-and-valley-section
+331J,bailey-hab-northern-rio-grande-basin-section
+Northern Rio Grande Basin Section,bailey-hab-northern-rio-grande-basin-section
+M332B,bailey-hab-northern-rockies-and-bitterroot-valley-section
+Northern Rockies and Bitterroot Valley Section ,bailey-hab-northern-rockies-and-bitterroot-valley-section
+M333C,bailey-hab-northern-rockies-section
+Northern Rockies Section ,bailey-hab-northern-rockies-section
+M333,bailey-hab-northern-rocky-mountain-forest-steppe-coniferous-forest-alpine-meadow-province
+Northern Rocky Mountain Forest Steppe Coniferous Forest Alpine Meadow Province,bailey-hab-northern-rocky-mountain-forest-steppe-coniferous-forest-alpine-meadow-province
+212L,bailey-hab-northern-superior-uplands-section
+Northern Superior Uplands Section,bailey-hab-northern-superior-uplands-section
+315F,bailey-hab-northern-texas-high-plains-section
+Northern Texas High Plains Section,bailey-hab-northern-texas-high-plains-section
+211G,bailey-hab-northern-unglaciated-allegheny-plateau-section
+Northern Unglaciated Allegheny Plateau Section,bailey-hab-northern-unglaciated-allegheny-plateau-section
+212S,bailey-hab-northern-upper-peninsula-section
+Northern Upper Peninsula Section,bailey-hab-northern-upper-peninsula-section
+342B,bailey-hab-northwestern-basin-and-range-section
+Northwestern Basin and Range Section ,bailey-hab-northwestern-basin-and-range-section
+331D,bailey-hab-northwestern-glaciated-plains-section
+Northwestern Glaciated Plains Section,bailey-hab-northwestern-glaciated-plains-section
+255C,bailey-hab-oak-woods-and-prairies-section
+Oak Woods and Prairies Section,bailey-hab-oak-woods-and-prairies-section
+M333A,bailey-hab-okanogan-highland-section
+Okanogan Highland Section,bailey-hab-okanogan-highland-section
+M242A,bailey-hab-oregon-and-washington-coast-ranges-section
+Oregon and Washington Coast Ranges Section,bailey-hab-oregon-and-washington-coast-ranges-section
+251E,bailey-hab-osage-plains-section
+Osage Plains Section,bailey-hab-osage-plains-section
+M231,bailey-hab-ouachita-mixed-forest-meadow-province
+Ouachita Mixed Forest Meadow Province ,bailey-hab-ouachita-mixed-forest-meadow-province
+M231A,bailey-hab-ouachita-mountains-section
+Ouachita Mountains Section ,bailey-hab-ouachita-mountains-section
+232,bailey-hab-outer-coastal-plain-mixed-forest-province
+Outer Coastal Plain Mixed Forest Province,bailey-hab-outer-coastal-plain-mixed-forest-province
+M331D,bailey-hab-overthrust-mountains-section
+Overthrust Mountains Section,bailey-hab-overthrust-mountains-section
+342C,bailey-hab-owyhee-uplands-section
+Owyhee Uplands Section,bailey-hab-owyhee-uplands-section
+M223,bailey-hab-ozark-broadleaf-forest-meadow-province
+Ozark Broadleaf Forest Meadow Province ,bailey-hab-ozark-broadleaf-forest-meadow-province
+223A,bailey-hab-ozark-highlands-section
+Ozark Highlands Section,bailey-hab-ozark-highlands-section
+242,bailey-hab-pacific-lowland-mixed-forest-province
+Pacific Lowland Mixed Forest Province,bailey-hab-pacific-lowland-mixed-forest-province
+313D,bailey-hab-painted-desert-section
+Painted Desert Section ,bailey-hab-painted-desert-section
+331A,bailey-hab-palouse-prairie-section
+Palouse Prairie Section,bailey-hab-palouse-prairie-section
+315A,bailey-hab-pecos-valley-section
+Pecos Valley Section ,bailey-hab-pecos-valley-section
+331G,bailey-hab-powder-river-basin-section
+Powder River Basin Section ,bailey-hab-powder-river-basin-section
+255,bailey-hab-prairie-parkland-subtropical-province
+Prairie Parkland (Subtropical) Province,bailey-hab-prairie-parkland-subtropical-province
+251,bailey-hab-prairie-parkland-temperate-province
+Prairie Parkland (Temperate) Province,bailey-hab-prairie-parkland-temperate-province
+242A,bailey-hab-puget-trough-section
+Puget Trough Section ,bailey-hab-puget-trough-section
+251A,bailey-hab-red-river-valley-section
+Red River Valley Section ,bailey-hab-red-river-valley-section
+315E,bailey-hab-rio-grande-plain-section
+Rio Grande Plain Section,bailey-hab-rio-grande-plain-section
+315C,bailey-hab-rolling-plains-section
+Rolling Plains Section,bailey-hab-rolling-plains-section
+M313B,bailey-hab-sacramento-monzano-mountains-section
+Sacramento Monzano Mountains Section,bailey-hab-sacramento-monzano-mountains-section
+M261F,bailey-hab-sierra-nevada-foothills-section
+Sierra Nevada Foothills Section,bailey-hab-sierra-nevada-foothills-section
+M261E,bailey-hab-sierra-nevada-section
+Sierra Nevada Section ,bailey-hab-sierra-nevada-section
+M261,bailey-hab-sierran-steppe-mixed-forest-coniferous-forest-alpine-meadow-province
+Sierran Steppe Mixed Forest Coniferous Forest Alpine Meadow Province,bailey-hab-sierran-steppe-mixed-forest-coniferous-forest-alpine-meadow-province
+342D,bailey-hab-snake-river-basalts-and-basins-section
+Snake River Basalts and Basins Section,bailey-hab-snake-river-basalts-and-basins-section
+322B,bailey-hab-sonoran-desert-section
+Sonoran Desert Section,bailey-hab-sonoran-desert-section
+332F,bailey-hab-south-central-and-red-bed-plains-section
+South Central and Red Bed Plains Section,bailey-hab-south-central-and-red-bed-plains-section
+222J,bailey-hab-south-central-great-lakes-section
+South Central Great Lakes Section ,bailey-hab-south-central-great-lakes-section
+332E,bailey-hab-south-central-great-plains-section
+South Central Great Plains Section ,bailey-hab-south-central-great-plains-section
+M331G,bailey-hab-south-central-highlands-section
+South Central Highlands Section,bailey-hab-south-central-highlands-section
+341F,bailey-hab-southeastern-great-basin-section
+Southeastern Great Basin Section,bailey-hab-southeastern-great-basin-section
+231,bailey-hab-southeastern-mixed-forest-province
+Southeastern Mixed Forest Province,bailey-hab-southeastern-mixed-forest-province
+231A,bailey-hab-southern-appalachian-piedmont-section
+Southern Appalachian Piedmont Section,bailey-hab-southern-appalachian-piedmont-section
+232J,bailey-hab-southern-atlantic-coastal-plains-and-flatwoods-section
+Southern Atlantic Coastal Plains and Flatwoods Section ,bailey-hab-southern-atlantic-coastal-plains-and-flatwoods-section
+261B,bailey-hab-southern-california-coast-section
+Southern California Coast Section,bailey-hab-southern-california-coast-section
+M262B,bailey-hab-southern-california-mountain-and-valley-section
+Southern California Mountain and Valley Section,bailey-hab-southern-california-mountain-and-valley-section
+M261D,bailey-hab-southern-cascades-section
+Southern Cascades Section,bailey-hab-southern-cascades-section
+231C,bailey-hab-southern-cumberland-plateau-section
+Southern Cumberland Plateau Section,bailey-hab-southern-cumberland-plateau-section
+331B,bailey-hab-southern-high-plains-section
+Southern High Plains Section,bailey-hab-southern-high-plains-section
+234A,bailey-hab-southern-mississippi-alluvial-plain-section
+Southern Mississippi Alluvial Plain Section,bailey-hab-southern-mississippi-alluvial-plain-section
+M331F,bailey-hab-southern-parks-and-rocky-mountain-range-section
+Southern Parks and Rocky Mountain Range Section,bailey-hab-southern-parks-and-rocky-mountain-range-section
+231D,bailey-hab-southern-ridge-and-valley-section
+Southern Ridge and Valley Section ,bailey-hab-southern-ridge-and-valley-section
+M331,bailey-hab-southern-rocky-mountain-steppe-open-woodland-coniferous-forest-alpine-meadow-province
+Southern Rocky Mountain Steppe Open Woodland Coniferous Forest Alpine Meadow Province,bailey-hab-southern-rocky-mountain-steppe-open-woodland-coniferous-forest-alpine-meadow-province
+212J,bailey-hab-southern-superior-uplands-section
+Southern Superior Uplands Section,bailey-hab-southern-superior-uplands-section
+221E,bailey-hab-southern-unglaciated-allegheny-plateau-section
+Southern Unglaciated Allegheny Plateau Section,bailey-hab-southern-unglaciated-allegheny-plateau-section
+222K,bailey-hab-southwestern-great-lakes-morainal-section
+Southwestern Great Lakes Morainal Section,bailey-hab-southwestern-great-lakes-morainal-section
+212Y,bailey-hab-southwest-lake-superior-clay-plain-section
+Southwest Lake Superior Clay Plain Section,bailey-hab-southwest-lake-superior-clay-plain-section
+315,bailey-hab-southwest-plateau-and-plains-dry-steppe-and-shrub-province
+Southwest Plateau and Plains Dry Steppe and Shrub Province,bailey-hab-southwest-plateau-and-plains-dry-steppe-and-shrub-province
+211E,bailey-hab-st-lawrence-and-champlain-valley-section
+St Lawrence and Champlain Valley Section ,bailey-hab-st-lawrence-and-champlain-valley-section
+321B,bailey-hab-stockton-plateau-section
+Stockton Plateau Section,bailey-hab-stockton-plateau-section
+M341B,bailey-hab-tavaputs-plateau-section
+Tavaputs Plateau Section ,bailey-hab-tavaputs-plateau-section
+255E,bailey-hab-texas-cross-timbers-and-prairies-section
+Texas Cross Timbers and Prairies Section,bailey-hab-texas-cross-timbers-and-prairies-section
+315B,bailey-hab-texas-high-plains-section
+Texas High Plains Section ,bailey-hab-texas-high-plains-section
+313C,bailey-hab-tonto-transition-section
+Tonto Transition Section,bailey-hab-tonto-transition-section
+211J,bailey-hab-tug-hill-plateau-mohawk-valley-section
+Tug Hill Plateau Mohawk Valley Section ,bailey-hab-tug-hill-plateau-mohawk-valley-section
+341C,bailey-hab-uinta-basin-section
+Uinta Basin Section,bailey-hab-uinta-basin-section
+M331E,bailey-hab-uinta-mountains-section
+Uinta Mountains Section ,bailey-hab-uinta-mountains-section
+M341C,bailey-hab-utah-high-plateau-section
+Utah High Plateau Section,bailey-hab-utah-high-plateau-section
+M242B,bailey-hab-western-cascades-section
+Western Cascades Section,bailey-hab-western-cascades-section
+221F,bailey-hab-western-glaciated-allegheny-plateau-section
+Western Glaciated Allegheny Plateau Section,bailey-hab-western-glaciated-allegheny-plateau-section
+332B,bailey-hab-western-glaciated-plains-section
+Western Glaciated Plains Section,bailey-hab-western-glaciated-plains-section
+331F,bailey-hab-western-great-plains-section
+Western Great Plains Section ,bailey-hab-western-great-plains-section
+212K,bailey-hab-western-superior-uplands-section
+Western Superior Uplands Section,bailey-hab-western-superior-uplands-section
+M341D,bailey-hab-west-great-basin-and-mountains-section
+West Great Basin and Mountains Section,bailey-hab-west-great-basin-and-mountains-section
+234D,bailey-hab-white-and-black-river-alluvial-plains-section
+White and Black River Alluvial Plains Section,bailey-hab-white-and-black-river-alluvial-plains-section
+M313A,bailey-hab-white-mountains-san-francisco-peaks-mongollon-rim-section
+White Mountains San Francisco Peaks Mongollon Rim Section,bailey-hab-white-mountains-san-francisco-peaks-mongollon-rim-section
+M211A,bailey-hab-white-mountains-section
+White Mountains Section,bailey-hab-white-mountains-section
+242B,bailey-hab-willamette-valley-section
+Willamette Valley Section,bailey-hab-willamette-valley-section
+M331J,bailey-hab-wind-river-mountains-section
+Wind River Mountains Section,bailey-hab-wind-river-mountains-section
+222R,bailey-hab-wisconsin-central-sands-section
+Wisconsin Central Sands Section,bailey-hab-wisconsin-central-sands-section
+M331A,bailey-hab-yellowstone-highlands-section
+Yellowstone Highlands Section,bailey-hab-yellowstone-highlands-section

@@ -1,0 +1,63 @@
+{{Habitat Page}}
+=Description=
+<p>Cove forests are some of the most well-known and recognized community types in the Mountains, occurring on sheltered, moist, low to moderate elevation sites. They are characterized  by a dense forest canopy of moisture-loving trees. There are three community types in this ecosystem: rich cove forest, acidic cove forest, and basic mesic forest (montane calcareous subtype).
+*The rich cove forest type, occurring in the most fertile sites, has a lush herb layer and relatively few shrubs. The high diversity in all vegetation layers makes this forest of great interest to botanists and ecologists.
+*The acidic cove forest, which occurs in less fertile but otherwise similar sites to those occupied by rich cove forests, is dominated by the more acid tolerant species, and has undergrowth dominated by ericaceous shrubs such as rhododendron, rather than by herbs. Canada Hemlock forests have similarly dense shrub layers and relatively few herbs.
+*The basic mesic forest (montane calcareous subtype) is a geologically restricted community that occurs on rare outcrops of limestone, marble, or dolomite, and is dominated by trees that favor high pH soils. These communities are naturally relatively stable, uneven-aged climax forests, with trees up to several centuries old.</p>
+<p>The 2005 WAP describes Southern Blue Ridge Mountains Cove Forest as a priority habitat (see Chapter 5) (NCWRC 2005).</p>
+=Location of Habitat=
+<p>Cove hardwood habitat  is well represented in the Mountain ecoregion of western North Carolina, including in the Pisgah and Nantahala National Forests. According to the most recent Southeast Gap Analysis Project (GAP), cove forests comprise a little over 558 thousand acres (nearly 226 thousand hectares) of land cover in North Carolina (SEGAP 2007; NatureServe 2007). This represents slightly more than 1.6% of all land cover in the state.</p>
+=Problems Affecting Habitats=
+<p>The most pressing problem affecting the cove hardwood habitat is the advent of several exotic pest species which could have a significant impact upon the health of the forest, including the [[Hemlock Wooly Adelgid]], [[Gypsy Moth]], and beech scale, as well as several nonnative plants. Evans and Gregoire (2007) that aldelgid infestation can move across the landscape at 15 km (about 9 miles) per year or faster and can kill trees in two to three years (Trotter and Shields 2009). In fact, the adelgid has already devastated most of the Canada Hemlock stands in the state, such that former mixed hemlock–hardwood stands are now mostly hardwoods, with much lessened evergreen cover available for wildlife during the cooler months.</p><p>Though estimates of the amount of cove hardwoods lost to development are unavailable, the most significant problem affecting this community type is its conversion to other uses. Residential development in mountain coves often differs from development in other habitats of the region because the homes and associated open spaces are often interspersed within the forest. The result may be that direct habitat  loss as a result of the houses and associated structures may be more limited than other types of development.</p><p>Timber harvesting and conversion to other forest types (White Pine) or other uses on private lands in certain areas can also decrease the availability of this habitat in the future. The reduction in quality of the habitat  through fragmentation by roads and driveways and human intrusion can have significant impact upon the wildlife species of the forest (Rosenberg et al. 2003).</p>
+=Climate Change Compared to Other Threats=
+<p>Comparing climate change to other ecosystem threats can help define shortand long-term conservation actions and recommendations. The effect of a changed climate is likely to vary widely among examples of these communities, depending on topographic sheltering, configuration of rocks, soil depth, and amount of overland runoff. Unprotected examples of these forests are most threatened by development and logging.</p>
+=Impacts to Wildlife=
+<p>Appalachian cove hardwood forests represent some of the most diverse ecosystems in the world outside of tropical zones (Hunter et al. 1999). An amazing assortment of trees and herbaceous vegetation, coupled  with topographic, microclimatic, and soil characteristics combine to provide an extremely productive habitat for numerous mammals, amphibians, and birds. High numbers of endemic salamanders are present (Petranka 1998), and population densities of these animal groups in cove hardwood forests make these extremely important habitats.</p><p>Problems of individual species associated with cove hardwood forests include isolation or extremely limited ranges of populations (e.g., [[Cerulean Warbler]]s, [[Crevice Salamander]]s, [[Green Salamander]]s). That could lead to increasing chances of genetic depression or stochastic events having negative consequences for the sustainability of populations. Some bird species which require a diverse understory may be impacted by the aging of stands, which can result in decreased plant diversity until the stand reaches age classes sufficient to produce canopy gaps (Hunter et al. 2001a).</p><p>[[Junaluska Salamander|Junaluska]] and [[Tellico Salamander]]s are highly restricted to habitats within this ecosystem group. Both occupy extremely small global ranges and are likely to be strongly affected by increased drought-, fire-, or storm-created openings in the canopy. Several other salamanders with extremely limited global ranges also have significant amounts of habitat  within this community and are also likely to be threatened by the same set of climate change factors. The same is true for several species of Lepidoptera (such as the Dusky Azure) that are associated with mesic habitats and occur in the southern Appalachians as major disjuncts from the north.</p><p>Some high-elevation cove forests now serve as refugia for species for which the current climate in lower areas in North Carolina is not suitable. They are likely to continue to do so, but warming temperature and changed moisture regimes may make some of them less hospitable to some of these species. At the same time, these communities may become refugia for additional species that are currently common, if the regional climate becomes unsuitable for them. They may be crucial for the survival of some species in the state.</p>
+{{NCWAP15 Citation}}
+[[Category:Habitat]]
+[[Category:NCWAP15 Habitat]]
+{{#set:
+Has NCWAP15 Index=4.4.4
+|Has Geography=North Carolina
+|Has Plan=2015 North Carolina Wildlife Action Plan
+|Has Geography=Southern Blue Ridge
+|Has Community Type=Upland Communities
+|Has Species=Black-and-white Warbler
+|Has Species=Black-billed Cuckoo
+|Has Species=Blackburnian Warbler
+|Has Species=Black-throated Blue Warbler
+|Has Species=Black-throated Green Warbler
+|Has Species=Blue Jay
+|Has Species=Blue-headed Vireo
+|Has Species=Broad-winged Hawk
+|Has Species=Brown Creeper
+|Has Species=Carolina Chickadee
+|Has Species=Cerulean Warbler
+|Has Species=Cooper's Hawk
+|Has Species=Eastern Screech-Owl
+|Has Species=Eastern Wood-Pewee
+|Has Species=Gray-cheeked Thrush
+|Has Species=Hairy Woodpecker
+|Has Species=Hooded Warbler
+|Has Species=Mourning Dove
+|Has Species=Nashville Warbler
+|Has Species=Northern Flicker
+|Has Species=Northern Parula
+|Has Species=Ovenbird
+|Has Species=Philadelphia Vireo
+|Has Species=Pileated Woodpecker
+|Has Species=Red-bellied Woodpecker
+|Has Species=Red-eyed Vireo
+|Has Species=Ruffed Grouse
+|Has Species=Scarlet Tanager
+|Has Species=Sharp-shinned Hawk
+|Has Species=Swainson's Warbler
+|Has Species=Tennessee Warbler
+|Has Species=Veery
+|Has Species=White-breasted Nuthatch
+|Has Species=Winter Wren
+|Has Species=Wood Thrush
+|Has Species=Yellow-bellied Sapsucker
+|Has Species=Yellow-billed Cuckoo
+|Has Species=Yellow-throated Vireo
+}}

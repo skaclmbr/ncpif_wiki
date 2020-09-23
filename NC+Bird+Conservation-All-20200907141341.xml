@@ -35347,34 +35347,6 @@ Has Geography=North Carolina
     </revision>
   </page>
   <page>
-    <title>Central Appalachian Broadleaf Forest Coniferous Forest Meadow Province</title>
-    <ns>0</ns>
-    <id>796</id>
-    <revision>
-      <id>17129</id>
-      <parentid>17128</parentid>
-      <timestamp>2020-05-01T16:26:31Z</timestamp>
-      <contributor>
-        <username>Ncpif admin</username>
-        <id>1</id>
-      </contributor>
-      <minor/>
-      <comment>1 revision imported</comment>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="922">
-{{Habitat Page}}
-=Description=
-This province has a temperate climate with cool summers and short, mild winters. Annual precipitation is plentiful and evenly distributed with short, infrequent periods of water deficit. Landscapes of the province are predominantly mountainous but sections vary in predominant elevation, geologic substrate, and physiography. Vegetation is characterized by a tall, closed canopy of deciduous broadleaf forests with mesophytic and drought-tolerant species; forests change to coniferous or shrub lands at higher elevations. Ice storms are an important broad scale disturbance; high-intensity rain storms are associated with remnants of occasional hurricanes; lightning-caused fires are uncommon. Loss of American chestnut from the introduced chestnut blight was a major disturbance to the canopy of most forests during the 1920s.
-
-
-[[Category:Habitat]][[Category:Bailey's Habitat]]
-{{#set:
-}}</text>
-      <sha1>pd26r8y8tz0di2pdv2t8efc2qfoymyk</sha1>
-    </revision>
-  </page>
-  <page>
     <title>Successional Communities</title>
     <ns>0</ns>
     <id>853</id>

@@ -1,0 +1,394 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>NC Bird Conservation</sitename>
+    <dbname>ncbirdin_conwiki</dbname>
+    <base>http://wiki.ncpif.org/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.34.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">NC Bird Conservation</namespace>
+      <namespace key="5" case="first-letter">NC Bird Conservation talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="114" case="first-letter">Rule</namespace>
+      <namespace key="115" case="first-letter">Rule talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bird Conservation Region 29</title>
+    <ns>0</ns>
+    <id>174</id>
+    <revision>
+      <id>9300</id>
+      <parentid>9298</parentid>
+      <timestamp>2020-04-07T21:35:25Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="943">{{CC Infobox|categorytype=Geography}}
+
+=Piedmont=
+''from the [https://nabci-us.org/resources/bird-conservation-regions-map/#bcr29 US NABCI] website:''
+
+The Piedmont is transitional between the mountainous Appalachians and the flat coastal plain and is dominated by pine and mixed southern hardwoods. Priority landbirds include [[Red-cockaded Woodpecker]], [[Bachman's Sparrow]], and [[Brown-headed Nuthatch]]. Interior wetlands, reservoirs, and riverine systems provide migration and wintering habitat for waterfowl and some shorebirds. The fragmented patchwork of pasture, woodlots, and suburban sprawl that now dominates most of this region creates significant bird conservation challenges.
+
+[[Category:Geography]]
+[[Category:Bird Conservation Region]]
+{{#set:
+Has Organization=United States North American Bird Conservation Initiative
+|Has Species=Red-cockaded Woodpecker
+|Has Species=Bachman's Sparrow
+|Has Species=Brown-headed Nuthatch
+}}</text>
+      <sha1>csyy35k78adbtxl8eqptor6o1gq1u9n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Atlantic Coastal Plain</title>
+    <ns>0</ns>
+    <id>791</id>
+    <revision>
+      <id>6089</id>
+      <timestamp>2020-04-01T17:49:52Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{NC Ecoregions}} =Description= The Coastal Plain ecoregion includes mid-Atlantic areas east of the fall line and the tidal coast (ocean, sounds, barrier islands, and mainland..."</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1076">{{NC Ecoregions}}
+=Description=
+The Coastal Plain ecoregion includes mid-Atlantic areas east of the fall line and the tidal coast (ocean, sounds, barrier islands, and mainland brackish and salt marshes). It may be divided roughly into two sections: the tidewater area (lower Coastal Plain), which is largely flat and swampy, and the interior portion (upper Coastal Plain), which is made up of gently sloping elevations and is better drained than other regions. The upper Coastal Plain encompasses the Sandhills ecoregion. The average elevation is from about 200 feet at the fall line (or western boundary separation from the Piedmont), sloping to an elevation of generally 50 feet or less over most of the mainland landscape, with barrier islands being close to sea level. 
+
+Eastern North Carolina is home to longleaf pine ecosystems, wetlands, maritime forests and other critical habitats for terrestrial and aquatic species.
+
+[[Category:Geography]]
+[[Category:Ecoregion]]
+{{#set:
+Has Geography=North Carolina
+|Has Organization=North Carolina Wildlife Resources Commission
+}}</text>
+      <sha1>7hdmo6gaymkg85n4lawma03c72lz0zg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Southern Blue Ridge</title>
+    <ns>0</ns>
+    <id>793</id>
+    <revision>
+      <id>6092</id>
+      <timestamp>2020-04-01T17:56:19Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{NC Ecoregions}} =Description= The Mountain ecoregion includes all portions of the Southern Appalachian Mountains that occur west of the Blue Ridge Escarpment. There are seve..."</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1021">{{NC Ecoregions}}
+=Description=
+The Mountain ecoregion includes all portions of the Southern Appalachian Mountains that occur west of the Blue Ridge Escarpment. There are several foothill ranges (the Brushy, Sauratown, and South mountains) located within the Piedmont province that are part of the Mountain ecoregion. North Carolina has the highest elevations of any state east of the Mississippi River, with Mount Mitchell being the highest peak at 6,684 feet (all elevations are above mean sea level).
+
+From high peak spruce-fir forests to low floodplain valleys, the mountainous western region of North Carolina provides specialized habitat for a broad array of biodiversity. Natural community descriptions and priority conservation action recommendations can be found in Chapter 4 of the 2015 [[North Carolina Wildlife Action Plan|N.C. Wildlife Action Plan]] (NCWAP).
+
+[[Category:Geography]]
+[[Category:Ecoregion]]
+{{#set:
+Has Geography=North Carolina
+|Has Organization=North Carolina Wildlife Resources Commission
+}}</text>
+      <sha1>fid6c6w5aj8tujaxvchtwjxz5uge91a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Piedmont</title>
+    <ns>0</ns>
+    <id>794</id>
+    <revision>
+      <id>6093</id>
+      <timestamp>2020-04-01T17:57:24Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{NC Ecoregions}} =Description= The Piedmont ecoregion includes the areas east of the foot of the Blue Ridge Escarpment and west of the fall line, excluding the foothill range..."</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="867">{{NC Ecoregions}}
+=Description=
+The Piedmont ecoregion includes the areas east of the foot of the Blue Ridge Escarpment and west of the fall line, excluding the foothill ranges that are part of the Mountain ecoregion. The fall line is a major break in geologic structure between the Piedmont and the Coastal Plain which results in differences in ecosystem patterns and a variety of landscape relief and roughness. Elevations range from about 1,500 feet in the foothills to about 200 feet at the fall line.
+
+North Carolina’s classic Piedmont habitats include old fields, rock outcrops, streams and woodlands, where species diversity for some animal groups, such as amphibians, reptiles and birds, is relatively high.
+
+[[Category:Geography]]
+[[Category:Ecoregion]]
+{{#set:
+Has Geography=North Carolina
+|Has Organization=North Carolina Wildlife Resources Commission
+}}</text>
+      <sha1>069qj21znilmdnogq2360vt92kbo02z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sandhills</title>
+    <ns>0</ns>
+    <id>795</id>
+    <revision>
+      <id>6094</id>
+      <timestamp>2020-04-01T17:57:54Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{NC Ecoregions}} =Description= The Sandhills are the southwestern portion of the upper Coastal Plain ecoregion and are geologically a former coast line. The distinctive geomo..."</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="611">{{NC Ecoregions}}
+=Description=
+The Sandhills are the southwestern portion of the upper Coastal Plain ecoregion and are geologically a former coast line. The distinctive geomorphology of the Sandhills is from predominantly sandy soils formed of Cretaceous-age marine sands and, in some places, clays that are capped by Tertiary-age sands deposited over Piedmont metamorphic rocks. The landscape has rolling hills and native vegetation includes many rare plants.
+
+[[Category:Geography]]
+[[Category:Ecoregion]]
+{{#set:
+Has Geography=North Carolina
+|Has Organization=North Carolina Wildlife Resources Commission
+}}</text>
+      <sha1>52ndqf49uau13cciy7dspjbcmirprfo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Central Appalachian Broadleaf Forest Coniferous Forest Meadow Province</title>
+    <ns>0</ns>
+    <id>796</id>
+    <revision>
+      <id>6095</id>
+      <timestamp>2020-04-01T18:16:09Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "This province has a temperate climate with cool summers and short, mild winters. Annual precipitation is plentiful and evenly distributed with short, infrequent periods of wat..."</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="892">This province has a temperate climate with cool summers and short, mild winters. Annual precipitation is plentiful and evenly distributed with short, infrequent periods of water deficit. Landscapes of the province are predominantly mountainous but sections vary in predominant elevation, geologic substrate, and physiography. Vegetation is characterized by a tall, closed canopy of deciduous broadleaf forests with mesophytic and drought-tolerant species; forests change to coniferous or shrub lands at higher elevations. Ice storms are an important broad scale disturbance; high-intensity rain storms are associated with remnants of occasional hurricanes; lightning-caused fires are uncommon. Loss of American chestnut from the introduced chestnut blight was a major disturbance to the canopy of most forests during the 1920s.
+
+[[Category:Geography]]
+[[Category:Bailey's Habitat]]
+{{#set:
+}}</text>
+      <sha1>b3m4mx6z6pci4mkix8mp12ucmrhtxqe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Bird Conservation Region</title>
+    <ns>14</ns>
+    <id>176</id>
+    <revision>
+      <id>6162</id>
+      <parentid>372</parentid>
+      <timestamp>2020-04-02T03:33:36Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="42">{{BCR Description}}
+[[Category:Geography]]</text>
+      <sha1>0ukar4pjtmmcmj9jkuz7v6fme2fd213</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bird Conservation Region 27</title>
+    <ns>0</ns>
+    <id>912</id>
+    <revision>
+      <id>9299</id>
+      <timestamp>2020-04-07T21:33:57Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{CC Infobox|categorytype=Geography}}  =Southeastern Coastal Plain= ''from the [https://nabci-us.org/resources/bird-conservation-regions-map/#bcr27 US NABCI] website:''  This..."</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1704">{{CC Infobox|categorytype=Geography}}
+
+=Southeastern Coastal Plain=
+''from the [https://nabci-us.org/resources/bird-conservation-regions-map/#bcr27 US NABCI] website:''
+
+This region includes extensive riverine swamps and marsh complexes along the Atlantic Coast. Interior forest vegetation is dominated by longleaf, slash, and loblolly pine forests. Priority landbirds include the [[Red-cockaded Woodpecker]], [[Painted Bunting]], [[Bachman's Sparrow]], [[Swainson's Warbler]], and [[Swallow-Tailed Kite]]. Coastal intertidal habitats provide critical wintering areas for American Oystercatcher, important wintering and spring migration areas for Short-billed Dowitcher and Dunlin, and important fall staging areas for Red Knot. Sizable numbers of [[Brown Pelican]]s and various terns breed on offshore islands. Coastal areas provide important nesting and foraging habitats for large numbers of herons, egrets, ibis, terns, and other species. Coastal areas winter large numbers of [[Canvasback]], [[Mallard]], [[American Wigeon]], [[Redhead]], and the majority of the continent’s population of Tundra Swans. Managed impoundments in coastal areas are important to migrating and wintering dabbling ducks, including [[American Black Duck]].
+
+[[Category:Geography]]
+[[Category:Bird Conservation Region]]
+{{#set:
+Has Organization=United States North American Bird Conservation Initiative
+|Has Species=Red-cockaded Woodpecker
+|Has Species=Painted Bunting
+|Has Species=Bachman's Sparrow
+|Has Species=Swainson's Warbler
+|Has Species=Swallow-Tailed Kite
+|Has Species=Brown Pelican
+|Has Species=Canvasback
+|Has Species=Mallard
+|Has Species=American Wigeon
+|Has Species=Redhead
+|Has Species=American Black Duck
+}}</text>
+      <sha1>c2um556wxa76j5fs0agvzc807oqbw9r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bird Conservation Region 28</title>
+    <ns>0</ns>
+    <id>913</id>
+    <revision>
+      <id>9301</id>
+      <timestamp>2020-04-07T21:38:00Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{CC Infobox|categorytype=Geography}}  =Appalachian Mountains= ''from the [https://nabci-us.org/resources/bird-conservation-regions-map/#bcr28 US NABCI] website:''  Included i..."</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1473">{{CC Infobox|categorytype=Geography}}
+
+=Appalachian Mountains=
+''from the [https://nabci-us.org/resources/bird-conservation-regions-map/#bcr28 US NABCI] website:''
+
+Included in this area are the Blue Ridge, the Ridge and Valley Region, the Cumberland Plateau, the Ohio Hills, and the Allegheny Plateau. The rugged terrain is generally dominated by oak-hickory and other deciduous forest types at lower elevations and by various combinations of pine, hemlock, spruce, and fir in higher areas. While flatter portions are in agricultural use, the majority of most segments of this region are forested. Priority forest birds include [[Cerulean Warbler]] at low elevations and [[Black-throated Blue Warbler]] at high elevations. [[Golden-winged Warbler]]s are in early successional areas, and [[Henslow's Sparrow]]s are in grasslands. While not as important for waterfowl as coastal regions, the Appalachian region contains the headwaters of several major eastern river systems that are used by various waterfowl species during migration. In addition, large wetland complexes, such as Canaan Valley in West Virginia, and isolated beaver-created wetlands provide habitat for Wood Duck breeding.
+
+[[Category:Geography]]
+[[Category:Bird Conservation Region]]
+{{#set:
+Has Organization=United States North American Bird Conservation Initiative
+|Has Species=Cerulean Warbler
+|Has Species=Black-throated Blue Warbler
+|Has Species=Golden-winged Warbler
+|Has Species=Henslow's Sparrow
+}}</text>
+      <sha1>qkhx3pfqq4060zho7gfvl6pu7ojpjd3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:CC Infobox</title>
+    <ns>10</ns>
+    <id>854</id>
+    <revision>
+      <id>9275</id>
+      <parentid>9273</parentid>
+      <timestamp>2020-04-07T20:28:00Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2002">&lt;div class="container-fluid"&gt;
+	&lt;div class="row clearfix" style="text-align:center;font-size:0.75em;"&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="species"&gt;&lt;span class="fa fa-crow"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Species|species]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Species]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="habitats"&gt;&lt;span class="fa fa-tree"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Habitat|habitats]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Habitat]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="organizations"&gt;&lt;span class="fa fa-user-friends"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Organization|organizations]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Organization]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="plans"&gt;&lt;span class="fa fa-tasks"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Plan|plans]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Plan]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="plans"&gt;&lt;span class="fa fa-paper-plane"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Project|projects]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Projects]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="Download"&gt;&lt;span class="fa fa-globe-americas"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Geography|geographies]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Geography]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;</text>
+      <sha1>b4p45hhrftemcvf6mowb33n822apj17</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:NC Ecoregions</title>
+    <ns>10</ns>
+    <id>788</id>
+    <revision>
+      <id>6087</id>
+      <parentid>6086</parentid>
+      <timestamp>2020-04-01T17:46:31Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1218">''from the [[North Carolina Wildlife Resources Commission|NCWRC]] website:
+&lt;div class="container-fluid"&gt;
+&lt;div class="row clearfix"&gt;
+&lt;div class="col-md-8"&gt;
+A landscape framework using widely accepted ecoregion boundaries helps conservation planning efforts by grouping habitats into areas that share common landscape settings and patterns. These settings and patterns are influenced by climate, soils, land surface form, and natural vegetation. They are often used for organizing, interpreting and reporting information about land-use dynamics. In 2005, the [[North Carolina Wildlife Action Plan|N.C. Wildlife Action Plan]] (NCWAP) used three physiographic provinces — [[Southern Blue Ridge|Mountains]], [[Piedmont|Piedmont]], [[Sandhills]] and [[Atlantic Coastal Plain|Coastal Plain]] — as a landscape framework. In the 2015 revision, four eco-region boundaries are used for grouping aquatic, wetland, and terrestrial community descriptions (habitats) because doing so allows us to highlight the unique characteristics of the Sandhills eco-region. The following map depicts the boundaries of the four ecoregions.
+&lt;/div&gt;
+&lt;div class="col-md-4"&gt;
+[[File:Map_NC_Ecoregion_Boundaries.jpg|frameless]]
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</text>
+      <sha1>odc7pdqs55c6yu1ldae0phafjo7wdd8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:BCR Description</title>
+    <ns>10</ns>
+    <id>175</id>
+    <revision>
+      <id>374</id>
+      <parentid>373</parentid>
+      <timestamp>2020-03-30T15:55:34Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="633">[[:Category:Bird Conservation Region|Bird Conservation Regions (BCRs)]] are ecologically distinct regions in North America with similar bird communities, habitats, and resource management issues. BCRs are a single application of the scale-flexible hierarchical framework of nested ecological units delineated by the [http://www.cec.org/ Commission for Environmental Cooperation (CEC)]. See more information at [https://nabci-us.org/resources/bird-conservation-regions/ US NABCI's website].
+
+Maps delineating BCR boundaries can be downloaded at [https://www.birdscanada.org/bird-science/nabci-bird-conservation-regions/ Birds Canada].</text>
+      <sha1>metg94qfoocu1u4ke9cmaihpkud3d70</sha1>
+    </revision>
+  </page>
+</mediawiki>

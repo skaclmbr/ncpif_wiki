@@ -1,0 +1,15 @@
+{{Plan Page}}
+
+This page is for the 2015 version. See the [[North Carolina Wildlife Action Plan]] for other versions. Refer to the [[North Carolina Wildlife Resources Commission]]'s [https://www.ncwildlife.org/plan NC WAP page here] for more information.
+
+[[File:NCWAP-2015-All-Documents.pdf]]
+
+[[Category:Plan]]
+{{#set:
+Has Publication Year=2015
+|Has Geography=North Carolina
+|Has Geography=Bird Conservation Region 27
+|Has Geography=Bird Conservation Region 28
+|Has Geography=Bird Conservation Region 29
+|Has Primary Author Organization=North Carolina Wildlife Resources Commission
+}}

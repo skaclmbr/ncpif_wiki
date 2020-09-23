@@ -1,0 +1,544 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>NC Bird Conservation</sitename>
+    <dbname>ncbirdin_conwiki</dbname>
+    <base>http://wiki.ncpif.org/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.34.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">NC Bird Conservation</namespace>
+      <namespace key="5" case="first-letter">NC Bird Conservation talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="112" case="first-letter">smw/schema</namespace>
+      <namespace key="113" case="first-letter">smw/schema talk</namespace>
+      <namespace key="114" case="first-letter">Rule</namespace>
+      <namespace key="115" case="first-letter">Rule talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Golden-Winged Warbler Working Group</title>
+    <ns>0</ns>
+    <id>10</id>
+    <revision>
+      <id>6892</id>
+      <parentid>6887</parentid>
+      <timestamp>2020-04-07T17:22:30Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="368">{{CC Infobox|categorytype=Organization}}
+
+The [http://gwwa.org/| Golden-Winged Warbler Working Group] seeks to Implement the [[Golden-Winged Warbler Conservation Plan]].
+
+[[Category:Organization]]
+[[Category:Partnership]]
+
+{{#set:
+ Has Scope Of=national
+ |Has Species=Golden-winged Warbler
+ |Has Geography=Bird Conservation Region 29
+ |Has Geography=Southeastern US
+}}</text>
+      <sha1>gj2cgfr4bswbbohgjyh5tsf0tfzemjd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Conservation Trust for North Carolina</title>
+    <ns>0</ns>
+    <id>11</id>
+    <revision>
+      <id>9584</id>
+      <parentid>6891</parentid>
+      <timestamp>2020-04-15T14:25:07Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1028">{{Organization Page}}
+
+The [https://www.ctnc.org/ CTNC] Mission:
+
+    CTNC’s mission grows out of our expertise in land conservation, our skill in bringing new people to conservation, and our expanding network of partner organizations and communities. Brought together, these capabilities direct us to conserve land in ways that inspire and enable people to build resilient, just communities.
+
+CTNC implements our mission by seeking to:
+
+    *Conserve land in collaboration with communities,
+    *Use conservation to lessen the impacts of a changing climate, and
+    *Ensure conservation benefits everyone by being more inclusive and equitable.
+
+    In our envisioned future, North Carolina’s most important natural and cultural lands are permanently protected. If we are successful in following our values, we at CTNC believe we will contribute to a North Carolina where all communities share in the benefits of healthy lands.
+
+[[Category:Organization]]
+[[Category:Non-Government]]
+
+{{#set:
+ Has Geography=North Carolina
+}}</text>
+      <sha1>eiu6pz9uxcd8ylkpnp85jcp1d20qqel</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Government</title>
+    <ns>14</ns>
+    <id>14</id>
+    <revision>
+      <id>44</id>
+      <parentid>32</parentid>
+      <timestamp>2020-03-26T16:25:46Z</timestamp>
+      <contributor>
+        <username>Scott</username>
+        <id>2</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="128">{{Conservation Categories}}
+
+Government is a sub-Category of [[:Category:Organization|Organization]].
+
+[[Category:Organization]]</text>
+      <sha1>otka6oungpksleybpr7xg9pwpkks42l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Partnership</title>
+    <ns>14</ns>
+    <id>13</id>
+    <revision>
+      <id>46</id>
+      <parentid>25</parentid>
+      <timestamp>2020-03-26T16:26:29Z</timestamp>
+      <contributor>
+        <username>Scott</username>
+        <id>2</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="129">{{Conservation Categories}}
+
+Partnership is a sub-Category of [[:Category:Organization|Organization]].
+
+[[Category:Organization]]</text>
+      <sha1>b5nws6o4ol82uba9fpo2sxzr64bbdgw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Non-Government</title>
+    <ns>14</ns>
+    <id>15</id>
+    <revision>
+      <id>45</id>
+      <parentid>28</parentid>
+      <timestamp>2020-03-26T16:26:12Z</timestamp>
+      <contributor>
+        <username>Scott</username>
+        <id>2</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="138">{{Conservation Categories}}
+
+Non-Government (NGO) is a sub-Category of [[:Category:Organization|Organization]].
+
+[[Category:Organization]]</text>
+      <sha1>8m97usq6w8gk7gzcceklra0sgbxqzxy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>North Carolina Wildlife Resources Commission</title>
+    <ns>0</ns>
+    <id>16</id>
+    <revision>
+      <id>6889</id>
+      <parentid>6881</parentid>
+      <timestamp>2020-04-07T17:20:26Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="442">{{CC Infobox|categorytype=Organization}}
+The [http://ncwildlife.org North Carolina Wildlife Resources Commission] is a government agency responsible for conservation of fish and wildlife in the state.
+
+The [[Is Implementing::North Carolina Wildlife Action Plan]] is the guiding document for Agency activities.
+
+[[Category:Organization]]
+[[Category:Government]]
+[[Category:State Wildlife Agency]]
+
+{{#set:
+Has Species=American Oystercatcher
+}}</text>
+      <sha1>1fnj34es2r55kaccw33ook5cu1m7m9s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:State Wildlife Agency</title>
+    <ns>14</ns>
+    <id>17</id>
+    <revision>
+      <id>47</id>
+      <parentid>33</parentid>
+      <timestamp>2020-03-26T16:27:03Z</timestamp>
+      <contributor>
+        <username>Scott</username>
+        <id>2</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="222">{{Conservation Categories}}
+
+Government is a sub-Category of [[:Category:Organization|Organization]].
+
+State Wildlife Agency is a sub-Category of [[:Category:Government]].
+
+[[Category:Organization]]
+[[Category:Government]]</text>
+      <sha1>ln5wz5wibmhvofarfims8m6nclrmdx7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Private</title>
+    <ns>14</ns>
+    <id>172</id>
+    <revision>
+      <id>367</id>
+      <timestamp>2020-03-30T15:40:22Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{Conservation Categories}}  [[Category:Organization]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="54">{{Conservation Categories}}
+
+[[Category:Organization]]</text>
+      <sha1>210y8v19pdbprxzjnnfu4bv4i1afzbd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>United States North American Bird Conservation Initiative</title>
+    <ns>0</ns>
+    <id>177</id>
+    <revision>
+      <id>10781</id>
+      <parentid>6884</parentid>
+      <timestamp>2020-04-15T16:35:27Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3246">{{CC Infobox|categorytype=Project}}
+=Description=
+''from the [https://nabci-us.org/ US NABCI website]:''
+
+A Coalition for Integrated Bird Conservation: Established in 1999, the U.S. North American Bird Conservation Initiative (NABCI) Committee is a coalition of state and federal government agencies, private organizations, and bird initiatives in the United States working to ensure the long-term health of North America’s native bird populations. The U.S. NABCI Committee creates a unique forum for federal and state agencies and non-governmental organizations to address shared bird conservation challenges and priorities. Its strength lies in its ability to directly engage conservation leaders and to collaboratively develop and express a collective voice that promotes integrated all-bird conservation. Individuals who serve on the U.S. NABCI Committee build working relationships across the bird conservation community, contributing their expertise and insights to mutually beneficial goals. Collaborative efforts are aimed at the U.S. and tri-national bird conservation communities and inform and highlight new frontiers in bird conservation.
+
+'''Vision:''' Healthy and abundant populations of North American birds are valued by future generations and sustained by habitats that benefit birds and people.
+
+'''Mission:''' The U.S. NABCI Committee facilitates collaborative partnerships that advance biological, social, and scientific priorities for North American bird conservation.
+
+'''Value Proposition:''' Facilitates advancements in all-bird conservation and works tri-nationally to encompass the full-life-cycle needs of resident and migratory birds. U.S. NABCI work is rooted in both natural and social sciences, focused on the scale of continental bird conservation initiatives and migratory bird joint ventures, and advanced by partnerships that leverage resources and expertise.
+
+{{Partner List}}
+
+{{#set:
+Has Organization=United States Fish and Wildlife Service
+|Has Organization=Association of Fish and Wildlife Agencies
+|Has Organization=American Birding Association
+|Has Organization=American Bird Conservancy
+|Has Organization=Avian Knowledge Network
+|Has Organization=Bird Conservancy of the Rockies
+|Has Organization=Biodiversity Research Institute
+|Has Organization=United States Bureau of Land Management
+|Has Organization=Cornell Lab of Ornithology
+|Has Organization=United States Department of Defense
+|Has Organization=Ducks Unlimited
+|Has Organization=United States Department of Agriculture Farm Services Agency
+|Has Organization=Institute for Bird Populations
+|Has Organization=Migratory Bird Joint Ventures
+|Has Organization=National Audubon Society
+|Has Organization=National Flyway Council
+|Has Organization=United States National Park Service
+|Has Organization=United States Natural Resources Conservation Science
+|Has Organization=The Nature Conservancy
+|Has Organization=Partners In Flight
+|Has Organization=Smithsonian Migratory Bird Center
+|Has Organization=United States Forest Service
+|Has Organization=United States Geological Survey
+|Has Organization=The Wildlife Society
+|Has Plan=South Atlantic Migratory Bird Initiative Implementation Plan 2008
+}}
+[[Category:Organization]]
+[[Category:Partnership]]</text>
+      <sha1>mg5y3968bx4o3xf4iikovimfg6yr38q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>American Oystercatcher Working Group</title>
+    <ns>0</ns>
+    <id>770</id>
+    <revision>
+      <id>6890</id>
+      <parentid>6886</parentid>
+      <timestamp>2020-04-07T17:21:09Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3464">{{CC Infobox|categorytype=Organization}}
+=Description=
+''From the [http://amoywg.org/ American Oystercatcher Working Group] website:''
+
+The [http://amoywg.org/ American Oystercatcher Working Group] seeks to develop, support, and implement rangewide research and management efforts that promote the conservation of American Oystercatchers and their habitats through individual and partnership-based initiatives guided by recommendations of the Working Group’s membership.
+
+==Mission Statement==
+The American Oystercatcher Working Group seeks to develop, support and implement range-wide research and management efforts that promote the conservation of Atlantic coast American Oystercatchers and their habitats through individual and partnership-based initiatives guided by recommendations of the Working Group’s membership.
+
+==Goals and Objectives==
+Working Group goals include the development of management objectives in a science-based, adaptive management framework. Primary objectives include; monitoring population trends at local, regional, and continental scales, obtaining reliable estimates of demographic parameters and the factors that affect them, understanding how variations in demographic parameters affect population viability over space and time, identifying threats to American Oystercatcher populations, and translating these findings into management actions that promote American Oystercatcher
+
+{{Partner List}}
+
+[[Category:Organization]]
+[[Category:Partnership]]
+{{#set:
+Has Species=American Oystercatcher
+|Has Organization=Audubon Florida
+|Has Organization=North Carolina Audubon Society
+|Has Organization=Audubon Texas
+|Has Organization=BiodiversityWorks
+|Has Organization=Clemson University
+|Has Organization=College of William and Mary
+|Has Organization=Conserve Wildlife Foundation of New Jersey
+|Has Organization=City University of New York
+|Has Organization=Delaware Division of Fish and Wildlife
+|Has Organization=Ecostudies Institute
+|Has Organization=Environmental Institute of Houston
+|Has Organization=Florida Fish and Wildlife Conservation Commission
+|Has Organization=Georgia Department of Natural Resources
+|Has Organization=Gulf Coast Bird Observatory
+|Has Organization=Kino Bay Center for Cultural and Ecological Studies
+|Has Organization=Louisiana Department of Wildlife and Fisheries
+|Has Organization=Manomet Center for Conservation Sciences
+|Has Organization=Maryland Department of Natural Resources
+|Has Organization=Massachusetts Audubon
+|Has Organization=Nantucket Conservation Foundation
+|Has Organization=National Audubon Society
+|Has Organization=National Fish and Wildlife Foundation
+|Has Organization=National Park Service
+|Has Organization=New Jersey Audubon
+|Has Organization=New Jersey Division of Fish and Wildlife
+|Has Organization=New York City Audubon
+|Has Organization=North Carolina State University
+|Has Organization=North Carolina Wildlife Resources Commission
+|Has Organization=Rutgers University
+|Has Organization=South Carolina DNR
+|Has Organization=Texas A&amp;M University Kingsville
+|Has Organization=Texas State University
+|Has Organization=The Nature Conservancy
+|Has Organization=Trent University
+|Has Organization=University of Georgia
+|Has Organization=University of Houston Clear Lake
+|Has Organization=U.S. Fish and Wildlife Service
+|Has Organization=U.S. Geological Survey
+|Has Organization=Virginia Department of Game and Inland Fisheries
+|Has Organization=Wildlife Conservation Society
+}}</text>
+      <sha1>qesuzncjlxw177mm0war3wn6br2dd5w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>North Carolina Audubon Society</title>
+    <ns>0</ns>
+    <id>852</id>
+    <revision>
+      <id>6888</id>
+      <parentid>6880</parentid>
+      <timestamp>2020-04-07T17:19:05Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="135">{{CC Infobox|categorytype=Organization}}
+
+[[Category:Organization]]
+[[Category:Non-Government]]
+{{#set:
+Has Geography=North Carolina
+}}</text>
+      <sha1>k0gtoq730kxkk3dhvm8t925gksjq7dz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>United States Shorebird Conservation Partnership</title>
+    <ns>0</ns>
+    <id>953</id>
+    <revision>
+      <id>9366</id>
+      <parentid>9365</parentid>
+      <timestamp>2020-04-14T19:13:36Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="248">{{Organization Page}}
+=Description=
+[https://www.shorebirdplan.org/ Partnership website]
+
+[[Category:Organization]]
+[[Category:Partnership]]
+{{#set:
+Has Geography=United States
+|Has Bird Group=Shorebird
+|Has Geography=Bird Conservation Region 27
+}}</text>
+      <sha1>6vve8gmevisf15xmjgmjjwfbzdxlhou</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:CC Infobox</title>
+    <ns>10</ns>
+    <id>854</id>
+    <revision>
+      <id>9275</id>
+      <parentid>9273</parentid>
+      <timestamp>2020-04-07T20:28:00Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2002">&lt;div class="container-fluid"&gt;
+	&lt;div class="row clearfix" style="text-align:center;font-size:0.75em;"&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="species"&gt;&lt;span class="fa fa-crow"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Species|species]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Species]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="habitats"&gt;&lt;span class="fa fa-tree"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Habitat|habitats]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Habitat]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="organizations"&gt;&lt;span class="fa fa-user-friends"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Organization|organizations]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Organization]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="plans"&gt;&lt;span class="fa fa-tasks"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Plan|plans]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Plan]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="plans"&gt;&lt;span class="fa fa-paper-plane"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Project|projects]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Projects]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class="col-md-2"&gt;
+			&lt;span class="mw-headline" style="font-size:1.3em;font-weight:500;" id="Download"&gt;&lt;span class="fa fa-globe-americas"&gt;&lt;/span&gt;&lt;br&gt;[[:Category:Geography|geographies]]&lt;/span&gt;
+			&lt;p&gt;{{#ask:[[Category:Geography]][[Has {{{categorytype}}}::{{PAGENAME}}]]|limit=10|format=plainlist|order=asc}}&lt;/p&gt;
+		&lt;/div&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;</text>
+      <sha1>b4p45hhrftemcvf6mowb33n822apj17</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Organization Page</title>
+    <ns>10</ns>
+    <id>856</id>
+    <revision>
+      <id>6876</id>
+      <timestamp>2020-04-07T17:06:38Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{CC Infobox|categorytype=Organization}}"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40">{{CC Infobox|categorytype=Organization}}</text>
+      <sha1>qlx3o4vhrbkk7k057fpy3kkcn11i8fg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Conservation Categories</title>
+    <ns>10</ns>
+    <id>20</id>
+    <revision>
+      <id>9338</id>
+      <parentid>48</parentid>
+      <timestamp>2020-04-09T17:02:00Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="285">There are 6 main Categories in this Conservation Wiki:
+
+[[:Category:Species|Species]], [[:Category:Habitat|Habitats]], [[:Category:Organization|Organizations]], [[:Category:Project|Projects]], [[:Category:Conservation Plan|Conservation Plans]], and [[:Category:Geography|Geographies]].</text>
+      <sha1>t7rocue43acqugbb2xcylez8b0g3e8e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Partner List</title>
+    <ns>10</ns>
+    <id>771</id>
+    <revision>
+      <id>6885</id>
+      <parentid>3844</parentid>
+      <timestamp>2020-04-07T17:14:16Z</timestamp>
+      <contributor>
+        <username>Ncpif admin</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="104">=Partners=
+{{#ask:
+[[{{PAGENAME}}]]
+|?Has Organization
+|mainlabel=-
+|headers=hide
+|limit=1
+|order=asc
+}}</text>
+      <sha1>muul71sb3bs53v5dx71cvzpoq5wu99p</sha1>
+    </revision>
+  </page>
+</mediawiki>

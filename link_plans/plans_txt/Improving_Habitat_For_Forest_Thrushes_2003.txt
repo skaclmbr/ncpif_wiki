@@ -1,0 +1,1754 @@
+A LandManaqer's Guide to
+
+
+Improvinq Habitatfor
+
+Forest Thrushes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I
+,,
+
+a                                             au.f
+.
+
+
+
+
+
+
+
+
+
+
+
+
+e    CORNELL LAB of ORNITHOLOGY
+Acknowledqements
+
+Funding for the Birds in Forested Landscapes project and production of this publication  was provided by the National Fish and Wildlife Foundation,  the USDA Forest Service,  the Environmental Protection Agency, and voluntary contributions from many Birds in Forested Landscapes participants.
+
+We would also like to thank our many colleagues at the Cornell Lab of Ornithology,  Cornell University,
+and federal and state wildlife agencies for discussions of forest-bird management  and for helping us improve  this document.  Special thanks  to Cristina Faustino for her numerous  contributions to the data analysis and Barb Kott for her coordination of the project in conjunction  with  the Forest Service.  Most importantly we appreciate  the dedication,  time, and continued effort of thousands of Birds in Forested Landscapes participants who  collected the data  on forest birds.  Without  their support and hard work  in the field this publication  would not be possible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please cite this publication as Rosenberg,  K.V.,  R.S. Hames,  R.W.  Rohrbaugh, Jr.,  S.  Barker Swarthout, J.D.  Lowe,  and A.A.  Dhondt.  2003. A land  manager's guide to improving  habitat
+for forest thrushes. The Cornell Lab of Ornithology.
+
+0 2003 by the Cornell  Lab of Ornithology
+A LandManaqer's Guide to
+Improvinq Habitatfor Forest Thrushes
+
+
+Kenneth V.  Rosenberg,  Ralph  S.  Hames,  Ronald W.  Rohrbaugh, Jr., Sara  Barker Swarthout, James  D.  Lowe, Andre A.  Dhondt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+Preface                                    .                                                                                                                                                                                                                                                                                                            2
+Summary.............................                                                                                                                                                2
+Introduction.........................                                                                                                                                                3
+Managing  the Contemporary Forest                                                                                                                                    5
+What  Is  Forest Fragmentation?                                                                                                                                      5
+Birds  in Forested  Landscapes: A scientific approach  to managing forest birds                                                       6
+General  Guidelines:  Key Forest Characteristics                                                                                                                  7
+Forest Size and Isolation                                                                                                                                                7
+Edges............................                                                                                                                                                8
+Brood Parasitism  and Nest Predation                                                                                                                           8
+Landscape Context........                                                                                                                                                9
+Forest Structure...........                                                                                                                                                10
+Regional  Management  Guidelines for Thrushes                                                                                                               11
+Using These Guidelines                                                                                                                                               11
+Using Minimum-Area Tables                                                                                                                                       11
+East/Midwest Forest Region                                                                                                                                                12
+Management  Summary                                                                                                                                                15
+Northern  Forest Region......                                                                                                                                                16
+Management  Summary                                                                                                                                                18
+Western  Forest Region.......                                                                                                                                                1  9
+Management  Summary                                                                                                                                                21
+Biographies of Forest Thrushes                                                                                                                                           22
+Veery                                                                                                                                                                             22
+Swainson'sThrush.......                                                                                                                                                23
+Hermit Thrush.............                                                                                                                                                24
+Wood Thrush..............                                                                                                                                                25
+Varied Thrush               .                                                                                                                                                                                                                                                                                                            26
+Literature Cited                    .                                                                                                                                                                                                                                                                                                            27
+Preface
+
+
+Purpose and Use ofthis Guide
+This publication is a tool  to help improve  habitat for populations of forest-interior birds. These guide• lines are written  for two types of land  managers:  those responsible for large landscapes,  such as public lands or entire states;  and private landowners who  man-
+age small  blocks of forest. We first discuss concepts associated with  forest fragmentation  at both  landscape and smaller  habitat scales and provide  general man• agement suggestions that benefit  many forest-interior birds. We then focus directly on the habitat-area requirements of the Veery,  Swainson's Thrush,  Hermit Thrush, Wood Thrush, and Varied Thrush. Specifically, we provide  estimates of how much appropriate forest habitat is  necessary to sustain  breeding  populations of each of these species  in three geographic  regions of
+the U.S. and Canada.
+Why thrushes?
+Nearly  every forest in North America  is  inhabited by one or more thrush species. These drab-colored songbirds are not often seen,  yet their  beautiful,  flute• like songs are one of the most characteristic sounds of our forested landscapes  in summer.  Forest thrushes,
+like their  more familiar cousin the American  Robin, feed primarily on the ground  and build their nests
+on or near the ground  in low,  dense vegetation.  Each species selects  its own  habitat,  in terms of forest type, elevation,  and moisture  regime,  and all are sensitive to the structure,  productivity,  and configuration of the for• est. These birds are therefore  good  indicators of forest health  and the abi I  ity of our forests to support healthy bird populations. As several  thrush species continue to decline,  managing forest habitats for these and other songbirds  is one way that landowners and managers
+can contribute to bird conservation  efforts.
+
+
+
+Summary
+
+
+This  is the second  publication  in a series of forest habitat management  guidelines  produced  by the Cornell Lab of Ornithology as a tool  to help those interested in managing and protecting  habitat for birds. The first publication, A Land Manager's  Guide to Improving Habitat for Scarlet Tanagers and other  Forest-interior Birds, was published  in 1999  and has been used widely by agencies and private  landowners. These guidelines offer a set of "management prescriptions"descriptions of the kinds and amounts of habitat that are required to sustain healthy bird  populations. This guide  is focused on improving habitat for five forest-dwelling thrushes,  including
+the Veery (Catharus fuscescens),  Swainson's Thrush (Catharus  ustulatus),  Hermit Thrush (Catharus guttatus), Wood
+Thrush (Hylocichla  mustelina),  and Varied Thrush (lxoreus naevius).  Providing well-managed habitat for these
+wide-ranging species that use a variety of forest habitats also will  benefit  a  host of other forest birds. We first offer a series of general  management  guidelines that are applicable in both eastern and western  landscapes. These include  preventing the fragmentation  of large forest tracts,  minimizing the creation  of edge habitats,  establish-
+ing forested corridors to reduce isolation  of small  patches,  and maintaining structural  and plant-species diversity within  existing forests.
+Unlike tanagers,  thrushes are birds of the forest understory,  requiring dense shrub or sapling  layers and a well-developed layer of leaf litter on the forest floor. These conditions exist in some  mature and old-growth forest types,  but most often are enhanced  by small-scale disturbances within forested regions.  Silvicultural  practices
+that mimic  natural  disturbance  and promote  deciduous shrubs and saplings can benefit thrush populations,  as long as overall  forest cover in a  landscape is not permenantly  reduced.  In all forested regions, general guidelines for thrushes and other forest species  include:  (1) maintaining large and unfragmented  forest blocks;  (2)  promoting understory  growth  through  natural  disturbance or management;  and (3)  limiting overbrowsing by deer,  livestock, and other ungulates.  In the western region,  protection  and enhancement of riparian  forest are critical  for thrush and other bird populations.  In  eastern and northern  forests,  patches of 150 acres (62  ha) or larger generally  will
+provide  thrushes with  high to moderate  levels of habitat suitability.
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure  1.  Vast coniferous forests of western North America support  diverse bird communities, including large populations of Hermit Thrush, Swainson's  Thrush, and in some regions, Varied Thrush.  Photo by Melissa  S.  Barker.
+
+Introduction
+
+Few choices that a bird  makes during  its  life will affect its survival  and abi I  ity to reproduce  as profound• ly as  its choice  of habitat. A bird's  habitat must contain all the resources  needed for that individual's growth, survival,  and reproduction,  including food,  water, cover,  and roosting and nesting sites. The process can be complicated,  as each bird  is faced with  a mosaic of acceptable  habitats from  which  to choose,  and each choice  often occurs at different  geographic  scales (Hames et al. 2001 ).  For example,  a migratory  Wood
+Thrush returning to its  breeding  grounds  must first se• lect an appropriate forest patch,  then a territory within the patch, and finally  a  nest site within  the territory (Figure 2). These choices are made based on habitat type and quality.  Each  bird  species  has a unique set of habitat requirements  based on its ecology  and behav• ior.  Some species,  such  as the Bicknell's Thrush, which only  nests  in montane forest dominated by balsam fir, have very specific  habitat requirements.  Other species may key in on a specific  habitat type,  such  as for-
+est,  but will  tolerate a  range of conditions within  that
+habitat type.  Suites of species  may respond similarly
+to variation  in basic forest characteristics  such  as size, shape,  and surrounding  land  use.  For this reason, targeted forest management  for selected  species will often benefit  a  larger guild of forest-dwelling birds.
+Sometimes two  locations  may contain all the ba• sic  requisites for appropriate breeding habitat,  but they may differ  in overall  habitat quality.  For example,  one location  may contain  more food,  better nest sites,  or fewer  brood  parasites (i.e.,  Brown-headed  Cowbirds) and nest predators.  Such  quality differences among habitats often are revealed by their  rate of occupancy by breeding  birds (Hames et al. 2001) and the nesting success experienced  by those occupants. The guide• lines contained  in this publication were created by statistically  modeling the relationships between thrush occupancy rates and numerous forest characteristics thought  to affect habitat quality.
+In  our first forest management  publication, A
+Land Manager's  Guide to Improving Habitat for Scarlet
+Tanagers and other Forest-interior  Birds,  we focused on eastern forests,  as this was the extent of the Scar- let Tanager's breeding distribution  (Rosenberg et al.
+1999b).  In this  publication,  the second  in our manage• ment series,  we expand our taxonomic and geographic scope by providing management  guidelines for the Wood Thrush, Hermit Thrush, Swainson's Thrush, Vee• ry, and Varied Thrush.  Like the tanager management guidelines,  the thrush guidelines will  also benefit  many other forest-dwelling birds. The five forest thrushes
+considered  in this publication have a combined geo-
+
+
+
+3
+graphic  distribution that includes  much of the forested habitat in North America,  spanning eastern  decidu• ous forest,  boreal forest,  and western  montane forest. As a group, the forest thrushes  require a set of similar habitat conditions.  Each  species,  however,  occupies a unique  ecological  niche and thus requires a specific set of forest conditions to breed successfully and sus•
+tain viable  populations.  Furthermore,  individuals of the same species  breeding  in geographically disjunct pop• ulations,  may have somewhat different  habitat needs, thus  requiring slightly different  management  actions.
+For example,  appropriate forest patch size  is important for Hermit Thrushes nesting in both Vermont  and Idaho (Hames et al. 2002);  however,  because of differences
+in forest type and the amount  of forest available  in the landscape,  management  actions designed to achieve
+the same population goals for this species  may be very different  in the two states. The degree to which individual  characteristics,  such  as forest size or shape, play a  role in determining  habitat quality is highly variable  from  place to place (Rosenberg et al.  1999b), as geographic  location  can have profound  effects on factors  like climate and presence of competitors and predators. To measure geographic  variation  in species• specific  habitat requirements,  we studied each thrush species throughout its  range (see sidebar,  page 6). The goal of this publication is to provide  forest managers with  regionally  specific,  science-based  guidelines for assessing habitat quality,  making  important forest plan• ning and mitigation  decisions,  and improving habitat conditions for thrushes and other forest birds.
+
+
+
+
+
+
+Figure 2.  Wood Thrush Habitat Selection: For many species,  including the Wood Thrush, select•
+ing a place  to nest involves
+making choices  at several geographic  scales. A migrat• ing Wood  Thrush returning to its natal breeding area in an agricultural setting is first faced  with locating a  wood• lot suitable for establishing
+a  breeding territory.  The woodlot must be of appro• priate size, age, shape, and distance to key landscape features, such as water. Af• ter selecting a woodlot,  the bird must then stake out a territory of about  five acres (2 ha), usually containing
+a  mix of understory and canopy  trees.  Finally, the bird must select an ap• propriate place  within the territory to build its nest, which  is placed  on a  forked branch of an understory
+tree or shrub, such as flow• ering dogwood. From  the Lab's  Home Study Course
+in Bird Biology  (Podulka et al. 2001 ).  Illustration by N. John Schmitt.
+
+
+
+
+
+
+4
+Manaqinq the Contemporary Forest
+
+Throughout  North American  history,  forests  have received  intense pressure because of their ability to provide  renewable  resources and sites for agriculture and development. The amount  and quality of for-
+est habitat available for breeding birds  is constantly changing  because of a cycle of forest clearing  followed by regrowth.  In the 1800s,  millions of acres of forest in the East and Midwest  were cleared for agriculture and the wood  products they provided.  Much  of the farm• land  created during  this era of agriculture  has been subsequently abandoned  and replaced  by forest,  caus• ing a net increase  in forest area in the rural Northeast during  the past 100 years.  Conversely,  residential  and commercial  development is outpacing forest regrowth in the suburban  Southeast and Midwest,  causing a net forest decline in those regions. The amount  of forest
+in the mountainous West has remained  roughly  stable during the past few decades  because of vast acreages owned  and protected  by the federal  government.  The end result is a dynamic  situation  where the amount  of forest is constantly changing  within  and among major geographical  regions.
+In  addition  to forest loss,  there are a variety of
+threats that degrade habitat quality for forest birds. A number  of forest health  issues,  such  as hemlock  wooly adelgid,  beech bark scale,  viburnum leaf beetle,  acid rain deposition,  and overbrowsing by white-tailed
+deer,  threaten eastern  forests.  In western coniferous forests,  fire suppression  has altered the natural forest structure and composition.  Furthermore,  increased fuel loads  in fire-suppressed  areas lead to wildfires that are devastating as opposed to rejuvenating.  Finally,  per• vasive forest fragmentation  reduces  habitat quality for breeding birds  in both eastern and western  landscapes (Hames et al. 2002).
+Effective forest management  for bird populations relies on long-term  planning,  periodic  needs assess• ment to ensure adequate amounts of high-quality for• est habitat in all regions, and science-based guidelines that consider  forest bird ecology  and contemporary threats. The responsibility for long-term  planning at ecoregional  scales falls mostly to state and federal agencies and some  large conservation  landowners
+such as The Nature Conservancy. Yet, the contribu•
+tions of private  landowners,  individual  natural  resource managers,  and commercial  forest owners  is paramount to providing adequate amounts of quality breeding habitat for forest birds.
+Some  key characteristics that determine a forest's quality as breeding bird  habitat include  its size and shape,  how  isolated it is from  other forests,  the land• use surrounding  it,  and its age and structural  develop• ment. Most of these characteristics can be manipulated
+by forest managers to benefit  birds.  Furthermore,  these
+J
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.  Forests fragmented by agricultural develop• ment persist as isolated patches  that may vary in size, shape, and degree of isolation.  Photo by Kenneth  V. Rosenberg.
+
+characteristics are interrelated  and influenced by the amount  of forest fragmentation  in the surrounding landscape,  permitting managers to focus on one or two key characteristics that can potentially  improve  the overall  quality of the habitat.  Management  activities that benefit forest birds will  often involve  the replica• tion  of small-scale natural disturbances that would naturally influence ecological  succession.  For  instance, removal  of selected overstory trees can create gaps  in the forest canopy,  thus simulating damage caused by storms. These gaps stimulate understory growth,  which ultimately  provides food and nest sites for forest birds.
+
+What Is Forest Fraqmentation?
+Forest fragmentation  occurs when  large,  contigu• ous forests are divided  into smaller patches  by residen• tial and commercial  development,  roads,  agriculture, and,  in some cases, timber  harvesting (Figure 3).  Clear• cutting  can temporarily fragment  mature,  contiguous forest until  the clear-cut  area has regenerated to a suc• cessional stage  in which it no longer poses an ecologi• cal barrier to forest-interior birds. As mature forests  be•
+come fragmented,  less  habitat is available for breeding
+
+
+5
+birds,  and a variety of factors,  such  as increased brood parasitism  and nest predation,  result in lower repro• ductive success in the habitat that remains  (Brittingham
+& Temple  1983; Wilcove  1985;  Martin  1988;  Robinson et al. 1995). Thus,  forest fragmentation  not only  causes
+a net loss of habitat,  it can also reduce the suitabi I  ity of remaining habitat in a region.
+It is important to distinguish  between a forest that is fragmented  by agricultural  or urban development
+and a forested landscape composed  of a  mosaic of mature and regenerating stands that result from timber harvesting. The first situation  typically is more damag• ing to forest bird  populations and may represent per• manent habitat loss,  whereas the latter situation  may only  cause a temporary  reduction  in habitat for certain forest-interior species that rely on mature forests.  Fur• thermore,  early successional  forests do provide  habitat for many bird species,  including some  Neotropical migrants that are declining.  Forest fragmentation  plays an important role in determining the characteristics described  below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. The Varied Thrush breeds primarily in
+the wet coniferous forests of the Pacific Northwest. Photo by Donald Waite/CLO.
+
+
+
+Birds in Forested Landscapes: A scientifc approach to
+.1"
+
+·;»..        s '    ,.
+T                      t
+th                 ue
+
+r                                   •
+manaqinq forest birds
+
+The Birds  in Forested  Landscapes (BFL) project began in  1997,  evolving  from the highly  success-
+ful  Project Tanager. Together,  these projects amassed perhaps the largest dataset ever collected on forest fragmentation  and birds.  Project Tanager and BFL have proved that it is possible for birders and amateur sci• entists alike to conduct  continent-wide field  research,
+helping to answer important scientific questions that
+-i~i   .                                                 .
+,,
+
+'j·+?j' 8                                                                                               (Rf,           "                                    "
+]
+44')lSr:
+£@°  %
+?i7,   lit              ?
+"                                                                                                    i    I
+.                                    . i f         tgiJ
+can only  be addressed through  the collective efforts of
+thousands of volunteer citizen-scientists.
+BFL, with  support from the National  Fish  and
+.
+
+la,
+i•·           '
+e"S
+jl
+Wildlife  Foundation,  the USDA Forest Service,  and the Environmental  Protection Agency  has focused  its efforts on forest hawks,  thrushes,  and, since 2001,  additional species  identified  as high conservation  priorities.  Over
+1,000 trained volunteers surveyed  more than 3,000
+study sites throughout North America,  helping to deter•
+<r:  te
+[
+ti' +' '
+
+s                                      =A
+3
+•......_,•■-·.I      .               ,;
+..   ....                          J
+mine the habitat and landscape requirements of forest-dwelling birds.
+BFL participants follow a simple  yet rigorously  tested  protocol  that includes selecting suitable study sites,  visiting these sites at least twice  during the breeding season to search  for thrushes and hawks and look for evidence  of breeding,  measure a suite of habitat variables,  and then return data to Cornell for analysis.  Many  land  managers contributed to the project as active participants and site coordinators,  help• ing volunteers with  landscape  measurements,  obtaining maps,  or gaining access to study sites. The man• agement guidelines for thrushes,  resulting directly from this  important study,  are the second  in a series of conservation  plans developed  to help maintain  and enhance populations of forest birds  into the future.
+
+
+
+
+
+6
+General Guidelines: Key Forest Characteristics
+
+Forest Size and Isolation
+
+Effects
+The number  of bird species breeding  in a forest patch is directly related to the size of the patch (Free• mark and Collins  1992). As the size of the forest in• creases,  the number  of breeding  bird species  increases. Bird  species whose occurrence or reproductive success is reduced  in small  habitat  patches are referred to as area sensitive (Robbins et al. 1989).  For example,  some species will  only  establish  breeding territories  in the interior of large forest tracts,  far from  an edge;  these
+are known  as forest-interior specialists. Area-sensitive species  may attempt to nest in small  forest patches  but are often unable to raise young successfully  because
+of high rates of nest predation  or brood  parasitism. For area-sensitive species,  the size and shape of for- est tracts are crucial  factors for successful  breeding (Whitcomb et al. 1981 ).  Forest patches that are too
+small  may not offer enough  interior habitat to sustain
+breeding  individuals.  Similarly,  a forest in the shape
+of a long corridor or peninsula does  not offer as much interior  habitat as a circular or square forest.
+The degree of isolation,  or the distance between
+a patch and the surrounding forest,  may also be impor• tant in determining the long-term  persistence of bird populations (Hames et al. 2001 ).  For nonmigratory species,  such  as woodpeckers and owls,  the ability of young birds to disperse and establish  new territories
+is greatly  reduced when the habitat is  isolated (Figure
+5).  Forested  corridors connecting isolated patches  may be critical  for these populations. Also,  if fragments are separated  by agriculture or regenerating forest,  the possibility for dispersal  may be greater than between fragments that are separated  by residential  or commer• cial  development where  movement  is  limited.
+Management Tips
+
+•   Maintaining Large  Forest Tracts: Whenever  pos•
+sible,  avoid fragmenting  large contiguous forest
+
+Natal Territory                           Suitable  Habitat, Acceptable Distance from Natal Territor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~:.
+if
+
+Habitat Too Far from
+Natal Territory
+
+
+
+
+
+
+
+Habitat Too Young or Too
+Many  Deciduous  Trees
+
+Figure 5.  Dispersal of Fledg• ling Northern  Spotted Owl: When young birds disperse from their natal areas,  their survival often  depends on their ability
+to find suitable habitat nearby. Dwindling habitat in the Pacific Northwest makes this especially true for the Northern  Spotted Owl: loss and fragmentation of the old-growth  coniferous forests where the subspecies makes its home leave young owls  with few habitat choices and expose them to many risks. Studies indicate that if immature  Northern  Spot• ted Owls cannot  find suitable habitat within approximately  12
+miles  (about 20 km) of their natal territory soon after dispersing,
+they often succumb  to starvation or predation by Great Horned Owls. Some old-growth  forest patches fail to meet the bird's needs because they are too far away or are too small in area. Other  unsuitable forests are too young, or contain a high propor• tion of deciduous  trees.  From the Lab's  Home Study Course  in Bird Biology  (Podulka  eta/. 2001).  Il•
+lustration by N. John Schmitt.
+
+
+7
+
+Brood Parasitism and
+Nest Predation
+Among  the primary  causes of lowered reproductive success of forest-interior birds  in fragmented  habitats are increased rates of both brood  parasitism  and nest predation.  Brood parasites,  notably  Brown-headed Cowbirds (Molothrus ater),  are birds that do not build  nests or raise young on their own;  instead,  they  lay eggs  in a host bird's  nest. The cowbird nestling generally  hatches first,  outcompetes the host's nestlings for food,  and receives the majority of the parental care. As cowbirds expanded  their historic  range from  midwestern  prairies  into newly created agricultural  land  and fragmented forests  in the East,  they encountered  many new potential  host species (Robinson  et al. 1995).
+Forest birds that have had no long-term exposure
+to cowbirds often do not have mechanisms for rejecting cowbird eggs and are particularly vul• nerable to parasitism.  Researchers  believe that
+parasitism  by Brown-headed  Cowbirds  is a sig•
+tracts;  these areas have the abi I  ity to support the largest number  of forest-interior birds and will  also be more likely to provide  habitat for area-sensitive species. Also,  it is much easier to protect existing forest than to "create"  new forested  areas. The total amount  of contiguous forest required to support healthy  populations depends on a given species' area sensitivity.  Some area-sensitive species such  as the Northern  Goshawk  require  hundreds of acres to
+breed successfully,  while other  less sensitive species may require only  25 acres (10  ha).  In  addition,  it's important to note that the landscape context  (see page 9) plays a critical  role in determining a spe• cies' habitat-area  requirements.
+
+•   Minimizing Isolation:  Minimize isolation  of forest patches by promoting reforestation  of gaps between disconnected  forest tracts.  Forest birds generally have higher reproductive success in forest that is either connected  to or in close proximity to other forest patches. This also facilitates dispersal and ter• ritory establishment.
+
+Edjq  es
+nificant factor contributing to declining numbers of many songbirds  in North America  (Robinson
+Effects
+
+
+The plight of many forest-nesting songbirds  has
+et al. 1995).
+In  addition to parasitic cowbirds,  nest predators such  as jays,  crows,  raccoons,  and do• mestic and feral  cats that are not usually found
+in extensive forests gain access to the interior  of forest patches via roads,  power-line cuts,  and other openings.  Studies consistently show that nest predators  have a greater affect on the repro• ductive success of forest birds  in forest fragments than in contiguous forest (Wilcove  1985,  Small and Hunter  1988).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brown-headed Cowbird nestlings grow rapidly, fre• quently  outcompeting the host's nestlings for food and parental care.  This adult Common  Yellow• throat is feeding a cowbird fledgling that's more than twice its size.   Photo by John  Cavin/CLO.
+brought  into question the benefits of certain traditional wildlife management techniques.  For example,  histori• cally  land  managers were trained to "develop  as much
+'edge'  habitat as possible because wildlife  is a product of the places where two  habitats  meet" (Giles  1971 ). Creating edges increases  local  diversity  by attracting game species such  as rabbits and deer,  as well  as a variety of nongame bird species such as Song Sparrows and Northern  Cardinals. We now  know,  however, that forest-interior species  may disappear from areas that contain  extensive edge habitat.  Gates and Gysel  (1978) proposed the idea that edges  may serve as "ecological traps" for some breeding birds by providing a variety of attractive habitat characteristics,  while at the same time subjecting the birds to higher rates of nest predation
+and parasitism.  Evidence from several  studies  indicates that the detrimental  effects of an edge can extend from
+150-300 feet (45-90  m)  into the forest interior.
+
+Management Tips
+
+•   Managing Forest Shape: Attempt  to manage for for• est shapes that create the least amount  of edge.  Cir• cular plots are the best at maximizing forest interior, whereas square or rectangular  plots are better than long,  narrow  strips (Figure 6).  Circular  forest plots offer less access to the interior  for predators and
+nest parasites while maximizing habitat for area• sensitive species.  Research  shows that area-sensitive species tend to use forested areas that are at least
+330 feet (100  m) from  an edge.
+
+
+
+8
+Landscape Context
+
+Effects
+The amount  of forest in the landscape plays a critical  role in determining the suitability of forest patches,  especially  regarding  patch  size.  In  general, as the amount  of forest in the surrounding  landscape
+increases,  the minimum required forest patch size for many species decreases.  In the Midwest,  for example, landscapes that remain at least 70% forested tend to minimize adverse effects of fragmentation  on Scarlet Tanagers (Rosenberg et al. 1999b;  Figure  7).
+Management Tips
+
+•   Developing a Broad-scale  Plan: Develop  a long• range forest management  plan at as large a scale as possible.  Plan to designate tracts that will  be mature at each stage  in the management  plan and maintain connections (corridors)  between  regenerating forests and mature tracts to facilitate  repopulation  by birds. In  regions where public lands contain the majority
+of contiguous or large forest tracts,  the most benefi• cial management  strategies  may involve  protection or minimal  disturbance  to compensate for habitat loss and fragmentation  on adjacent private  lands.
+
+•   Promoting Reforestation:  Promote reforestation of artificial  forest openings,  areas surrounding forest peninsulas,  gaps between  isolated forest tracts,  and riparian  corridors to create more forest interior  for area-sensitive species.  Reforestation  can be achieved by succession,  essentially  leaving the area un• touched  for a number of years,  or by planting native
+trees. Avoid  planting monocultures,  especially of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 6. The shape of a  forest patch  affects the amount of edge and forest-interior  habitat that is present.  Round and square patches have less edge and more forest interior  than long narrow-shaped  patches.  From the
+Lab's  Home Study Course in Bird  Biology  (Podulka et al. 2001).  Illustration  by Keila Sydenstricker.
+
+exotic species; these are less attractive to most forest birds.  Monitor forested plots for nonnative,  invasive plants,  and devise a removal plan if necessary.
+
+•   Working Within Your Community: Work  with  your neighbors and adjoining  landowners to conserve adjoining forest to maintain  contiguously forested areas.  Consider creating a landowners association, or work  with  a land trust or forest manager to pro• duce guidelines for people within  your community who wish to maintain the commercial  value and ecological  integrity of their forests. Take part in your state or regional  Partners  in Flight Working Group.
+
+
+
+2,500 Acres with 70% Forest Cover
+w-•
+w
+
+
+2,500 Acres with 40% Forest Cover
+
+
+Minimum Patch  Size for
+Highly Suitable  Habitat is
+66 acres.
+
+
+
+
+
+■ Forested  Land
+■ Unforested  Land
+Highly Suitable  Habitat
+'  1  \., •    Minimum Patch  Size for
+'\                           _ Highly  suitable  Habitat  is
+605 acres.
+
+
+
+
+
+
+■ Forested  Land
+■ Unforested  Land
+Highly Suitable  Habitat
+
+Figure 7. Minimum area  requirements for area-sensitive species may depend  on the amount  of forest remaining in the surrounding landscape.  In this example from  the midwestern  US, Scarlet Tanagers in a landscape that is
+70%  forested require only a  66-acre (27 ha) forest patch  for breeding.  If the landscape is reduced  to 40%  forest,
+however,  the minimum area required by tanagers is 605 acres  (245 ha).
+
+
+
+
+
+9
+Forest Structure
+
+Effects
+When  all  the landscape  level  characteristics, such  as forest size,  degree of isolation,  and landscape context are acceptable,  forest structure and age be• come the key characteristics that determine a  habitat's suitability for a particular bird species. A healthy forest aging under the natural  forces of ecological  succession typically has the most diverse vegetation  structure. An important aspect of forest structure  is the amount  of vertical  layering.  Early and mid-successional  forests often have two  layers-an  understory  of shrubs and young trees and an overstory (canopy) of interlocking branches created by mature trees.  Late-successional (mature) forests  usually  provide  the greatest amount
+of vertical  layering.  It's  possible to have several  layers, including herbaceous ground  cover,  an understory of shrubs and saplings,  an intermediate  layer of small trees,  a  lower canopy  of medium sized trees,  and a primary  canopy of mature trees (Figure 8). The diverse habitat associated with this vertical  layering supports
+a wide  variety of birds.  For example,  you may have Wood  and Hermit  thrushes  in the understory,  Red-eyed Vireos and Rose-breasted  Grosbeaks  in the intermedi•
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 8.  Late-successional forests often provide  a high degree of vertical layering, including a  dense shrubby understory  important for thrushes and other birds. Photo by Kenneth  V.  Rosenberg
+ate layers,  and Scarlet Tanagers and Black-throated Green Warblers  in the canopy.  Many forest birds, including the thrushes,  depend on the cover,  food,  and nest sites provided  by a diverse and well-developed
+u nderstory.
+
+Management Tips
+
+•  Creating a Broken Canopy:  Permitting sunlight to reach the forest floor  by creating gaps in the forest canopy  will  help to stimulate a poorly  developed understory  in mid-successional  and mature forests. When  understory  vegetation  is very deficient or absent,  planting appropriate native,  shade-tolerant shrubs,  in addition to maintaining a broken canopy, may be required to establish an understory  layer.
+
+•   Employing Silviculture: Silvicultural  practices that create uneven-aged forests with  well-developed,  but broken, canopies usually provide the best habitat for forest birds. Avoid  loss or change in tree-species di• versity and fitness by minimizing "high-grading" (the removal  of only the most valuable species and the most structurally superior trees). Where possible,  pre• serve existing old-growth  stands and provide for the development  of future old growth  by leaving areas undisturbed  or unharvested for 150 years or more.
+
+•   Controlling Ungulates:  Given the tremendous increase in white-tailed deer densities during the past three decades,  it may be necessary to control deer numbers or forest access to preserve a well-de• veloped  understory  (Figure 9). Where  appropriate, hunting can help to control  deer numbers. When hunting  isn't feasible,  deer exclosures (fences)  can help to protect  understory  vegetation.  In  addition, grazing by livestock should  be monitored carefully
+to detect signs of damage to the understory  layer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 9.  Heavy browsing by white-tailed  deer some• times results in complete loss of understory shrubs and saplings, reducing the suitability of forests to thrushes and many other birds.  Photo by Kenneth  V.  Rosenberg.
+
+
+
+
+10
+ReqionalManagement Guidelinesfor Thrushes
+
+Usinq  These Guidelines
+The following sections provide  specific  informa• tion  about the habitat requirements of forest thrushes in three forested regions-Eastern/Midwestern  Forests, Western  Forests,  and Northern  Forests. These guide• lines are based primarily on the results of the Birds
+in Forested  Landscapes project and focus on mitigat• ing the effects of forest fragmentation  on breeding thrushes. They describe the minimum  area required to provide  thrushes with  high, moderate,  or low  levels of habitat suitability.  In  addition,  for some species they describe the importance of selected  patch-level  char• acteristics,  such as forest structure and amount  of core habitat area.
+Results from  Birds  in Forested Landscapes suggest that each species of forest thrush responds differently
+to forest fragmentation,  and the degree of area sensitiv• ity expressed varies by geographic  region. We present specific guidelines for each of the three forest regions
+to assess more accurately  the effects of forest fragmen• tation,  and provide  guidelines that are relevant within various portions of each thrush species'  breeding range.  For each forest region, we provide  information designed to help land  managers evaluate and improve habitat for thrushes  in their area.  Each  regional  profile includes:
+•   a map and description  of available forest types
+
+•   literature  review  of habitat relationships for thrushes in that region
+
+•   estimates of minimum  habitat areas required to sup•
+port each thrush species
+
+•   the most common  trees at sites containing thrushes
+
+•   results of forest structure analyses for each thrush species
+
+•   regional  summaries that briefly  present the most important management  strategies for that region.
+
+Usinq Minimuum-Area  Tables
+Within each region,  the likelihood that a for-
+est patch of a given size will attract a given species of thrush varies based on the amount  of forest remaining in the surrounding  landscape and how close the patch is to the nearest large forest (more than 500 acres or
+200 ha). We define a landscape as a 2,500-acre  (1,000- ha)  block surrounding each forest patch.  Because the probability of finding  thrushes  in a forest patch may be
+dependent  on the amount of forest in the surrounding
+landscape,  we offer a range of minimum-area estimates for landscapes with  differing  proportions of forest. The minimum-area estimates are arranged in Minimum
+Area Tables that provide  a range of patch sizes  required to achieve varying  levels of habitat suitability.
+The Minimum-Area Tables can be used to help improve  habitat for breeding thrushes.  For  instance, the tables can be used:
+•   In  conjunction  with  topographical  maps,  aerial photos,  and Geographic  Information  Systems  (GIS), to remotely  identify forest patches with  a  high prob• ability of supporting breeding thrushes.  Identifying forest patches  remotely  allows  managers to maxi• mize their  inventory  and management  efficiency by first focusing their efforts on sites with  the greatest need for protection  and management.
+
+•  To predict  the impacts of proposed  management actions or land-use changes on the suitability of habitat for breeding thrushes.
+
+•  To determine the degree of habitat enhancement (reforestation)  needed to increase the probability of attracting thrushes to a given forest patch.
+
+•  To develop  long-term  management  plans at local, state,  and regional  scales.
+
+•  To make planning and mitigation  decisions  when habitat  loss and fragmentation  are unavoidable.
+In the Minimum-Area Tables provided  with  each regional  profile,  acreage estimates are listed for three levels of habitat suitability. These are defined as follows:
+•  High Suitability:  Habitats of this size have the same probability of supporting breeding thrushes as a large patch of unfragmented  forest.
+•  Moderate Suitability: Habitats of this size are 25%
+less  likely to support breeding thrushes  relative to u nfragmented  forest.
+•  Low Suitability: Habitats of this size are 50%  less likely to support breeding thrushes relative to un• fragmented forest.
+To use the minimum-area tables,  first estimate the percentage of forested  land occurring in a  roughly
+2,500-acre  (1,000-ha)  block  surrounding your area of interest. Then, read across the row to determine the minimum area required to achieve desired habitat suitability for thrushes. You can also use the tables to determine  the suitability of your particular forest patch based on its size.
+
+
+
+
+
+
+11
+East/Midwest Forest Reqion
+
+Description
+We define the East/Midwest Forest Re• gion as the vast area east of the Great Plains dominated by deciduous forest. Although highly  variable in tree composition  and forest structure,  this large  region tends to support
+a rather uniform  bird community,  including
+many widespread  forest-breeding species such  as the Wood Thrush.
+Because the Great Plains experiences less precipitation than areas to the east, the broad leaf deciduous forests of this area tend to include  more of the drought-tolerant oak-hick• ory association  (Bailey  1995).  Forests  in the northern and eastern parts of the Midwest con• tain more maples, American  beech,  and bass•
+wood,  whereas the western  part becomes savanna-like as it gradually gives way to prairie.  Oaks and hickories dominate upland forests  in the prairie region, whereas farther west,  floodplain forests contain  cottonwood, willows,  and elms (Bailey  1995). The more mountain• ous areas of Arkansas support oak-hickory  forests that include  coniferous trees,  especially  pines.  Forests of the Midwest are typically highly fragmented by agricultural and,  more recently,  by urban development.
+The Appalachian Mountains area is more heav• ily forested,  with  tree species composition  changing with  elevation. Vast forests are dominated by oaks,
+yet include  some of the most diverse forests  in North America.  Lower valleys support mixed oak-pine forests,  which are largely cleared,  while at higher
+elevations the composition  includes  birches, American beech, maples,  elms, oaks,  and basswood,  with  some eastern hemlock  and white pine.  Finally,  spruce-fir for• ests and meadows can be found  on the highest peaks
+in some areas.
+Along  the Atlantic Coast,  relatively  small  for• ested areas are typically found  within a largely  urban and suburban  landscape. This  is especially true in the corridor between  Boston and Washington,  D.C. Some extensively  forested  areas occur  in central  Massachu• setts,  southern  New Jersey,  and Virginia. The forests of the northern  part of this area are mostly deciduous, especially the Appalachian oak association.  Pine-oak forests (pine barrens)  are also found  in dry sandy  loca• tions that are frequently exposed to naturally occurring fires  (Bailey  1995).  Oaks,  hickories,  sweetgum,  black• gum,  red maple,  and winged  elm are also common.
+Farther south  along the coastal  plain,  evergreen oaks,  laurels,  and magnolias are common,  while gum and cypress dominate coastal swamps.  Historically, savannas of pine forests (longleaf,  slash,  and loblolly) with  an understory  of grasses and sedges dominate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I 0-33%  forest I 34-66%  forest l 67-100%  forest
+Pixel size =  l  km2
+
+
+most of the uplands  in this area. The piedmont forms a transition  between the southeastern  coastal  plain and the Appalachian Mountains.  It is dominated by both southern  pines  (such  as loblolly and shortleaf) and mixed  southern  hardwoods  (such  as oak,  hickory, sweetgum,  blackgum,  red maple,  and winged  elm).
+The Lower Mississippi  River Valley was covered  by huge tracts of bottomland-hardwood forest;  however, most of the forests  have now been cleared for agricul• ture.  Other  large and small  river valleys still  support important tracts of bottomland hardwoods.
+
+Habitat Guidelinesfor Thrushes
+
+Wood Thrush
+The Wood Thrush is the most common  thrush species throughout most of the East/Midwest Forest Region,  occurring in many forest types from  south- ern Canada to the Gulf Coast and the Great Plains. Although often considered  a bird of mature,  intact forests,  this species shows  much variability in habitat preferences across  its  range,  and it certainly  inhabits small  woodlots  in highly  fragmented  landscapes. A number  of studies  have shown,  however,  that habi• tats  used by Wood Thrushes do not always provide the requisites for positive  reproductive success,  and that populations  in highly  fragmented  forests  may
+not be sustainable,  perhaps contributing to regional
+population declines. Therefore,  our guidelines below regarding minimum areas for Wood Thrush occupancy must be considered  in combination with  other habitat features that may be necessary for successful  breeding.
+In the Birds  in Forested  Landscapes study, Wood Thrushes were detected at 848 (54%) of 1,568  sites surveyed  in the East/Midwest  Region.  Fifty-three percent of sites with Wood Thrushes were located  in
+deciduous  forest,  45%  in mixed forest,  and 1  % in co-
+
+
+12
+niferous forest. The most common  trees on sites occupied  by Wood Thrush were oaks  (65%),  maples (62%),  pines  (25%), American  beech (22%),  and hickories (19%).  Results from this study  indicate
+
+
+Effects of Patch Size on Probability of Wood  Thrush Presence
+
+0.65
+that Wood Thrushes choose habitats based more on the structure of the forest than on the degree of forest fragmenta• tion  in the landscape.  Specifically, Wood Thrushes selected areas at lower eleva• tions with  a  higher density of saplings  in the understory  and a taller canopy. They avoided  areas with  a  high proportion of coniferous trees.  In  addition,  the Wood
+c
+("'j
+•0,
+U
+0
++u-'
+U•c,
+0.60
+
+0.55
+
+0.50
+
+0.45
+
+f]4]fee
+Thrush proved to be area sensitive, although  the size of patches  required
+0            200          400          600          800
+Forest Patch  Size (ac)
+1000
+did not appear to change with  amount
+of forest fragmentation  in the landscape. High suitability forest patches are at
+least 200 acres (80  ha), and suitability
+Figure 10.  The probability of finding breeding  Wood  Thrushes   in the
+East decreases sharply in forest patches less than 200 acres  (80 ha).
+
+(Whitcomb et al. 1981,  Galli  et al. 1976,  Lynch  1987).
+declines  rapidly  in patches  less than 100 acres  (40  ha; Figure  10).  Small  patches offer moderate suitability  in terms of occurrence during the breeding  season,  but other research  has shown that Wood Thrushes  in small patches suffer decreased reproductive success.
+In  addition  to landscape  level  considerations, most studies,  including  Birds  in Forested  Landscapes, indicate  that a dense understory of saplings and shrubs is a key habitat requirement.  In fragmented  landscapes, an appropriate combination of habitat characteristics, such as forest size,  amount  of core area,  amount  of edge,  and vegetation  structure must be met to ensure adequate  levels of reproduction that offset adult and fledgling mortality (Hoover  1992,  Robinson  and Wil• cove 1994,  Driscoll  et al. in press).  Driscoll  et al. (in press) further  documented that Wood Thrush popula• tions in fragmented  habitat with  much edge suffered negative population growth  rates,  whereas populations in forest interiors or fragmented  forests with  less edge experienced  positive population growth.
+In  a study of two  riparian  areas in central  Ohio,
+Groom  and Grubb  (2002) found  that the width  of forested riparian  corridors was  less  important than the amount  of forest in the landscape for predicting Wood Thrush presence.  Hoover  (1992) found  that nesting success was significantly  higher  in large (1,200 acre
+or 480  ha) forest patches versus small  patches (23  acre or 9.2 ha)  in Pennsylvania. The author also indicated that nesting survival  was  positively correlated  with percent forest within  a  1.2-mile (2-km)  radius and the amount  of forest core area.  High  rates of nest preda• tion  in small  forest tracts  (less than 200 acres or 80 ha) explained  the lower  nesting success in highly  frag• mented  landscapes (Hoover et al. 1995).  Numerous authors  have found Wood Thrushes to be more abun• dant and successful  in large forest patches,  especially
+in highly  fragmented  landscapes such  as the Midwest
+In  general, forest patches exceeding 250 acres (100
+ha) foster adequate rates of nesting success by mitigat• ing the effects of predation  and sometimes cowbird parasitism.
+Robinson  and Wilcove (1994)  suggest that the ef• fects of silvicultural  practices depend on the landscape context  and that low-volume selective  logging  is pref• erable to clear-cutting.  Crawford  et al. (1981) found
+that Wood Thrush tolerate  uneven-age forest manage• ment and selective removal  of mature trees scattered throughout a stand creates favorable  conditions for the species.
+In the Piedmont National Wildlife  Refuge  in
+central  Georgia,  which  is actively  managed for Red• cockaded  Woodpeckers,  Lang et al. (2002) found  that small-scale thinning and burning had little effect on Wood Thrush populations.  In  southeastern  Missouri, Wood Thrushes were most abundant  in mature forest stands when  compared  with  forest stands  harvested by clearcut,  shelterwood,  group selection,  and single-tree selection forest regeneration  methods  (Annand  and Thompson  1997).
+Veery
+The Veery is a common  thrush in the north- ern  portions of the East/Midwest Forest  Region  and throughout the higher Appalachian Mountains. They tend to occur  at higher elevations than the Wood Thrush and are associated  more with  northern-hard• wood  forests than with  oak-hickory or bottomlands. The Veery has a strong affinity for wet sites,  and although they may be common  in disturbed  or regen• erating forests,  they are highly  area sensitive and not tolerant  of high  levels of forest fragmentation.
+In the Birds and Forested  Landscapes study, Veeries were detected at 302 (31 %) of 971  sites sur• veyed in the East/Midwest Region.  Fifty-five percent of
+
+
+
+13
+sites with Veeries were located  in mixed forest,  44% in  deciduous  forest,  and 1  % in coniferous forest. The most common  trees on sites occupied  by Veeries were maples (73%),  oaks (60%),  pines  (28%), American beech (21%),  and hemlock  (20%).
+Results from this study  indicate  thatVeeries are most affected by the degree of fragmentation  in the landscape and by the size of forest patches,  especially the amount  of "core forest"  away from  edges. The most suitable sites are also those with  a denser deciduous shrub  understory.  Highest-suitability  habitat only  oc• curs  in landscapes with  at least 70% forest cover,  and
+in these  landscapes,  patches  larger than 1,000 acres
+(400 ha)  are required  (Table  1  ).  Even  in landscapes
+with  80% forest,  patches of roughly  400 acres (165  ha)
+are required;  minimum area is reduced to 127 acres (51  ha) if forest cover increases to 90%.  Smaller forest patches  in more fragmented  landscapes do provide moderate  habitat suitability,  however,  patches greater than 300 acres  (120 ha)  are still  required  in landscapes with  40% forest.
+Other  studies suggest that Veeries  use a variety of habitats  in different  parts of their range.  In  New York State, Veeries select early successional  forest for breed• ing (Kendeigh  1945,  1946).  In  highland  areas of North Carolina,  it's a bird of mature oak forest (Odum  1950) and on Apostle  Island  in Wisconsin,  it's found  primar• ily in aspen and red oak forests where the understory  is most dense (Beals 1960).  In  New Jersey, Veeries  prefer moist forests that are 40-60 years old with  a dense understory  (Suthers  1987-1988).
+Unlike the other forest thrushes, Veeries show a strong tolerance  for disturbed  forest with  a well-de• veloped  understory (Dilger  1956).  Noon  et al. (1976) found  thatVeeries bred in 77% of available disturbed and successional  forests,  but only  18% of mature
+
+Table 1. Minimum area required to provide high, moderate, or low habitat suitability for Veery based on analysis of 685 study sites in the East/ Midwest  region  (see page  11  for definitions of habitat suitability).
+undisturbed  habitat.  Bertin  (1977)  suggested that in mature woodlands,  moisture  regime was the primary factor driving habitat selection,  with the dampest areas occupied  first and pointed  to available shrub cover
+as the most critical  habitat component. Veeries  may benefit from  selective  harvesting that opens up the canopy  and allows the understory to develop  (Webb
+et al. 1977, Thompson  and Capen 1988).  Derleth  et al.
+(1989) found  that Veeries tolerated  smal I     clearcuts  (2-
+20 acres or 1--8 ha), but Morgan  and Freedman (1986) noted that Veeries were absent from  large clearcuts for six years following the harvest.
+Habitat selection  may vary when  other thrushes are present. In  many portions of their  range, Veery breed primarily in deciduous forest,  even when  conif• erous forest is available.  In  a study conducted  in Ten•
+nessee,  in areas where their breeding  range overlapped with  Swainson's Thrush, the Veery used deciduous, coniferous,  and mixed forests  (Noon  1977). Although
+it was once absent from  higher elevation  spruce forests in the Appalachian Mountains, Veerys  have expanded into the southern Appalachian spruce forests when congeners are not present (Noon  1981 ).
+Hermit Thrush
+In the East/Midwest Forest  Region,  Hermit Thrushes are restricted  largely to the northernmost portions and also to higher elevations through  the Appalachians where coniferous forests are dominant. Small  populations occur  in other coniferous  habitats at lower elevations,  including cedar swamps,  hemlock  ra• vines,  conifer plantations,  and pine barrens. Although this thrush  is common  and apparently  increasing,  it
+is nonetheless shown  to be highly  area sensitive and intolerant  of forest fragmentation  within  its  range.
+In the Birds  in Forested  Landscapes study,  Hermit
+
+Table 2. Minimum area  required to provide  high, moderate, or low habitat suitability for Hermit Thrush based on analysis of 347 study sites in the East/Midwest region  (see page  11  for definitions of habitat suitability).
+
+Percentage                 Minimum  area (acres)                          Percentage                 Minimum  area (acres)
+of forest in                         required for                                  of forest  in                            required for
+2,500-acre                                                                             2,500-acre
+block                   High         Moderate           Low                    block                   High         Moderate           Low
+90                         127                  3             Any size                90                          32                   5             Any size
+80                         396                 10            Any size                80                          56                   9                    1
+70                        1004               26             Any size                70                          88                  14
+60                         NA"                 61                    1                                             60                         132                 22                   2
+50                          NA                136                  2                      50                         196                 32                   3
+40                          NA                305                  4                     40                         289                 47                   4
+30                          NA                708                  9                     30                         435                 71                    6
+20                          NA                 NA                 24                     20                         NA                111                  10
+10                         NA                 NA                 74                     10                         NA                193                 18
+'Not Available-acreage  values exceed the amount  of forest in                  'Not Available-acreage  values  exceed the amount of forest in the 2,500-acre  block.                                                                                           the 2,500-acre  block.
+
+
+14
+Thrushes were detected at 142  (26%)  of 553 sites surveyed  in the East/Midwest region.  Seventy-seven percent of sites with  Hermit Thrushes were located  in mixed forest,  20%  in deciduous  forest,  and 2% in co• niferous forest. The most common  trees present at sites occupied  by Hermit Thrush were maples  (75%),  oaks (53%),  pines (41 %),  hemlock  (32%),  and beech (27%).
+Results from this study  indicate that Hermit Thrushes are most attracted to forests with  a high conif• erous component,  and they avoid sites with  a  largely deciduous  shrub  understory. They are also area sensi• tive,  although  less so than the Veery or Wood Thrush.
+In  highly fragmented  landscapes,  single  large forest patches  may still  offer highly  suitable  habitat for Hermit Thrush (Table 2),  and even in more intact (50% forest) landscapes,  patches  roughly  200 acres (80  ha)  in size are required.  Smaller forest patches do offer moderately
+suitable habitat,  especially  if they contain the conifers.
+In  New York,  Hermit Thrushes selected sites in  dry coniferous,  mixed,  or deciduous  forests and were sometimes associated with  internal  forest edges (Andrle and Carroll  1988,  Dilger 1956).  In  forest com• munities  in northwestern  Wisconsin  the abundance
+of Hermit Thrushes was  related to the amount  of edge and variables  relating to patch shape (Hawrot and Niemi 1996).
+Researchers compared  two  harvest techniques  in riparian  areas of northern  Wisconsin  (full  tree harvest and cut-to-length (CTL)).  Bird  surveys one year prior to harvest and three years after harvest showed that bird communities were affected by both harvest types.  Her• mitThrush,  along with  Ovenbird and Black-throated Green Warbler  showed  significant declines. Within three years of harvest no individuals of these species were observed (Hanowski  et al. 2003).
+
+
+
+
+
+
+Management Summary for the East/Midwest Forest Reqion
+
+Landscape Level
+In this region,  the primary consideration for all thrush species  is the maintenance of large contiguous forest patches that promote  reproductive  rates that compensate for adult and nestling  mortality. Thrushes  in this  region will  tolerate  and may even benefit from  patch-level  disturbances such  as light selective  harvest• ing that does  not contribute to forest fragmentation. The Veery and Wood Thrush are the most area sensitive of the three species  in this  region and thus set the bar for minimum forest size. The required forest patch
+size  needed for consistent  successful  reproduction  is  highly  related to surrounding  land  use (see Tables 1
+and 2);  in general  however,  forest patches of 150 acres (62  ha)  or larger will  be adequate to provide  moder• ate  levels of habitat suitability,  except  in landscapes with  little forest.  In  landscapes with  greater than 50% forest,  smaller woodlots can provide  suitable  habitat.  In highly  fragmented  forests or landscapes with  very little forest cover,  minimizing edge and increasing connectivity among forest patches  may increase habitat quality in small  patches.  ForVeeries,  maximize  core forest by reducing  the amount  of edge habitat associ• ated with  forest fragments. This can be done by managing  patch  shape,  creating transitional,  as opposed to abrupt  edges,  and reforesting areas between disconnected patches.  In  lowlands,  especially  in damp sites, management  should focus on Wood Thrush; at higher elevations and in moist,  mixed forests  management should focus on both Veeries and Wood Thrushes; and in mostly coniferous forests and on drier sites,  man• agement should focus on Hermit Thrushes.
+Site Level
+For Wood Thrush and Veery,  create and maintain  forest habitat with  a dense understory of decidu• ous saplings and shrubs.  Because of its area sensitivity,  focus site-level  management  for Wood Thrushes on patches greater than 200 acres (80  ha). This can be accomplished by planting appropriate native trees and shrubs,  creating gaps in the canopy that permit  sunlight to reach the forest floor,  and controlling browsing by white-tailed deer and livestock.  Moderate  selective  harvesting of timber  is often tolerated  by thrushes, and serves to increase the shrub  layer.  Clear cutting  and heavy selective cutting are not recommended for thrush  management.  Hermit Thrush prefer a strong coniferous component and may benefit from  conifer plantings or silvicultural  practices that favor existing conifers,  especially pines and eastern hemlock.  Pro• tecting stands of hemlock  and cedar swamps within hardwood  forests,  as well  as protecting  large areas of pine-barrens  habitat will  also benefit  HermitThrushes.
+
+
+
+
+
+
+
+15
+Northern Forest Reqion
+
+Description
+We define the Northern  Forest Region as a wide  band of coniferous and northern hardwood  forest from the western Great Lakes to the Adirondacks of New York, northern  New  England,  and the Canadian Maritime Provinces. This region corre• sponds to the Boreal-Hardwood Transition and Atlantic Northern  Forest Bird  Conser• vation  Regions  (U.S.  NABCI Committee
+2000).
+The region is heavily forested throughout. The northern  portion is boreal
+spruce-fir forest with  deciduous species becoming more common  further  south. The area surrounding the Great Lakes and along the Atlantic coast is transitional between  southern  deciduous  forests and the north•
+ern boreal spruce-fir forest. Deciduous forests tend to occur  on favorable  sites with good soils whereas coniferous forests are found  on less-favorable sites
+with  poor soils.  Common  tree species are yellow birch, sugar maple, American  beech, white pine,  and eastern hemlock  (Bailey  1995). The mountainous areas of New York and New  England  have a vertical  zonation  of tree species. The valleys  have deciduous  forests of sugar maple,  yellow birch,  beech, and some  hemlock. The lower slopes  have mixed forests of spruce,  fir,  maple, beech, and birch.  Finally,  pure stands of balsam fir and red spruce can be found  above the mixed-forest zone (Bailey  1995).
+
+Habitat Guidelinesfor Thrushes
+
+Wood Thrush
+Within the Northern  Forest Region, Wood Thrushes are common  only  in the transitional  mixed• hardwood  forests around the Great Lakes,  southeastern Canada,  and the Adirondack Mountains. They are strongly tied to the deciduous  component of these forests and occur  primarily at lower elevations. Wood Thrushes are a declining species  in this  region, and management  to enhance populations  is a  high conser• vation  priority.
+In  the Birds  in Forested Landscapes study, Wood Thrushes were detected at 71  (30%)  of 236 sites surveyed  in the Northern  Forest Region.  Sixty-nine percent of sites with Wood Thrushes were located  in mixed forest,  14%  in deciduous  forest,  and 15%  in coniferous forest. The most common  trees on sites occupied  by Wood  Thrush were maples  (70%),  pines (51%),  hemlock  (38%),  birch (38%),  and beech (30%).
+The relatively small  sample of Wood Thrushes
+from this  region  indicates a  high degree of area sen-
+
+
+
+
+
+
+
+
+
+
+-  I0-33%  forest
+I 34-66%  forest
+67-100%  forest
+Pixel size =  1    km°
+
+sitivity that increases with  degree of fragmentation  in the landscape.  For example,  in landscapes with  70% forest cover,  200-acre  (80-ha)  patches are required to achieve  high suitability for the Wood Thrush, and as forest cover drops  below  40%,  high habitat suitability cannot  be achieved  (Table 3).  For  moderate suitability, smaller patches  may suffice; for example,  a SO-acre (20-ha)  patch  in a 50% forested landscape (Table 3).
+In  Quebec,  preferred  habitat for this species  is described  as mature,  undisturbed  forest,  with  damp ground,  dense shrubby  undergrowth,  and a thick  layer of ground  litter (Gauthier and Aubry  1996). Thus,
+Wood Thrush may be more of a  habitat specialist in the northern  portion  of its  range than further  south.
+Veery
+The Veery is common  throughout the southern and eastern portions of the Northern  Forest  Region, from  Manitoba to the Maritime  Provinces,  northern New  England,  and the Adirondack Mountains. They
+
+
+Table 3. Minimum area  required to provide  high, moderate, or low habitat suitability for Wood Thrush based on analysis of 108 study sites in the Northern region  (see page  11  for definitions of habitat suitability).
+Percentage                 Minimum  area (acres)
+of forest  in                            required for
+2,500-acre
+block                   High         Moderate           Low
+90                          69                   8
+80                         125                 14
+70                         201                  22                   2
+60                         310                 35                   2
+50                         470                 52                   4
+40                         712                 79                   6
+30                         NA                123                  9
+20                          NA                198                 14
+10                          NA                 NA                 26
+Not Available -acreage  values exceed the amount of forest in the 2,500-acre block.
+
+
+16
+are most abundant  in northern  hardwood  and transi• tional  forests with  a strong deciduous component at lower elevations.  In Ontario,  the range extends  north where deciduous  growth  occurs  in wetlands,  after forest fires,  or following timber  harvest (Cadman  et al.
+1987).
+In the Birds and Forested Landscapes study, Vee• ries were detected at 124  (49%) of 253 sites surveyed in the Northern  Forest Region.  Seventy-four percent of
+sites with Veeries were located  in mixed forest,  17%  in deciduous,  and 8% in coniferous forest. The most com• mon trees  present on sites occupied  by Veeries were maples (67%),  birches  (38%),  pines (37%),  hemlock (35%),  and ash (21 %).
+Resu Its of th is study  indicate  that Veeries are less area sensitive than they are further  south,  with  virtu• ally any size forest patch providing suitable  habitat
+in landscapes that are at least 50% forested. They are most strongly associated with  dense deciduous  shrubs in the forest understory.
+In  Maine,  where Veery and Wood Thrush overlap, successional  stage was found  to be the most important difference  in their habitat. Veeries  inhabit  younger forests and wetter areas than the Wood Thrush, while Hermit Thrushes and Veeries are sometimes found together  in mixed coniferous-deciduous and/or mixed alder and maple forests  (Morse  1971 ).  Hagan and Grove (1999) found Veery to be most abundant  in par• tially-cut forest in northern  Maine.  In  Quebec, Veeries prefer an open canopy  and dense understory (Gauthier and Aubry  1996),  and they were predicted  to benefit from tree removal  in mature forests,  resulting  in greater shrub cover and understory  development (Clark et al.
+1983). In the White Mountains of New  Hampshire, Welsh and Healy (1993) found Veeries significantly more abundant  in managed rather than unmanaged stands.
+Swainson's Thrush
+The range of the Swainson's Thrush overlaps the entire northern  forest region and extends  northward into the boreal forest. In the southern  portions,  they occur  generally at higher elevations than the Veery or
+This species  has been described  as a bird of the extensive spruce-fir forests of Quebec,  in areas of rela• tively  mature forest with  "not  very heavy understory" (Gauthier and Aubry  1996).  In  Maine,  Hagan and Grove (1999) found  Swainson's Thrush to be the only thrush showing a significant association  with  mature forest,  and to be more abundant  in landscapes  man• aged with  partial-cut,  rather than clearcut  techniques. In  a comparison  of forest management techniques
+in Labrador that attempted  to emulate  natural  distur• bance,  researchers compared  bird abundances among burned and clear cut former  black spruce sites after 5,
+14,  and 27 years of succession.  Hermit Thrushes and Swainson's Thrushes were lower  in clear-cut  sites and peaked in the 14-year old burns where abundance exceeded that of mature forests.  Swainson's Thrush was positively correlated  with  deciduous  tree cover and negatively correlated  with  conifer cover.  Logged areas did support some of the same bird species  but did
+not mimic fire. This study suggests that forest manag• ers may want to allow  some forests to burn naturally (Simons et al. 2002).
+Hermit Thrush
+The Hermit Thrush occupies the entire  northern forest region and extends  northward  through  the boreal forest.  It is common  in both  northern-hardwood and coniferous forests and is more strongly associated  with conifers than the other thrush species.  It also occurs on drier sites,  such as jack pine and deciduous forests on sandy soils.
+In the Birds  in Forested  Landscapes study,  Hermit Thrushes were detected at 143  (54%) of 265 sites surveyed  in the Northern  Forest Region.  Eighty  percent of sites with  Hermit Thrushes were  located  in mixed forest,  10%  in deciduous  forest,  and 10%  in coniferous
+
+Table 4. Minimum area  required to provide  high, moderate, or low habitat suitability for Hermit Thrush based on analysis of 111 study sites in the Northern  region  (see page  11  for definitions of habitat suitability).
+Percentage
+Wood Thrush and are associated more with  coniferous forests,  especially spruce and fir.
+
+of forest in
+2,500-acre
+Minimum  area (acres)
+required for
+In  the Birds  in Forested Landscapes study,  Swain•
+son's Thrushes were detected at 37 (25%)  of 146  sites surveyed  in the Northern  Forest Region.  Seventy-three percent of sites with  Swainson's Thrushes were located in mixed forest,  22%  in coniferous forest,  and 5% in deciduous  forest. The most common  trees present on sites occupied  by Swainson's Thrushes were birches
+(41 %),  maples  (41 %), firs (35%),  spruces  (35%),  and aspens (32%). The small  sample  in this study did  not indicate  an affect of forest fragmentation  on the Swain• son's Thrush or allow  the calculation of minimum area of forest required for high habitat suitability.
+block                   High         Moderate           Low
+90                          25                   2                 Any size
+80                          71                    7             Any size
+70                         166                 16                   1
+60                         359                 34                   2
+50                         750                 71                    4
+40                         NA                148                  9
+30                          NA                321                  19
+20                          NA                 NA                 45
+10                          NA                 NA                127
+'Not Available-acreage  values  exceed the amount of forest in the 2,500-acre  block.
+
+
+17
+forest. The most common  trees present on sites occu• pied by Hermit Thrushes were maples (66%), birches (48%),  pines (39%),  hemlock  (30%),  and oaks (23%).
+Results of this study  indicate  that Hermit Thrushes are adversely affected by forest fragmentation  and are highly  area sensitive  in this region.  In  landscapes that are 70% forested,  highly  suitable  habitat consists of forest patches at least  166 acres (67  ha).  In  50% for• ested landscapes,  the minimum  area required  increas• es to 750 acres (304  ha) (Table 4).  Smaller patches provide  moderately  suitable  habitat,  however,  except
+in highly  fragmented  landscapes with  less than 20% forest cover.  Sites with  a  high proportion of coniferous trees  in the canopy  are strongly favored.
+The Hermit Thrush is often described as the most versati le of the thrushes  in terms of habitat use, oc• curring  in conifer or mixed forests on damp or dry
+sites (Gauthier and Aubry  1996).  Morse (1971) found
+that Hermit Thrushes  bred in dry mixed forests,  while
+Veery and Wood Thrush were most commonly associ• ated with  wetter sites.  In  New  Hampshire,  Holmes and Robinson  (1988)  reported similar results with  Hermit Thrush using dry forests away from streams with  rela• tively  I  ittle understory. They are also tolerant of clear• ings,  burns,  and regenerating areas within the forested matrix,  as well  as conifer  plantations.  Freedman et al. (1981)  noted that in hardwood  forests of Nova Scotia, Hermit Thrushes were present in "strip cuts,"  but not in clear cuts or thinned forests.  In  a comparison  of burned and clear cut spruce forests 5, 14,  and 27 years after succession  in Labrador,  Hermit Thrush density peaked
+in 14-year-old  burns and was positively correlated
+with  snag density (Simons et al. 2002). They were also most abundant  in partially  cut forest in northern  Maine (Hagan  and Grove 1999). Thus,  this species appears tol• erant of,  or even to benefit from disturbance,  including active  management,  within large expanses of forest,  but not tolerant of high levels of forest fragmentation.
+
+
+
+
+
+Manaqement Summaryfor the Northern Forest Reqion
+
+Landscape Level
+In general, the Northern  Forest Region  is more heavily forested than the East/Midwest and Western Forest Regions.  For this reason,  habitat  protection through  long-term  planning and enhancement of forest structure are the most important management  considerations. A shifting  mosaic of forest habitats at various successional  stages will  likely benefit the most species as long as disturbance  and silvicultural  practices don't  lead to forest loss or fragmentation  over the long-term.   Small-scale timber  harvesting may be compat• ible with  forest bird  management  (including all  thrushes)  as long as forests don't become fragmented.  In the Northern  Forest Region,  the most area sensitive species are the Wood  Thrush and Hermit Thrush.  Generally, forests of 150 acres  (62  ha) or larger will  provide  these two  species with  high to moderate  levels of habitat suitability.  In  highly  fragmented  landscapes with  less than 40% forest,  patches of 350 acres (140  ha)  or
+larger are needed to supply  high to moderate  habitat suitability for Wood  and Hermit  thrushes.  Enhance• ment of forest structure  in small  forest patches  may be beneficial  for the less area sensitive Swainson's Thrush and Veery.
+Site Level
+In southern  portions of the region with  more deciduous trees,  management  should focus on Wood Thrush and Veery by promoting and retaining deciduous  understory  and maintaining deciduous  riparian buffers.  In  coniferous forest areas,  management  should focus on Swainson's Thrush  and Hermit Thrush• Swainson's Thrush seems to prefer mature,  undisturbed  spruce-fir forests with  a sparser  understory,  whereas Hermit Thrushes are more tolerant  of disturbance,  but not forest loss or fragmentation.  Create and main•
+tain forest habitat with  a dense understory of saplings and deciduous  shrubs. This can be accomplished by planting appropriate native trees and shrubs,  creating gaps  in the canopy that permit  sunlight to reach the forest floor,  and controlling browsing  by white-tailed deer and livestock.  Moderate  selective  harvest• ing of timber  is often tolerated  by thrushes,  and serves to increase the shrub  layer.  Clear cutting  and heavy selective cutting  are not recommended for thrush management.  Hermit Thrush prefer a strong coniferous component and may benefit from  conifer plantings or silvicultural  practices that favor existing conifers,
+especially pines and eastern hemlock.
+
+
+
+
+
+
+
+
+18
+Western Forest Region
+
+Description
+We define the Western Forest Region  as all  areas west of the Great Plains,  including vast, primarily coniferous forests from the Rocky Mountains west to the Pacific Ocean.
+Along  the Pacific coast, forests are dominated by cedar, hemlock,  and sitka  spruce to the north,  and Douglas-fir,  western red cedar,  hemlock,  and red• woods further  south. Willow, cottonwood,  alder,  and birch
+can be found  at lower elevations and along  rivers  (Bailey  1995). The coniferous forests of the
+Sierra  Nevada Mountains are
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I 0-33%  forest
+I 34-66%  forest
+67-1 00%  forest
+Pixel size  =  7   km2
+
+in the Western  Forest Region. This  small  sample did not allow analysis of habitat preference or affects of forest fragmentation.
+Tewksbury  et al. (2002) found  that in riparian  areas of the West (Montana,  Idaho,  Nevada, and Oregon), Veeries were less common  in grazed sites,  in heavily settled or agricultural landscapes,  or in areas with  little deciduous  riparian  habitat. They
+recommended that "management should focus on (1) preserving
+and enlarging  deciduous  habi• tats,  (2)  reducing  cattle grazing  in deciduous  habitats,  and (3)  pro•
+tecting the few relatively pristine
+dominated by ponderosa  pine on western slopes with lodgepole pine and Jeffrey pine replacing  the pon• derosa pine on the eastern slopes.  Mountain hemlock, fir,  spruce,  and various pines can be found  at higher elevations.  In coastal  California,  the sclerophyll  forest contains  species such  as live oak,  laurel,  madrone,  and bayberry that have thick,  leathery  leaves that can toler• ate dryness.
+The remainder  of the intermountain west consists primarily of coniferous forests at higher elevations, interspersed with  grasslands,  sagebrush,  and shrubs  in the lowlands.  Some areas of broad leaf forest,  especial• ly aspen, are also found  here. Tree species composition is strongly dependent  on elevation  and slope exposure. Throughout  the Rocky Mountains,  Engelmann  spruce and subalpine fir dominate most of the subalpine
+areas.  Douglas-fir,  western redcedar,  western hemlock, western white pine,  western  larch,  grand fir,  ponderosa pine,  and lodgepole pine are common  forest types  be• low the subalpine zone (Bailey  1995).  In the southern foothills and lower plateaus, scrub oaks are common along with  pinyon-juniper woodlands.  Mountains of Arizona,  New Mexico,  south through  northern  Mex•
+ico support diverse pine-oak forests, with important riparian woodlands occurring in canyons and along lowland  river valleys.
+
+Habitat Guidelinesfor Thrushes
+
+Veery
+The Veery is an uncommon species  in western forests,  where  it is  largely  restricted to riparian and other deciduous  vegetation  at middle  and lower eleva• tions.  In  the Birds  in Forested  Landscapes study, Veeries were detected at only  15  (11 %) of 138  sites  surveyed
+landscapes surrounding  large deciduous  riparian  areas in the West."
+Swainson's Thrush
+The Swainson's Thrush is widespread  in the Western  Forest Region,  with two distinct populations showing rather different  habitat associations.  In  the interior  portions,  this species  is found  in montane coniferous forests,  but is often associated with  decidu• ous or riparian  vegetation  at lower elevations.  On the pacific slope,  Swainson's Thrush is found  to sea  level, primarily in riparian  forests.
+In the Birds  in Forested  Landscapes study, Swainson's Thrushes were detected at 156  (43%) of
+365 sites surveyed  in the Western  Region.  Habitats occupied  by Swainson's Thrushes differed  between the Pacific and interior  portions of the region;  in the Pa• cific,  62% of occupied  sites were in mixed forest,  20% in coniferous,  and 16%  in deciduous forest,  whereas
+in the interior,  49% of sites were in mixed forest,  48% in coniferous,  and only 2% in deciduous forest. The most common  trees on sites occupied  by Swainson's Thrushes were Douglas-fir (56%),  pines  (33%),  alder (22%),  cedar (21%),  and spruce (21%).  Results of this study  indicate  that Swainson's Thrush is highly  associ• ated with  deciduous  shrubs  in the forest understory.  In the Pacific  portion  of the region, this species was  not adversely affected by reduction  in forest area or patch size,  but in the interior portion,  they were strongly area sensitive and found  highly  suitable habitat only  in the most extensively  forested landscapes  (Figure  11 ).
+Although characterized  as an area-sensitive species,  results from  several  western studies  report conflicting results.  Swainson's Thrushes were found  to be area sensitive  in cedar-hemlock forest in Idaho and
+
+
+19
+
+
+
+
+
+
+
+E c c
+0.....
+CL.
+U
+•0
+
+Eff ects  of% Forest on  Probability  of Swainson's  Thrush Presence
+
+0.6
+
+
+
+
+0.4
+sent ecological  traps  in this region (Brand  and
+George 2000).
+Hermit Thrush
+The Hermit Thrush is widespread throughout the Western  Forest Region,  in coniferous forests of the interior  mountains,  as well  as on the Pacific Coast. In the Birds  in For• ested  Landscapes study,  Hermit Thrushes were detected at 142  (30%) of 470 sites surveyed
+u   0.2
+U
+.....
+CL.
+
+
+
+
+
+
+0               20                40                60                80
+
+Forest Cover (%)
+
+
+
+
+
+
+100
+in the Western  Region.  Fifty-seven  percent of
+sites with  Hermit Thrushes were located  in coniferous forest,  42%  in mixed forest,  and 1  % in deciduous  forest. The most common  trees present on sites occupied  by Hermit Thrushes were pines (56%),  Douglas-fir (44%),  fir (30%), spruce (27%),  and aspen (23%).  Compared
+with  other thrushes,  Hermits occupied  drier
+Figure 11. The probability of finding breeding  Swainson 's Thrushes decreases as amount  of forest in the landscape is reduced.
+
+riparian  areas  in Nevada (Freemark et al. 1995),  but not in Douglas-fir forests of the Pacific Coast (Lehm•
+sites,  with  fewer than expected  sites  being close to streams or other surface water.
+Results of this study  indicate  that Hermit Thrushes are highly  area sensitive and as• sociated with the most extensive forests.  In
+landscapes with  70% forest cover,  this species  requires
+kuhl et al. 1991 ).  Evans  1995  found  that abundance
+was  not significantly correlated  with  patch size  in mature forest or edge in mixed  coniferous forest of the northern  Rockies.  Stands  in more fragmented  land• scapes;  however,  had fewer nests and lower nest suc• cess than stands  in more contiguous  landscapes  in the same study area (Evans et al. 1998).  Hejl  et al. (2002) reported that Swainson's Thrushes  in the Central  Rocky Mountains were positively associated  with  amount  of forest and patch size,  and negatively associated with edge in "all  coniferous forest,"  but found  no relation• ship among these habitat variables  in "mixed  conifer," "cedar/hemlock,"  or "ponderosa  pine forest."
+In  coniferous forests of the northern  Rockies, there is a generally consistent  response to silvicultural practices,  with the highest abundances occurring in unlogged  old-growth stands (Johnston  1949,  Hejl  et al.
+1995). Along the Oregon  coast,  immediate  and signifi•
+cant declines were noted after substantial  reductions  in forest cover that resulted from  silvicultural  practices.
+In  British  Columbia,  Swainson's Thrushes are sen• sitive to the silvicultural  practice of removing decidu• ous vegetation from  regenerating coniferous forests.
+In  a comparison of 11-22  year old conifer plantations
+(54-11 6 acres or 22-47  ha), nest sites were positively correlated  with  remaining deciduous vegetation. This relationship was strongest in areas with the fewest deciduous  trees.  Nest success was positively correlated with  the amount  of willow associated  with  the nest site (Easton and Martin  2002).  In northwestern  California, Swainson's Thrush occurred  in highest densities along edges,  but edges also experienced  higher rates of nest predation,  suggesting that these habitats  may repre-
+patches greater than 160 acres (65  ha) for high suitabil•
+ity  habitat (Table 5). If forest cover is reduced to 50%, over 800 acres (320  ha) is required,  and landscapes with  less than 40% forest cover do not provide  any highly suitable  habitat.  Smaller patches  may provide moderately  suitable habitat,  however.  Hermit Thrushes in the West are not as strictly associated  with  conifer• ous forest cover as this species  is in the East.
+A study  in southeastern Wyoming of the effects of timber  harvest that,  at least initially,  interrupted large expanses of old-growth forest with  small  strip or patch clearcuts compared  avian species composition
+
+Table 5. Minimum area  required to provide  high, moderate, or low habitat suitability for Hermit Thrush based on analysis of 302 study sites in
+the Western region  (see page  11  for definitions of habitat suitability).
+Percentage                 Minimum  area (acres)
+of forest  in                            required for
+2,500-acre
+block                   High         Moderate           Low
+90                          20                   1                                 Any size
+80                          64                   2             Any size
+70                         163                  5             Any size
+60                         385                 12             Any size
+50                         873                 26            Any size
+40                         NA                 60                   1
+30                          NA                141
+20                          NA                361                   4
+10                          NA                 NA                 12
+Not Available -acreage  values exceed the amount of forest in the 2,500-acre block.
+
+
+20
+and abundance  in uncut forests,  forest interiors, meadow edges and clearcuts.  Of the 16  species studied,  Hermit Thrushes were one of the most negatively affected by fragmentation  (Keller and Anderson  1992). The authors suggest that the distribution  of birds  may not strictly be a prefer• ence or avoidance of forest edges and interiors
+
+Effects of%  Forest on Probability of Varied Thrush Presence
+
+0.5
+
+>
++  0.4
+0c
+0
+but a result of the loss of resources from clearcut• ting or preferences for the habitat adjacent to the forest stand (meadows or clearcuts). Franzreb and Ohmart  (1978) found  that in the White  Mountains
+0
+'-
+2
+"'O
+0
+u
+U
+0.3
+
+
+0.2
+of Arizona  the number of territories  in unlogged
+40-ha forests were almost twice  that of selectively logged areas of the same size.  Hejl  et al. (2002) found that Hermit Thrushes were positively as• sociated with  patch size and negatively associated with edge in the central  Rocky Mountains.
+Varied Thrush
+0   0.1
+2
+
+0
+
+
+
+
+0             20             40            60
+Forest Cover  (%)
+
+
+
+
+80    100
+
+The Varied Thrush is a characteristic spe• cies of the tall  coniferous forests of the northern Pacific Coast and northwestern  mountain  ranges. In  the Birds  in Forested Landscapes study, Varied
+Thrushes were detected at 40 (21 %)  of 186  sites sur•
+Figure 12.  The probability of finding breeding  Varied
+Thrushes decreases sharply as amount  of forest in the land•
+scape is reduced.
+
+al. 1991,  Gilbert and Allwine 1991,  Manuwal  1991, Tobalske et al. 1991,  Bryant et al. 1992,  Hazard and
+veyed in the Western Forest Region.  Fifty-eight percent of sites with Varied Thrushes were located  in conifer• ous forest,  and 42% were in mixed forest. The most common  trees on sites occupied  by Varied Thrushes were spruce (58%),  hemlock  (43%),  cedar (38%),
+pines  (38%),  and Douglas-fir (35%).  Occupied sites were also more often closer to streams or other water than expected. The small  sample  in this study  indicated a strong  reduction  in habitat suitability as the amount
+of forest in a  landscape  is reduced  (Figure  12).
+Studies throughout the Varied Thrush's range, indicated  that this species has the highest breeding densities  in mature and old-growth stands (Carey et
+George 1999). There is no difference  in breeding densities,  however,  between  second-growth  (20 year• old stands)  in southeastern Alaska and old-growth stands (Dellasala et al. 1996).  In  northern  California, Hurt (1996) found  that Varied Thrushes  rarely breed in suitable forest stands  less than 40 acres (16  ha) in size but stands greater than 40 acres (16  ha) were almost always occupied. Also in northwestern  California, Brand and George (2000) found Varied Thrushes to be associated with forest interiors and to avoid edges.  In general,  logging and fragmentation  of mature old• growth  forest will  likely  have negative  impacts on Varied Thrush populations.
+
+
+Manaqement Summary for the Western Forest Reqion
+
+Landscape Level
+On  large forests  in the Western  Region,  especially on public  lands,  long-term  management  should focus on protecting existing forests and avoiding  fragmentation  whenever  possible.   Avoid  creating edge by sub-dividing contiguous  habitat.  Protection  and enhancement of riparian  habitat will  likely benefitVeery and Swainson's Thrush. Long-term  planning for the Varied Thrush should  include  maintaining a  high per• centage of mature and old-growth forest in the overall  landscape.
+Site Level
+In general,  little  is known  about site-level  habitat requirements for thrushes and other forest birds in the Western  Region.   Managers can contribute by monitoring the effects of pre- and post-fire  management, silvicultural  activities,  grazing and other  land  uses. As in other regions,  thrush populations  in the West will most likely benefit from the creation  and maintenece of dense understory.  For Swainson's Thrush, protect and enhance deciduous  shrubs  in the understory  in both  coniferous and riparian  forests.  Reducing grazing• pressure,  especially  in riparian  zones,  will  help promote  understory vegetation  used by western thrushes.
+
+
+
+
+
+21
+BioraphiesfForest Thrushes
+
+
+Vee,y (Catharus  fuscescens)
+
+Conservation Status
+The Veery is of moderate conservation  impor• tance,  primarily because of its declining population trend  in much of its  range (30% decline overall  since
+1966)  and its vulnerability as a long-distance  migrant wintering in tropical  forests of South America.  Fortu• nately it  is still  a very common  species  in most of its eastern range,  where  it also seems tolerant  of some for• est disturbance.  In  the West,  this  species  is  indicative
+of healthy  riparian  forests.
+
+Habitat and Nest Site
+Inhabits damp,  deciduous forest and riparian habitats,  generally  younger  stands and secondary growth  areas with  an open canopy and dense un• derstory.  Its preference for riparian  areas  is strong  in several  areas,  including the Great Plains where forest
+is limited  (Tubbs  1980).  Habitat  selection  may depend on the presence of other thrush species  in its breed• ing range.  For example,  the Veery may breed in mixed conifer-hardwood forest at middle  elevations  in areas where  it overlaps with  the Swainson's Thrush  (higher
+elevations)  or Wood Thrush (lower elevations).  In  other areas,  they use alder or willow swamps,  hemlock ravines,  oak or beech-maple  forests,  or aspen wood• lands.  Nests on or just above the ground,  generally  not higher than 4 feet (1   m), often  in a  low shrub or brush pile.  May be concealed  in a grass tussock or under fallen limbs or a stump.  Forest fragmentation  increases the Veery's vulnerability to Brown-headed Cowbird parasitism.  In  Ontario,  cowbirds parasitize  19% of nests,  while in Alberta  and Manitoba 87% of nests are parasitized  (Friedmann  et al. 1977).  In  winter, Veeries inhabit  mature  lowland  rainforest,  primarily in western Amazonia.
+
+
+
+
+
+Vocalizations
+Song: A resonating,  ethereal da-vee-ur,  vee-ur,  veer, veer,  consisting of a slurred  series of downward inflected  notes.  Each  note gets progressively  lower  in pitch,  creating the sensation  of spiraling or cascading down  the scale.  Some songs  may begin with  a simple, non-inflected note and end with  a rolling note.
+
+Call: The call  notes are generally  lower pitched than those of other thrushes. The most common  call,  used
+in a hostile situation,  is a downward inflected  vee-ur or veee-oo. They also have a jerk or njernt cal I.
+
+Foraqinq Behavior/Diet
+Forages mostly on the ground  for beetles, cat• erpillars, spiders, centipedes, snails, pill bugs, ants, wasps,  and tupulid  flies by turning over leaves with
+bill.  Sometimes searches for prey from  a perch, such  as a  low branch  in a shrub or tree or from  a  rock general• ly close to water.  Swoops to the ground  and grabs prey when  sighted.  In the fall  and winter  eats  more fruit; spicebush,  strawberries, juneberries,  honeysuckle, blackberries,  wild cherries,  sumac,  and blueberries. To
+a  lesser extent,  gleans or plucks fruit from the foliage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Veery by Evan Barbour
+
+
+22
+
+
+
+
+Sainson's Thrush «catharus ustlatus
+
+Conservation Status
+The Swainson's Thrush has  a large range and is very common  in many areas, yet it  is experiencing steady population declines  in regions such  as Califor• nia and the Maritime Provinces.  It is of conservation importance  because of its association  with  many types of coniferous as well  as riparian  forests for breeding, and because of its vulnerability to tropical  deforesta• tion  in South America.
+BiographiesofForest  Thrushes
+
+Habitat and Nest Site
+Breeds primarily in coniferous forests,  or mixed forest dominated by spruce,  fir,  white cedar,  or tama• rack. They may be found  in both undisturbed  and disturbed  woodlands with  dense understory,  often near canopy gaps  produced  by fallen  trees or other
+disturbances.  Nest is typically 4-7 feet (1.2-2  m above
+ground  in a small  fir,  spruce,  hemlock,  vine  maple, alder,  or willow on a horizontal  branch  near the trunk. In  winter,  Swainson's Thrushes  inhabit  mature Amazo• nian and Andean  rainforests,  as well as other mature tropical  forests  in Central America.
+
+Vocalizations
+Song: A slurred series of notes spiraling  upward  in pitch.  It is quite complex  and variable  and has been characterized  as whip-poor-will-a-will-e-zee-zee-zee with  the last notes often running together  in a high trill.
+
+
+
+
+
+
+Call: The most common  call is a loud,  sharp  whit;  also a clear,  slightly  inflected whistled  note,  feee-ee. The nocturnal  flight  call  is an abrupt whistle that sounds very similar to the spring peeper.
+
+Foraqinq Behavior/Diet
+Mostly a ground feeder;  also forages from branches as well as by hawking  insects on the wing. Eats  beetles,  weevils,  ants,  wild bees,  wasps,  caterpil• lars, spruce bud moths,  mosquitoes,  crane flies,  tree• hoppers,  cicadas,  spiders,  millipedes,  snails,  sowbugs, and earthworms.  Most frequently  hunts from  a  low branch,  hopping  from  perch to perch searching for prey on the ground  or within low branches.  Becomes more frugivorous  during the late summer,  fall,  and
+winter,  when  diet includes cherries,  blackberries,  rasp•
+berries,  seeds of twinberry,  and elderberry.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Swainson's  Thrush by Evan Barbour
+
+
+23
+BioraphiesfForest Thrushes
+
+
+Hermit Thrush «caharus gatats
+
+Conservation Status
+Among  the forest thrushes,  the Hermit Thrush is the one species that shows stable or even increasing population trends throughout its  large range.  It is seem• ingly tolerant  of various disturbances,  but in many
+areas it is a species associated with  large and mature forests. Why this species  is so successful  while closely related thrushes are declining is one of the mysteries
+conservation  biologists are presently studying.
+
+Habitat and Nest Site
+Inhabits coniferous and mixed coniferous-hard• wood  forests,  chiefly  at higher elevations  up to tree line  in the northern  Appalachians and in the western mountains. Also breeds at lower elevations across the
+northern  coniferous forests,  in hemlock  ravines,  conifer plantations,  and even to sea  level  in pine barrens and cedar swamps.  In the East,  the nest is usually on the ground,  well  hidden  under a small  tree,  bush,  fern, or
+in a  natural  depression.  In the West,  it generally  nests above ground  in a tree or shrub,  conifer sapling,  or on top of a stump or log. There are some accounts of nests under eaves of a building or on a rock ledge.  Generally found  near an edge or gap rather than in the interior of a forest.  In winter,  Hermit Thrushes are found  in a vari• ety of wooded  habitats,  including suburban  yards and woodlots,  in the southern  United  States and Mexico.
+
+Vocalizations
+Song: A melodious,  flute-like warble,  made up of a series of varied phrases separated  by long pauses, beginning with  a clear whistled  introductory  note. The
+
+
+
+
+
+
+phrases vary considerably in pitch  and seem to trail off at the end of each phrase.
+
+Calls: Two common  call notes:  a soft chuck or chup and a  harsh,  rising wee-er,  similar to the call  of a cat• bird,  given as an alarm or when the bird  is agitated.
+
+Foraqinq Behavior/Diet
+Forages on ground  by scanning and turning fallen  leaves over with  bill to search  for beetles,  ants, caterpi I la rs,  grasshoppers,  crickets,  spiders,  sow bugs, snails,  earthworms,  and sometimes  salamanders. Also gleans from foliage and branches  in the understory  and in  young saplings,  occasionally higher up in the trees.
+In the fall and winter  eats  more fruit:  pokeberries,  ser•
+viceberries,  grapes,  elderberries,  mistletoe berries,  and raspberries.  Sometimes takes  insects or berries from vegetation  above ground  while hovering.
+
+
+
+
+.
+,J.i
+.        I
+~
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hermit  Thrush by Evan Barbour
+
+
+24
+
+
+
+Wood Thrush aytocichla mustelia
+
+Conservation Status
+Even though  it's one of the most common  species in eastern forests,  the Wood Thrush is of high con• servation  concern  because of long-term,  range-wide declines that have resulted in a 43%  overall  popula• tion  decline since  1966.  It is included  on Partners  in Flight's Watch  List for the United States and Canada. This species seems to be dependent  on large tracts of mature forest in some parts of its  range,  but is tolerant of fragmentation  in other areas.  In  winter,  it  is highly vulnerable to tropical  deforestation  in the lowlands of Central America.
+BiographiesofForest  Thrushes
+
+Habitat and Nest Site
+Breeds in the interior  and edges of deciduous  and mixed forests,  generally  in cool,  moist sites,  often near water.  Requires  moderate to dense understory with  a
+lot of shade,  moist soil,  and decaying  leaf litter.  Shows much variation  in habitat use, from  mature decidu-
+ous forests  in the Southeast, to shrubby second-growth forests and suburban  parks  in the Northeast to ripar-
+ian  habitats  in the Great Plains. The nest is usually on the lower  limbs of a tree or shrub,  usually  10-13 feet (3-4  m) above ground;  2-70 feet (0.5-21  m) possible. Nest is placed generally  near or against the trunk, hidden  among leaves  in a shady area. Also found  in
+a crotch or fork supported  by small  branches.  It may be anchored to a branch with mud. In winter, Wood Thrushes  inhabit  mature,  lowland tropical  forests.
+
+
+
+
+
+
+
+
+•
+
+
+
+Vocalizations
+Song: A series of yodeled  phrases with  a pause in between each phrase. A phrase consists of three distinctive parts:  one or two  short,  low notes,  quickly followed by a complex,  flute-like note.  It ends with  a short,  high trill. The phrase sounds  like ee-oh-lay.
+Calls: A rapid series of notes that sound  like pit-pit• pit or wik,  wik,  wik,  wik, wik.  Nocturnal  flight  call  an emphatic  buzzy  heeh,  given on the same tone or only slightly descending.
+
+Foraqinq Behavior/Diet
+Forages by gleaning and probing  for beetles,  ants, moths,  caterpillars,  millipedes,  and isopods  in the leaf litter on the forest floor.  In the late summer and fall eats more fruit-spicebush, foxgrape,  blueberry,  holly,  elder• berry, Virginia  creeper,  pokeweed,  dogwood,  black cherry,  and black gum.  Sometimes  hawks or hovers to glean insects or fruit from vegetation above the ground.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wood  Thrush by Evan Barbour
+
+
+25
+BioraphiesfForest Thrushes
+
+
+Varied Thrush sores nae«us
+
+Conservation Status
+The Varied Thrush is of regional  conservation importance,  primarily because of its association  with mature coniferous forests of the Pacific  Northwest,  and because of its  relatively small  total  range.  Populations appear to be stable at present,  although they fluctuate
+greatly  in many areas.
+
+Habitat and Nest Site
+This thrush  loves shady,  cool,  and damp areas and is a characteristic species of the Pacific coastal rainforests.  It inhabits  mostly tall  coniferous forests, such  as redwoods,  Douglas-fir,  and spruce,  from coastal to subapline,  usually with  a dense understory. Also inhabits some deciduous forests,  especially at
+the northern  edge of the range.  Nest is usually  6-20
+feet (2-6  m) above the ground  in a small  conifer,  but occasionally built in a deciduous tree,  small  fir,  spruce hemlock,  vine maple,  or willow. The nest is generally built against the trunk,  supported  by small  branches and hidden  in the foliage. Varied Thrush occupy  a broad range of habitats  in the winter and are most
+frequently observed  in areas where fruiting shrubs pro• vide a food  source. Will  also visit bird feeders  in the southern  part of their wintering range.
+
+Vocalizations
+Song: Each  song phrase is a single  note:  a  long,  vibrat• ing,  metallic whistle,  with  a long pause between  notes. Each  note is delivered  in a slightly different  key and pitch,  with  no particular order.  It may sing these notes in continuous succession for several  minutes.
+
+
+
+
+
+
+
+
+
+Call: Low chook  and a variety of ringing  whistles simi• lar to the notes  in the song.  It will  often call in a soft, faint tone while feeding on the ground.
+
+Foraqinq Behavior/Diet
+Commonly forages on the ground  under damp and thickly  matted leaves for beetles,  ants,  bees, wasps, flies,  caterpillars,  grasshoppers,  crickets,  some spiders, myriapods,  snails,  sowbugs,  and earthworms.  Scratches the dead leaves aside with  both feet at once,  seizing some  litter in its beak and scattering  leaves  in various directions.  Generally  keeps  under shady retreats among mosses and rocks.  In the fall and winter  feeds mostly
+on madrone berries,  acorns,  weed seeds,  sowberries, juniper berries,  blackberries,  blueberries,  raspberries, buckthorn,  poison oak,  and pepperberries.  Occasional•
+ly gleans or picks  invertebrates or fruit from vegetation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Varied Thrush by Evan Barbour
+
+
+26
+Literature Cited
+
+Andrle,  R.F.  and J.R.  Carroll,  eds.  1988. The atlas of breeding birds  in New York State.  Cornell  Univ.  Press,  Ithaca,  NY.
+
+Annand,  E.M.  and F.R. Thompson.  1997.  Forest  response to regeneration  practices  in central  hardwoods. Journal  of Wildlife  Management 61 (1):159-171.
+
+Artman, V.L. and J.F.  Downhower.  2003. Wood Thrush (Hylocichla  mustelina)  nesting ecology  in relation  to pre• scribed  burning of mixed-oak  forest  in Ohio. Auk 120(3):
+874--882.
+
+Bailey,  R.G.  1995.  Descriptions  of the ecoregions of the United  States.  2nd ed.  Rev.  and expanded (1st ed.  1980). Misc.  Publ.  No.  1391  (rev.), Washington,  DC: USDA For• est Service.  108  pp.  with  separate  map at 1:7,500,000.
+
+Beals,  E.  1960.  Forest bird communities  in the Apostle  ls•
+lands of Wisconsin. Wilson  Bulletin  72:156-181.
+
+Bertin,  R.I.  1977.  Breeding  habitats of the Wood Thrush and
+Veery.  Condor  79:303-311.
+
+Brand,  L.A.  1998.  Edge effects  in coast redwood forest frag•
+ments.  M.S. Thesis,  Humboldt State  University, Arcata,  CA.
+
+Brand,  L.A.  and T.L.  George.  2000.  Predation  risk for nesting birds  in coast redwood  forests. Journal  of Wildlife Man• agement 64:42--51.
+
+Brittingham,  M.C. and S.A. Temple.  1983.  Have cowbirds caused forest songbirds to decline?  Bioscience 33:31--35.
+
+Bryant,  A.A., J.L.  Savard,  and R.T.  McLaughlin.  1992. Avian communities  in old-growth  and managed forests  of west• ern Vancouver  Island,  British  Columbia. Technical  Report Series  No.  167.  Canadian Wildlife Service,  Pacific and Yukon Region,  BC.
+Cadman, M.C.,  P.F.  Eagles,  F.M.  Helleiner  (eds.).  1987. Atlas of the breeding birds of Ontario. Univ. of Waterloo  Press, Waterloo,  ON.  617 pp.
+
+Campbell,  R.W.,  N.K. Dawe,  I.  McTaggart-Cowan, J.  M.
+Cooper,  G. W.  Kaiser.  1997. The birds of British Colum• bia. Vol. 3--Passerines: flycatchers through  vireos. R.  Br. Columbia  Mus., Victoria.
+
+Carey, A.B.,  M.M.  Hardt,  S.P.  Horton,  and B.L.  Biswell.  1991.
+Spring bird communities  in the Oregon coast range.  Pp.
+123--143  in Wildlife  and vegetation of unmanaged Doug• las-fir forests  (L.F.  Ruggiero,  K.B. Aubry, A.B.  Carey,  and M.H.  Huff,  eds.).  U.S.  Forest Service,  General Technical Report  PNW-GTR-285,  Portland,  OR.
+
+Clark,  K.  D.,  D.  Euler,  and E.  Armstrong.  1983.  Habitat as• sociations of breeding  birds  in cottage and natural areas of central Ontario. Wilson  Bull.  95:77-96.
+
+Crawford,  H.S.  R.G.  Hooper,  and R.W. Tilterington.  1981.
+Songbird  population  response to silvicultural  practices in central Appalachian  hardwoods. Journal of Wildlife Management 45: 680--692.
+
+Dellasala,  D.A., J.C.  Hagar,  K.A. Engel, W.C.  McComb,  R.L.
+Fairbanks,  and E.G.  Campbell.  1996.  Effects of silvicultur• al modifications of temperate rainforests on breeding and wintering  communities, Prince of Wales Island, southeast Alaska.  Condor 89:  706-721.
+Derleth,  E.L.,  D.G. McAuley,  and T.J.  Dwyer.  1989. Avian communtiy  response to small-scale  habitat disturbance  in Maine.  Canadian Journal  of Zoology  67:385--390.
+
+Dilger, W.C. 1956. Adaptive  modifications and ecological isolating  mechanisms  in the thrush genera Catharus and Hylocichla. Wilson  Bull.  68:171--199.
+
+Driscoll,  M., T.  Donovan,  R.  Mickey, A. Howard,  K.  Fleming.
+2003.  In  preparation.
+
+Easton, W.E.  and K.  Martin.  2002.  Effects of thinning and herbicide  treatment on nest site selection  by songbirds  in young managed forests. Auk 119(3):685--694.
+
+Evans,  D.M.  1995.  Relationship  between landscape  patter and songbird  abundance  in mixed conifer forests of west• central  Idaho.  Master's Thesis,  Northern  Arizon  Univ., Flagstaff.
+
+Franzreb,  K.E.  and R.D.  Ohmart.  1978. The effects of timber harvesting on breeding birds  in a mixed coniferous forest. Condor 80:431-444.
+
+Freedman,  B., C.  Beauchamp,  I.A.  McLaren,  and 5.1. Tingley.
+1981.   Forestry  management practices  and populations  of breeding birds  in a  hardwood  forest in Nova  Scotia.  Can. Field-Nat.  95: 307-311.
+
+Freemark,  K.E.  and B.  Collins.   1992.   Landscape ecology of birds  breeding  in temperate forest fragments.  pp 443-454 in J.M.  Hagan and D.W. Johnston  (eds.)  Ecology  and con• servation  of Neotropical  migrant  landbirds.  Smithsonian Institution  Press, Washington  DC.  609 pp.
+
+Freemark,  K.E., J.B.  Dunning,  S.J.  Hejl,  and J.R.  Probst.  1995.
+A landscape ecology  perspective for research,  conserva• tion,  and management.  Pages 381-421  in Ecology and mangement of Neotropical  migratory  birds.  (T.E.  Martin and D.M.  Finch,  eds.) Oxford  Univ.  Press,  New York.
+
+Friedmann,  H.,  L.F.  Kiff,  and S.J.  Rothstein.  1977. A fur- ther contribution  to knowledge  of the host  relations of parasitic cowbirds.  Smithsonian  Contributions to Zoology
+235:1-75.
+
+Galli, A.E., C. F. Leck, and R. T. T. Forman. 1976. Avian distri• bution patterns in forest islands of different  sizes in central New Jersey. Auk 93:356--364.
+
+Gates, J.E.  and L.W.  Gysel.  1978. Avain nest dispersion and fledging  success  in field-forest ecotones.  Ecology 59:
+871--883.
+
+Gauthier, J.  and Y. Aubry.  (eds.).  1996. The breeding birds of Quebec: Atlas of the breeding birds of southern  Quebec. Association  quebecoise des groupes  d'ornithologues, Province of Quebec  Society for the Protection  of Birds, Canadian Wildlife  Service,  Environment Canada,  Quebec Region,  Montreal.  1302 pp.
+
+George, T.L.  2002. Varied Thrush (lxoreus naevius).  in The birds of North America,  No.  541  (A.  Poole and F.  Gill, eds.). The Birds  of North America,  Inc.,  Philadelphia,  PA.
+
+Gilbert,  F.F.,  and R. Allwine.  1991.  Spring  bird communities in the Oregon  cascade range.  pp.  145--158  in Wildlife and vegetation  of unmanaged Douglas-fir  forests  (L.F.
+
+
+27
+Ruggiero,  K.B. Aubry,  A.B.  Carey,  and M.H.  Huff,  eds.). U.S. Forest Service,  General Technical  Report  PNW-GTR-
+285.  Portland,  OR.
+
+Giles,  R.H.,  ed.  1971. Wildlife Mangement Techniques.  3rd edition  (revised). The Wildlife Society,  Washington,  D.C.
+623 pp.
+
+Groom, J.D.,  and T.C.  Grubb, Jr.  2002.  Bird species  associ• ated with  riparian  woodland  in fragmented,  temperate-de• ciduous forest.  Conservation  Biology  16(3):832-836.
+
+Hagan, J.M.  and S.L.  Grove.  1999.  Bird  abundance and distribution  in managed and old-growth  forest  in Maine. Report  No.  NM-9901  Manomet  Center for Conservation Sciences.  14  pp.
+
+Hames,  R. S.,K. V.  Rosenberg, J.  D.  Lowe,  S.  E.  Barker,  and A.  A.  Dhondt.  2002.  Effects of forest fragmentation  on North American  tanager and thrush species  in eastern  and western  landscapes.  Pages  81-92  in L.  George and D.  S. Dobkins,  editors. The effects  of habitat fragmentation  on birds  in western  landscapes:   Contrast with  paradigms
+from the eastern  United  States.  Cooper Ornithological
+Society,  Seattle, WA.
+
+Hames,  R. S.,K. V.  Rosenberg, J.  D.  Lowe,  and A. A.  Dhondt.
+2001.  Site  Reoccupation  in fragmented  landscapes: testing predictions of metapopulation  theory. Journal  of Animal Ecology  70:182-190.
+
+Hanowski, J.,  N.  Danz, J.  Lind, and G.  Niemi.  2003.  Breed• ing bird  response to riparian forest harvest and harvest equipment. Forest  Ecology and Management  174(1-3):
+315-328.
+
+Hawrot,  R.Y.  and G.J.  Niemi.  1996.  Effects of edge type and patch shape on avian communities  in  a mixed conifer• hardwood  forest. Auk 113(3):586-598.
+
+Hazard, G.C. and T.L.  George. 1999. Landbird abundance and diversity in different-aged  stands of coast redwood forests  in northwestern  California.  Northwest  Naturalist
+80:99-109.
+
+Hejl,  S.J.,  R.L.  Hutto,  C.R.  Preston, and D.M.  Finch.  1995.
+Effects  of silvicultural  treatments  in the Rocky  Mountains. Pp 220-224  in Ecology  and management of Neotropical migrtory  birds  (T.E.  Martin  and D.M.  Finch  eds.).  Oxford Univ.  Press,  New York.
+
+Hejl,  S.J.,  D.  Evans  Mack, J.S. Young, J.C.  Bednarz,  and R.L.
+Hutto.  2002.  Birds  and changing  landscape  patterns  in conifer forests  of the north-central  Rocky  Mountains. Studies  in Avian  Biol. 25:113-129.
+
+Holmes,  R.T.  and S.K.  Robinson.  1988.  Spatial  patterns, foraging tactics,  and diets  of ground-foraging  birds  in a northern  hardwood  forest. Wilson  Bull.  100:377-394.
+
+Hoover, J.P.  1992.  Nesting success  of Wood Thrush in  a fragmented forest. The Pennsylvania  State  University,  State College,  PA.  Ph.D.  dissertation.
+
+Hoover, J.P.,  M.C.  Brittingham,  and L.J.  Goodrich.  1995.  Ef•
+fects  of forest patch size on nesting Wood Thrushes. Auk
+112:146-155.
+
+Hurt,  M.  1996. The influence of forest fragmentation  and vegetation structure on the breeding distribution  of Varied Thrushes  in redwood  forests.  M.S. Thesis,  Humboldt State University, Arcata,  CA.
+Johnston,  D.W.  1949.  Populations  and distribution  of sum•
+mer birds  in Latah  County,  Idaho.  Condor 51 :140-149.
+
+Jones,  P.W.  and T.M.  Donovan.  1996.  Hermit Thrush (Catha• rus guttatus).  in The Birds of North America,  No.  261  (A. Poole and F.  Gill,  eds.). The Academy  of Natural Sciences, Philadelphia,  PA,  and The American  Ornithologists'
+Union,  Washington,  D.C.
+
+Keller, J.K.,  M.E.  Richmond,  and C.R.  Smith.  2003. An expla• nation  of patterns of breeding birds species  richness and density following clearcutting  in northeastern USA forests. Forest  Ecology and Management  17 4(1-3):541-564.
+
+Keller,  M.E.  and S.H. Anderson.  1992. Avian use of habitat configurations created by forest cutting  in southeastern Wyoming.  Condor 94(1 ):55-65.
+
+Kendeigh,  S.C.  1945.  Community selection  by birds on the
+Helderberg  Plateau  of New York. Auk 62:418-436.
+
+Kendeigh,  S.C.  1946.  Breeding birds of the beech-maple hemlock  community.  Ecology 27:226-245.
+
+Lang, J.D.,  L.A. Powell,  D.G.  Krementz,  and M.J.  Conroy.
+2002. Wood Thrush movements and habitat use:  Effects of forest management for Red-cockaded Woodpeckers. Auk
+119(1):109-124.
+
+Lehmkuhl, J.F.,  L.F.  Ruggiero,  and P.A.  Hall. 1991.  Land• scape-scale patterns of forest fragmentation  and wildlife richness  and abundance  in the southern Washington Cascade Range.  pp 425-442 in Wildlife and vegetation  of unmanaged Douglas  fir forests  (L.F.  Ruggiero,  K.B. Aubry, A.B.  Carey,  and M.H.  Huff,  eds.). U.S.  Dep. Agric.,  For. Serv.  Gen. Tech.  Rep.  PNW-GTR-285,  Portland,  OR.
+
+Manuwal,  D.A.  1991.  Spring bird communities  in the south• ern Washington  cascade  range.  pp.  161-174  in Wildlife and vegetation  of unmanaged Douglas-fir  forests  (L.F. Ruggiero,  K.B. Aubry, A.B.  Carey,  and M.H.  Huff,  eds.). U.S.  Forest Servcie,  General Technical  Report PNW-GTR•
+285,  Portland,  OR.
+
+Martin, T.E.  1988.  Habitat and area effects  on forest bird assemblages:  is  nest predation  an influence?  Ecology  69:
+74-84.
+
+Morgan,  K.  and B.  Freedman.  1986.  Breeding bird  com• munities  a  hardwood  forest succession  in Nova  Scotia. Canadian Field  Naturalist 100:506-519.
+
+Morse,  D.H.  1971.  Effects of the arrival of a  new species upon habitat utilization  by forest thrushes  in Maine. Wil• son  Bulletin  83:57-65.
+
+Moskoff, W.  1995. Veery (Catharus  fuscescens).  in The Birds of North America,  No.  142  (A.  Poole and F.  Gill,  eds.). The Academy  of Natural Sciences,  Philadelphia,  PA,  and The American  Ornithologists'  Union, Washington,  D.C.
+
+Noon  B.R.  1977. The ecology of an avian ground-foraging guild in eastern  montane forests.  Ph.D.  Dissertation,  Sate University  of New York,  Albany.
+
+Noon,  B.R.  1981. The distribution  of an avian guild along a temperate elevational  gradient: the importance  and expression  of competition.  Ecological  Monographs  51:
+105-124.
+
+Noon,  B.R., V.P.  Bingman,  and J.P.  Noon.  1979. The effects of changes  in habitat on northern  hardwood  forest bird
+
+
+28
+communities.  Pp.  33-48  in Proceedings of the workshop: Management of North Central  and Northeastern  Forests
+for Nongame  Birds (R.M. DeGraaf and K.E.Evans, compil• ers) U.S. Department  of Agriculture, Forest Service general Technical  Report  INT-86. Washington,  D.C.
+
+Odum,  E.P.  1950.  Bird  populations  of the Highland  (North Carolina)  Plateau  in relation to plant succession  and avian invasion.  Ecology 31:587--605.
+
+Pinkowski,  B.  1991. Wood Thrush.  Pages 356--357 in R.
+Brewer,  G.A.  McPeck,  and R.J. Adams, Jr.  (eds.) The Atlas of Breeding Birds of Michigan. Michigan  State University Press,  East  Lansing,  Ml.
+
+Podulka,  S.,  R.  Rohrbaugh,  and R.  Bonney,  eds.  2001.  Home Study  Course  in Bird  Biology. The Cornell  Lab of Ornithol• ogy.  Ithaca,  NY.
+
+Robbins,  C.S.,  D.K.  Dawson,  and B.A.  Dowell.  1989.  Habitat area requirements of breeding forest birds  of the middle Atlantic  states. Wildlife Monographs  103, The Wildlife Society,  pp.1-34.
+
+Robinson,  S.K.  and D.S. Wilcove,  1994.  Forest fragmentation in the temperate zone and its effects  on migratory  song• birds.  Bird  Conservation  International  4:233--249.
+
+Robinson,  S.K.,  F.R. Thompson,  Ill, T.M.  Donovan,  D.R.
+Whitehead,  and J.  Faaborg.  1995.  Regional  forest frag• mentation  and the nesting success  of migratory  birds. Science 267:1987--1990.
+
+Rosenberg,  K. V.,  J.  D.  Lowe,  and A. A.  Dhondt.  1999a.  Ef• fects  of forest fragmentation  on breeding tanagers: A con• tinental  perspective.  Conservation  Biology  13:568-583.
+
+Rosenberg,  K.V.,  R. W.  Rohrbaugh,  S.  E.  Barker, J.  D.  Lowe,
+R.  S.  Hames,  and A. A.  Dhondt.  1999b. A Land  manager's guide to improving  habitat for Scarlet Tanagers and other forest-interior birds. The Cornell  Laboratory of Ornithol• ogy,  Ithaca,  NY.
+
+Roth,  R.R.  1987. Assessment of habitat quality for Wood Thrush in a  residential  area.  Pages  139--149  in L.W. Adams and D.L.  Leedy,  eds.  Integrating  man and nature in the metropolitan environment.  Proceedings of the National  Symposium  on Urban Wildlife,  Chevy Chase, Maryland,  4-7  November,  1986.  National  Institute of Urban Wildlife,  Columbia,  MD.
+
+Roth,  R.R., M.S. Johnson,  and T.J.  Underwood.  1996.
+Wood Thrush (Hylocichla  mustelina).  In The Birds of North America,  No.  246 (A.  Poole and F.  Gill,  eds.). The Academy of Natural Sciences,  Philadelphia,  PA, and The American  Ornithologists'  Union, Washington,  D.C.
+
+Sargent,  R.A., J.C.  Kilgo,  B.R.  Chapman,  and K.V.  Miller.
+2003.  Nesting ecology of Wood Thrush (Turdidae:  Passeri• formes)  in hardwood  forests  of South  Carolina.  South• easten  Naturalist 2(2):217-222.
+Simons,  N.P.P.,  F.E.  Schwab,  and R.D.  Otto.  2002. Songbird abundance  in clear-cut and burned stands: A comparison of natural disturbance  and forest management. Cana•
+dian Journal  of Forest  Research  --  Revue Canadienne de
+Recherche  Forestiere 32(8):1343--1350.
+
+Small,  M.F.  and M.L.  Hunter.  1988.  Forest fragmentation  and avian  nest predation  in forested  landscapes.  Oecologia
+76:62-64.
+
+Small, A.  1994.  California Birds: Their Status  and Distribu•
+tion.  Ibis  Publishing Co., Vista,  CA.
+
+Suthers,  H.B.  1987--1988.  Old  field  succession  and bird  life in the New Jersey sourlands.  Records  of New Jersey  Birds
+13:54-64.
+
+Tewksbury, J.  A.E.  Black,  N.  Nur, V.A.  Saab,  B.D.  Logan,  and D.S.  Dobkin.  2002.  Effects  of anthropogenic fragmenta• tion  and livestock grazing on western  riparian  bird com• munities.  Studies  in Avian  Biol.  25:158-202.
+
+Thompson,  F.R.  Ill  and D.E.  Capen. 1988. Avian assemblages in seral  stages  of a Vermont forest. J.  ofWildl.  Mange.  52:
+771--777.
+
+Tobalske,  B.W.,  R.C.  Shearer,  R.C.  Hutto.  1991.  Bird  popula• tions  in logged  and unlogged western  larch/Douglas-fir forest  in northwestern  Montana.  Research  Paper  INT-442. U.S.  Department  of Agriculture,  Forest Service,  Inter• mountain  Research  Station,  Ogden,  UT.
+
+Tubbs, A.A.  1980.  Riparian  bird communities  of the Great Plains  Pp.  419-433  in Proceedings of the workshop:  Man• agement of Western Forests  and Grasslands for Nongame Birds  (R.M.  DeGraaf and K.E.Evans, compilers).  U.S.  De• partment of Agriculture,  Forest Service  General Technical Report INT-86, Washington,  D.C.
+
+U.S.  NABCI Committee.  2000.  Bird conservation  region de• scriptions:  a supplement to the North American  Bird Con• servation  Initiative bird conservation  regions  map.  38 pp.
+
+Welsh, J.E.  and W.M.  Healy.  1993.  Effect of even-aged timber management on bird species diversity and composition in northern  hardwoods of New  Hampshire. Wildl.  Soc.  Bull.
+21:143--154.
+
+Webb, W.L., D.F.  Behrend,  and B.  Saisorn.  1977.  Effects of logging on songbird  populations  in a a  northern  hard• wood  forest. Wildl.  Monogr.  55:1--34.
+
+Whitcomb,  R.F.,  C.S.  Robbins, J.F.  Lynch,  B.L. Whitcomb, M.K.  Klimciewicz,  and D.  Bystrak.  1981.  Effects of forest fragmentation  on avifauna  of the eastern deciduous forest. Pages  125--206  in R.L.  Burgess  and B.L.  Sharpe,  editors. Forest  island  dynamics  in man-dominated landscpes.  Eco• logical  Studies  No.  41, Springer-Verlag,  New York.
+
+Wilcove,  D.S.  1985.  Nest predation  in forest tracts  and the decline of migratory  songbirds.  Ecology  66:1211-1214.
+
+
+
+
+
+
+
+
+
+
+
+
+
+29
+

@@ -1,0 +1,63 @@
+{{Habitat Page}}
+=Description=
+<p>North Carolina’s Outer Banks are long and mostly narrow barrier islands formed by naturally occurring offshore sand or sediment deposited over geological time. They are separated from the mainland by relatively shallow sounds, bays, tidal inlets, or the mouth of large river systems that drain to the Atlantic coast (NOAA 2014). Maintenance dredging of the Atlantic Intercoastal Waterway and various tidal inlets along North Carolina’s coast produces sand that has been used to create artificial spoil islands located near the natural barrier islands.</p><p>The active sand, shell, and wrack shoreline is comprised of sand, small shells, shell debris, seaweed, and other marine detritus deposited between the low and high tide line. Water movement within the swash zone (Kelly and Dodd 2010) and saltwater inundation from tidal flooding along the beach prohibits plant growth, so vegetation communities are not included in this community type. The structure and availability of beach landscapes is subject to naturally occurring changes caused by wave action (swash), high tides, and storm surge and can vary daily (FitzGerald et al. 2007). This habitat is often referred to as ‘beach’ but represents a different community than described in [[Maritime Grasslands|Maritime Grasslands, Dunes and Beach]] (Section 4.4.15). However, maritime grassland, maritime forest, tidal wetlands, and estuarine wetlands are the vegetated communities most likely to be located adjacent to this community.</p><p>This habitat  provides important forage sites for several species of resident and migrating shorebirds as well as decapod crustaceans (e.g., ghost crabs) (Schlacher  and Lucrezi 2010). Most shorebirds feed above the swash limit to a few meters into the water, while others feed on the beach above the active swash limit such as Ruddy Turnstones and Sanderlings (Burger et al. 1977; Nordstrom et al. 2006). Where the active shoreline transitions to other community types it may provide nesting sites. They are also vital nesting sites for sea turtles and Diamondback Terrapins and they support numerous other small mammals and invertebrates. Beach communities that are subject to low-energy wave action provide important spawning habitat for marine animals such as Horseshoe Crabs (family Limulidae) (Nordstrom et al. 2006; NOAA 2014). Sandy beaches also have a rich interstitial community comprised of both microand macrofaunal species (e.g., Hydrozoa, Turbellaria, Trematoda, Nematoda, Gastropoda, Arthropoda) (McLachlan and Brown 2010).</p><p>Sand, shell, and wrack shoreline is a new natural community description and was not included in the 2005 WAP (NCWRC 2005).</p>
+=Location of Habitat=
+<p>Sand, shell, and wrack shoreline is a coastal zone habitat  found on barrier islands and other Atlantic Ocean shore areas between the low tide line and the vegetated lower sand dune (fore dune) communities.</p>
+Roosenburg 1990).</p>
+=Problems Affecting Habitats=
+<p>Development along shorelines and other coastal waterfronts often result in use of bulkheads and other protective barriers meant to protect buildings and infrastructure from wave action and inundation hazards. Seawalls and groins built to protect beaches from erosion result in narrower intertidal zones and altered wrack assemblages, which in turn contributes to reduced numbers of invertebrate forage needed by shorebirds (Dugan and Hubbard 2006). Bulkheads and wave breaks can impede turtle access to nesting and foraging sites or reduce the amount of sandy areas that are accessible for nesting (Wnek et al. 2013; Roosenburg 1990).</p><p>Beach renourishment is often used as a coastal management strategy to restore shoreline, combat coastal erosion, protect coastal infrastructure, and to widen the beach in order to increase recreation opportunities. Dredge materials pumped from offshore marine sands or maintenance of boating lanes and inlets are often the source of material for renourishment projects. Adding sand to the beach is often considered an ecologically preferred option for erosion defense but there are associated detrimental ecological effects (Speybroeck et al. 2006; Manning et al. 2013; Viola et al. 2013) when materials are randomly mixed sediments that do not match the particle size and content of the receiving areas; sediments have high concentrations of organic solids; marine sediments have a high salt content;  or there are high levels of contaminants in the material (Wnek et al. 2013).</p><p>Beaches near residential and commercial developments may be subject to raking or grooming to remove debris and trash or to improve aesthetics, especially during busy summer seasons. Beach grooming is likely to result in decreased species abundance and biomass because it damages or removes foraging resources (Dugan et al. 2003; Hubbard et al. 2013). Nordstrom et al. (2012) note that there is less natural swale and dune development on beach areas subject to raking because wrack materials were removed.</p><p>Pollution of aquatic systems has been linked to deformities in snapping turtle hatchlings and is suspected to be a contributing factor in nest failures (Wnek et al. 2013). Onshore vehicles are also a source of fuel and oil contaminants that introduce pollution to small areas of sand and the subsurface invertebrate community.</p><p>Vehicle use on the beach was found to have a significant negative effect on invertebrate abundance and diversity through compaction of the sand and interstitial habitats (Schlacher et al. 2008). Vehicles driven on sandy beaches leave vehicle tracks that make it difficult for female sea turtles and hatchlings to travel between the water and nesting sites (Schlacher and Lucrezi 2010). Inattentive drivers can kill turtles on the beach by running over them and illegal access by drivers into restricted beach areas can destroy shorebird nesting sites by crushing them or by disrupting nesting behavior. Unattended pets and children allowed to enter shorebird nesting areas also can destroy or disrupt nests.</p><p>It is likely that future tropical storms and hurricanes will become more intense with higher wind speeds and larger waves. Combined with sea level rise, storm surges may exceed 100-year coastal floods much more frequently by the end of the century. As sea level rises, storms of a given magnitude reach higher elevations and produce more extensive areas of inundation (FitzGerald et al. 2007). Climate change is expected to severely impact this habitat through inundation and erosion from rising sea levels and storm surge (DeWan et al. 2010; Karl et al. 2009; Band and Salvensen 2009).</p><p>The effects of sea level rise will be greater than the inundation caused by rising ocean waters because of the permanent or long-term loss of sand from beaches. The loss results from complex, feedback-dependent processes that operate within onshore coastal elements (e.g., nearshore, beachface, dunes, tidal inlets, tidal flats, marshes, and lagoons). Long-term beach erosion due to accelerated sea level rise may eventually lead to the deterioration of barrier island chains such as the Outer Banks and others along US East and Gulf coasts (Williams et al. 1992; FitzGerald et al. 2007).</p><p>Wild horses and other large mammals are also generally incompatible with beach nesting birds. These mammals inadvertently step on nests and chicks, and disturbance or encroachment on nesting sites can cause colony abandonment by adult birds. Feral horses graze dune vegetation, resulting in destabilization and erosion as well as trampling nests of several ground-nesting bird species (Sabine et al. 2006).</p>
+=Climate Change Compared to Other Threats=
+<p>A comparison of climate-related impacts to other threats is not included in this description because the NCNHP vulnerability assessments completed in 2010 did not include sand, shell, and wrack shoreline as a community type. In a report developed by the Faculty Committee on Global Climate Change at the University of North Carolina Wilmington on the potential impacts of climate change, significant loss in the width of several coastal North Carolina beaches was predicted to occur between 2003 and 2030.</p>
+=Impacts to Wildlife=
+<p>Sea turtles typically nest at night from March through November, which encompasses the busy summer recreation season when proximity to residential and commercial development will increase the probability  of encounters with people and domestic pets. Shorebird nests located on sand, shell, or wrack materials are usually well-camouflaged, making them subject to destruction by pedestrians and beach-driven vehicles and predation by dogs allowed to roam beach and dune areas. The presence and density of nest predators such as Raccoons, foxes, and Opossums may increase because they are attracted by easily accessible food waste that an increased human presence creates.</p><p>Habitat quality affects the survival of populations that utilize this habitat (Wnek et al. 2013) and animals that utilize beach habitats for nesting are particularly vulnerable to loss of habitat, to structures that restrict their access to foraging and nest sites, and to intrusions that disturb their nesting or foraging behaviors. Female terrapins are reported as showing nest site fidelity and return to the same beach for nesting (Roosenburg 1990). [[Piping Plover]]s, [[American Oystercatcher]]s, terns, [[Black Skimmer|skimmers]], and sea turtles are additional examples of species that are vulnerable to loss of beach habitats for nesting or foraging.</p><p>[[Diamondback Terrapin]]s and sea turtles nest on sand dunes, bay, and sound beach areas, and artificial spoil islands and shoreline structures built in these areas to reduce erosion can impede them from coming on shore to nest (Wnek et al. 2013). Trash and waste materials deposited along the shoreline creates another access hazard for hatchlings leaving nests and can become an ingestion or entanglement hazard for foraging animals (Nevins et al. 2014).</p><p>Sediment composition in nesting areas affects micro-environmental conditions such as temperature, carbon dioxide and oxygen levels, and moisture content, which in turn affects water exchange, metabolism, and development of embryos in the nest chamber (Wnek et al. 2013). Sex determination of turtle embryos is dependent on temperature of the nest during incubation and biophysical conditions such as soil temperature and moisture affect survivorship, length of incubation period, energy stores, and sex ratios of hatchlings (Roosenburg 1990; Jeyasuria and Place 1997; Wnek et al. 2013). Embryos that did not survive in nests constructed in dredge soils were dessicated, most likely due to high saline content or the presence of organic and inorganic contaminants (Brooks et al. 1991; Miller and Dinkelacker 2008; Wnek et al. 2013).</p>
+{{NCWAP15 Citation}}
+[[Category:Habitat]]
+[[Category:NCWAP15 Habitat]]
+{{#set:
+Has NCWAP15 Index=4.4.16
+|Has Geography=North Carolina
+|Has Plan=2015 North Carolina Wildlife Action Plan
+|Has Plan=2005 North Carolina Wildlife Action Plan
+|Has Geography=Atlantic Coastal Plain
+|Has Community Type=Upland Communities
+|Has Species=American Oystercatcher
+|Has Species=Black Skimmer
+|Has Species=Black-bellied Plover
+|Has Species=Bonaparte's Gull
+|Has Species=Brown Pelican
+|Has Species=Caspian Tern
+|Has Species=Common Tern
+|Has Species=Double-crested Cormorant
+|Has Species=Dunlin
+|Has Species=Forster's Tern
+|Has Species=Great Black-backed Gull
+|Has Species=Great Egret
+|Has Species=Greater Yellowlegs
+|Has Species=Gull-billed Tern
+|Has Species=Herring Gull
+|Has Species=Killdeer
+|Has Species=Least Sandpiper
+|Has Species=Least Tern
+|Has Species=Lesser Yellowlegs
+|Has Species=Long-billed Dowitcher
+|Has Species=Marbled Godwit
+|Has Species=Mourning Dove
+|Has Species=Piping Plover
+|Has Species=Red Knot
+|Has Species=Reddish Egret
+|Has Species=Royal Tern
+|Has Species=Ruddy Turnstone
+|Has Species=Sanderling
+|Has Species=Sandwich Tern
+|Has Species=Semipalmated Plover
+|Has Species=Semipalmated Sandpiper
+|Has Species=Short-billed Dowitcher
+|Has Species=Snowy Egret
+|Has Species=Stilt Sandpiper
+|Has Species=Tricolored Heron
+|Has Species=Western Sandpiper
+|Has Species=Whimbrel
+|Has Species=White Ibis
+|Has Species=Willet
+|Has Species=Wilson's Plover
+}}

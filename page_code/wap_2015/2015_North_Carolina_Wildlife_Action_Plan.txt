@@ -1,0 +1,98 @@
+{{Plan Page}}
+=Introduction=
+This site is designed to build upon the 2015 North Carolina Wildlife Action Plan, making the information more accessible and digestible.
+
+This page is for the 2015 version. See the [[North Carolina Wildlife Action Plan]] for other versions. Refer to the [[North Carolina Wildlife Resources Commission]]'s [https://www.ncwildlife.org/plan NC WAP page here] for more information.
+
+=Contents=
+==Introduction==
+*[[1.1 The Origin of Wildlife Action Plans]]
+*[[1.2 State Wildlife Grants Eligibility and Requiremenst]]
+*[[1.3 From 2005 to 2015 - Revision of North Carolina's Wildlife Action Plan]]
+==The Need For Conservation==
+*[[2.1 Introduction]]
+*[[2.2 Population Changes]]
+*[[2.3 Natural Resources Changes]]
+*[[2.4 Uncertainty of Future Conditions]]
+*[[2.5 Conclusion]]
+==North Carolina's Wildlife==
+*[[3.1 Introduction]]
+*[[3.2 Amphibians]]
+*[[3.3 Birds]]
+*[[3.4 Crayfishes]]
+*[[3.5 Freshwater Fish]]
+*[[3.6 Freshwater Mussels]]
+*[[3.7 Mammals]]
+*[[3.8 Reptiles]]
+*[[3.9 Snails]]
+*[[3.10 Marine Species]]
+*[[3.11 Pelagic Seabirds]]
+*[[3.12 Insects]]
+==[[:Category:NCWAP15 Habitats|Habitats]]==
+*[[4.1 Introduction]]
+*[[4.2 Aquatic Communities]]
+*[[4.3 Wetland Natural Communities]]
+<div style="padding-left:1em">
+{{#ask:
+[[Category:NCWAP15 Habitat]]
+|?Has Community Type=Wetland Natural Communities
+|format=ul
+|order=asc
+}}
+</div>
+*[[4.4 Terrestrial Communities]]
+<div style="padding-left:1em">
+{{#ask:
+[[Category:NCWAP15 Habitat]]
+|?Has Community Type=Upland Communities
+|format=ul
+|order=asc
+}}
+</div>
+*[[4.5 River Basins]]
+==Threats and Emerging Concerns==
+*[[5.1 Introduction]]
+*[[5.2 Threats, Stressors, and Emerging Concerns]]
+*[[5.3 Residential and Commercial Development]]
+*[[5.4 Agriculture and Aquaculture]]
+*[[5.5 Energy Production and Mining]]
+*[[5.6 Transportation and Service Corridors]]
+*[[5.7 Biological Resource Use]]
+*[[5.8 Human Intrusions and Disturbance]]
+*[[5.9 Natural System Modifications]]
+*[[5.10 Invasive and Other Problematic Species and Genes]]
+*[[5.11 Pollution and Contaminants]]
+*[[5.12 Climate Change]]
+*[[5.13 Disease and Pathogens]]
+==Conservation Goals and Priorities in North Carolina==
+*[[6.1 Introduction]]
+*[[6.2 Planning and Implementing Conservation]]
+*[[6.3 Conservation Opportunities and Incentives]]
+*[[6.4 Federal Conservation Partners]]
+*[[6.5 State Conservation Partners]]
+*[[6.6 Native American Indian Lands]]
+*[[6.7 Land Trusts and Private Conservation Organizations]]
+*[[6.8 Local and Municipal Programs]]
+*[[6.9 Other Statewide Conservation Partners and Initiatives]]
+==Monitoring==
+*[[7.1 Introduction]]
+*[[7.2 Monitoring Protocols]]
+*[[7.3 Species Monitoring]]
+*[[7.4 Habitat Monitoring]]
+==Review, Coordination, Revision, and Next Steps==
+*[[8.1 Introduction]]
+*[[8.2 Required 10-Year Comprehensive Review and Revision]]
+*[[8.3 Future Review and Revision]]
+
+
+[[File:NCWAP-2015-All-Documents.pdf]]
+
+[[Category:Plan]]
+{{#set:
+Has Publication Year=2015
+|Has Geography=North Carolina
+|Has Geography=Bird Conservation Region 27
+|Has Geography=Bird Conservation Region 28
+|Has Geography=Bird Conservation Region 29
+|Has Primary Author Organization=North Carolina Wildlife Resources Commission
+}}

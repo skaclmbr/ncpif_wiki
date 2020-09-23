@@ -852,7 +852,6 @@ CREATE (DryLongleafPineCommunities:Habitat:Ncwap15Habitat:UplandCommunities { na
 CREATE (MaritimeForests:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Maritime Forests', hasCommunityType: 'Upland Communities', hasThreat: 'Development', hasNcwap15Index: '4.4.14'})
 CREATE (MaritimeGrasslands:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Maritime Grasslands', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.15'})
 CREATE (SparselySettledMixedHabitats:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Sparsely Settled Mixed Habitats', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.18'})
-CREATE (CentralAppalachianBroadleafForestConiferousForestMeadowProvince:Habitat:BaileySHabitat
 CREATE (SuccessionalCommunities:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Successional Communities', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.17'})
 CREATE (WarmwaterStreams:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Warmwater Streams', hasNcwap15Index: '4.2.5'})
 CREATE (CavesAndMines:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Caves and Mines', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.1'})

@@ -1,0 +1,6 @@
+search_term, id
+coopers-hawk,Cooper's Hawk
+coopers-hawk,coopers hawk
+coopers-hawk,accipiter cooperii
+m-spruce-fir-forest, Spruce Fir Forest
+

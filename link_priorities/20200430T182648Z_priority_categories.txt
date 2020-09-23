@@ -1,0 +1,1626 @@
+NCWAP 2015 Surveys Priority 1	Priority
+NCWAP 2015 Surveys Priority 1	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 1	Surveys Priority
+NCWAP 2015 Research Priority 2	Priority
+NCWAP 2015 Research Priority 2	NCWAP15 Priority
+NCWAP 2015 Research Priority 2	Research Priority
+NCWAP 2015 Research Priority 3	Priority
+NCWAP 2015 Research Priority 3	NCWAP15 Priority
+NCWAP 2015 Research Priority 3	Research Priority
+NCWAP 2015 Research Priority 4	Priority
+NCWAP 2015 Research Priority 4	NCWAP15 Priority
+NCWAP 2015 Research Priority 4	Research Priority
+NCWAP 2015 Research Priority 5	Priority
+NCWAP 2015 Research Priority 5	NCWAP15 Priority
+NCWAP 2015 Research Priority 5	Research Priority
+NCWAP 2015 Research Priority 6	Priority
+NCWAP 2015 Research Priority 6	NCWAP15 Priority
+NCWAP 2015 Research Priority 6	Research Priority
+NCWAP 2015 Research Priority 7	Priority
+NCWAP 2015 Research Priority 7	NCWAP15 Priority
+NCWAP 2015 Research Priority 7	Research Priority
+NCWAP 2015 Research Priority 8	Priority
+NCWAP 2015 Research Priority 8	NCWAP15 Priority
+NCWAP 2015 Research Priority 8	Research Priority
+NCWAP 2015 Research Priority 9	Priority
+NCWAP 2015 Research Priority 9	NCWAP15 Priority
+NCWAP 2015 Research Priority 9	Research Priority
+NCWAP 2015 Research Priority 10	Priority
+NCWAP 2015 Research Priority 10	NCWAP15 Priority
+NCWAP 2015 Research Priority 10	Research Priority
+NCWAP 2015 Monitoring Priority 11	Priority
+NCWAP 2015 Monitoring Priority 11	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 11	Monitoring Priority
+NCWAP 2015 Monitoring Priority 12	Priority
+NCWAP 2015 Monitoring Priority 12	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 12	Monitoring Priority
+NCWAP 2015 Monitoring Priority 13	Priority
+NCWAP 2015 Monitoring Priority 13	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 13	Monitoring Priority
+NCWAP 2015 Monitoring Priority 14	Priority
+NCWAP 2015 Monitoring Priority 14	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 14	Monitoring Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 15	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 15	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 15	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 16	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 16	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 16	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 17	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 17	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 17	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 18	Priority
+NCWAP 2015 Surveys Priority 18	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 18	Surveys Priority
+NCWAP 2015 Surveys Priority 19	Priority
+NCWAP 2015 Surveys Priority 19	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 19	Surveys Priority
+NCWAP 2015 Surveys Priority 20	Priority
+NCWAP 2015 Surveys Priority 20	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 20	Surveys Priority
+NCWAP 2015 Research Priority 21	Priority
+NCWAP 2015 Research Priority 21	NCWAP15 Priority
+NCWAP 2015 Research Priority 21	Research Priority
+NCWAP 2015 Research Priority 22	Priority
+NCWAP 2015 Research Priority 22	NCWAP15 Priority
+NCWAP 2015 Research Priority 22	Research Priority
+NCWAP 2015 Research Priority 23	Priority
+NCWAP 2015 Research Priority 23	NCWAP15 Priority
+NCWAP 2015 Research Priority 23	Research Priority
+NCWAP 2015 Research Priority 24	Priority
+NCWAP 2015 Research Priority 24	NCWAP15 Priority
+NCWAP 2015 Research Priority 24	Research Priority
+NCWAP 2015 Research Priority 25	Priority
+NCWAP 2015 Research Priority 25	NCWAP15 Priority
+NCWAP 2015 Research Priority 25	Research Priority
+NCWAP 2015 Research Priority 26	Priority
+NCWAP 2015 Research Priority 26	NCWAP15 Priority
+NCWAP 2015 Research Priority 26	Research Priority
+NCWAP 2015 Research Priority 27	Priority
+NCWAP 2015 Research Priority 27	NCWAP15 Priority
+NCWAP 2015 Research Priority 27	Research Priority
+NCWAP 2015 Research Priority 28	Priority
+NCWAP 2015 Research Priority 28	NCWAP15 Priority
+NCWAP 2015 Research Priority 28	Research Priority
+NCWAP 2015 Research Priority 29	Priority
+NCWAP 2015 Research Priority 29	NCWAP15 Priority
+NCWAP 2015 Research Priority 29	Research Priority
+NCWAP 2015 Research Priority 30	Priority
+NCWAP 2015 Research Priority 30	NCWAP15 Priority
+NCWAP 2015 Research Priority 30	Research Priority
+NCWAP 2015 Research Priority 31	Priority
+NCWAP 2015 Research Priority 31	NCWAP15 Priority
+NCWAP 2015 Research Priority 31	Research Priority
+NCWAP 2015 Research Priority 32	Priority
+NCWAP 2015 Research Priority 32	NCWAP15 Priority
+NCWAP 2015 Research Priority 32	Research Priority
+NCWAP 2015 Research Priority 33	Priority
+NCWAP 2015 Research Priority 33	NCWAP15 Priority
+NCWAP 2015 Research Priority 33	Research Priority
+NCWAP 2015 Monitoring Priority 34	Priority
+NCWAP 2015 Monitoring Priority 34	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 34	Monitoring Priority
+NCWAP 2015 Monitoring Priority 35	Priority
+NCWAP 2015 Monitoring Priority 35	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 35	Monitoring Priority
+NCWAP 2015 Monitoring Priority 36	Priority
+NCWAP 2015 Monitoring Priority 36	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 36	Monitoring Priority
+NCWAP 2015 Monitoring Priority 37	Priority
+NCWAP 2015 Monitoring Priority 37	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 37	Monitoring Priority
+NCWAP 2015 Monitoring Priority 38	Priority
+NCWAP 2015 Monitoring Priority 38	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 38	Monitoring Priority
+NCWAP 2015 Monitoring Priority 39	Priority
+NCWAP 2015 Monitoring Priority 39	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 39	Monitoring Priority
+NCWAP 2015 Monitoring Priority 40	Priority
+NCWAP 2015 Monitoring Priority 40	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 40	Monitoring Priority
+NCWAP 2015 Monitoring Priority 41	Priority
+NCWAP 2015 Monitoring Priority 41	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 41	Monitoring Priority
+NCWAP 2015 Management Practices Priority 42	Priority
+NCWAP 2015 Management Practices Priority 42	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 42	Management Practices Priority
+NCWAP 2015 Management Practices Priority 43	Priority
+NCWAP 2015 Management Practices Priority 43	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 43	Management Practices Priority
+NCWAP 2015 Management Practices Priority 44	Priority
+NCWAP 2015 Management Practices Priority 44	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 44	Management Practices Priority
+NCWAP 2015 Management Practices Priority 45	Priority
+NCWAP 2015 Management Practices Priority 45	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 45	Management Practices Priority
+NCWAP 2015 Management Practices Priority 46	Priority
+NCWAP 2015 Management Practices Priority 46	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 46	Management Practices Priority
+NCWAP 2015 Management Practices Priority 47	Priority
+NCWAP 2015 Management Practices Priority 47	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 47	Management Practices Priority
+NCWAP 2015 Management Practices Priority 48	Priority
+NCWAP 2015 Management Practices Priority 48	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 48	Management Practices Priority
+NCWAP 2015 Management Practices Priority 49	Priority
+NCWAP 2015 Management Practices Priority 49	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 49	Management Practices Priority
+NCWAP 2015 Management Practices Priority 50	Priority
+NCWAP 2015 Management Practices Priority 50	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 50	Management Practices Priority
+NCWAP 2015 Management Practices Priority 51	Priority
+NCWAP 2015 Management Practices Priority 51	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 51	Management Practices Priority
+NCWAP 2015 Management Practices Priority 52	Priority
+NCWAP 2015 Management Practices Priority 52	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 52	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 53	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 53	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 53	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 54	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 54	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 54	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 55	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 55	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 55	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 56	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 56	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 56	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 57	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 57	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 57	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 58	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 58	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 58	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 59	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 59	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 59	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 62	Priority
+NCWAP 2015 Surveys Priority 62	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 62	Surveys Priority
+NCWAP 2015 Surveys Priority 63	Priority
+NCWAP 2015 Surveys Priority 63	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 63	Surveys Priority
+NCWAP 2015 Surveys Priority 64	Priority
+NCWAP 2015 Surveys Priority 64	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 64	Surveys Priority
+NCWAP 2015 Surveys Priority 65	Priority
+NCWAP 2015 Surveys Priority 65	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 65	Surveys Priority
+NCWAP 2015 Surveys Priority 66	Priority
+NCWAP 2015 Surveys Priority 66	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 66	Surveys Priority
+NCWAP 2015 Research Priority 67	Priority
+NCWAP 2015 Research Priority 67	NCWAP15 Priority
+NCWAP 2015 Research Priority 67	Research Priority
+NCWAP 2015 Research Priority 68	Priority
+NCWAP 2015 Research Priority 68	NCWAP15 Priority
+NCWAP 2015 Research Priority 68	Research Priority
+NCWAP 2015 Monitoring Priority 69	Priority
+NCWAP 2015 Monitoring Priority 69	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 69	Monitoring Priority
+NCWAP 2015 Monitoring Priority 70	Priority
+NCWAP 2015 Monitoring Priority 70	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 70	Monitoring Priority
+NCWAP 2015 Monitoring Priority 71	Priority
+NCWAP 2015 Monitoring Priority 71	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 71	Monitoring Priority
+NCWAP 2015 Monitoring Priority 72	Priority
+NCWAP 2015 Monitoring Priority 72	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 72	Monitoring Priority
+NCWAP 2015 Management Practices Priority 73	Priority
+NCWAP 2015 Management Practices Priority 73	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 73	Management Practices Priority
+NCWAP 2015 Management Practices Priority 74	Priority
+NCWAP 2015 Management Practices Priority 74	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 74	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 75	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 75	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 75	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 76	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 76	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 76	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 77	Priority
+NCWAP 2015 Surveys Priority 77	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 77	Surveys Priority
+NCWAP 2015 Surveys Priority 78	Priority
+NCWAP 2015 Surveys Priority 78	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 78	Surveys Priority
+NCWAP 2015 Surveys Priority 79	Priority
+NCWAP 2015 Surveys Priority 79	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 79	Surveys Priority
+NCWAP 2015 Research Priority 80	Priority
+NCWAP 2015 Research Priority 80	NCWAP15 Priority
+NCWAP 2015 Research Priority 80	Research Priority
+NCWAP 2015 Research Priority 81	Priority
+NCWAP 2015 Research Priority 81	NCWAP15 Priority
+NCWAP 2015 Research Priority 81	Research Priority
+NCWAP 2015 Research Priority 82	Priority
+NCWAP 2015 Research Priority 82	NCWAP15 Priority
+NCWAP 2015 Research Priority 82	Research Priority
+NCWAP 2015 Research Priority 83	Priority
+NCWAP 2015 Research Priority 83	NCWAP15 Priority
+NCWAP 2015 Research Priority 83	Research Priority
+NCWAP 2015 Research Priority 84	Priority
+NCWAP 2015 Research Priority 84	NCWAP15 Priority
+NCWAP 2015 Research Priority 84	Research Priority
+NCWAP 2015 Research Priority 85	Priority
+NCWAP 2015 Research Priority 85	NCWAP15 Priority
+NCWAP 2015 Research Priority 85	Research Priority
+NCWAP 2015 Management Practices Priority 87	Priority
+NCWAP 2015 Management Practices Priority 87	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 87	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 88	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 88	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 88	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 89	Priority
+NCWAP 2015 Surveys Priority 89	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 89	Surveys Priority
+NCWAP 2015 Management Practices Priority 92	Priority
+NCWAP 2015 Management Practices Priority 92	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 92	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 93	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 93	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 93	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 95	Priority
+NCWAP 2015 Surveys Priority 95	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 95	Surveys Priority
+NCWAP 2015 Surveys Priority 96	Priority
+NCWAP 2015 Surveys Priority 96	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 96	Surveys Priority
+NCWAP 2015 Surveys Priority 97	Priority
+NCWAP 2015 Surveys Priority 97	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 97	Surveys Priority
+NCWAP 2015 Research Priority 98	Priority
+NCWAP 2015 Research Priority 98	NCWAP15 Priority
+NCWAP 2015 Research Priority 98	Research Priority
+NCWAP 2015 Monitoring Priority 99	Priority
+NCWAP 2015 Monitoring Priority 99	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 99	Monitoring Priority
+NCWAP 2015 Monitoring Priority 100	Priority
+NCWAP 2015 Monitoring Priority 100	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 100	Monitoring Priority
+NCWAP 2015 Monitoring Priority 101	Priority
+NCWAP 2015 Monitoring Priority 101	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 101	Monitoring Priority
+NCWAP 2015 Management Practices Priority 102	Priority
+NCWAP 2015 Management Practices Priority 102	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 102	Management Practices Priority
+NCWAP 2015 Management Practices Priority 103	Priority
+NCWAP 2015 Management Practices Priority 103	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 103	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 104	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 104	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 104	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 105	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 105	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 105	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 107	Priority
+NCWAP 2015 Surveys Priority 107	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 107	Surveys Priority
+NCWAP 2015 Surveys Priority 108	Priority
+NCWAP 2015 Surveys Priority 108	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 108	Surveys Priority
+NCWAP 2015 Research Priority 109	Priority
+NCWAP 2015 Research Priority 109	NCWAP15 Priority
+NCWAP 2015 Research Priority 109	Research Priority
+NCWAP 2015 Research Priority 110	Priority
+NCWAP 2015 Research Priority 110	NCWAP15 Priority
+NCWAP 2015 Research Priority 110	Research Priority
+NCWAP 2015 Monitoring Priority 111	Priority
+NCWAP 2015 Monitoring Priority 111	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 111	Monitoring Priority
+NCWAP 2015 Monitoring Priority 112	Priority
+NCWAP 2015 Monitoring Priority 112	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 112	Monitoring Priority
+NCWAP 2015 Management Practices Priority 113	Priority
+NCWAP 2015 Management Practices Priority 113	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 113	Management Practices Priority
+NCWAP 2015 Management Practices Priority 114	Priority
+NCWAP 2015 Management Practices Priority 114	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 114	Management Practices Priority
+NCWAP 2015 Management Practices Priority 115	Priority
+NCWAP 2015 Management Practices Priority 115	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 115	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 116	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 116	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 116	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 117	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 117	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 117	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 118	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 118	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 118	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 119	Priority
+NCWAP 2015 Surveys Priority 119	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 119	Surveys Priority
+NCWAP 2015 Research Priority 120	Priority
+NCWAP 2015 Research Priority 120	NCWAP15 Priority
+NCWAP 2015 Research Priority 120	Research Priority
+NCWAP 2015 Monitoring Priority 121	Priority
+NCWAP 2015 Monitoring Priority 121	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 121	Monitoring Priority
+NCWAP 2015 Monitoring Priority 122	Priority
+NCWAP 2015 Monitoring Priority 122	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 122	Monitoring Priority
+NCWAP 2015 Management Practices Priority 123	Priority
+NCWAP 2015 Management Practices Priority 123	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 123	Management Practices Priority
+NCWAP 2015 Management Practices Priority 124	Priority
+NCWAP 2015 Management Practices Priority 124	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 124	Management Practices Priority
+NCWAP 2015 Management Practices Priority 125	Priority
+NCWAP 2015 Management Practices Priority 125	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 125	Management Practices Priority
+NCWAP 2015 Management Practices Priority 126	Priority
+NCWAP 2015 Management Practices Priority 126	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 126	Management Practices Priority
+NCWAP 2015 Management Practices Priority 127	Priority
+NCWAP 2015 Management Practices Priority 127	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 127	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 128	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 128	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 128	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 129	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 129	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 129	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 130	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 130	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 130	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 131	Priority
+NCWAP 2015 Surveys Priority 131	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 131	Surveys Priority
+NCWAP 2015 Surveys Priority 132	Priority
+NCWAP 2015 Surveys Priority 132	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 132	Surveys Priority
+NCWAP 2015 Research Priority 133	Priority
+NCWAP 2015 Research Priority 133	NCWAP15 Priority
+NCWAP 2015 Research Priority 133	Research Priority
+NCWAP 2015 Research Priority 134	Priority
+NCWAP 2015 Research Priority 134	NCWAP15 Priority
+NCWAP 2015 Research Priority 134	Research Priority
+NCWAP 2015 Research Priority 135	Priority
+NCWAP 2015 Research Priority 135	NCWAP15 Priority
+NCWAP 2015 Research Priority 135	Research Priority
+NCWAP 2015 Research Priority 136	Priority
+NCWAP 2015 Research Priority 136	NCWAP15 Priority
+NCWAP 2015 Research Priority 136	Research Priority
+NCWAP 2015 Monitoring Priority 137	Priority
+NCWAP 2015 Monitoring Priority 137	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 137	Monitoring Priority
+NCWAP 2015 Monitoring Priority 138	Priority
+NCWAP 2015 Monitoring Priority 138	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 138	Monitoring Priority
+NCWAP 2015 Monitoring Priority 139	Priority
+NCWAP 2015 Monitoring Priority 139	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 139	Monitoring Priority
+NCWAP 2015 Monitoring Priority 140	Priority
+NCWAP 2015 Monitoring Priority 140	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 140	Monitoring Priority
+NCWAP 2015 Management Practices Priority 141	Priority
+NCWAP 2015 Management Practices Priority 141	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 141	Management Practices Priority
+NCWAP 2015 Management Practices Priority 142	Priority
+NCWAP 2015 Management Practices Priority 142	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 142	Management Practices Priority
+NCWAP 2015 Management Practices Priority 143	Priority
+NCWAP 2015 Management Practices Priority 143	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 143	Management Practices Priority
+NCWAP 2015 Management Practices Priority 144	Priority
+NCWAP 2015 Management Practices Priority 144	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 144	Management Practices Priority
+NCWAP 2015 Management Practices Priority 145	Priority
+NCWAP 2015 Management Practices Priority 145	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 145	Management Practices Priority
+NCWAP 2015 Management Practices Priority 146	Priority
+NCWAP 2015 Management Practices Priority 146	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 146	Management Practices Priority
+NCWAP 2015 Management Practices Priority 147	Priority
+NCWAP 2015 Management Practices Priority 147	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 147	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 148	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 148	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 148	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 149	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 149	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 149	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 150	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 150	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 150	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 151	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 151	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 151	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 152	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 152	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 152	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 153	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 153	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 153	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 154	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 154	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 154	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 155	Priority
+NCWAP 2015 Surveys Priority 155	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 155	Surveys Priority
+NCWAP 2015 Research Priority 156	Priority
+NCWAP 2015 Research Priority 156	NCWAP15 Priority
+NCWAP 2015 Research Priority 156	Research Priority
+NCWAP 2015 Research Priority 157	Priority
+NCWAP 2015 Research Priority 157	NCWAP15 Priority
+NCWAP 2015 Research Priority 157	Research Priority
+NCWAP 2015 Research Priority 158	Priority
+NCWAP 2015 Research Priority 158	NCWAP15 Priority
+NCWAP 2015 Research Priority 158	Research Priority
+NCWAP 2015 Research Priority 159	Priority
+NCWAP 2015 Research Priority 159	NCWAP15 Priority
+NCWAP 2015 Research Priority 159	Research Priority
+NCWAP 2015 Research Priority 160	Priority
+NCWAP 2015 Research Priority 160	NCWAP15 Priority
+NCWAP 2015 Research Priority 160	Research Priority
+NCWAP 2015 Monitoring Priority 161	Priority
+NCWAP 2015 Monitoring Priority 161	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 161	Monitoring Priority
+NCWAP 2015 Monitoring Priority 162	Priority
+NCWAP 2015 Monitoring Priority 162	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 162	Monitoring Priority
+NCWAP 2015 Monitoring Priority 163	Priority
+NCWAP 2015 Monitoring Priority 163	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 163	Monitoring Priority
+NCWAP 2015 Management Practices Priority 164	Priority
+NCWAP 2015 Management Practices Priority 164	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 164	Management Practices Priority
+NCWAP 2015 Management Practices Priority 165	Priority
+NCWAP 2015 Management Practices Priority 165	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 165	Management Practices Priority
+NCWAP 2015 Management Practices Priority 166	Priority
+NCWAP 2015 Management Practices Priority 166	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 166	Management Practices Priority
+NCWAP 2015 Management Practices Priority 167	Priority
+NCWAP 2015 Management Practices Priority 167	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 167	Management Practices Priority
+NCWAP 2015 Management Practices Priority 168	Priority
+NCWAP 2015 Management Practices Priority 168	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 168	Management Practices Priority
+NCWAP 2015 Management Practices Priority 169	Priority
+NCWAP 2015 Management Practices Priority 169	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 169	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 170	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 170	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 170	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 171	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 171	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 171	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 172	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 172	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 172	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 173	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 173	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 173	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 174	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 174	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 174	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 175	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 175	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 175	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 176	Priority
+NCWAP 2015 Surveys Priority 176	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 176	Surveys Priority
+NCWAP 2015 Surveys Priority 177	Priority
+NCWAP 2015 Surveys Priority 177	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 177	Surveys Priority
+NCWAP 2015 Surveys Priority 178	Priority
+NCWAP 2015 Surveys Priority 178	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 178	Surveys Priority
+NCWAP 2015 Surveys Priority 179	Priority
+NCWAP 2015 Surveys Priority 179	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 179	Surveys Priority
+NCWAP 2015 Surveys Priority 180	Priority
+NCWAP 2015 Surveys Priority 180	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 180	Surveys Priority
+NCWAP 2015 Monitoring Priority 181	Priority
+NCWAP 2015 Monitoring Priority 181	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 181	Monitoring Priority
+NCWAP 2015 Monitoring Priority 182	Priority
+NCWAP 2015 Monitoring Priority 182	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 182	Monitoring Priority
+NCWAP 2015 Monitoring Priority 183	Priority
+NCWAP 2015 Monitoring Priority 183	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 183	Monitoring Priority
+NCWAP 2015 Management Practices Priority 184	Priority
+NCWAP 2015 Management Practices Priority 184	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 184	Management Practices Priority
+NCWAP 2015 Monitoring Priority 185	Priority
+NCWAP 2015 Monitoring Priority 185	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 185	Monitoring Priority
+NCWAP 2015 Research Priority 186	Priority
+NCWAP 2015 Research Priority 186	NCWAP15 Priority
+NCWAP 2015 Research Priority 186	Research Priority
+NCWAP 2015 Research Priority 187	Priority
+NCWAP 2015 Research Priority 187	NCWAP15 Priority
+NCWAP 2015 Research Priority 187	Research Priority
+NCWAP 2015 Monitoring Priority 188	Priority
+NCWAP 2015 Monitoring Priority 188	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 188	Monitoring Priority
+NCWAP 2015 Management Practices Priority 189	Priority
+NCWAP 2015 Management Practices Priority 189	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 189	Management Practices Priority
+NCWAP 2015 Management Practices Priority 190	Priority
+NCWAP 2015 Management Practices Priority 190	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 190	Management Practices Priority
+NCWAP 2015 Monitoring Priority 192	Priority
+NCWAP 2015 Monitoring Priority 192	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 192	Monitoring Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 193	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 193	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 193	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 194	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 194	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 194	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 195	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 195	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 195	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 196	Priority
+NCWAP 2015 Surveys Priority 196	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 196	Surveys Priority
+NCWAP 2015 Surveys Priority 197	Priority
+NCWAP 2015 Surveys Priority 197	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 197	Surveys Priority
+NCWAP 2015 Surveys Priority 199	Priority
+NCWAP 2015 Surveys Priority 199	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 199	Surveys Priority
+NCWAP 2015 Surveys Priority 200	Priority
+NCWAP 2015 Surveys Priority 200	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 200	Surveys Priority
+NCWAP 2015 Surveys Priority 201	Priority
+NCWAP 2015 Surveys Priority 201	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 201	Surveys Priority
+NCWAP 2015 Surveys Priority 202	Priority
+NCWAP 2015 Surveys Priority 202	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 202	Surveys Priority
+NCWAP 2015 Surveys Priority 203	Priority
+NCWAP 2015 Surveys Priority 203	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 203	Surveys Priority
+NCWAP 2015 Surveys Priority 204	Priority
+NCWAP 2015 Surveys Priority 204	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 204	Surveys Priority
+NCWAP 2015 Research Priority 206	Priority
+NCWAP 2015 Research Priority 206	NCWAP15 Priority
+NCWAP 2015 Research Priority 206	Research Priority
+NCWAP 2015 Research Priority 210	Priority
+NCWAP 2015 Research Priority 210	NCWAP15 Priority
+NCWAP 2015 Research Priority 210	Research Priority
+NCWAP 2015 Research Priority 211	Priority
+NCWAP 2015 Research Priority 211	NCWAP15 Priority
+NCWAP 2015 Research Priority 211	Research Priority
+NCWAP 2015 Research Priority 212	Priority
+NCWAP 2015 Research Priority 212	NCWAP15 Priority
+NCWAP 2015 Research Priority 212	Research Priority
+NCWAP 2015 Research Priority 213	Priority
+NCWAP 2015 Research Priority 213	NCWAP15 Priority
+NCWAP 2015 Research Priority 213	Research Priority
+NCWAP 2015 Research Priority 214	Priority
+NCWAP 2015 Research Priority 214	NCWAP15 Priority
+NCWAP 2015 Research Priority 214	Research Priority
+NCWAP 2015 Monitoring Priority 215	Priority
+NCWAP 2015 Monitoring Priority 215	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 215	Monitoring Priority
+NCWAP 2015 Monitoring Priority 217	Priority
+NCWAP 2015 Monitoring Priority 217	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 217	Monitoring Priority
+NCWAP 2015 Monitoring Priority 218	Priority
+NCWAP 2015 Monitoring Priority 218	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 218	Monitoring Priority
+NCWAP 2015 Monitoring Priority 219	Priority
+NCWAP 2015 Monitoring Priority 219	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 219	Monitoring Priority
+NCWAP 2015 Monitoring Priority 220	Priority
+NCWAP 2015 Monitoring Priority 220	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 220	Monitoring Priority
+NCWAP 2015 Monitoring Priority 221	Priority
+NCWAP 2015 Monitoring Priority 221	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 221	Monitoring Priority
+NCWAP 2015 Monitoring Priority 222	Priority
+NCWAP 2015 Monitoring Priority 222	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 222	Monitoring Priority
+NCWAP 2015 Management Practices Priority 223	Priority
+NCWAP 2015 Management Practices Priority 223	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 223	Management Practices Priority
+NCWAP 2015 Management Practices Priority 224	Priority
+NCWAP 2015 Management Practices Priority 224	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 224	Management Practices Priority
+NCWAP 2015 Management Practices Priority 225	Priority
+NCWAP 2015 Management Practices Priority 225	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 225	Management Practices Priority
+NCWAP 2015 Management Practices Priority 226	Priority
+NCWAP 2015 Management Practices Priority 226	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 226	Management Practices Priority
+NCWAP 2015 Management Practices Priority 228	Priority
+NCWAP 2015 Management Practices Priority 228	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 228	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 229	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 229	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 229	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 230	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 230	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 230	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 231	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 231	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 231	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 233	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 233	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 233	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 234	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 234	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 234	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 235	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 235	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 235	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 236	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 236	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 236	Conservation Programs And Partnerships Priority
+NCWAP 2015 Research Priority 245	Priority
+NCWAP 2015 Research Priority 245	NCWAP15 Priority
+NCWAP 2015 Research Priority 245	Research Priority
+NCWAP 2015 Research Priority 251	Priority
+NCWAP 2015 Research Priority 251	NCWAP15 Priority
+NCWAP 2015 Research Priority 251	Research Priority
+NCWAP 2015 Research Priority 268	Priority
+NCWAP 2015 Research Priority 268	NCWAP15 Priority
+NCWAP 2015 Research Priority 268	Research Priority
+NCWAP 2015 Research Priority 269	Priority
+NCWAP 2015 Research Priority 269	NCWAP15 Priority
+NCWAP 2015 Research Priority 269	Research Priority
+NCWAP 2015 Research Priority 270	Priority
+NCWAP 2015 Research Priority 270	NCWAP15 Priority
+NCWAP 2015 Research Priority 270	Research Priority
+NCWAP 2015 Research Priority 271	Priority
+NCWAP 2015 Research Priority 271	NCWAP15 Priority
+NCWAP 2015 Research Priority 271	Research Priority
+NCWAP 2015 Monitoring Priority 272	Priority
+NCWAP 2015 Monitoring Priority 272	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 272	Monitoring Priority
+NCWAP 2015 Management Practices Priority 273	Priority
+NCWAP 2015 Management Practices Priority 273	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 273	Management Practices Priority
+NCWAP 2015 Management Practices Priority 274	Priority
+NCWAP 2015 Management Practices Priority 274	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 274	Management Practices Priority
+NCWAP 2015 Management Practices Priority 275	Priority
+NCWAP 2015 Management Practices Priority 275	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 275	Management Practices Priority
+NCWAP 2015 Management Practices Priority 276	Priority
+NCWAP 2015 Management Practices Priority 276	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 276	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 277	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 277	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 277	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 278	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 278	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 278	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 279	Priority
+NCWAP 2015 Surveys Priority 279	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 279	Surveys Priority
+NCWAP 2015 Surveys Priority 280	Priority
+NCWAP 2015 Surveys Priority 280	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 280	Surveys Priority
+NCWAP 2015 Research Priority 281	Priority
+NCWAP 2015 Research Priority 281	NCWAP15 Priority
+NCWAP 2015 Research Priority 281	Research Priority
+NCWAP 2015 Research Priority 282	Priority
+NCWAP 2015 Research Priority 282	NCWAP15 Priority
+NCWAP 2015 Research Priority 282	Research Priority
+NCWAP 2015 Monitoring Priority 283	Priority
+NCWAP 2015 Monitoring Priority 283	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 283	Monitoring Priority
+NCWAP 2015 Management Practices Priority 284	Priority
+NCWAP 2015 Management Practices Priority 284	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 284	Management Practices Priority
+NCWAP 2015 Management Practices Priority 285	Priority
+NCWAP 2015 Management Practices Priority 285	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 285	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 286	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 286	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 286	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 287	Priority
+NCWAP 2015 Surveys Priority 287	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 287	Surveys Priority
+NCWAP 2015 Surveys Priority 288	Priority
+NCWAP 2015 Surveys Priority 288	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 288	Surveys Priority
+NCWAP 2015 Research Priority 289	Priority
+NCWAP 2015 Research Priority 289	NCWAP15 Priority
+NCWAP 2015 Research Priority 289	Research Priority
+NCWAP 2015 Research Priority 290	Priority
+NCWAP 2015 Research Priority 290	NCWAP15 Priority
+NCWAP 2015 Research Priority 290	Research Priority
+NCWAP 2015 Monitoring Priority 291	Priority
+NCWAP 2015 Monitoring Priority 291	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 291	Monitoring Priority
+NCWAP 2015 Management Practices Priority 292	Priority
+NCWAP 2015 Management Practices Priority 292	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 292	Management Practices Priority
+NCWAP 2015 Surveys Priority 293	Priority
+NCWAP 2015 Surveys Priority 293	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 293	Surveys Priority
+NCWAP 2015 Surveys Priority 294	Priority
+NCWAP 2015 Surveys Priority 294	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 294	Surveys Priority
+NCWAP 2015 Research Priority 295	Priority
+NCWAP 2015 Research Priority 295	NCWAP15 Priority
+NCWAP 2015 Research Priority 295	Research Priority
+NCWAP 2015 Monitoring Priority 297	Priority
+NCWAP 2015 Monitoring Priority 297	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 297	Monitoring Priority
+NCWAP 2015 Monitoring Priority 298	Priority
+NCWAP 2015 Monitoring Priority 298	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 298	Monitoring Priority
+NCWAP 2015 Monitoring Priority 299	Priority
+NCWAP 2015 Monitoring Priority 299	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 299	Monitoring Priority
+NCWAP 2015 Management Practices Priority 300	Priority
+NCWAP 2015 Management Practices Priority 300	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 300	Management Practices Priority
+NCWAP 2015 Management Practices Priority 301	Priority
+NCWAP 2015 Management Practices Priority 301	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 301	Management Practices Priority
+NCWAP 2015 Management Practices Priority 302	Priority
+NCWAP 2015 Management Practices Priority 302	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 302	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 303	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 303	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 303	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 304	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 304	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 304	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 305	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 305	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 305	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 306	Priority
+NCWAP 2015 Surveys Priority 306	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 306	Surveys Priority
+NCWAP 2015 Surveys Priority 307	Priority
+NCWAP 2015 Surveys Priority 307	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 307	Surveys Priority
+NCWAP 2015 Research Priority 308	Priority
+NCWAP 2015 Research Priority 308	NCWAP15 Priority
+NCWAP 2015 Research Priority 308	Research Priority
+NCWAP 2015 Research Priority 309	Priority
+NCWAP 2015 Research Priority 309	NCWAP15 Priority
+NCWAP 2015 Research Priority 309	Research Priority
+NCWAP 2015 Research Priority 310	Priority
+NCWAP 2015 Research Priority 310	NCWAP15 Priority
+NCWAP 2015 Research Priority 310	Research Priority
+NCWAP 2015 Monitoring Priority 311	Priority
+NCWAP 2015 Monitoring Priority 311	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 311	Monitoring Priority
+NCWAP 2015 Monitoring Priority 312	Priority
+NCWAP 2015 Monitoring Priority 312	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 312	Monitoring Priority
+NCWAP 2015 Monitoring Priority 313	Priority
+NCWAP 2015 Monitoring Priority 313	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 313	Monitoring Priority
+NCWAP 2015 Management Practices Priority 314	Priority
+NCWAP 2015 Management Practices Priority 314	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 314	Management Practices Priority
+NCWAP 2015 Management Practices Priority 315	Priority
+NCWAP 2015 Management Practices Priority 315	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 315	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 316	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 316	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 316	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 317	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 317	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 317	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 318	Priority
+NCWAP 2015 Surveys Priority 318	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 318	Surveys Priority
+NCWAP 2015 Surveys Priority 319	Priority
+NCWAP 2015 Surveys Priority 319	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 319	Surveys Priority
+NCWAP 2015 Research Priority 320	Priority
+NCWAP 2015 Research Priority 320	NCWAP15 Priority
+NCWAP 2015 Research Priority 320	Research Priority
+NCWAP 2015 Research Priority 322	Priority
+NCWAP 2015 Research Priority 322	NCWAP15 Priority
+NCWAP 2015 Research Priority 322	Research Priority
+NCWAP 2015 Research Priority 323	Priority
+NCWAP 2015 Research Priority 323	NCWAP15 Priority
+NCWAP 2015 Research Priority 323	Research Priority
+NCWAP 2015 Monitoring Priority 325	Priority
+NCWAP 2015 Monitoring Priority 325	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 325	Monitoring Priority
+NCWAP 2015 Management Practices Priority 326	Priority
+NCWAP 2015 Management Practices Priority 326	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 326	Management Practices Priority
+NCWAP 2015 Management Practices Priority 327	Priority
+NCWAP 2015 Management Practices Priority 327	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 327	Management Practices Priority
+NCWAP 2015 Management Practices Priority 328	Priority
+NCWAP 2015 Management Practices Priority 328	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 328	Management Practices Priority
+NCWAP 2015 Management Practices Priority 329	Priority
+NCWAP 2015 Management Practices Priority 329	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 329	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 330	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 330	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 330	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 331	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 331	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 331	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 332	Priority
+NCWAP 2015 Surveys Priority 332	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 332	Surveys Priority
+NCWAP 2015 Surveys Priority 333	Priority
+NCWAP 2015 Surveys Priority 333	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 333	Surveys Priority
+NCWAP 2015 Surveys Priority 334	Priority
+NCWAP 2015 Surveys Priority 334	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 334	Surveys Priority
+NCWAP 2015 Surveys Priority 335	Priority
+NCWAP 2015 Surveys Priority 335	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 335	Surveys Priority
+NCWAP 2015 Research Priority 336	Priority
+NCWAP 2015 Research Priority 336	NCWAP15 Priority
+NCWAP 2015 Research Priority 336	Research Priority
+NCWAP 2015 Management Practices Priority 338	Priority
+NCWAP 2015 Management Practices Priority 338	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 338	Management Practices Priority
+NCWAP 2015 Management Practices Priority 339	Priority
+NCWAP 2015 Management Practices Priority 339	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 339	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 340	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 340	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 340	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 341	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 341	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 341	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 342	Priority
+NCWAP 2015 Surveys Priority 342	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 342	Surveys Priority
+NCWAP 2015 Surveys Priority 343	Priority
+NCWAP 2015 Surveys Priority 343	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 343	Surveys Priority
+NCWAP 2015 Surveys Priority 344	Priority
+NCWAP 2015 Surveys Priority 344	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 344	Surveys Priority
+NCWAP 2015 Research Priority 345	Priority
+NCWAP 2015 Research Priority 345	NCWAP15 Priority
+NCWAP 2015 Research Priority 345	Research Priority
+NCWAP 2015 Research Priority 346	Priority
+NCWAP 2015 Research Priority 346	NCWAP15 Priority
+NCWAP 2015 Research Priority 346	Research Priority
+NCWAP 2015 Research Priority 347	Priority
+NCWAP 2015 Research Priority 347	NCWAP15 Priority
+NCWAP 2015 Research Priority 347	Research Priority
+NCWAP 2015 Research Priority 348	Priority
+NCWAP 2015 Research Priority 348	NCWAP15 Priority
+NCWAP 2015 Research Priority 348	Research Priority
+NCWAP 2015 Research Priority 349	Priority
+NCWAP 2015 Research Priority 349	NCWAP15 Priority
+NCWAP 2015 Research Priority 349	Research Priority
+NCWAP 2015 Research Priority 350	Priority
+NCWAP 2015 Research Priority 350	NCWAP15 Priority
+NCWAP 2015 Research Priority 350	Research Priority
+NCWAP 2015 Monitoring Priority 351	Priority
+NCWAP 2015 Monitoring Priority 351	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 351	Monitoring Priority
+NCWAP 2015 Monitoring Priority 352	Priority
+NCWAP 2015 Monitoring Priority 352	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 352	Monitoring Priority
+NCWAP 2015 Monitoring Priority 353	Priority
+NCWAP 2015 Monitoring Priority 353	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 353	Monitoring Priority
+NCWAP 2015 Monitoring Priority 354	Priority
+NCWAP 2015 Monitoring Priority 354	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 354	Monitoring Priority
+NCWAP 2015 Management Practices Priority 355	Priority
+NCWAP 2015 Management Practices Priority 355	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 355	Management Practices Priority
+NCWAP 2015 Management Practices Priority 356	Priority
+NCWAP 2015 Management Practices Priority 356	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 356	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 357	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 357	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 357	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 358	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 358	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 358	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 359	Priority
+NCWAP 2015 Surveys Priority 359	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 359	Surveys Priority
+NCWAP 2015 Surveys Priority 360	Priority
+NCWAP 2015 Surveys Priority 360	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 360	Surveys Priority
+NCWAP 2015 Surveys Priority 361	Priority
+NCWAP 2015 Surveys Priority 361	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 361	Surveys Priority
+NCWAP 2015 Surveys Priority 362	Priority
+NCWAP 2015 Surveys Priority 362	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 362	Surveys Priority
+NCWAP 2015 Research Priority 363	Priority
+NCWAP 2015 Research Priority 363	NCWAP15 Priority
+NCWAP 2015 Research Priority 363	Research Priority
+NCWAP 2015 Research Priority 364	Priority
+NCWAP 2015 Research Priority 364	NCWAP15 Priority
+NCWAP 2015 Research Priority 364	Research Priority
+NCWAP 2015 Research Priority 365	Priority
+NCWAP 2015 Research Priority 365	NCWAP15 Priority
+NCWAP 2015 Research Priority 365	Research Priority
+NCWAP 2015 Research Priority 366	Priority
+NCWAP 2015 Research Priority 366	NCWAP15 Priority
+NCWAP 2015 Research Priority 366	Research Priority
+NCWAP 2015 Monitoring Priority 367	Priority
+NCWAP 2015 Monitoring Priority 367	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 367	Monitoring Priority
+NCWAP 2015 Monitoring Priority 368	Priority
+NCWAP 2015 Monitoring Priority 368	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 368	Monitoring Priority
+NCWAP 2015 Monitoring Priority 369	Priority
+NCWAP 2015 Monitoring Priority 369	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 369	Monitoring Priority
+NCWAP 2015 Monitoring Priority 370	Priority
+NCWAP 2015 Monitoring Priority 370	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 370	Monitoring Priority
+NCWAP 2015 Monitoring Priority 371	Priority
+NCWAP 2015 Monitoring Priority 371	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 371	Monitoring Priority
+NCWAP 2015 Management Practices Priority 372	Priority
+NCWAP 2015 Management Practices Priority 372	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 372	Management Practices Priority
+NCWAP 2015 Management Practices Priority 373	Priority
+NCWAP 2015 Management Practices Priority 373	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 373	Management Practices Priority
+NCWAP 2015 Management Practices Priority 374	Priority
+NCWAP 2015 Management Practices Priority 374	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 374	Management Practices Priority
+NCWAP 2015 Management Practices Priority 375	Priority
+NCWAP 2015 Management Practices Priority 375	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 375	Management Practices Priority
+NCWAP 2015 Management Practices Priority 376	Priority
+NCWAP 2015 Management Practices Priority 376	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 376	Management Practices Priority
+NCWAP 2015 Management Practices Priority 377	Priority
+NCWAP 2015 Management Practices Priority 377	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 377	Management Practices Priority
+NCWAP 2015 Management Practices Priority 378	Priority
+NCWAP 2015 Management Practices Priority 378	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 378	Management Practices Priority
+NCWAP 2015 Management Practices Priority 379	Priority
+NCWAP 2015 Management Practices Priority 379	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 379	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 380	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 380	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 380	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 381	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 381	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 381	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 382	Priority
+NCWAP 2015 Surveys Priority 382	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 382	Surveys Priority
+NCWAP 2015 Surveys Priority 383	Priority
+NCWAP 2015 Surveys Priority 383	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 383	Surveys Priority
+NCWAP 2015 Research Priority 384	Priority
+NCWAP 2015 Research Priority 384	NCWAP15 Priority
+NCWAP 2015 Research Priority 384	Research Priority
+NCWAP 2015 Monitoring Priority 385	Priority
+NCWAP 2015 Monitoring Priority 385	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 385	Monitoring Priority
+NCWAP 2015 Monitoring Priority 386	Priority
+NCWAP 2015 Monitoring Priority 386	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 386	Monitoring Priority
+NCWAP 2015 Monitoring Priority 387	Priority
+NCWAP 2015 Monitoring Priority 387	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 387	Monitoring Priority
+NCWAP 2015 Management Practices Priority 388	Priority
+NCWAP 2015 Management Practices Priority 388	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 388	Management Practices Priority
+NCWAP 2015 Management Practices Priority 389	Priority
+NCWAP 2015 Management Practices Priority 389	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 389	Management Practices Priority
+NCWAP 2015 Management Practices Priority 390	Priority
+NCWAP 2015 Management Practices Priority 390	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 390	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 391	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 391	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 391	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 392	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 392	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 392	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 393	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 393	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 393	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 394	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 394	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 394	Conservation Programs And Partnerships Priority
+NCWAP 2015 Research Priority 397	Priority
+NCWAP 2015 Research Priority 397	NCWAP15 Priority
+NCWAP 2015 Research Priority 397	Research Priority
+NCWAP 2015 Monitoring Priority 400	Priority
+NCWAP 2015 Monitoring Priority 400	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 400	Monitoring Priority
+NCWAP 2015 Management Practices Priority 401	Priority
+NCWAP 2015 Management Practices Priority 401	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 401	Management Practices Priority
+NCWAP 2015 Surveys Priority 407	Priority
+NCWAP 2015 Surveys Priority 407	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 407	Surveys Priority
+NCWAP 2015 Surveys Priority 408	Priority
+NCWAP 2015 Surveys Priority 408	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 408	Surveys Priority
+NCWAP 2015 Research Priority 409	Priority
+NCWAP 2015 Research Priority 409	NCWAP15 Priority
+NCWAP 2015 Research Priority 409	Research Priority
+NCWAP 2015 Research Priority 410	Priority
+NCWAP 2015 Research Priority 410	NCWAP15 Priority
+NCWAP 2015 Research Priority 410	Research Priority
+NCWAP 2015 Research Priority 411	Priority
+NCWAP 2015 Research Priority 411	NCWAP15 Priority
+NCWAP 2015 Research Priority 411	Research Priority
+NCWAP 2015 Research Priority 412	Priority
+NCWAP 2015 Research Priority 412	NCWAP15 Priority
+NCWAP 2015 Research Priority 412	Research Priority
+NCWAP 2015 Research Priority 413	Priority
+NCWAP 2015 Research Priority 413	NCWAP15 Priority
+NCWAP 2015 Research Priority 413	Research Priority
+NCWAP 2015 Research Priority 414	Priority
+NCWAP 2015 Research Priority 414	NCWAP15 Priority
+NCWAP 2015 Research Priority 414	Research Priority
+NCWAP 2015 Research Priority 415	Priority
+NCWAP 2015 Research Priority 415	NCWAP15 Priority
+NCWAP 2015 Research Priority 415	Research Priority
+NCWAP 2015 Monitoring Priority 416	Priority
+NCWAP 2015 Monitoring Priority 416	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 416	Monitoring Priority
+NCWAP 2015 Monitoring Priority 417	Priority
+NCWAP 2015 Monitoring Priority 417	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 417	Monitoring Priority
+NCWAP 2015 Management Practices Priority 418	Priority
+NCWAP 2015 Management Practices Priority 418	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 418	Management Practices Priority
+NCWAP 2015 Management Practices Priority 419	Priority
+NCWAP 2015 Management Practices Priority 419	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 419	Management Practices Priority
+NCWAP 2015 Management Practices Priority 420	Priority
+NCWAP 2015 Management Practices Priority 420	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 420	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 421	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 421	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 421	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 422	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 422	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 422	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 423	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 423	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 423	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 424	Priority
+NCWAP 2015 Surveys Priority 424	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 424	Surveys Priority
+NCWAP 2015 Surveys Priority 425	Priority
+NCWAP 2015 Surveys Priority 425	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 425	Surveys Priority
+NCWAP 2015 Surveys Priority 426	Priority
+NCWAP 2015 Surveys Priority 426	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 426	Surveys Priority
+NCWAP 2015 Surveys Priority 427	Priority
+NCWAP 2015 Surveys Priority 427	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 427	Surveys Priority
+NCWAP 2015 Surveys Priority 428	Priority
+NCWAP 2015 Surveys Priority 428	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 428	Surveys Priority
+NCWAP 2015 Research Priority 429	Priority
+NCWAP 2015 Research Priority 429	NCWAP15 Priority
+NCWAP 2015 Research Priority 429	Research Priority
+NCWAP 2015 Research Priority 430	Priority
+NCWAP 2015 Research Priority 430	NCWAP15 Priority
+NCWAP 2015 Research Priority 430	Research Priority
+NCWAP 2015 Research Priority 431	Priority
+NCWAP 2015 Research Priority 431	NCWAP15 Priority
+NCWAP 2015 Research Priority 431	Research Priority
+NCWAP 2015 Research Priority 432	Priority
+NCWAP 2015 Research Priority 432	NCWAP15 Priority
+NCWAP 2015 Research Priority 432	Research Priority
+NCWAP 2015 Monitoring Priority 433	Priority
+NCWAP 2015 Monitoring Priority 433	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 433	Monitoring Priority
+NCWAP 2015 Management Practices Priority 434	Priority
+NCWAP 2015 Management Practices Priority 434	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 434	Management Practices Priority
+NCWAP 2015 Management Practices Priority 435	Priority
+NCWAP 2015 Management Practices Priority 435	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 435	Management Practices Priority
+NCWAP 2015 Management Practices Priority 436	Priority
+NCWAP 2015 Management Practices Priority 436	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 436	Management Practices Priority
+NCWAP 2015 Management Practices Priority 437	Priority
+NCWAP 2015 Management Practices Priority 437	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 437	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 438	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 438	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 438	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 439	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 439	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 439	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 440	Priority
+NCWAP 2015 Surveys Priority 440	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 440	Surveys Priority
+NCWAP 2015 Surveys Priority 441	Priority
+NCWAP 2015 Surveys Priority 441	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 441	Surveys Priority
+NCWAP 2015 Surveys Priority 442	Priority
+NCWAP 2015 Surveys Priority 442	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 442	Surveys Priority
+NCWAP 2015 Surveys Priority 443	Priority
+NCWAP 2015 Surveys Priority 443	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 443	Surveys Priority
+NCWAP 2015 Research Priority 444	Priority
+NCWAP 2015 Research Priority 444	NCWAP15 Priority
+NCWAP 2015 Research Priority 444	Research Priority
+NCWAP 2015 Research Priority 445	Priority
+NCWAP 2015 Research Priority 445	NCWAP15 Priority
+NCWAP 2015 Research Priority 445	Research Priority
+NCWAP 2015 Research Priority 446	Priority
+NCWAP 2015 Research Priority 446	NCWAP15 Priority
+NCWAP 2015 Research Priority 446	Research Priority
+NCWAP 2015 Research Priority 447	Priority
+NCWAP 2015 Research Priority 447	NCWAP15 Priority
+NCWAP 2015 Research Priority 447	Research Priority
+NCWAP 2015 Monitoring Priority 448	Priority
+NCWAP 2015 Monitoring Priority 448	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 448	Monitoring Priority
+NCWAP 2015 Monitoring Priority 449	Priority
+NCWAP 2015 Monitoring Priority 449	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 449	Monitoring Priority
+NCWAP 2015 Monitoring Priority 450	Priority
+NCWAP 2015 Monitoring Priority 450	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 450	Monitoring Priority
+NCWAP 2015 Management Practices Priority 451	Priority
+NCWAP 2015 Management Practices Priority 451	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 451	Management Practices Priority
+NCWAP 2015 Management Practices Priority 452	Priority
+NCWAP 2015 Management Practices Priority 452	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 452	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 453	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 453	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 453	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 454	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 454	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 454	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 455	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 455	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 455	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 456	Priority
+NCWAP 2015 Surveys Priority 456	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 456	Surveys Priority
+NCWAP 2015 Surveys Priority 457	Priority
+NCWAP 2015 Surveys Priority 457	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 457	Surveys Priority
+NCWAP 2015 Research Priority 458	Priority
+NCWAP 2015 Research Priority 458	NCWAP15 Priority
+NCWAP 2015 Research Priority 458	Research Priority
+NCWAP 2015 Research Priority 459	Priority
+NCWAP 2015 Research Priority 459	NCWAP15 Priority
+NCWAP 2015 Research Priority 459	Research Priority
+NCWAP 2015 Monitoring Priority 460	Priority
+NCWAP 2015 Monitoring Priority 460	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 460	Monitoring Priority
+NCWAP 2015 Monitoring Priority 461	Priority
+NCWAP 2015 Monitoring Priority 461	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 461	Monitoring Priority
+NCWAP 2015 Monitoring Priority 462	Priority
+NCWAP 2015 Monitoring Priority 462	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 462	Monitoring Priority
+NCWAP 2015 Management Practices Priority 463	Priority
+NCWAP 2015 Management Practices Priority 463	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 463	Management Practices Priority
+NCWAP 2015 Management Practices Priority 464	Priority
+NCWAP 2015 Management Practices Priority 464	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 464	Management Practices Priority
+NCWAP 2015 Management Practices Priority 465	Priority
+NCWAP 2015 Management Practices Priority 465	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 465	Management Practices Priority
+NCWAP 2015 Management Practices Priority 466	Priority
+NCWAP 2015 Management Practices Priority 466	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 466	Management Practices Priority
+NCWAP 2015 Management Practices Priority 467	Priority
+NCWAP 2015 Management Practices Priority 467	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 467	Management Practices Priority
+NCWAP 2015 Management Practices Priority 468	Priority
+NCWAP 2015 Management Practices Priority 468	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 468	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 469	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 469	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 469	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 470	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 470	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 470	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 471	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 471	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 471	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 472	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 472	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 472	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 473	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 473	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 473	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 474	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 474	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 474	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 475	Priority
+NCWAP 2015 Surveys Priority 475	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 475	Surveys Priority
+NCWAP 2015 Research Priority 476	Priority
+NCWAP 2015 Research Priority 476	NCWAP15 Priority
+NCWAP 2015 Research Priority 476	Research Priority
+NCWAP 2015 Research Priority 477	Priority
+NCWAP 2015 Research Priority 477	NCWAP15 Priority
+NCWAP 2015 Research Priority 477	Research Priority
+NCWAP 2015 Research Priority 478	Priority
+NCWAP 2015 Research Priority 478	NCWAP15 Priority
+NCWAP 2015 Research Priority 478	Research Priority
+NCWAP 2015 Research Priority 479	Priority
+NCWAP 2015 Research Priority 479	NCWAP15 Priority
+NCWAP 2015 Research Priority 479	Research Priority
+NCWAP 2015 Monitoring Priority 480	Priority
+NCWAP 2015 Monitoring Priority 480	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 480	Monitoring Priority
+NCWAP 2015 Management Practices Priority 481	Priority
+NCWAP 2015 Management Practices Priority 481	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 481	Management Practices Priority
+NCWAP 2015 Management Practices Priority 482	Priority
+NCWAP 2015 Management Practices Priority 482	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 482	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 483	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 483	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 483	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 484	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 484	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 484	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 486	Priority
+NCWAP 2015 Surveys Priority 486	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 486	Surveys Priority
+NCWAP 2015 Surveys Priority 487	Priority
+NCWAP 2015 Surveys Priority 487	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 487	Surveys Priority
+NCWAP 2015 Surveys Priority 488	Priority
+NCWAP 2015 Surveys Priority 488	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 488	Surveys Priority
+NCWAP 2015 Research Priority 489	Priority
+NCWAP 2015 Research Priority 489	NCWAP15 Priority
+NCWAP 2015 Research Priority 489	Research Priority
+NCWAP 2015 Research Priority 490	Priority
+NCWAP 2015 Research Priority 490	NCWAP15 Priority
+NCWAP 2015 Research Priority 490	Research Priority
+NCWAP 2015 Research Priority 491	Priority
+NCWAP 2015 Research Priority 491	NCWAP15 Priority
+NCWAP 2015 Research Priority 491	Research Priority
+NCWAP 2015 Monitoring Priority 492	Priority
+NCWAP 2015 Monitoring Priority 492	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 492	Monitoring Priority
+NCWAP 2015 Monitoring Priority 493	Priority
+NCWAP 2015 Monitoring Priority 493	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 493	Monitoring Priority
+NCWAP 2015 Monitoring Priority 494	Priority
+NCWAP 2015 Monitoring Priority 494	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 494	Monitoring Priority
+NCWAP 2015 Management Practices Priority 495	Priority
+NCWAP 2015 Management Practices Priority 495	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 495	Management Practices Priority
+NCWAP 2015 Management Practices Priority 496	Priority
+NCWAP 2015 Management Practices Priority 496	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 496	Management Practices Priority
+NCWAP 2015 Management Practices Priority 497	Priority
+NCWAP 2015 Management Practices Priority 497	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 497	Management Practices Priority
+NCWAP 2015 Management Practices Priority 498	Priority
+NCWAP 2015 Management Practices Priority 498	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 498	Management Practices Priority
+NCWAP 2015 Management Practices Priority 499	Priority
+NCWAP 2015 Management Practices Priority 499	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 499	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 500	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 500	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 500	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 501	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 501	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 501	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 502	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 502	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 502	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 503	Priority
+NCWAP 2015 Surveys Priority 503	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 503	Surveys Priority
+NCWAP 2015 Research Priority 504	Priority
+NCWAP 2015 Research Priority 504	NCWAP15 Priority
+NCWAP 2015 Research Priority 504	Research Priority
+NCWAP 2015 Monitoring Priority 505	Priority
+NCWAP 2015 Monitoring Priority 505	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 505	Monitoring Priority
+NCWAP 2015 Monitoring Priority 506	Priority
+NCWAP 2015 Monitoring Priority 506	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 506	Monitoring Priority
+NCWAP 2015 Monitoring Priority 507	Priority
+NCWAP 2015 Monitoring Priority 507	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 507	Monitoring Priority
+NCWAP 2015 Management Practices Priority 508	Priority
+NCWAP 2015 Management Practices Priority 508	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 508	Management Practices Priority
+NCWAP 2015 Management Practices Priority 509	Priority
+NCWAP 2015 Management Practices Priority 509	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 509	Management Practices Priority
+NCWAP 2015 Management Practices Priority 510	Priority
+NCWAP 2015 Management Practices Priority 510	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 510	Management Practices Priority
+NCWAP 2015 Management Practices Priority 511	Priority
+NCWAP 2015 Management Practices Priority 511	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 511	Management Practices Priority
+NCWAP 2015 Surveys Priority 512	Priority
+NCWAP 2015 Surveys Priority 512	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 512	Surveys Priority
+NCWAP 2015 Surveys Priority 513	Priority
+NCWAP 2015 Surveys Priority 513	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 513	Surveys Priority
+NCWAP 2015 Surveys Priority 514	Priority
+NCWAP 2015 Surveys Priority 514	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 514	Surveys Priority
+NCWAP 2015 Research Priority 515	Priority
+NCWAP 2015 Research Priority 515	NCWAP15 Priority
+NCWAP 2015 Research Priority 515	Research Priority
+NCWAP 2015 Research Priority 516	Priority
+NCWAP 2015 Research Priority 516	NCWAP15 Priority
+NCWAP 2015 Research Priority 516	Research Priority
+NCWAP 2015 Research Priority 517	Priority
+NCWAP 2015 Research Priority 517	NCWAP15 Priority
+NCWAP 2015 Research Priority 517	Research Priority
+NCWAP 2015 Research Priority 518	Priority
+NCWAP 2015 Research Priority 518	NCWAP15 Priority
+NCWAP 2015 Research Priority 518	Research Priority
+NCWAP 2015 Management Practices Priority 519	Priority
+NCWAP 2015 Management Practices Priority 519	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 519	Management Practices Priority
+NCWAP 2015 Management Practices Priority 520	Priority
+NCWAP 2015 Management Practices Priority 520	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 520	Management Practices Priority
+NCWAP 2015 Management Practices Priority 521	Priority
+NCWAP 2015 Management Practices Priority 521	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 521	Management Practices Priority
+NCWAP 2015 Management Practices Priority 522	Priority
+NCWAP 2015 Management Practices Priority 522	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 522	Management Practices Priority
+NCWAP 2015 Surveys Priority 523	Priority
+NCWAP 2015 Surveys Priority 523	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 523	Surveys Priority
+NCWAP 2015 Surveys Priority 524	Priority
+NCWAP 2015 Surveys Priority 524	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 524	Surveys Priority
+NCWAP 2015 Management Practices Priority 526	Priority
+NCWAP 2015 Management Practices Priority 526	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 526	Management Practices Priority
+NCWAP 2015 Management Practices Priority 527	Priority
+NCWAP 2015 Management Practices Priority 527	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 527	Management Practices Priority
+NCWAP 2015 Management Practices Priority 528	Priority
+NCWAP 2015 Management Practices Priority 528	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 528	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 530	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 530	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 530	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 531	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 531	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 531	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 532	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 532	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 532	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 533	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 533	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 533	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 534	Priority
+NCWAP 2015 Surveys Priority 534	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 534	Surveys Priority
+NCWAP 2015 Surveys Priority 535	Priority
+NCWAP 2015 Surveys Priority 535	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 535	Surveys Priority
+NCWAP 2015 Surveys Priority 536	Priority
+NCWAP 2015 Surveys Priority 536	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 536	Surveys Priority
+NCWAP 2015 Research Priority 537	Priority
+NCWAP 2015 Research Priority 537	NCWAP15 Priority
+NCWAP 2015 Research Priority 537	Research Priority
+NCWAP 2015 Research Priority 538	Priority
+NCWAP 2015 Research Priority 538	NCWAP15 Priority
+NCWAP 2015 Research Priority 538	Research Priority
+NCWAP 2015 Research Priority 539	Priority
+NCWAP 2015 Research Priority 539	NCWAP15 Priority
+NCWAP 2015 Research Priority 539	Research Priority
+NCWAP 2015 Research Priority 540	Priority
+NCWAP 2015 Research Priority 540	NCWAP15 Priority
+NCWAP 2015 Research Priority 540	Research Priority
+NCWAP 2015 Monitoring Priority 541	Priority
+NCWAP 2015 Monitoring Priority 541	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 541	Monitoring Priority
+NCWAP 2015 Monitoring Priority 542	Priority
+NCWAP 2015 Monitoring Priority 542	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 542	Monitoring Priority
+NCWAP 2015 Monitoring Priority 543	Priority
+NCWAP 2015 Monitoring Priority 543	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 543	Monitoring Priority
+NCWAP 2015 Monitoring Priority 544	Priority
+NCWAP 2015 Monitoring Priority 544	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 544	Monitoring Priority
+NCWAP 2015 Management Practices Priority 545	Priority
+NCWAP 2015 Management Practices Priority 545	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 545	Management Practices Priority
+NCWAP 2015 Management Practices Priority 546	Priority
+NCWAP 2015 Management Practices Priority 546	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 546	Management Practices Priority
+NCWAP 2015 Management Practices Priority 547	Priority
+NCWAP 2015 Management Practices Priority 547	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 547	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 548	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 548	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 548	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 549	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 549	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 549	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 550	Priority
+NCWAP 2015 Surveys Priority 550	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 550	Surveys Priority
+NCWAP 2015 Surveys Priority 551	Priority
+NCWAP 2015 Surveys Priority 551	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 551	Surveys Priority
+NCWAP 2015 Research Priority 552	Priority
+NCWAP 2015 Research Priority 552	NCWAP15 Priority
+NCWAP 2015 Research Priority 552	Research Priority
+NCWAP 2015 Research Priority 553	Priority
+NCWAP 2015 Research Priority 553	NCWAP15 Priority
+NCWAP 2015 Research Priority 553	Research Priority
+NCWAP 2015 Research Priority 555	Priority
+NCWAP 2015 Research Priority 555	NCWAP15 Priority
+NCWAP 2015 Research Priority 555	Research Priority
+NCWAP 2015 Research Priority 556	Priority
+NCWAP 2015 Research Priority 556	NCWAP15 Priority
+NCWAP 2015 Research Priority 556	Research Priority
+NCWAP 2015 Research Priority 557	Priority
+NCWAP 2015 Research Priority 557	NCWAP15 Priority
+NCWAP 2015 Research Priority 557	Research Priority
+NCWAP 2015 Research Priority 558	Priority
+NCWAP 2015 Research Priority 558	NCWAP15 Priority
+NCWAP 2015 Research Priority 558	Research Priority
+NCWAP 2015 Monitoring Priority 559	Priority
+NCWAP 2015 Monitoring Priority 559	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 559	Monitoring Priority
+NCWAP 2015 Monitoring Priority 560	Priority
+NCWAP 2015 Monitoring Priority 560	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 560	Monitoring Priority
+NCWAP 2015 Management Practices Priority 561	Priority
+NCWAP 2015 Management Practices Priority 561	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 561	Management Practices Priority
+NCWAP 2015 Management Practices Priority 562	Priority
+NCWAP 2015 Management Practices Priority 562	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 562	Management Practices Priority
+NCWAP 2015 Management Practices Priority 564	Priority
+NCWAP 2015 Management Practices Priority 564	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 564	Management Practices Priority
+NCWAP 2015 Surveys Priority 565	Priority
+NCWAP 2015 Surveys Priority 565	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 565	Surveys Priority
+NCWAP 2015 Surveys Priority 566	Priority
+NCWAP 2015 Surveys Priority 566	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 566	Surveys Priority
+NCWAP 2015 Surveys Priority 567	Priority
+NCWAP 2015 Surveys Priority 567	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 567	Surveys Priority
+NCWAP 2015 Research Priority 569	Priority
+NCWAP 2015 Research Priority 569	NCWAP15 Priority
+NCWAP 2015 Research Priority 569	Research Priority
+NCWAP 2015 Research Priority 570	Priority
+NCWAP 2015 Research Priority 570	NCWAP15 Priority
+NCWAP 2015 Research Priority 570	Research Priority
+NCWAP 2015 Monitoring Priority 572	Priority
+NCWAP 2015 Monitoring Priority 572	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 572	Monitoring Priority
+NCWAP 2015 Monitoring Priority 573	Priority
+NCWAP 2015 Monitoring Priority 573	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 573	Monitoring Priority
+NCWAP 2015 Management Practices Priority 576	Priority
+NCWAP 2015 Management Practices Priority 576	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 576	Management Practices Priority
+NCWAP 2015 Management Practices Priority 577	Priority
+NCWAP 2015 Management Practices Priority 577	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 577	Management Practices Priority
+NCWAP 2015 Management Practices Priority 580	Priority
+NCWAP 2015 Management Practices Priority 580	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 580	Management Practices Priority
+NCWAP 2015 Management Practices Priority 581	Priority
+NCWAP 2015 Management Practices Priority 581	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 581	Management Practices Priority
+NCWAP 2015 Management Practices Priority 582	Priority
+NCWAP 2015 Management Practices Priority 582	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 582	Management Practices Priority
+NCWAP 2015 Management Practices Priority 583	Priority
+NCWAP 2015 Management Practices Priority 583	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 583	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 584	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 584	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 584	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 588	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 588	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 588	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 589	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 589	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 589	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 590	Priority
+NCWAP 2015 Surveys Priority 590	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 590	Surveys Priority
+NCWAP 2015 Surveys Priority 591	Priority
+NCWAP 2015 Surveys Priority 591	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 591	Surveys Priority
+NCWAP 2015 Research Priority 594	Priority
+NCWAP 2015 Research Priority 594	NCWAP15 Priority
+NCWAP 2015 Research Priority 594	Research Priority
+NCWAP 2015 Research Priority 595	Priority
+NCWAP 2015 Research Priority 595	NCWAP15 Priority
+NCWAP 2015 Research Priority 595	Research Priority
+NCWAP 2015 Monitoring Priority 596	Priority
+NCWAP 2015 Monitoring Priority 596	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 596	Monitoring Priority
+NCWAP 2015 Management Practices Priority 598	Priority
+NCWAP 2015 Management Practices Priority 598	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 598	Management Practices Priority
+NCWAP 2015 Management Practices Priority 599	Priority
+NCWAP 2015 Management Practices Priority 599	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 599	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 600	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 600	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 600	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 601	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 601	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 601	Conservation Programs And Partnerships Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 602	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 602	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 602	Conservation Programs And Partnerships Priority
+NCWAP 2015 Research Priority 603	Priority
+NCWAP 2015 Research Priority 603	NCWAP15 Priority
+NCWAP 2015 Research Priority 603	Research Priority
+NCWAP 2015 Research Priority 604	Priority
+NCWAP 2015 Research Priority 604	NCWAP15 Priority
+NCWAP 2015 Research Priority 604	Research Priority
+NCWAP 2015 Management Practices Priority 605	Priority
+NCWAP 2015 Management Practices Priority 605	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 605	Management Practices Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 606	Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 606	NCWAP15 Priority
+NCWAP 2015 Conservation Programs And Partnerships Priority 606	Conservation Programs And Partnerships Priority
+NCWAP 2015 Surveys Priority 607	Priority
+NCWAP 2015 Surveys Priority 607	NCWAP15 Priority
+NCWAP 2015 Surveys Priority 607	Surveys Priority
+NCWAP 2015 Research Priority 608	Priority
+NCWAP 2015 Research Priority 608	NCWAP15 Priority
+NCWAP 2015 Research Priority 608	Research Priority
+NCWAP 2015 Research Priority 609	Priority
+NCWAP 2015 Research Priority 609	NCWAP15 Priority
+NCWAP 2015 Research Priority 609	Research Priority
+NCWAP 2015 Research Priority 610	Priority
+NCWAP 2015 Research Priority 610	NCWAP15 Priority
+NCWAP 2015 Research Priority 610	Research Priority
+NCWAP 2015 Monitoring Priority 611	Priority
+NCWAP 2015 Monitoring Priority 611	NCWAP15 Priority
+NCWAP 2015 Monitoring Priority 611	Monitoring Priority
+NCWAP 2015 Management Practices Priority 612	Priority
+NCWAP 2015 Management Practices Priority 612	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 612	Management Practices Priority
+NCWAP 2015 Management Practices Priority 613	Priority
+NCWAP 2015 Management Practices Priority 613	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 613	Management Practices Priority
+NCWAP 2015 Management Practices Priority 614	Priority
+NCWAP 2015 Management Practices Priority 614	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 614	Management Practices Priority
+NCWAP 2015 Management Practices Priority 615	Priority
+NCWAP 2015 Management Practices Priority 615	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 615	Management Practices Priority
+NCWAP 2015 Management Practices Priority 616	Priority
+NCWAP 2015 Management Practices Priority 616	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 616	Management Practices Priority
+NCWAP 2015 Management Practices Priority 617	Priority
+NCWAP 2015 Management Practices Priority 617	NCWAP15 Priority
+NCWAP 2015 Management Practices Priority 617	Management Practices Priority

@@ -1,0 +1,59 @@
+{{CC Infobox|categorytype=Organization}}
+=Description=
+''From the [http://amoywg.org/ American Oystercatcher Working Group] website:''
+
+The [http://amoywg.org/ American Oystercatcher Working Group] seeks to develop, support, and implement rangewide research and management efforts that promote the conservation of American Oystercatchers and their habitats through individual and partnership-based initiatives guided by recommendations of the Working Group’s membership.
+
+==Mission Statement==
+The American Oystercatcher Working Group seeks to develop, support and implement range-wide research and management efforts that promote the conservation of Atlantic coast American Oystercatchers and their habitats through individual and partnership-based initiatives guided by recommendations of the Working Group’s membership.
+
+==Goals and Objectives==
+Working Group goals include the development of management objectives in a science-based, adaptive management framework. Primary objectives include; monitoring population trends at local, regional, and continental scales, obtaining reliable estimates of demographic parameters and the factors that affect them, understanding how variations in demographic parameters affect population viability over space and time, identifying threats to American Oystercatcher populations, and translating these findings into management actions that promote American Oystercatcher
+
+{{Partner List}}
+
+[[Category:Organization]]
+[[Category:Partnership]]
+{{#set:
+Has Species=American Oystercatcher
+|Has Organization=Audubon Florida
+|Has Organization=North Carolina Audubon Society
+|Has Organization=Audubon Texas
+|Has Organization=BiodiversityWorks
+|Has Organization=Clemson University
+|Has Organization=College of William and Mary
+|Has Organization=Conserve Wildlife Foundation of New Jersey
+|Has Organization=City University of New York
+|Has Organization=Delaware Division of Fish and Wildlife
+|Has Organization=Ecostudies Institute
+|Has Organization=Environmental Institute of Houston
+|Has Organization=Florida Fish and Wildlife Conservation Commission
+|Has Organization=Georgia Department of Natural Resources
+|Has Organization=Gulf Coast Bird Observatory
+|Has Organization=Kino Bay Center for Cultural and Ecological Studies
+|Has Organization=Louisiana Department of Wildlife and Fisheries
+|Has Organization=Manomet Center for Conservation Sciences
+|Has Organization=Maryland Department of Natural Resources
+|Has Organization=Massachusetts Audubon
+|Has Organization=Nantucket Conservation Foundation
+|Has Organization=National Audubon Society
+|Has Organization=National Fish and Wildlife Foundation
+|Has Organization=National Park Service
+|Has Organization=New Jersey Audubon
+|Has Organization=New Jersey Division of Fish and Wildlife
+|Has Organization=New York City Audubon
+|Has Organization=North Carolina State University
+|Has Organization=North Carolina Wildlife Resources Commission
+|Has Organization=Rutgers University
+|Has Organization=South Carolina DNR
+|Has Organization=Texas A&M University Kingsville
+|Has Organization=Texas State University
+|Has Organization=The Nature Conservancy
+|Has Organization=Trent University
+|Has Organization=University of Georgia
+|Has Organization=University of Houston Clear Lake
+|Has Organization=U.S. Fish and Wildlife Service
+|Has Organization=U.S. Geological Survey
+|Has Organization=Virginia Department of Game and Inland Fisheries
+|Has Organization=Wildlife Conservation Society
+}}

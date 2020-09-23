@@ -1,0 +1,28 @@
+{{Habitat Page}}
+=Description=
+<p>There are three types of barrens in the state: ultramafic  outcrop barren, diabase glade, and high-elevation mafic glade. Glades located in the Mountain ecoregion are adapted to a cooler, moister climate and may be more drought tolerant than locations in the Piedmont ecoregion. However, mountain locations may be more susceptible to alteration than Piedmont glades because of residential development.
+*Ultramafic outcrop barrens occur on dunite, peridotite, or serpentinite. These rocks are associated with unusual vegetation and endemic species throughout the world because of their unusual chemistry. North Carolina’s only well-developed ultramafic  outcrop barren is tied to specialized soils and is an open savanna-like community with a scattered pitch pine canopy and grassy ground cover.
+*Diabase glades occur in the Piedmont over outcrops of diabase and potentially over other mafic rocks. As with other glade communities, the soil and vegetation are patchy and range from nearly bare rock to patches deep enough  to support trees. The vegetation includes many species shared with other high pH soil communities and some species found on granitic flatrocks.
+*High elevation mafic glade communities are an extremely rare community type, with only three examples known globally. A single known location in North Carolina occurs on a flat exposure of amphibolite in Ashe County. Lichens, including a species found nowhere else (''Cladonia psoromica''), dominate much of the area. Herbs on thin soil mats and in crevices include both lowland species and northern disjunct species. Woody species occur in deeper soils and crevices.</p>
+<p>This natural community description is a new addition to the 2015 WAP.</p>
+=Location of Habitat=
+<p>This natural community has locations in both the Piedmont and Mountain ecoregions. Piedmont examples are less rare, but a couple of the community types occur only in the Mountains. According to the most recent Southeast GAP analysis, glades and barrens comprise approximately 11 acres (about 5 hectares) of land cover in North Carolina (SEGAP 2007; NatureServe 2007).</p>
+=Problems Affecting Habitats=
+<p>These communities have been substantially altered by fire suppression, and some of these changes may shift them toward more natural composition. Fire is believed to be a natural part of these communities. Low intensity fires may benefit these communities, but climate change may bring higher potential for wildfires to be severe.</p><p>Species adapted to mafic glade habitats are tolerant of drought and heat. Higher average temperatures, coupled  with drought conditions, will likely increase occurrence of fire. Drought appears to be an important factor in keeping these communities from becoming dense forests. While these are among the driest sites in the Piedmont region, if droughts become much more extreme they may be beyond the tolerance of some of the species.</p>
+=Climate Change Compared to Other Threats=
+<p></p><p>4.4.5.4 Climate Change Compared to Other Threats</p><p>Comparing climate change to other ecosystem threats can help define shortand long-term conservation actions and recommendations. Climate change is not expected to be a major threat for these communities. Development, logging, habitat fragmentation, and changes caused by fire suppression are the most severe threats. In some areas, excessive deer browse is also a major threat. Climate change appears less of a threat.</p>
+=Impacts to Wildlife=
+<p>It is uncertain how many priority species are associated with this habitat. [[Bog Turtles]] are known from a bog wetland at a mafic glade in Ashe County. For animal species, mafic glades and barrens are probably best regarded as a minor component. There may be land snail and moth species that utilize this habitat type; otherwise, mammals such as [[Bobcat]]s and [[Raccoon]]s are expected to utilize this community primarily as a movement corridor. The Gorgone Checkerspot Butterfly is known in the state primarily from an ultramafic outcrop barren community at Buck Creek in Clay County.</p>
+{{NCWAP15 Citation}}
+[[Category:Habitat]]
+[[Category:NCWAP15 Habitat]]
+{{#set:
+Has NCWAP15 Index=4.4.5
+|Has Geography=North Carolina
+|Has Plan=2015 North Carolina Wildlife Action Plan
+|Has Geography=Southern Blue Ridge
+|Has Geography=Piedmont
+|Has Community Type=Upland Communities
+|Has Species=Mourning Dove
+|Has Species=Ruby-throated Hummingbird
+}}

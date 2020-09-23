@@ -1,0 +1,561 @@
+
+
+
+A Conservation Action Plan 
+for the 
+Cerulean Warbler (Dendroica cerulea) 
+
+
+produced for the  
+USFWS Division of Migratory Bird Management 
+Focal Species Program 
+
+
+Revised version – 30 June 2007
+Action Plan Summary
+The Cerulean Warbler is a small neotropical migrant songbird that breeds in eastern North
+American and winters in middle elevations of the Andes Mountains in northern South America. This species has specific habitat preferences on both the breeding and wintering grounds, largely associated with mature forests having structurally diverse canopies with multiple vegetation layers.
+
+Cerulean Warblers have experienced a long-term population decline. Analysis of North American Breeding Bird Survey (BBS) data indicates that over the last 40 years, the decline has been steep and steady at a rate of about -3.0% per year.
+
+Primary limiting factors for this species are thought to be habitat loss and degradation on its wintering and breeding grounds.  Initial studies of demographics and population ecology for this species suggest that population growth could be limited by a combination of poor survival during the non-breeding period and poor reproductive success during the breeding period.  A recent report suggests that as much as 60% of this species’ South American non-breeding habitat might already have been converted from primary forest to other land uses.  Loss of suitable habitat on the wintering grounds and migratory stop-over locations are likely to affect survival rates.  The loss, fragmentation, and degradation in quality of eastern North American forests represent a threat to this species’ reproductive success.  Recent and on-going studies are documenting poor reproductive success for this species in areas with low overall forest cover and high degrees of forest fragmentation.  In addition, there is concern that many Eastern forests might not contain
+the kind of vegetation structure preferred by Cerulean Warblers, thereby limiting the suitability of those forests as breeding habitat and contributing to reduced reproductive output.  Several non-habitat factors also could pose threats to this species (e.g., increased frequency of catastrophic weather events, collision with man-made structures, effects of mercury contamination and acid deposition) although the level of threat is unclear at this time.
+
+The conservation actions described in this plan focus on activities falling under three main categories: 1) address threats to non-breeding habitat, 2) address threats to breeding habitat, and
+3) identify and address non-habitat limiting factors.  Several specific examples of these activities include: a) complete a map of the current Cerulean Warbler wintering range and protect habitat
+in South America, b) map migratory pathways between the southern U.S., Central America, and northern South America and develop conservation programs to protect key migration sites, c)
+prevent the permanent loss of large areas of forest and implement forest management recommendations on the breeding grounds, and d) assess and reduce/mitigate risks from
+collisions with man-made structures.   An over-riding need within all three of these categories is continued research that will help fill critical information gaps in our knowledge of this species
+and monitoring of its response to conservation actions.
+
+Successful implementation of actions identified in this plan will require collaborative and coordinated efforts among a large group of partners.  Such a partnership has been started through the Cerulean Warbler Technical Group, a broad-based private and public partnership working on Cerulean Warbler conservation.  This working group will provide an established cooperative foundation for pursuing the implementation of these actions.
+
+
+
+
+
+2
+Introduction
+This plan provides an overview of important conservation actions needed in order to address
+factors contributing to the decline of Cerulean Warblers.  It is not an exhaustive review or assessment of the status of this species.  Rather, it provides a brief summary of the biological characteristics of the bird and the factors believed to be contributing to its decline, along with a list of critical activities needed for the conservation of this species.  This plan is intended to provide a road map for the major types of conservation actions necessary to keep this species from continued declines.  It does not provide all the details necessary to implement those activities but points to the directions in which additional resources need to be targeted.
+
+Cerulean Warbler Natural History Information
+The Cerulean Warbler is a small neotropical migrant songbird
+(11.5 cm in length, 8-10 grams in weight [Hamel 2000b]). During the breeding season, it is broadly distributed within mature deciduous forests of eastern North America (Hamel
+2000a,b), with a majority of the population occurring within
+the Appalachian Mountains Bird Conservation Region. Cerulean Warblers have specific habitat preferences within mature forests: tall, large diameter trees and a structurally diverse canopy with multiple vegetation layers (Oliarnyk and Robertson 1996, Jones and Robertson 2001, Nicholson 2003). They occupy forests with these structural characteristics in both upland and bottomland locations.  Throughout much of their breeding range, they exhibit a preference for breeding in large forest patches (Hamel 2000a,b; Rosenberg et al. 2000).
+Cerulean Warblers avoid abrupt edges between forests and large areas of open land, although
+they are known to associate with small canopy gaps and small internal forest openings (Wood et al. 2006, Perkins 2006).
+
+This species undertakes a relatively long migration for its size (Hamel 2000b), covering a distance of approximately 2,500 miles.  The migratory pathway is not well known, but it likely includes flights across the Gulf of Mexico and stops at a limited number of locations in Central America and northern Colombia or Venezuela.  Cerulean Warblers winter in broad-leaved evergreen forests within a relatively narrow band of middle elevations (500-1,700m) in the Andes Mountains of northern South America (primarily in Colombia, Venezuela, and Ecuador). They prefer primary mature forests exhibiting old-growth conditions, but they are also known to
+use mature shade coffee plantations with broken canopies (Robbins et al. 1992, Jones et al. 2000, Moreno et al. 2006).  As with its breeding habitat, a structurally diverse canopy with multiple vegetation layers appears to be an important component of its wintering habitat.
+
+Population Status
+Cerulean Warbler numbers have declined at the steepest rate of any North American warbler
+species monitored by the North American Breeding Bird Survey (BBS) [Sauer et al. 2005]. Published analyses of BBS data report an average decline of 3.04%/year from 1966-2000 (Link and Sauer 2002) using a hierarchical modeling analysis method.  More recent analyses using the same method indicate no change in this trend, with an average rate of -3.2%/year over the past
+
+
+
+
+3
+40 years, from 1966-2005 (J. Sauer, unpublished data; see figure to the right – note that these trend estimates are different than what is currently available on the BBS website [Sauer et al. 2005], which reports results using the route regression method).  Limited historical records suggest that the Cerulean Warbler was once a common species in parts
+of eastern North America, particularly the Mississippi River and Ohio River valleys (Hamel 2000a,b).  It now is common only in a limited portion of its breeding range (i.e., the “core” of the range in the central portions of
+the Appalachian Mountains).  This long-term,  
+
+Cerulean WarblerTrend 1966-2005
+1
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+1     6    11   16   21   26   31   36
+
+BBS Year
+steep decline is one of the primary reasons for a high level of concern for this species. 
+
+Projections of future population trends based on an assumption of these historic BBS trends continuing into the future indicate there is about a 90% probability that within 100 years Cerulean Warblers will decline to a population size that is about 10% of their current numbers (Thogmartin et al. 2006).  These projections assume no change in either the magnitude of threats or magnitude of conservation effort for this species.  In addition, preliminary analyses of population growth rates suggest that Cerulean Warblers might be demographically limited by a combination of low survival rates during the non-breeding period along with low reproductive rates in parts of its breeding range (Jones et al. 2004, Buehler et al. manuscript in review). 
+
+Summary of Federal and State Legal Status
+The Cerulean Warbler is not federally listed under the Endangered Species Act in the United States. The USFWS was petitioned to list it as threatened, but a decision to not list the species was released in November 2006.  Cerulean Warblers are protected under the Migratory Bird Treaty Act.   They are also included in the list of Birds of Conservation Concern maintained by the USFWS.  In Canada, the Cerulean Warbler is listed under the federal Species at Risk Act as a species of special concern. Five states list Cerulean Warbler as either threatened or endangered under state authorities.  Eleven states and the province of Ontario identify it as a species of concern or watch list species.  It is also identified as a Species of Greatest Conservation Need within the Wildlife Action Plans of 22 states.
+
+Limiting Factors and Threats to the Species
+Limiting factors for Cerulean Warblers are not well understood.  However, it is widely assumed
+that loss of habitat quantity and degradation of habitat quality on the non-breeding and breeding habitats are critical factors that have contributed to the observed declines.  Several non-habitat factors are also potential threats for the future.
+
+During a Cerulean Warbler Technical Group meeting in February 2007, participants were polled regarding their opinions about the factors most important in limiting Cerulean Warbler populations. The factors that participants collectively identified as the most important included loss and degradation on non-breeding habitat due to land use changes, degradation of breeding
+
+
+
+
+4
+habitat due to forest fragmentation effects, and loss of breeding habitat quantity due to landscape-scale land use alterations (e.g. mining, agriculture, etc.).  Collectively, these factors are identified as the highest priority threats to Cerulean Warbler populations and the greatest impediments to reaching the desired population goal (see below) for this species.
+
+Loss and Degradation of Non-breeding Habitat
+Destruction of winter habitat is considered a major contributor to historic population declines and a continuing major threat in the future.  The areas where Cerulean Warblers winter (humid forested slopes primarily between 800-1,600m in the Andes Mountains) are prime locations for human development and agriculture.  Primary forests at these elevations are being cleared for the production of coffee, coca, tea, and hill rice, and for pasture to graze livestock (Robbins et al.
+1992).  An estimated 60% of the wintering habitat for Cerulean Warblers might already have
+been lost to these activities (Moreno et al. 2006).  Such loss not only directly limits habitat availability but it also impacts overall landscape context by degrading the quality of surrounding habitat.  In addition to the loss of primary forest, secondary forest habitats, such as those provided by shade coffee or other shade-grown agricultural products, are also being lost to land use changes.  The reduced amount of suitable habitat likely results in reduced over-winter survival rates or reduced overall body condition.  Reduced body condition could result in reduced survival during spring migration or reduced capacity for reproductive output on the breeding grounds.
+
+Loss of migratory stop-over habitat is also a threat to this species. Just as the wintering ground habitat is under pressure from human development, so is stop-over habitat in Central America. In addition, substantial loss of suitable stop-over habitat for many neotropical migrants has
+occurred along the Gulf coast of the U.S. (Barrow et al. 2005).  Natural habitats along the barrier islands and coast line along the Gulf of Mexico are critical habitat for exhausted birds that have made the long migratory flight across the Gulf.  The lack of suitable habitat along the U.S. Gulf coast and pressures on stop-over habitat in Central America constitute specific threats to Cerulean Warblers that can result in decreased survival.
+
+Loss and degradation of breeding habitat
+Three aspects of change to breeding habitat represent threats to Cerulean Warblers: 1) outright
+loss of mature deciduous forest, 2) forest fragmentation, and 3) loss of appropriate vegetation structure within mature deciduous forest.  All of these can result in reduced reproductive output for this species.  Outright loss of breeding habitat to other land uses (such as agriculture, surface mining, and urbanization) likely leads to a smaller overall breeding population and lower reproductive output.  For instance, approximately 80 percent of the original forest cover in the Mississippi Alluvial Valley region has been converted to non-forest uses (Brown et al. 2000), and Cerulean Warblers, once considered an abundant bird in these forests (Hamel 2000a,b), are now uncommon in this region.  Forest loss and forest fragmentation are often closely tied, as areas that have sustained substantial forest loss are the ones where forest fragmentation is likely to be a problem.  Forest fragmentation is a threat because of the strong demonstration of increased nest predation and nest parasitism rates on forest songbirds within fragmented landscapes.  The birds’ reproductive success is negatively affected under such conditions (Robinson et al. 1995, Donovan et al. 1995). Effects of forest fragmentation are likely to continue to be a threat in the less-forested portions of this species’ range (e.g., lower Mississippi
+
+
+
+
+5
+River valley, Ohio River valley) as well as in areas where human-caused disturbance has the potential to remove substantial forest acres from well-forested areas (e.g., mountaintop mining region [see Weakland and Wood 2005, Wood et al. 2006, Buehler et al. in press], areas close to human population centers where forest clearing for development is likely to occur).  Finally, Cerulean Warblers have highly specific preferences for mature forests with complex vegetation structure in the canopy (Jones and Robertson 2001, Jones et al. 2001, Nicholson 2003, Perkins
+2006).  The amount of mature deciduous forest in eastern North America with these vegetation characteristics is thought to have decreased over the last century.  Where these structural forest conditions are lacking, Cerulean Warblers breed in sub-optimal habitats and are likely to experience reduced reproductive success.
+
+Non-habitat Threats
+Several potential threats from non-habitat factors exist for Cerulean Warblers, although none have been studied sufficiently to know the degree of threat these issue might pose.  These threats include: increased frequency of catastrophic weather events (particularly hurricanes during the fall migratory period), other potential effects from climate change such as shifts in location of suitable forest types and timing of emergence of insects in the spring, risks from collisions with towers (including off-shore oil platforms, wind farms, communications towers, etc.), mercury contamination, acid deposition, and effects of diseases (e.g., West Nile virus, avian influenza).
+
+Desired Condition – Population Goal
+During the Cerulean Warbler Technical Group meeting in February 2007, a Survey Monkey
+exercise was used to assess participants’ opinions about population objectives for Cerulean Warblers.  A majority of participants (70%) selected a goal of doubling the current population within 50 years and restoring it to 1980s levels within that time period.  Although there was variability in opinions about the most appropriate population objective, the Technical Group agreed to accept the goal of doubling the current population as its goal.
+
+Actions Needed to Achieve Desired Condition
+For Cerulean Warblers, it appears that conservation efforts to address threats to both breeding
+and non-breeding habitat, and to assess potential threats from non-habitat factors, will be necessary to achieve the desired condition.  As identified above, the highest priority threats to be addressed stem from land use changes in South America, as well as forest fragmentation and landscape-scale habitat alterations in North American.  The conservation actions listed below address these highest priority limiting factors, along with other factors likely to be contributing
+to the decline of Cerulean Warblers.
+
+An over-arching need for the entire conservation strategy of this species is to maintain an active Cerulean Warbler Technical Group (CWTG), a broad-based private and public partnership working on Cerulean Warbler conservation outside of the regulatory arena. A critical need of the CWTG for communications and outreach is the development of a Cerulean Warbler conservation website, including more detailed information on the following conservation actions and more regionally- and locally-specific recommendations than can be included in this document.
+
+
+
+
+
+
+
+
+6
+Conservation Actions to Address Threats to Non-breeding Habitat and Information Gaps during the Non-breeding Period
+1.   Protect and Improve Cerulean Warbler habitat in South America
+A.  Complete map of current Cerulean Warbler wintering range and model of available
+wintering habitat
+B.  Establish standardized survey efforts and population trend monitoring in South America
+C.  Assess existing levels of conservation protection for wintering habitats
+D.  Protect habitats currently used by Cerulean Warblers in South America, including
+primary forest as well as secondary habitats such shade coffee plantations and other shade-grown agricultural systems
+E.  Conduct research on Cerulean Warbler wintering ecology, including temporal patterns in distribution, knowledge of specific habitat parameters, survival by habitat types, and time
+periods when they are most vulnerable to mortality
+F.  Study factors influencing land use patterns and production of shade-grown coffee in
+South America in order to make recommendations on how to retain suitable secondary habitats for Cerulean Warblers
+G.  Establish outreach and education programs to communicate awareness of non-breeding ground bird issues in South America and promote linkages between countries.
+2.   Protect migration habitat in Central America and along the Gulf coast in the U.S.
+A.  Map migratory pathways and important stop-over sites between the southern U.S.,
+Central America, and northern South America and model potential stopover habitat.
+B.  Assess existing level of conservation protection and develop conservation programs to
+protect key migration sites in Central America
+C.  Provide adequate quality and quantity of spring migratory landfall habitat along the U.S.
+Gulf coast
+D.  Establish outreach and education programs to build awareness of migratory bird issues in
+Central America and promote linkages between countries
+
+Conservation Actions to Address Threats to Breeding Habitat and Information Gaps during the
+Breeding Period
+3.   Improve Cerulean Warbler breeding habitat in North America
+A.  Develop and implement forest management recommendations for Cerulean Warblers that
+can be incorporated into management plans for public and private forestlands within the breeding range – including the monitoring of fitness parameters so that effects of management actions can be assessed
+B.  Develop and implement surface coal mining recommendations for Cerulean Warblers
+that can be incorporated into federal and state mine regulatory agency permitting processes within the breeding range.
+C.  Reduce forest fragmentation and prevent major forest loss on the breeding grounds
+D.  Identify and manage for high quality post-fledging habitat
+E.  Refine population goals for Cerulean Warblers; develop habitat conservation objectives and identify focus areas for habitat conservation efforts to support population goals
+F.  Establish education and outreach programs for regional and local development planners
+4.   Reduce critical knowledge gaps regarding demographics, population size and trend, and life
+history
+
+
+
+
+
+7
+A.  Increase knowledge about the biology of female Cerulean Warblers to understand if their conservation needs different from males (e.g., how do microhabitat preferences differ between sexes?  Do survival rates or site fidelity differ between the sexes?)
+B.  Study intrinsic limits to fecundity and differences in habitat selection between sex and
+age groups to target better management
+C.  Investigate factors affecting post-fledging survival
+D.  Increase knowledge about dispersal patterns (juvenile and adult) and factors affecting dispersal, including strength of site fidelity, responses to habitat loss, and sensitivity to habitat fragmentation
+E.  Identify foraging constraints of migratory fattening
+F.  Establish extent and pattern of migratory connectivity (preliminary data suggest a north- north/south-south latitudinal connection between breeding and non-breeding populations)
+G.  Develop annual stage-specific life history model
+H.  Improve ability to monitor population trends and estimate population size on the breeding
+grounds at appropriate spatial scales
+I.   Develop models of how markets and levels of demand for wood products and energy
+products are likely to influence habitat availability and suitability for Cerulean Warblers
+
+Conservation Actions to Identify and Address Non-habitat Limiting Factors
+5.   Assess potential effects of various non-habitat limiting factors
+A.  Model the potential for impacts of catastrophic weather events, particularly hurricanes during the fall migratory period
+B.  Assess and reduce/mitigate risks from collisions (including off-shore oil platforms, wind farms, communications towers, etc.)
+C.  Investigate correlations between climate change and forest availability as a potential tool for predicting future changes in Cerulean Warbler distribution and management needs
+D.  Investigate correlations between climate change, timing of spring arrival of Cerulean
+Warblers on breeding grounds, and timing of emergence of insect prey populations
+E.  Investigate the potential effects of mercury contamination and acid deposition
+F.  Investigate the potential effects of disease
+
+Table 1 at the end of this document provides rough estimates of costs associated with these actions, as well as cooperating partners and anticipated outcomes for each action.
+
+Evaluating Accomplishments
+Assessing progress toward a desired condition for Cerulean Warbler, as described above, will be
+accomplished primarily by tracking the global breeding population trend through the Breeding Bird Survey.  This plan initially proposes assessing changes in population trend on a 5-year interval to evaluate progress toward reaching the desired condition.
+
+If improved methods for estimating total population sizes of landbird species are developed such that the precision of those estimates is improved, total population size could be another metric by which to assess progress toward the ultimate desired condition.  However, current total
+population estimates are not precise enough to use confidently in assessing progress toward a
+desired condition.
+
+
+
+
+
+8
+In addition to tracking population trends to evaluate status of the species relative to the desired condition, other measures of progress will be tracked as well.  Progress reports describing activities accomplished through USFWS Focal Species and SMA (Survey Monitoring and Assessment) funds will be prepared annually.  These reports will also describe activities undertaken by the CWTG through its partner organizations.  In addition, the possibility of developing databases for tracking research and habitat management project accomplishments through a CWTG website will be pursued.  Such a database would provide a means for evaluating which priority information needs are being addressed and potentially for tracking amounts of habitat that are being managed and/or protected specifically for the purposes of Cerulean Warbler conservation.
+
+Completed and On-going Conservation Actions
+Since its inception in 2001, the CWTG, through its various working groups and the efforts of collaborating partners, has initiated work on a number of important conservation actions.  The following list details some of this work, with the parenthetic number and letter combinations referencing the list of conservation actions above:
+•   Maintaining regular communications among the coordinating committee of the CWTC
+•   Conducted numerous research projects on various aspects of the life history and ecology of Cerulean Warblers, including breeding habitat preferences (3A & 4A), population level genetic diversity, evidence of juvenile and adult dispersal across the breeding range (4D), estimates of nesting success and annual survival (3A, 4B & 4G), preliminary demographic population models (4G), and analysis of shifts in core breeding areas over time and in relation to climatic factors (5C & 5D)
+•   Initiated a multi-year experimental study investigating the response of Cerulean Warblers to silvicultural treatments that provide management options for breeding ground habitat (3A)
+•   Collected historic records of non-breeding observations and conducted additional surveys for Cerulean Warblers on the non-breeding grounds; based on these observations, created several models of potential winter and migratory stopover habitat distribution with plans to conduct additional surveys to evaluate these models (1A & 2A)
+•   Conducted expanded breeding ground surveys on private forest lands (4H)
+•   Established a non-breeding website portal for collecting additional records of Cerulean
+Warbler sightings during the migratory periods and on the wintering grounds (1B & 2A)
+•   Held initial meetings with representatives of the forest products and coal mining industries to begin dialogues regarding development of  recommended forestry and mining practices/prescriptions for Cerulean Warbler conservation (3A & 3B)
+•   The Cerulean Warbler Technical Group held a large workshop to get further review and input on this action plan and to gain increased participation in Cerulean Warbler conservation activities from a broad partnership of government, non-government, and industry groups (3E).
+
+
+
+
+
+
+
+
+
+
+
+9
+Literature Cited
+Barrow, W.C., Jr., L.A. Johnson Randall, M.S. Woodrey, J. Cox, E. Ruelas I., C.M. Riley, R. B.
+Hamilton, and C. Eberly.  2005.  Coastal forests of the Gulf of Mexico: a description and some thoughts on their conservation.  Pp. 450-464 in C.J. Ralph and T.D. Rich, eds.  Bird Conservation Implementation and Integration in the Americas: Proceedings of the Third International Partners in Flight Conference.  Volume 1.  Gen. Tech. Rep. PSW-GTR-191. Albany, CA:  Pacific Southwest Research Station, Forest Service, U.S. Department of Agriculture.
+
+Brown, C.R., C. Baxter, and D.N. Pashley.  2000.  The ecological basis for the conservation of migratory birds in the Mississippi Alluvial Valley.  Pp. 4-7 in in Bonney, R., D.N. Pashley, R.J. Cooper, and L. Niles, eds. Strategies for bird conservation: the Partners in Flight planning process; Proceedings of the third Partners in Flight workshop. Proceedings RMRS-P-16. USDA, Forest Service, Rocky Mountain Research Station, Ogden, UT.
+
+Buehler, D.A., M.J.Welton and T.A. Beachy.  In Press.  Predicting Cerulean Warbler habitat and populations in the Cumberland Mountains of Tennessee.  Journal of Wildlife Management.
+
+Donovan, T.M., F.R. Thompson, III, J. Faaborg, and J.R. Probst.  1995.  Reproductive success of migratory birds in habitat sources and sinks.  Conservation Biology 9:1380-1395.
+
+Hamel, P.B. 2000a.  [Online]. Cerulean Warbler Status Assessment. U.S. Department of the
+Interior, Fish and Wildlife Service, Minneapolis, Minnesota.
+<www.fws.gov/midwest/endangered/birds/cerw/cerw-sa.pdf>.
+
+Hamel, P. B. 2000b. Cerulean Warbler (Dendroica cerulea). In The Birds of North America, No.
+511 (A. Poole and F. Gill, eds.). The Birds of North America, Inc., Philadelphia, PA.
+
+Jones, J., P. Ramoni-Perrazzi, E. H. Carruthers, and R.J. Robertson. 2000. Sociality and foraging behavior of the Cerulean Warbler in Venezuelan shade coffee plantations. Condor
+102(4):958–962.
+
+Jones, J. and R. J. Robertson.  2001.  Territory and nest-site selection of Cerulean Warblers in
+Eastern Ontario. The Auk 118(3):727-735.
+
+Jones, J., R. D. DeBruyn, J. J. Barg, and R. J. Robertson. 2001. Assessing the effects of natural disturbance on a Neotropical migrant songbird. Ecology 82:2628-2635.
+
+Jones, J., J.J. Barg, T. S. Sillett, M. L. Veit and R. J. Robertson.  2004.  Minimum estimates of survival and population growth for Cerulean Warblers (Dendroica cerulea) breeding in Ontario, Canada. The Auk 121:15–22.
+
+Link, W. A., and J. R. Sauer.  2002.  A hierarchical analysis of population change with application to Cerulean Warblers. Ecology 83:2832–2840.
+
+
+
+
+10
+Moreno, M.I., P. Salaman, and D. Pashley.  2006.  A compilation of the current Cerulean Warbler status in the non-breeding areas.  Unpublished report to the USFWS.  ProAves Columbia and American Bird Conservancy.  Bogotá, Colombia, and The Plains, VA.
+
+Nicholson, C.P.  2003.  Ecology of the Cerulean Warbler in the Cumberland Mountains of East
+Tennessee.  Ph.D. Dissertation.  University of Tennessee, Knoxville, TN.
+
+Oliarnyk, C. J., and R. J. Robertson.  1996.  Breeding behavior and reproductive success of
+Cerulean Warblers in southeastern Ontario. Wilson Bulletin 108:673–684.
+
+Perkins, K.A. 2006.  Cerulean Warbler Selection of Forest Canopy Gaps. Master's Thesis, West Virginia University, Morgantown, WV. https://eidr.wvu.edu/etd/documentdata.eTD?documentid=4596
+
+Rich, T.D., C.J. Beardmore, H. Berlanga, P.J. Blancher, M.S. W. Bradstreet, G.S. Butcher, D.W.
+Demarest, E.H. Dunn, W. C. Hunter, E.E. Inigo-Elias, J.A. Kennedy, A.M. Martell, A.O.
+Panjabi, D.N. Pashley, K.V. Rosenberg, C.M. Rustay, J.S. Wendt and T.C. Will. 2004. Partners in Flight North American Landbird Conservation Plan. Cornell Laboratory of Ornithology, Ithaca, NY.
+
+Robbins, C.S., J.W. Fitzpatrick, and P.B. Hamel.  1992. A warbler in trouble: Dendroica cerulea.
+Pp. 549–562 in Ecology and conservation of Neotropical migrant landbirds (J. M. Hagan,
+III, and D. W. Johnston, eds.). Smithsonian Institution Press, Washington, D.C.
+
+Robinson, S.K., F.R. Thompson, III, T.M. Donovan, D. Whitehead, and J. Faaborg.  1995.
+Regional forest fragmentation and the nesting success of migratory birds.  Science
+267:1987-1990.
+
+Rosenberg, K.V,  S.E. Barker, and R.W. Rohrbaugh.  2002.  An Atlas of Cerulean Warbler Populations.  Final Report to USFWS: 1997–2000 Breeding Seasons.  Cornell Laboratory of Ornithology, Ithaca, NY.
+
+Sauer, J. R., J. E. Hines, and J. Fallon. 2005. The North American Breeding Bird Survey, Results and Analysis 1966 - 2005. Version 6.2.2006. USGS Patuxent Wildlife Research Center, Laurel, MD
+
+Thogmartin, W.E., J. R. Sauer, P. Hamel, M.G. Knutson, J. Baldy, E. Ozdenerol, J.Cochrane, T.
+Will, R. Dettmers, P. Wood. 2006.  Modeling for Cerulean Warblers on the breeding
+ground.  Abstract.  Paper presented at Fourth North American Ornithological Conference, Veracruz, Mexico, October 2006.
+
+Weakland, C.A., and P.B. Wood.  2005.  Cerulean Warbler (Dendroica cerulea) microhabitat and landscape-level habitat characteristics in southern West Virginia. Auk 122:497–508.
+
+Wood, P.B., S.B. Bosworth, and R.Dettmers.  2006.  Cerulean Warbler abundance and occurrence relative to large-scale edge and habitat characteristics.  Condor 108:154-165.
+
+
+
+
+11
+
+Table 1.  Summary of Conservation Actions, Estimated Costs, Cooperating Partners, and Anticipated Outcomes Conservation Action                                                     Estimated Cost             Cooperating Partners                           Anticipated Outcomes Protect and Improve Cerulean Warbler habitat in
+South America
+A.  Complete map of current Cerulean Warbler wintering range and model of available wintering habitat
+
+
+B.  Assess existing levels of conservation protection for wintering habitats
+
+
+
+
+C.  Protect and manage habitats currently used by
+Cerulean Warblers in South America
+
+
+D.  Establish outreach and education programs to communicate awareness of non-breeding ground bird issues in South America and promote linkages between countries
+
+Protect migration habitat in Central America and the Gulf coast in the U.S.
+A.  Map migratory pathways and important stop- over sites between the southern U.S., Central America, and northern South America
+
+
+B.  Develop conservation programs to protect key migration sites in Central America
+
+
+C.  Provide adequate quality and quantity of spring migratory landfall habitat in the southern U.S.
+$50,000/year for 3 years
+
+
+
+
+$25,000/year for 3-4 years
+
+
+
+
+$100,000-
+$200,000/year for
+10-15 years
+
+$10,000-20,000/year for 8-10 years
+
+
+
+
+
+
+$30,000-
+$40,000/year for 5 years
+
+
+$20,000-40,000/year for 10-15 years
+
+
+$20,000-30,000/year for 10-15 years
+El Grupo Cerúleo, including The Nature Conservancy, American Bird Conservancy, USDA Forest Service, Bird Life International, ProAves, USFWS, and others
+El Grupo Cerúleo, including The Nature Conservancy, American Bird Conservancy, Bird Life
+International, ProAves, and others
+
+South American and North American conservation organizations
+
+South American and North American conservation organizations
+
+
+
+
+
+Central American and North American universities, government research programs, and conservation organizations
+
+Central American and North American conservation organizations
+
+North American conservation organizations and land management agencies
+Habitat Conservation: Identification of key areas of wintering habitat where protection and management activities can be directed
+Habitat Conservation: Identification of key areas of wintering habitat where increased protection or management activities are needed
+Increased Population: Reduce the rate of loss of wintering habitat, resulting in improved annual survival rates and population trend Habitat Conservation: Develop broader public support for and participation in the protection and management of wintering habitat – resulting in less habitat loss
+
+
+Habitat Conservation: Identification of key migratory stop- over locations where protection and management activities can be directed
+Increased Population:  Improved survival rates during the migration period, resulting in improved population trend
+Increased Population: Improved survival rates during the migration period, resulting in improved population trend
+
+
+
+
+12
+
+Conservation Action                                                     Estimated Cost             Cooperating Partners                           Anticipated Outcomes
+D.  Establish education programs to build awareness of migratory bird issues in Central America and promote linkages between countries
+
+Improve Cerulean Warbler breeding habitat in
+North America
+A.  Develop and implement forest management recommendations for Cerulean Warblers
+
+
+B.  Reduce forest fragmentation and prevent
+major forest loss (including loss from surface coal mining) on the breeding grounds
+
+
+C.  Refine population goals for Cerulean Warblers; develop habitat conservation objectives and identify focus areas
+
+
+Assess potential effects of various non-habitat limiting factors
+
+
+
+Reduce critical information gaps
+A.  Conduct research on Cerulean Warbler wintering ecology
+
+
+
+
+
+B.  Conduct research on demographics, including fecundity, survival, and dispersal
+
+
+C. Improve ability to monitor populations at a variety of spatial scales and to assess effectiveness of conservation activities
+$10,000-20,000/year for 5-10 years
+
+
+
+
+
+$100,000/year for 5 years
+
+
+$100,000/year for
+10-15 years
+
+
+
+
+$10,000-
+$20,000/year for 3-5 years
+
+
+$80,000-
+$100,000/year for 10 years
+
+
+
+
+$80,000-
+$100,000/year for 10 years
+
+
+
+
+$80,000-
+$100,000/year for 10 years
+
+$25,000 -
+$50,000/year for 10 years
+Central American and North American conservation organizations
+
+
+
+
+CWTG, especially the Breeding
+Season Conservation Group
+
+
+Government agencies, private industry, conservation groups
+
+
+
+
+CWTG and Partners in Flight, including USFWS, USGS, join ventures, and universities
+
+
+CWTG, especially USGS, USFWS, and universities
+
+
+
+
+
+South American and North American universities, government research programs, and conservation organizations
+
+
+CWTG, especially universities, USGS, and USFWS
+
+
+Federal and state wildlife agencies, USGS, universities, NGO conservation organizations, industry
+Habitat Conservation: Develop public support for and participation in protection of habitat, resulting in less habitat loss
+
+
+Increased Population: Improved quality of breeding habitat, resulting in increased reproductive success and improved population trend Increased Population: Reduced
+rate of breeding habitat loss,
+resulting in greater population-level reproductive success and improved population trend
+Improved Knowledge for Better Implementation: Improved strategic process for prioritizing most important locations for conservation actions
+Improved Knowledge for Better Implementation: Identification of non-habitat factors that are or could limit population growth and means for reducing effects of such factors
+
+Improved Knowledge for Better Implementation: Understanding the characteristics of good wintering habitat so that those features can be targeted with protection and management actions
+Improved Knowledge for Better Implementation: Improved understanding of limiting factors, and how to manage for them Improved Knowledge for Better Implementation: understand the effects of conservation actions
+
+
+13
+
+Conservation Action                                                     Estimated Cost             Cooperating Partners                           Anticipated Outcomes
+D.  Develop means for understanding how changes in demands and markets for wood, energy, and agricultural products (e.g., coffee) are likely to effect Cerulean Warbler habitat
+Total costs for implementing all conservation actions in this plan1
+$30,000 -
+$50,000/year for 5 years
+
+$6,235,000 -
+$10,750,000 over 10-
+15 years
+Industries, universities, government research agencies, NGOs
+Improved Knowledge for Better Implementation:  better ability to incorporate effects from market forces into conservation actions
+1 Cost estimates are rough approximations of funds necessary for carrying out conservation actions and are highly speculative, particularly for periods more than
+3 years in the future.  Also note that the time frame for reaching the desired condition for this species is 30-40 years in the future, so the cost estimates provided here apply to only one-half to one-third of the time period in which it might be reasonable to achieve the desired condition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14

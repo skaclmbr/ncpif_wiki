@@ -1,0 +1,959 @@
+UNDERSTANDING DECLINES IN THE RUSTY BLACKBIRD (EUPHAGUS 
+
+CAROLINUS): AN INDICATOR OF WOODED WETLAND HEALTH  
+
+A research strategy and proposal from the  International Rusty Blackbird Technical Group (IRBTG)  July 2005
+
+
+Reviewed for progress, September 2009
+TABLE OF CONTENTS  
+
+A review of this research strategy                                                                           3  I.  Executive Summary                                                                                            4  II. Members of the Working Group                                                                        8  III. Background                                                                                                       9  IV. The Decline and Possible Explanations                                                          11  V. Critical Questions for a RUBL Research Program                                          14  VI. Individual Project Components                                                                       16  
+1.         Winter Ecology, Population Biology, and Monitoring                   17  
+1.1.      Basic Winter Ecology                                                                          17  
+1.2.      Ecological plasticity, Neophobia, and Competitive Abilities in   
+RUBLs                                                                                                 19  
+1.3.      Effects of Climate and Land Use on Changes in RUBL Abundance   
+and Distribution                                                                                   21  
+1.4.      Monitoring Winter Populations                                                           22  
+1.4.1.   Development of Monitoring and Atlas Programs                               22  
+1.4.2.   Monitoring the Future Effects of Bottomland Afforestation               24  
+2.         Population Connectivity                                                                    25  
+2.1.      Breeding-Wintering Population Linkages                                           27  
+2.2.      Mapping Zones of Productivity                                                           27  
+2.3.      Migration Route Connectivity                                                             27  
+2.4.      Historical Connectivity                                                                        28  
+3.         Breeding Ecology, Population Biology, and Monitoring               28  
+3.1.      Breeding Atlas                                                                                     28  
+3.2.      Population Biology                                                                              30  
+3.3.      Linking Environmental Changes to Population Decline                     31  
+3.3.1.   Climate Change                                                                                   31  
+3.3.2.   Anthropogenic Habitat Change                                                           31  
+3.3.3.   Contaminants                                                                                       32  
+4.         Population Health Assessment                                                            33  
+5.         Cross-Seasonal Demographic Modeling                                             34  VII. Mechanisms for Research Synthesis                                                             34  VIII. Literature Cited                                                                                             35  
+
+
+
+
+
+
+
+2
+A REVIEW OF THIS RESEARCH STRATEGY  
+
+Most of what has been published about the ecology of the Rusty Blackbird (Euphagus carolinus) is quite cursory and comes from brief descriptions in regional avifaunal accounts that were first summarized by Bent (1958) and later updated by Avery (1995). The steep and range-wide declines among Rusty Blackbirds were first documented by Link and Sauer (1996), later covered in detail by Greenberg and Droege (1999), and became the best known aspect of these species’ ecology, although the cause of this decline remains a mystery. As late as 2005, the Rusty Blackbird’s decline remained poorly publicized and no detailed studies had been initiated to understand the species’ resource requirements, basic biology, or causes for decline. The International Rusty Blackbird Technical Group (Group) was formed in the spring of 2005 to address this gap (Greenberg 2008). As their first task, the Group developed this research strategy to articulate what they thought were the initial research studies that were needed to understand the species’ ecology and direct conservation to reverse its decline.
+In this review we examine this research strategy and briefly summarize in blue the progress that has been made toward accomplishing each of the outlined goals (see PROGRESS). We include in parentheses the names of the researchers addressing each goal or recommended study. Their full names and contact information can be found
+online at the Smithsonian Institutions website at [http://nationalzoo.si.edu/ConservationAndScience/MigratoryBirds/Research/Rusty_Blac kbird/twg.cfm, September 2009], unless otherwise included in this document. We do not include the results of the initiated studies because most remain unpublished; however, many of the projects have recently submitted their findings for publication.
+In our review, we have found that the Group has done much to publicize and understand declining Rusty Blackbirds. This has helped raise the species’ profile from perceived pest to poster child for boreal forest conservation. Most of the studies that are recommended in this research strategy have been initiated. The resulting information is now being summarized into publications on the species’ basic ecology and resource requirements. The Group has been quite effective in facilitating communications among researchers working on this species through a combination of regular conference calls, periodic meetings, and a website to disseminate information. The Group recently reorganized itself to better facilitate the conservation and study of this species. Future efforts by the Group could focus more narrowly on 1) understanding the mechanisms for the species’ decline, 2) assessing the effects of disturbances and habitat enhancements on breeding and wintering populations, 3) enhancing and protecting key habitats in regions that either support large concentrations of the species or are experiencing the highest rates of Rusty Blackbird decline. The Group is currently writing a second action plan to update us on what they have learned and to identify what they feel are the highest priority information and conservation needs of the species. To learn more about the Rusty Blackbird and the Group please visit the Smithsonian Institutions website (http://nationalzoo.si.edu/ConservationAndScience/MigratoryBirds/Research/Rusty_Blac kbird/)
+
+
+
+
+
+
+
+
+3
+I. EXECUTIVE SUMMARY  
+
+The Rusty Blackbird (RUBL, Euphagus carolinus) is a widespread North American species that has shown chronic long-term and acute short-term population declines, based both on breeding season and wintering ground surveys. RUBLs are ecologically distinct from other blackbirds, depending upon boreal wetlands for breeding and bottomland wooded-wetlands for wintering. The decline, although one of the most profound for any North American species, is poorly understood. Moreover, no conservation or monitoring programs exist for this species. Given the species close association with wooded wetlands throughout the year, it could prove to be an excellent indicator species for environmental processes in these threatened ecosystems.
+In this proposal we describe a cross-seasonal and comprehensive research program to develop the information to understand the causes and ecological significance of the RUBL decline. This information and the future information gathered by long-term monitoring programs are critical to developing on-the-ground conservation strategies and management programs to stem the rapid decline of this species.
+The research and monitoring program is designed to obtain critically-needed information in three different areas: 1) basic ecology and natural history; 2) the effects of specific possible causes for declines; and 3) the most efficacious survey techniques and monitoring program. To address these areas we have developed a series of high priority research activities:
+
+
+Short-term goals
+
+•    Establish intensive studies of breeding and winter population biology and trophic ecology using marked and radio-tagged birds.
+PROGRESS: Significant progress with intensive studies established for ≥2 years at breeding locations in Alaska (S. Matsuoka, D. Shaw) and New England (L. Powell) and wintering areas in Arkansas (J. Luscier), Illinois (J. Hoover) Mississippi (C. Mettke-Hofmann, P. Hamel, R. Greenberg), and South Carolina (N. Dias, R. Greenberg, P. Newell, S. Schweitzer).  Much of the focus of theses studies has been on assessing resource requirements and reproductive success. Results from most of these studies will be submitted for publication in 2009 and 2010. New studies have just begun or are being planned for the near future in other breeding locations in Alaska (D. Tessler) and Ontario (B. Frei) and wintering locations in Virginia (A. McGann) and elsewhere in the southeast (E. DeLeon, P. Stouffer).
+
+
+
+4
+
+•    Establish the connectivity of breeding and wintering populations through feather isotope analysis.
+PROGRESS: The analysis of feather isotopes has been completed and submitted for publication (K. Hobson, R. Greenberg, C. Mettke-Hofmann). Genetics analyses are also planned to assess differentiation among breeding populations in New England, Nova Scotia, New Brunswick, and Alaska and 2) develop mixture models to determine the breeding origins of wintering birds (T. Chesser). Geolocators are being placed on breeding adults in Alaska to record the daily locations of birds for an entire year. (S. Matsuoka, D. Tessler, R. Greenberg).
+
+•    Establish focal studies in the western portion of the breeding range to monitor the effects of wetlands drying and in the eastern portion to assess the impact of acidification and methyl mercury contamination.
+PROGRESS: Mercury contamination has been assessed range-wide with particular focus on breeding populations in the eastern breeding range where Hg levels have been highest (S. Edmonds, D. Evers). Results have been submitted for publication. No work has been initiated to examine the effect of acidification. The effects of logging on the nesting success of birds in New England were assessed and submitted for publication. A new study in Alaska in 2010–2011 will assess the abundance of wetland birds; include Rusty Blackbirds, relative to boreal lake drying and related changes in limnology and aquatic invertebrate communities (Joel A. Schmutz, USGS).
+
+•    Use existing data sets to relate local changes in abundance to climate and land use to develop hypotheses for what is causing the species’ decline.
+PROGRESS: Annual variation in the winter distribution of Rusty Blackbirds was analyzed and the results will soon be published (Hamel and Ozdenerol, in press). However, no progress has been made towards analyzing the existing data sets relative to changes in climate or land use.
+
+•    Develop survey techniques that can be used in a pilot and breeding and winter atlas projects.
+PROGRESS: Rigor methods for surveying breeding Rusty Blackbirds have been tested and refined in Alaska (S. Matsuoka, D. Shaw) and New England (L. Powell). A plan for monitoring northeastern breeding populations was developed based on surveys conducted in New England; however, the plan has not been implemented due to a lack of funds (L. Powell, C. Foss).  Replications of breeding atlases in New England, Ontario, and the Maritime Provinces are providing information on range contractions in the southeastern breeding range. In contrast, wetland surveys conducted in the Northwest Territory in the 1970s were recently replicated but did not find evidence of population changes in Rusty Blackbirds (Machtans et al. 2007).
+
+
+
+5
+
+Occupancy surveys using point counts were also applied to wintering populations in Arkansas and Mississippi (J. Luscier) with results submitted for publication. The Rusty Blackbird Winter Hotspot Blitz was organized and conducted throughout the primary winter range for the first time in 2009.  Preliminary results are available on the Smithsonian website [http://nationalzoo.si.edu/ConservationAndScience/MigratoryBirds/Research/Rusty_ Blackbird/blitz_results.cfm, September 2009] (R. Greenberg, B. Sullivan).
+
+Long-term Goals:
+
+•    Synthesize demographic data gathered at multiple breeding and winter sites along with connectivity information to begin to build population models.
+PROGRESS: Data have been collected on reproductive output at multiple breeding locations in Alaska (S. Matsuoka, D. Shaw) and New England (L. Powell) since
+2006.  Results from these studies have been submitted for publication. Banding data are just beginning to amass in Alaska to assess survival and recruitment rates (S. Matsuoka, D. Shaw, D. Tessler). Studies are still needed to assess adult survival and recruitment rates in breeding locations outside of Alaska and to estimate overwinter survival in the principal wintering areas.
+
+
+Develop recommendations to wildlife and land management agencies for the recovery of RUBL populations.
+PROGRESS: Preliminary work indicates that wintering Rusty Blackbirds respond favorably to hydrologic (J. Hoover, J. Luscier) and bottomland forest restoration (Daniel J. Twedt, USGS). However, much more work is still needed on this front. Basic recommendations for managing habitats were included in a manuscript by the Group (R. Greenberg et al., in press; see LITERATURE CITED). Research by C. Mettke-Hofmann has underscored the role of tree mast, particularly planted pecan orchards in increasing the overwintering condition of Rusty Blackbirds. Her research is also identifying important habitats for foraging and night roosts and examining whether the species roosts with other blackbirds, which would make them more vulnerable to control programs. This research is being followed-up by P. Newell to experimentally manipulate pecan abundance and to reforest with pecan trees in a wetlands preserve in South Carolina.
+
+The Group includes the science coordinators from the Atlantic Coast and Lower Mississippi Valley Joint Ventures whom have raised the profile of the species within their regional plans for habitat restorations (C. Watson, R. Wilson). The species has been held as a poster child for boreal forest conservation across Canada (Jeffrey V. Wells, Boreal Songbird Initiative). Results from the early studies by the Group will be published as a special section in the Condor in 2010 and a revision to the Birds of North American account in 2011.
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 
+II. MEMBERS OF THE TECHNICAL GROUP  
+
+Dean Demarest (project coordination) Nongame Bird Program Coordinator, US Fish and
+
+Wildlife Service, Division of Migratory Birds, 1875 Century Blvd, Suite 240
+
+Atlanta, GA 30345
+
+Sam Droege (population trends and natural history) Patuxent Wildlife Research Center, Laurel, Md.
+Christopher Eberly (project coordination) Dept. of Defense Partners in Flight, 60
+
+Fishback Court Warrenton, VA 20186-2900
+
+David C. Evers (contaminants and toxicology) Maine Center for Toxicology and
+
+Environmental Health, University of Southern Maine, Portland, ME 04104
+
+Russell Greenberg (winter ecology, natural history) Smithsonian Migratory Bird Center, National Zoological Park, Washington, DC 20008
+Paul B. Hamel (winter ecology) Southern Hardwood Laboratory, US Forest Service, PO.
+
+Box 227, Stoneville, MS 38776
+
+Keith A. Hobson (breeding ecology, population connectivity) Canadian Wildlife Service,
+
+115 Perimeter Road, Saskatoon, SK S7N 0X4 Canada
+
+Jason D. Luscier (winter population biology and landscapes) Department of Biological
+
+Sciences, University of Arkansas, Fayetteville, AR 72701
+
+Steven M. Matsuoka (breeding ecology and population dynamics) USGS Alaska
+
+Biological Science Center 1011 E. Tudor Rd., Anchorage, AK 99503. Claudia Mettke-Hofmann (winter ecology and behavior) MPI for Ornithology,
+Department of Biological Rhythms and Behaviour, Von-der-Tann-Straße 7, 82346
+
+Andechs, Germany
+
+Esra Ozdenerol-Garner (geographic information analysis) Department of Earth Sciences, University of Memphis, 488 Patterson Street, Memphis, TN 38152
+T. Scott Sillett (population modeling) Smithsonian Migratory Bird Center, National
+
+Zoological Park, Washington, DC 20008
+
+PROGRESS: Visit the Smithsonian Institution’s website for the most current list of members (50 people) [http://nationalzoo.si.edu/ConservationAndScience/MigratoryBirds/Research/Rusty
+_Blackbird/twg.cfm, 24 September 2009].
+
+
+
+
+
+
+8
+III. BACKGROUND
+
+Most species of North American blackbirds (Icteridae) are highly adaptable and have expanded, at least historically, in the face of human development (Orians 1985). The success of the group as a whole, may explain why it has taken a particularly long time to recognize both long-term, chronic and acute declines in at least two species: the Tricolored Blackbird (Agelaius tricolor) in the west (Beedy and Hamilton 1999) and the Rusty Blackbird (RUBL) in the northern and western portions of the North American continent (Greenberg and Droege 1999; Greenberg and Droege 2003; Niven et al. 2004). The Tricolored Blackbird is presently the focus of a concerted monitoring and
+conservation with participation from Point Reyes Bird Observatory, USFWS, USGS, and CDFG, among others. No such similar program exists for the RUBL, despite the fact that the species was recently featured as the North American species showing the sharpest decline in a report by the National Audubon Society (Niven et al. 2004).
+Conservation efforts are most effective when they are initiated while the target species is still common. However, it is impossible to develop a meaningful conservation strategy for a species where the cause or causes of decline are undetermined. Despite the fact the combined breeding and wintering range of the species covers much of North America north of the U.S.-Mexican border, the causes of decline of this species are still far from certain.
+Clues to the cause of the precipitous drop in numbers may be gleaned from the species’ unique natural history. RUBL is arguably the most ecologically specialized of the North American blackbirds both in its feeding habits and habitat uses (Avery 1995). Throughout the year this species feeds to a considerable extent on animal prey and is one of the few bird species restricted year-round to wooded wetlands. The species breeds
+either in isolated or small clusters of pairs in boreal wetlands from northern New England and the Maritime Provinces of Canada, north and west to central Alaska (Figure 1, from Avery 1995). In fact, the RUBL is the passerine species most closely tied to boreal forest wetlands for breeding (Erskine 1977; Spindler and Kessel 1980) where it nests near open water and feeds primarily on the adults and aquatic larvae of wetland insects. RUBLs winter primarily in wooded wetlands of the southeastern United States. An analysis of Christmas Bird Count (CBC) data suggest that the greatest winter concentrations are
+
+
+
+9
+found in the Mississippi River Valley (Niven et al. 2004). The species seems to roost with many other blackbird species, but often is found foraging in single species flocks or together with Common Grackles (Quiscalus quiscula) in or near wooded wetlands and
+only occasionally in agricultural fields with other blackbirds.
+
+
+Fig. 1. RUBL breeding and winter range (from Avery 1995)
+
+
+
+An analysis of the distributional literature for North America birds over from the late 18th to the late 19th century shows a consistent long-term decline in the qualitative assessment of this species’ abundance (Greenberg and Droege 1999). More alarmingly is that both national indicators of songbird abundance, the Breeding Bird Survey (BBS) and the CBC show sharp declines over the past three decades (Greenberg and Droege 1999,
+2003; Niven et al. 2004; Figure 2). BBS data indicate a population trend that averages a decline of more than 10%/yr for the last 30 years. This precipitous decline equates to a loss of over 95% of the population that existed when the Breeding Bird Survey was initiated. Therefore, it appears the RUBLs have shown both long-term chronic and short- term acute patterns of decline.
+Despite the severity of the declines in this species, the bird research and conservation community has been slow to recognize and investigate the plight of this species (Greenberg and Droege 2003). The major features of its life history are known, but none are known thoroughly enough to support the various hypotheses for the species’
+
+
+10
+decline. In the following paragraphs we list what is known about the decline followed by
+
+potential explanations.
+
+
+Fig. 2. Population trends over the last 30 years (line with dots is CBC index trend, line with diamonds is BBS index trend, from Niven et al. 2004)
+
+
+IV. THE DECLINE AND POSSIBLE EXPLANATIONS
+
+What is known
+
+•    The species seems to be rare to absent from a number of areas in the boreal forest where it had been known to be a common breeder. This includes northern Alberta and Saskatchewan, Northwest Territories, and northern Ontario. The only area we know where researchers report reliably large breeding populations is Alaska and Northern Yukon Territories.
+•    Although not well sampled on BBS, the species has shown a sharp global decline for the past 35 years (Greenberg and Droege 1999; Sauer et al.
+2004). The rate of decline has been quite variable with the highest rates in the central and eastern portion of the boreal forest.
+•    RUBLs were common on the CBC until approximately 1970 when the species slipped into a decline from which it has not recovered. Although the decline occurred across the entire winter range of the species, interestingly, the onset of the decline varied between regions (Greenberg and Droege
+
+
+11
+1999; Niven et al. 2004). The magnitude of the declines has also been quite variable with the greatest drop in numbers found along the South Atlantic coastal plain.
+
+
+Possible Reasons for Decline
+
+Wintering Grounds
+
+•    Winter habitat loss due to conversion of wetlands to agriculture. The long­ term and more recent conversion of wooded wetlands to agriculture has been well documented (Hefner and Brown 1988; Hefner et al. 1994). At least 80% of the bottomland hardwood habitat has been converted since
+European colonization. Whether the rate of habitat conversion in the past 30 years is sufficient to account for the recent declines in RUBLs is unclear.
+•    Large losses during blackbird control programs in the 1960s and 1970s.
+
+•    Joining large roosts of blackbirds in winter exposing this species to a disease for which it has low immunity.
+•    Increased competition with other blackbird species. Habitat loss may have caused the RUBL to feed in more open habitats where it is more exposed to competition with Common Grackles (Quiscalus quiscula) and Red-winged Blackbirds (Agelaius phoeniceus). Particularly females are at risk to suffer from such competition.
+
+
+Breeding Grounds
+
+•    Breeding habitat loss and degradation, including boreal wetland drying and changes in water chemistry due, directly or indirectly, to global warming. Birds associated with boreal wetlands have shown a consistent cross-species declines. In additions to RUBLs, Lesser Yellowlegs (Tringa flavipes), Solitary Sandpipers (T. solitaria), Lesser Scaup (Aythya affinis), and boreal­ nesting scoters (Melanitta fusca and M.  perspicillata) have shown among the highest rates of decline of North American species (based on BBS and waterfowl surveys, Matsuoka unpubl., Lovvorn pers. comm., Austin et al.
+2000). In additional to RUBLs, severe long-term declines have been
+
+
+
+12
+documented across all or major portions of the breeding ranges of co- occurring Lesser Scaup, White-winged and Surf scoters, Horned Grebe, Lesser Yellowlegs, and Solitary Sandpiper (North America Waterfowl Management Plan 2004; Sauer et al. 2004; U.S. Fish and Wildlife Service
+2004; S. Slattery unpubl.). Global warming is suspected in causing major changes in the extent of boreal wetlands, the chemistry of the waters, and the structure of invertebrate communities (Schindler 1998; Corcoran 2005; Lovvorn pers. comm.). Peat production, logging and reservoir formation
+have contributed both to direct loss of boreal wetland and profound changes in hydrology, particularly in the eastern portion of the species range. The eastern portion of the range is where, historically, the species may have achieved the highest breeding densities (Erskine 1977).
+•    Acid rain is effecting boreal wetlands, particularly for the eastern portion of the breeding population (Schindler 1988), effecting trophic resources for a bird restricted to already low Ph environments.
+•    Mercury accumulation, known to affect other blackbirds including Common
+
+Grackles, in tissue may decrease reproductive success. The RUBL may be on a higher risk to accumulate mercury than other blackbird species because of its preference to feed on aquatic invertebrates and small fish.
+
+
+Other
+
+•    Loss or change of habitats along the migratory route.
+
+•    The RUBL may be less able to adapt to environmental changes due to its ecological specialization. Even slight changes in the environment may render a habitat unsuitable for this species.
+•    As yet unknown causes of mortality or reproductive failure that will not be
+
+known until research is undertaken.
+
+PROGRESS
+The information on the characteristics and hypothesized reasons for the species’ decline was discussed in detail in a paper in Studies in Avian Biology that was authored by the Group (Greenberg et al., in press).
+
+
+
+
+
+13
+V. CRITICAL QUESTIONS FOR A RUBL RESEARCH PROGRAM
+
+In the following pages we develop the specific modules for a research program, which if fully executed, should provide the basic information to begin to understand the nature of these declines and to initiate conservation and management plans. The research program will address the following fundamental questions concerning the life history and ecology of the species and the nature of the declines.
+
+
+Wintering grounds
+
+Only scant information is available about patterns of habitat and resource use during the non-breeding season. A detailed knowledge about these patterns is mandatory particularly because of the large-scale loss of forested areas in the winter range and possible changes in habitat and resource use associated with it.
+The following questions aim to assess and update current requirements of the
+
+RUBL.
+
+
+
+1.      What is the pattern of habitat and resource use (diet) by RUBLs during the non-breeding season?
+PROGRESS: Currently under study by N. Dias, K. Hobson, A. McGann, C. Mettke-Hofmann, and P. Newell.
+2.      How do interactions with other blackbird species influence resource use?
+
+PROGRESS: Currently under study by C. Mettke-Hofmann, J. Luscier, and
+P. Newell.
+3.      How does annual variation in winter conditions effect the distribution and abundance of RUBLs, a presumed facultative migrant?
+PROGRESS: Currently under study by C. Mettke-Hofmann, J. Luscier, and
+P. Newell.
+Furthermore, the reasons for the decline of the RUBL will be investigated.
+
+4.      What were the historic, geographic patterns of decline during the winter, as indicated by CBC data? Does this pattern correspond to specific events, such as blackbird roost control efforts or changes in land use (particularly conversion of forest to agriculture)?
+PROGRESS: Annual variation in the early winter distribution was assessed by P. Hamel. This was not related to patterns in climate or land use. Information was provided by M. Avery on the timing and extent of large- scale roost reductions which do not appear to be leading cause of the general
+
+
+
+
+14
+decline. However, it is more difficult to document and map small scale blackbird control efforts.
+5.      What is the overall health and what are the important diseases associated with RUBL populations, particularly when they are associated with large winter roosts?
+PROGRESS: The prevalence of blood parasites among wintering birds has been investigated by W. Barnard, C. Mettke-Hofmann, and P. Newell. However, the prevalence of other diseases still needs to be evaluated for wintering and breeding populations.
+
+Finally, methods will be developed for future monitoring of the species.
+
+6.      How can we best augment current landbird monitoring systems to develop a more robust long-term picture of the changing size and distribution of winter populations?
+PROGRESS: Rigorous survey techniques have been developed by J. Luscier. Early winter distribution is assessed by the Christmas Bird Count. The late winter distribution is assessed by the Rusty Blackbird Winter Hotspot Blitz which is administered through eBird (Brian Sullivan) and the Smithsonian Institution (Russ Greenberg).
+
+Linking winter and breeding populations
+
+Nearly nothing is known about migratory routes or how different breeding populations are distributed in the winter range.
+7.      What is the relationship between different breeding and winter populations?
+Specifically, from what areas of the breeding range do birds come from when sampled on the winter range and how has this changed historically? PROGRESS: This has been assessed through isotopes by K. Hobson, R.
+Greenberg, and C. Mettke-Hofmann. Additional work was started in 2009 using geolocators to record daily locations throughout the year (R. Greenberg, S. Matsuoka, D. Tessler). Blood and feathers have been collected to examine phylogeography (T. Chesser).
+
+8.      Are their critical staging areas before and during fall and spring migrations?
+
+PROGRESS: The group has discussed using eBird to help identify important migration stopover sites and staging areas (D. Gross, R. Mulvihill). Data from geolocators may also provide information on general areas used for stopover (R. Greenberg, S. Matsuoka, D. Tessler). The
+possibility of enlisting banding stations to map migration has been discussed but no action taken. A preliminary analysis of banding data by R. Mulvihill
+
+
+
+
+15
+and A. Leppold suggest that these data can provide insights into migration routes.
+
+Breeding grounds
+
+Direct habitat loss may play a minor role in the breeding grounds, whereas subtle changes in habitat quality due to global human activities may have wide-ranging effects.
+9.      What is the role of wetlands drying, logging, and other ecosystem changes (e.g. acidification, mercury accumulation) in the boreal zone on resources for and demography of breeding populations?
+PROGRESS: Effects of logging (L. Powell) and mercury accumulation (D. Evers, S. Edmonds) have been assessed.  Relationships between abundance and wetland drying will be assessed in 2010–2011 (J. Schmutz).
+
+Furthermore, the development of methods to reliably assess breeding populations is required for future monitoring of the species.
+PROGRESS: Surveys of abundance using double sampling (S. Matsuoka and D. Shaw) and occupancy models (L. Powell) have been assessed. Migration counts have been used to examine multi-year cycles in regional breeding populations in southern Quebec (J. P. Savard).
+
+10.    How can we best augment current landbird monitoring systems to develop a more robust long-term picture of the changing size and distribution of breeding populations?
+PROGRESS: A plan was developed for monitoring breeding populations in the northeastern U.S. (L. Powell) but has not been implemented due to a lack of funding. Provincial and state breeding bird atlases have provided information on changes in distribution among the eastern breeding population. Other methods remain to be implemented in the western breeding range.
+
+VI. INDIVIDUAL PROJECT COMPONENTS
+
+The following projects aim to address the questions raised above. Although each project stands by its own there are many areas of cooperation. For instance, all projects in the winter quarter will be coordinated in that as much information as possible can be extracted from a single individual. From each caught bird a feather sample for the connectivity studies (see 2.1.1. to 2.1.2., 3.1. and 5.) and blood samples for health and disease screening and contaminants analyses (see 3.3.3. and 4.) will be taken; stomach
+
+
+
+
+16
+contents will be flushed (see 1.1.); age, sex and condition be checked (see 1.1., 1.4.1. and
+
+2.2.); if possible transmitters attached to the bird (see 1.1.) and habitat characteristics recorded (see 1.1. and 1.4.1.). Likewise, in the breeding ground a consistent scheme will be developed and used to assess reproductive performance in different areas and projects (allowing comparison of data between 3.2. and 3.3.1. to 3.3.3.). Furthermore, from all birds the same samples and measures will be taken as in the winter ground to get as many data as possible for health, disease and contaminant screening (3.3.3. and 4.),
+connectivity analyses (2.1.1. to 2.1.2., 3.1. and 5.) and habitat characteristics (3.1. to 3.3).
+
+
+
+1. Winter Ecology, Population Biology and Monitoring
+
+Russell Greenberg, Claudia Mettke-Hofmann, Paul B. Hamel, Jason D. Luscier
+
+
+
+Changes in land use and habitat are the most likely causes of long-term declines of RUBLs on their wintering grounds, which is primarily the southern United States. Research on the wintering grounds will focus on four areas;
+1)  developing a quantitative and comprehensive picture of how RUBLs use the available habitat mosaic and food resources and obtaining estimates for over­ winter survival from different portions of the non-breeding range (see 1.1. and
+1.2.);
+
+2)   use of existing data sets on changes in bird abundance and land use to develop hypotheses for the driving forces in the change in RUBL populations (see 1.3.);
+3)   the development of  survey techniques that will increase our ability to track year to year variation in this seasonally shifting winter population (see 1.4.1.);
+4)   establish monitoring on key public lands and in association with afforestation efforts (see 1.4.1. and 1.4.2.).
+
+
+1.1. Basic Winter Ecology
+
+Russell Greenberg, Claudia Mettke-Hofmann, Paul B. Hamel, Jason D. Luscier
+
+
+
+We have only a superficial understanding about the patterns of habitat use, food resources, roosting and social feeding behavior, and individual and population
+
+
+
+17
+movements during the winter period. To obtain a complete and quantitative picture of how different habitats are used in the landscape mosaic and resources must be present to support RUBLs, we propose a two to three replicate studies of individuals in different winter landscapes. We propose to establish initial studies in the Mississippi Delta region near Greenville, Mississippi (Southeast bottomland forest research station), the lower Mississippi Alluvial Valley (LMAV) of eastern Arkansas and the coastal wetlands of North and South Carolina. Ideal areas to start this project are NWRs which cover a large part of the remaining wetland forest. Additionally, DOD land may have reasonable numbers of RUBLs.
+RUBLs appear to share with other blackbirds and grackles the propensity to move over large areas to find safe roosting areas and appropriate foraging sites.
+Therefore, we propose to capture and color-mark individual blackbirds, as well as employ radio-telemetry to track individuals over larger areas. Given the robust size of RUBLs,
+we expect no problems using a transmitter that has sufficient broadcasting power to allow us to remain within tracking sessions. The wintering areas are generally well developed for agriculture and have a grid of primary and secondary roads to access habitat. Based
+on work conducted by Claudia Mettke-Hofmann during the winter of 2004-2005 we believe that individual bow traps at bait stations combined with mist nets, and rocket nets in high density sites are the most effective means of capturing RUBLs.
+At each site we will track a minimum of 6 individual RUBLs in early (Nov. – Dec.) and late (Feb.-Mar.) winter to determine the roosting associations, distance to foraging areas, flocking behavior of foraging birds, and range within and between days. Landscape features will be summarized to indicate the land use, modal land use for each behavioral category, feeding, roosting, loafing, and the landscape characteristics of each type summarized. Recording soil types, presence or absence of water, and characteristics of the extent of forested versus nonforested patches will enable us to address the questions: Are RUBLs obligate wetland species in the nonbreeding season? What aspects of their winter biology are wetland dependent? Do RUBLs show a preference for particular roosting associates and/or locations? Do RUBLs show a preference for particular feeding situations, or loafing locations?
+
+
+
+
+
+18
+The focal question will be how RUBLs use different components of the winter habitat mosaic. Diet will be assessed by observation and if possible by stomach flushing (Ford et al. 1982) and time activity information derived from the radio-tracking program. How much time spends the RUBL feeding in or at the edge of the water? What is the percentage of aquatic prey in the diet relative to other food sources and how relates this to the time invested in catching prey (as a measure of how essential this type of food is)?
+Finally, the application of mark and recapture models to resighting of color marked birds (augmented by radio-tracking) will allow us to calculate winter survival rates and movement populations during the winter.
+The study will provide information regarding the basic requirements of the species during winter and will elucidate to which extend already protected land like National Wildlife Refuges and adjacent areas (e.g., corridors between refuges) are supporting wintering Rusty Blackbirds. This study will also provide refuge managers and biologists in the Migratory Bird program with detailed information on habitat preferences and movements within and between refuges. This information will help managers and biologists develop a strategy for future management actions that will promote conservation of this species on and off refuge lands.
+
+
+Estimated Budget:  50K per year/site for Lower Mississippi Valley and coastal North and South Carolina for graduate student and technician support, radio-tracking equipment, vehicle rental etc.
+
+PROGRESS: The authors implemented this project in the Lower Mississippi Valley during winter 2005–6 and the Atlantic Coastal Plain during winter 2008–9 (P. Newell). These studies are currently ongoing.
+
+1.2. Ecological Plasticity, Neophobia, and Competitive Abilities in RUBLs
+
+Claudia Mettke-Hofmann, Russell Greenberg, Paul B. Hamel
+
+
+
+The loss of forested habitats may expose the RUBL to more competition with
+
+other blackbirds. Furthermore, the stronger specialization of the RUBL in terms of habitat use and diet (Greenberg and Droege 1999) may constrain this species to adapt to environmental changes. Competitive abilities and ecological plasticity will be
+
+
+19
+investigated in an experimental setup. Ecological plasticity is the ability to react behaviorally to environmental changes (Morse 1980) and is known to have an impact on species distribution, population development and competitive abilities. For example, ecologically plastic species have a greater feeding plasticity (Simon et al. 2003), a larger distribution (Moreno et al. 2001) and better colonizing (Juste and Ibanez 1994) and competitive abilities (Moreno et al. 2001) than less ecologically plastic species. However, little is known about the factors determining ecological plasticity. Several studies indicate that neophobia, the avoidance of novelty, is closely linked to the ecological plasticity of a species. In wood warblers (Dendroica) ecologically more specialist species hesitate
+longer to feed from a novel food source than ecologically more generalist species (Greenberg 1983). Comparable results are known from other passerines (Greenberg 1990; Webster and Lefebvre 2000). Neophobia reactions, therefore, prevent to gain experience with novel situations and favor ecological specialization.
+The last decades, the wintering grounds of the RUBL were subject to intensive human-induced changes. Habitat changes in combination with a lower propensity to adapt to those changes may be one reason for the steep decline of the RUBL.
+We study the response of wild blackbirds to an artificial food source with and without novel objects. Thus far we have presented food at eight feeding stations in the vicinity of Greenville, Mississippi. Preliminary data on neophobic reactions in several blackbird species including the RUBL suggest that the RUBL is indeed more neophobic and reacts with strong avoidance to even slight changes in its environment. These findings shall be investigated in more depth in the future. Further replication will be conducted under conditions of varying density of RUBLs and other blackbird species, particularly Common grackles, to investigate the impact of abundance and interspecific interactions on the behavior of RUBLs. In addition, we will conduct experiments on captive flocks under controlled conditions. If RUBLs are indeed more sensitive to
+environmental changes and disturbances use of wildlife refuges can be adapted in a sense
+
+that undisturbed areas are available for retreat throughout the winter.
+
+
+
+
+
+birds.
+Estimated Budget:   7K for supplies, local transportation, food etc. for captive
+
+
+
+20
+PROGRESS: The authors implemented and completed this study in the Lower
+Mississippi Valley during winter 2005–6.
+
+1.3. Effects of Climate and Land Use on Changes in RUBL Abundance and
+
+Distribution
+
+Paul B. Hamel and Esra Ozdenerol-Garner
+
+
+
+In order to understand what factors on the nonbreeding grounds may contribute as causes to the decline in the numbers of this species it is first necessary to fully explore the dynamics of that distribution in space and time, particularly as they relate to variation in climate and land use.
+The CBC is the only estimator of the population of the RUBL that samples the
+
+full distribution of the population at any time of the year. Using land use and land history data associated with particular CBC circles, as well as relevant temperature, precipitation, and other climate data, the current project will investigate the apparent population change in the RUBL at the scale of the individual CBC circle, the physiographic region, and
+range wide. Factors on the winter ground will be sought to explain the apparent decline, and predictors of the decline derived from a random subsample of CBC circles will be tested against similar data gathered from a different subsample of circles, to ascertain the likelihood that factors suggested by the initial analysis are in fact predictive of the decline.
+Independent factors (with data sources in parentheses) will include historical deforestation rates (Forest Inventory and Analysis Unit of the US Forest Service), historical agricultural production statistics (US Department of Agriculture National Institute of Agricultural Statistics), human population changes in the vicinity of the count circles (US Census Bureau), changes in road distribution and other indices of human activities in the count circles and the physiographic areas in which the counts are located (USGS). In addition to the other factors will be the potential effect of temperature and precipitation in the water year and previous water years (National Oceanic and Atmospheric Administration), to indicate why the centroid of the range moves from one year to another. If available, we can examine the timing and extent of the extermination
+of blackbird roosts as it relates to RUBL declines at a local level. Finally, we will look in
+
+
+
+
+21
+detail at the spatial relationship of population changes in potentially competitive species, particularly the Common Grackle.
+The above analysis will examine the change in RUBL populations as it relates to extrinsic land use, climate, and competitive bird abundance using individual count circles as the unit of observation. CBC data can also be analyzed in terms of spatial patterns of occurrence over time. These spatial patterns can be analyzed as they relate to patterns of change or of variation in climatic and social metrics of the human population. Spatial analysis of this data set will begin with Monte Carlo simulation of distribution in space over time using the DMAP, disease occurrence mapping software, to produce a series of maps, one for each year of the CBC, in which the areas where RUBLs occurred that year at higher than expected frequency are displayed. The DMAP software is capable of producing such maps at different levels of precision both statistically in terms of probability, and spatially in terms of different sized kernel filters of occurrence. Baldy (in prep.) pioneered such an analysis of Breeding Bird Survey data in relation to climatic characteristics of the niche of the Cerulean Warbler (Dendroica cerulea).
+The results from this work will enable us to address the question; how has land use change at the broad scale in the non-breeding range been associated with population changes in Rusty Blackbird? Can this information be used to predict future population changes in the species as afforestation programs such as the WRP, CRP, and carbon- sequestration-driven afforestation restore forest to extensive areas in the Mississippi Alluvial Valley in the coming years (see below)?
+Budget Estimate: $50K/year for technician, supplies for a two years period. PROGRESS: The authors analyzed data on spatial variation in abundance but did not
+relate this to patterns in climate, land use, or competitors. The resulting paper was included in the conference proceedings of the 4th International PIF Conference, February
+2008, McAllen, TX (Hamel and Ozdenerol, in press; see LITERATURE CITED).
+
+1.4. Monitoring Winter Populations
+
+
+1.4.1.   Development of Monitoring and Atlas Programs
+
+Jason D. Luscier, Paul Hamel, Russell Greenberg, Claudia Mettke-Hofmann
+
+
+
+
+22
+
+
+Currently, the CBC is the only regular bird survey conducted during the non- breeding season across the full distribution of RUBLs. Although this survey is useful for examining general trends in population dynamics, it may be biased towards areas with easy access and more conspicuous individuals and/or larger flocks. During the non- breeding season, RUBLs inhabit swamps, wet woodlands, pond edges and low-lying fields (Avery 1995). Such impenetrable habitats as swamps and/or forested wetlands may be avoided during CBCs; therefore, population estimates based on CBCs may be biased towards more conspicuous individuals. We need better estimators for future monitoring programs of this declining species. No published studies have evaluated efficacy of various survey methods for RUBLs (Avery 1995).
+Several techniques for estimating population parameters (i.e., density and abundance) of rare and/or inconspicuous species have been proposed but many have not been tested on specific applications (Thompson 2004). In an effort to recommend the best survey method(s) for Rusty Blackbirds for future monitoring programs, we will evaluate the accuracy of 3 different presence/absence surveys (Green and Young 1993;
+MacKenzie et al. 2002; Manly et al. 2002) for estimating population parameters during the non-breeding seasons of 2006 through 2009. These three methods differ in their statistical algorithms. Green’s and Young’s (1993) model assumes populations follow a Poisson distribution. MacKenzie et al.’s (2002) approach can be used in program MARK (White and Burnham 1999), therefore it is much more flexible, allowing for habitat variables to be included. Manly et al.’s (2002) model includes resource selection functions to predict the probability that a habitat patch will be occupied. Each of these techniques involves surveying for a simple binomial response of 1 (present) or 0 (absent) within quadrats in a given area. One of these approaches may be more useful than the others for monitoring Rusty Blackbirds. It is important to find the most useful survey method for future management of this declining species.
+The most accurate survey method will be the basis for the development of a RUBL Atlas Program, similar to the very popular and useful activities already developed by the Cornell University Laboratory of Ornithology. The RUBL Atlas Program will employ volunteer observers who will visit and map concentrations of the birds during the
+
+
+
+23
+winter in the United States. We will begin by developing atlas methodologies on public lands in two regions: the Upper Mississippi Valley and coastal Carolinas. We will invite the participation of personnel and volunteers associated with National Wildlife Refuges, Audubon Sanctuaries, Nature Conservancy natural areas, DOD and NPS lands, and United States Forest Service properties throughout their entire winter range. We will put together a detailed packet of information (i.e., protocols, datasheets, etc.) for each survey method and request that they be conducted monthly from December to March.
+
+
+Budget Estimate: $50K/year for evaluating the most suitable survey method (student, technician, material, travel). $25K/year for the atlas program (half-time salary for a coordinator, training materials, training workshops).
+
+PROGRESS: Rigorous winter surveys were conducted from 2005–2009, primarily in Arkansas. These data are currently being summarized for a PhD dissertation, a related paper was recently submitted for publication (J. Luscier).  A winter atlas program called the Rusty Blackbird Winter Hotspots Blitz was conducted across the species’ principal wintering range in February 2009 and was administered by eBird (B. Sullivan) and the Smithsonian Institute (R. Greenberg). The program enlists volunteers to search for late- wintering Rusty Blackbirds and identify locations that support large flocks of the species. Such sites will be nominated as Important Bird Areas to highlight their significance to
+this species.
+
+1.4.2    Monitoring the Future Effects of Bottomland Afforestation
+
+Paul B. Hamel
+
+
+
+Increases in local populations in response to increases in available habitat on the wintering ground would provide prima facie evidence of winter habitat limitation in RUBLs. Many low lying areas with wet soils in the Lower Mississippi Alluvial Valley were developed for soy bean production during the 1960s-1980s, clearing forests that were subject to more frequent and prolonged flooding than those cleared earlier. This phenomenon might have contributed to the sharp decline of the species in recent decades
+because RUBLs prefer to forage in and near wet forest. With prices of soy beans at an all- time low and given the low productivity of these areas, many of these same areas are
+being afforested (Conservation Reserve (Allen 2002; USDA Farm Services Agency
+
+2005); Wetland Reserve Programs (USDA Natural Resources Conservation Service
+
+
+
+24
+2004)). The ultimate goal is to afforest 200,000 – 500,000 ha with the purpose of providing control of water run-off and habitat for wildlife (Stantarf et al. 1998; Stantarf and Madsen 2002). The strategy is to plant single species blocks, often oaks, as a nucleus for the development of more diverse forests through natural seed dispersal. The potential of such afforestation activities as foci of carbon sequestration activities further suggests that large areas of the LMAV will become forested over the next several decades (Leininger et al. 2002). Because the afforestation will likely occur on those lands most prone to flooding (Brown et al., 1999, Twedt et al. 1999), the potential of this activity to create habitats for RUBLs is obvious. As a bottomland forest specialist, the RUBL should prove to be an excellent indicator species for ecosystem recovery. This provides us with an opportunity to test the winter ground habitat limitation hypothesis and to examine the critical features that are necessary for the reestablishment of winter populations. Therefore, we consider it a high priority to establish long-term surveys in areas of recent afforestation and to have an accompanying monitoring of change in vegetation and soil arthropod communities in these areas.
+
+
+Budget Estimate: 50K per year. Support is for graduate student support, field technicians, and transportation.
+
+PROGRESS: This study was not implemented.  However, preliminary work in the region indicates that Rusty Blackbirds respond favorably to hydrologic (J. Hoover, J. Luscier) and forest restorations (C. Mettke-Hofmann; Daniel J. Twedt, USGS). More work is needed in this area.
+
+2.   Population Connectivity
+
+Keith A. Hobson, Russell Greenberg, Claudia Mettke-Hofmann, Paul B. Hamel
+
+
+
+There are four fundamental conservation issues that need to be addressed that require the establishment of connectivity in this species. The first is the establishment of linkages between specific breeding and wintering populations in order to establish if wintering grounds are panmictic (indicating weak connectivity) or are structured according to breeding origin. If structured (i.e. strong connectivity), this will suggest management actions aimed at protecting or restoring those populations showing greatest
+
+
+
+25
+declines. The second is the determination of those portions of the potential breeding grounds that are responsible for the annual production of young. By identifying those breeding areas that produce most of the hatch-year (HY) birds recruited into the wintering population, we can again direct management efforts to those areas likely to ensure the highest probability of success. Currently, it appears as though the Alaskan region hosts
+the highest breeding densities but vast regions of the species’ range remain largely inaccessible or poorly covered (e.g. Canadian boreal). A third component of connectivity involves the establishment of migratory routes for various breeding populations. Knowledge of stopover sites and migratory corridors can potentially assist with management and conservation of migratory species. Finally, comparing the source of wintering birds from historically (by examining museum specimens) with the current source, we may be able to infer where declines have occurred in the past century.
+We will use measurements of naturally occurring stable isotopes in feathers of RUBLs in order to link populations and to estimate where most of the breeding productivity occurs (Hobson 1999; Rubenstein and Hobson 1994). This approach has been shown to provide information on sources of breeding and wintering birds in North America (Hobson et al. 2004; Hobson and Wassenaar 2001; Mazerolle et al. 2005). The analysis could at least determine if most birds originated in Alaska versus West-central and East-central Canada, versus the Maritime Provinces (see Figure).The following four
+connectivity studies are planned:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26
+
+
+2.1.    Breeding-Wintering Population Linkages
+
+
+
+Birds will be captured on their wintering grounds and the first primary removed for deuterium isotope analysis. Because this feather is grown on the breeding grounds, it will provide an approximate region of origin for these wintering individuals. Sampling of birds from across their wintering grounds would be desirable in order to reduce bias associated with choice of “recoveries”. We will cluster regional wintering populations as shown in the map above: West of the Mississippi River (Texas, Arkansas), Mississippi Valley East (Mississippi, eastern Louisiana, Alabama, Tennessee) and the Atlantic
+coastal plain (tidewater Virginia through Georgia). Other areas will be considered as supplemental. We have developed trapping techniques for the species, as well as conducted studies of molt patterns and collected material from a sample of individuals in Mississippi.
+
+PROGRESS: This project has been completed with the results submitted for publication.
+
+2.2.   Mapping Zones of Productivity
+
+Isotopic analysis of birds less than 1 year old (HY, SY) captured on the wintering grounds will contribute to a database that will ultimately be used to define areas of relative productivity. Determination of age will be accomplished by examination of retrix shape (Pyle 1997) and the alignment of tail and wing growth bars (Pyle 1997).
+PROGRESS: Methods for aging non-breeding Rusty Blackbirds have been refined, submitted for publication (C. Mettke-Hofmann, P. Sinclair), and can now be applied to this study.
+
+2.3.   Migration Route Connectivity
+Birds captured in migration will be sampled for their innermost primary (P1) in order to establish the approximate location of their previous breeding or natal site. Banding stations, National Parks, Wildlife Refuges, and other ornithological organizations will be invited to participate in collecting these feather samples. PROGRESS: Samples are being collected for this study. The geolocators study started in
+2009 will provide more specific information to address this questions.
+
+
+
+
+
+27
+2.4.   Historical Connectivity
+
+The use of historically collected specimens (most of which were collected in the early 20th Century) will allow us to test for major shifts in the source of wintering birds. We have already amassed a sample of feathers from over 200 specimens from nearly a dozen museums. This will provide tremendous insight into the nature of the population declines.
+PROGRESS: This project has been completed and submitted for publication.
+
+Required Support:  30K per year for field crew, transportation, lab expenses
+
+
+
+3. Breeding Ecology, Population Biology and Monitoring
+
+Steven M. Matsuoka, Keith A. Hobson, David C. Evers, T. Scott Sillett, Russell
+
+Greenberg
+
+
+
+Due to the remoteness of the breeding area little is known about current
+
+population densities, breeding success and population development of the RUBL. Studies on the breeding ground will address four main areas:
+1.)  Assessing population densities across the breeding range (see 3.1.),
+
+2.)  conducting studies on the breeding ecology (see 3.2.),
+
+3.)  relating information on environmental factors like wetland drying, climate change, acidification, mercury to abundance and reproduction in the RUBL (see 3.3.),
+4.)  developing methods to monitor population development (see 3.2.).
+
+
+
+3.1. Breeding Atlas
+
+Establishment of the breeding distribution and abundance of species is a key first step because it allows us to define core areas of occurrence, correlate patterns of abundance with factors such as development and boreal wetlands drying, but also because it will facilitate the establishment of long-term intensive study sites. We, therefore, propose to establish a breeding atlas starting with an initial focus on New England and Maritime Provinces in the east and Alaska and the Yukon Territory in the west. The Atlas project will be conducted by stratifying boreal wetland habitat and sending field teams
+
+
+28
+into randomly or systemically selected areas. Stratification will be based on both habitat type and overall degree of timber and agricultural development in the landscape (to address issues in 3.2.2.). We can then plot resulting frequency and abundance estimates on remotely sensed habitat maps and extrapolate patterns of abundance.
+Access to remote areas with survey teams will be challenging. In the first years of the study we need to explore the possibility of piggy-backing RUBL surveys on other survey programs designed for waterfowl or boreal shorebirds. The shorebird survey program (PRISM version 0.7, Bart et al. 2002) has proposed complementing existing BBS surveys with similar transect surveys that target boreal wetlands. The possibility of counting blackbirds in aerial surveys should also be tested.
+Disturbance regimes of boreal wetlands and rates of population decline of blackbirds, however, do not appear to be uniform across the vast boreal region of North America. In order to capture this geographic variation, study sites will be selected in the Northwestern (Alaska, Yukon Territories) and Southeastern (Maritime Provinces, northern New England) portion of the breeding range. This will allow us to assess geographic variation in population processes and also to examine the role of different factors that might be contributing to decline such as wetland drying in the northern boreal forest and acid precipitation and mercury contamination in the southern boreal forest (see below).
+
+
+75K per year for field crew support, transportation, GIS technician
+
+
+PROGRESS: Robust survey methods have been tested and refined in Alaska and New England.  Broad-scale surveys were conducted over a large portion of New England with the results summarize in a thesis (Powell 2008) and subsequently used to develop a monitoring plan for the species in New England.  The plan has not been implemented due to a lack of funding.  Surveys in Alaska have been largely restricted to areas where breeding populations have been intensively studied. Results from survey efforts in Alaska and New England have been submitted for publication.
+
+In Canada, Machtans et al. (2007) resurveyed wetlands originally sampled for blackbirds in the 1970s as part of the proposed McKenzie Oil Pipeline and found little evidence that birds had declined in abundance. Replications of breeding atlases in New England, Ontario, and the Maritime Provinces are nearing completion. Preliminary results from the latter indicate substantial declines in the number of atlas block occupied by breeding
+
+
+
+
+29
+Rusty Blackbirds. Breeding atlases in the western boreal do not appear to be practical due to difficulties in accessing remote wetlands over most of the region.
+
+3.2. Population Biology
+
+Any understanding of the decline of a population must be based on a sound understanding of its basic life history and demography. Information from the breeding grounds in boreal wetlands on basic breeding ecology, reproductive success, adult and juvenile survival, and food and habitat requirements have been either poorly documented or completely unstudied. Thus, chronically low reproductive success or adult survival may be governing the species’ demise but have gone undetected because of a lack of study. Areas with robust RUBL breeding populations have to be identified. Ideally, areas should be distributed across the entire breeding range but at least the western and the northern portion of the distribution should be represented. Studies will focus on the key driving life history features, such as fecundity, juvenile and adult survival. Moreover, the study areas will be used to establish long-term monitoring of both population density and development. In addition, work on long term plot will allow us to monitor the population for the incidence of disease and the concentration of contaminants in egg and adult tissue (see below).
+Budget Estimate: 50K/year/site for field technicians, field supplies, transportation. PROGRESS: Breeding populations have been intensively studied in New England
+(2006–2008) and at a number of locations in Alaska (Anchorage, Copper River Delta, Fairbanks, Tanana Flats Training Area of Fort Wainwright, Tetlin NWR, Yukon Flats NWR) for variable lengths of time since 2006. Nest records were compiled from across Canada (P. Sinclair) Results on nest survival and habitat use in New England, Alaska, and Canada (habitat use only) have been submitted for publication.
+
+Samples have also been collected to assess incidence of blood parasites and avian influenza viruses, levels of environmental contaminants in eggs, and levels of mercury exposure in adults. The most recent work, begun in 2009, is looking into feeding ecology, mating strategies, estimating adult survival and recruitment rates, and marking birds with geolocators to record daily movements over the annual cycle. Detailed studies on
+breeding populations in Canada are now needed for comparison to Alaska and New England. Such efforts would be particularly useful if they were focused in regions in Canada where Rusty Blackbirds are experiencing rapid declines or losses of breeding habitats.
+
+
+
+
+30
+3.3. Linking Environmental Changes to Population Decline
+
+3.3.1. Climate Change
+
+In the northwestern portion of the breeding range (e.g., Alaska), boreal wetlands are drying as a result of global warming of the climate (Riordan 2004; Edward Berg, personal communication) with decreases in wetlands size resulting in changes in water chemistry, concentration of nutrients, and decreases in the abundance of macroinvertebrates (Corcoran 2005). We will determine the effects of such wetland drying on breeding populations of RUBL. Although a comparison between areas affected and unaffected by drying may be impossible, we can compare abundance, demography and foraging ecology of RUBL between wetland complexes experiencing different rates of drying.
+Because boreal wetlands drying is of general interest, research on RUBLs can be conducted within a larger framework that includes other physical or biological sciences such as hydrology, limnology, and aquatic entomology.  For example, waterfowl biologists (UAF, USGS) are interested in expanding previous work (Corcoran 2005) to cover a fuller suite of water bodies and wetlands in the Yukon Flats NWR. A research group studying hydrology (USGS) may also initiate work in this area.  RUBL is apparently quite common in the area proposed for this research, so a RUBL study could be integrated with these proposed research projects.
+
+
+Budget Estimate: 25K/year to support technicians sampling invertebrates and water chemistry
+
+PROGRESS: A study is planned for 2010–2011 to assess the effects of lake drying on the Yukon Flats on the abundance and occupancy of wetlands bird species, including Rusty Blackbirds. This study will include monitoring of limnology and aquatic invertebrates; both of which have been found to change with lake drying in the region (Joel A.
+Schmutz, USGS).
+
+3.3.2. Anthropogenic Habitat Change
+
+Forested wetlands have been lost, altered, and fragmented substantially from timber harvest, oil and gas development, and conversion of land for agriculture in southern Canada (Hobson et al. 2002). As this species is the most neophobic of
+
+
+
+
+31
+blackbirds, it may be particularly sensitive to disturbances of breeding habitats (Greenberg and Mettke-Hofmann, unpublished data). Therefore, we will determine the effects of development on breeding birds. In particular, the effects of wide-scale disturbances such as oil and gas development and conversion of lands for agricultural use should be examined to determine how direct loss and fragmentation of habitats influence breeding density and reproductive success in southern Canada. The initial approach will be to overlay BBS trends for individual routes on annual climate and land use data maps (as in winter section 1.3). This will address patterns in the more accessible southern
+boreal forest. Systematic survey data developed from the breeding atlas project can be used in the future.
+
+
+Budget Estimate: $25K/year for student or technician to develop GIS analysis of trends for BBS data.
+PROGRESS: BBS data are not sufficient in sample size to address this issue. Nest survival was examined in relation to timber harvest in New England and was found to be low compared to nests in undisturbed wetlands (L. Powell). Studies are needed to evaluate the responses of Rusty Blackbirds to fragmentations of their breeding habitats.
+
+3.3.3. Contaminants
+
+David C. Evers
+
+
+
+In the northeastern United States and Atlantic Provinces of Canada, industrial pollution has likely decreased the quality of wetlands by lower pH of water, depleting environmental calcium, and increasing concentrations of methylmercury (Evers et al.
+2005b). In wetland species, like the closely related Red-winged Blackbird (Agelaius phoeniceus), concentrations of methylmecury have been found to be particularly high compared to other passerine birds (Evers et al. 2005b). Although populations of RUBLs have declined by > 4.1% in the Atlantic Provinces of Canada, they appear to be stable or increasing in the Northeast United States. We will evaluate concentrations of methylmercury (Hg) and calcium (Ca) in the tissues of breeding birds and compare them with Hg and Ca concentrations in invertebrates and the soil in the birds breeding environment. We will focus on examining birds in southeastern Canada and northeastern United States. However, comparisons with samples from other further west in the range
+
+
+32
+will be useful to understand whether contaminants are a range wide issue for this species. If concentrations are found to be high, the effects of methylmercury should be examined further, possibly in combination with acidification, to determine effects on egg viability, nestling growth and survival, and adult survival.
+A robust RUBL breeding population will be located, where individuals can be captured July-Aug to sample blood and tissue for analysis. This will allow time for depuration of Hg body burdens that may reflect winter and/or migratory methylmercury uptake (as found in Bicknell’s thrush  [Catharus bicknelli]; Rimmer et al. 2005) and for depuration of mercury in eggs, thus avoiding confounding effects in laying females. However, the transfer of female Hg into the egg is rapidly masked by the dietary uptake of methylmercury (Evers et al. 2005a). We will sample adults and their associated young.
+Whole blood will be the standard matrix used for comparative and relational analysis for Hg and Ca. Additionally, biomarkers that are known indicators of Hg, Ca, or contaminant stressors will be developed. The following three are recommended: (1) fluctuating asymmetry (based on second secondaries), (2) DNA fragmentation (based on comet assays), and (3) corticosterone levels. Finally, the nesting success of color-marked individuals captured during blood sampling efforts will be monitored and related to levels of Hg and Ca.
+
+
+Budget: Two field staff for 16 weeks of preparation, surveys, field sampling, data and sample management, and report ($30K for field staff). Evers project oversight ($15K). Field expenses and sampling supplies ($4K). Lab assays ($15-25K for on-site effort, $10-15K for off-site efforts).
+
+PROGRESS: Mercury levels were assessed from 2006–2009 among breeding populations in New England, New Brunswick, Nova Scotia, and Alaska and wintering populations in the lower Mississipi Valley and Atlantic Coastal Plain. (S. Edmonds and D. Evers). These findings have been submitted for publication. Research is ongoing to examine the diet of Rusty Blackbirds in order to better understand the pathway of high mercury exposure among breeding Rusty Blackbirds (S. Edmonds and D. Evers).
+
+4. Population Health Assessment
+
+Blood samples will be taken from the wing vein of RUBLs caught in the wild
+
+(summer and winter range), stored in buffer and screened for parasites and infections. We
+
+
+
+33
+are still developing expertise on the technical team to develop a health and disease monitoring program for RUBL.
+PROGRESS: Rusty Blackbirds have been sampled for blood parasites in Alaska, Maine, Mississippi, and South Carolina and a paper reporting the prevalence among breeding and wintering populations was submitted for publication (W. Barnard, C. Mettke-Hofmann).
+
+5. Cross-Seasonal Demographic Modeling
+
+A long-term goal of this program would be the integration of connectivity information developed by the isotope studies with site specific demography studies at different sites in the breeding and wintering range to develop population models. Such models could localize the season and region where mortality factors are operating and limitation might occur as has been done for other songbird species, for example the Black-throated Blue Warbler  (Dendroica caerulescens, Sillett et al. 2000; Sillett and Holmes 2002).
+PROGRESS: Population models have not been developed to test for demographic deficits. However, data on fecundity, reproductive success, adult survival, and recruitment rates are being collected in Alaska (S. Matsuoka, D. Shaw, D. Tessler). However, comparative data on survival and recruitment rates are needed in other parts of the species’ breeding range.
+
+Results from most of the studies initiated under this research strategy have been submitted for publication in the Condor as part of a special section entitled, “A range- wide perspective into the ecology of a species in decline, the Rusty Blackbird”. As part of this special section, the editors will develop a commentary piece to tie together what we have learned thus far about the ecology and factors limiting the species (R. Greenberg, S. Matsuoka).
+
+VII. MECHANISMS FOR RESEARCH SYNTHESIS
+
+Open communication between RUBL researchers is a primary goal of the IRBTG. The Group currently operates an active List Serve which allows researchers to share information quickly and efficiently. We will soon develop a web page that posts recent research results and recommended protocols. We will aim to organize a published symposium/workshop on results of RUBL research in 2007. The workshop should focus on both basic research and the development of management and conservation recommendations.
+PROGRESS: Open communications has been a strong point of the group.  The
+Smithsonian Institute manages a websites for the group
+
+
+
+
+34
+(http://nationalzoo.si.edu/ConservationAndScience/MigratoryBirds/Research/Rusty_Blac kbird/default.cfm) and formal executive and steering committed were formed in 2009 to strengthen internal communications, facilitate future growth in the group, and to develop
+a second action plan for the species.  The group has also organized internal meetings in
+Mississippi (April 2007), South Carolina (January 2008), and Pennsylvania (October
+2008), and a symposium at the International PIF Conference (February 2008).  A second symposium is planned for February 2010 at the Joint Ornithological meetings in San Diego. Finally, the Group is organizing a special section in the Condor which will summarize for the scientific community the initial research findings by the group.
+
+
+VIII. LITERATURE CITED
+
+Allen, A. W.  1996.  Northern Prairie Science Center conservation reserve program bibliography.  Jamestown, ND: Northern Prairie Wildlife Research Center Online. http://www.npwrc.usgs.gov/resource/literatr/crpbib/crpbib.htm (Version 30SEP2002).
+Austin, J. E., A. D. Afton, M.G. Anderson, R. G., Clark, C. M., Custer, J. S. Lawrence, and J. B. Pollard. 2000. Declining scaup populations: issues, hypotheses and research needs. Wildlilfe Society Bulletin 28: 254-263.
+Avery, M. L. 1995. Rusty Blackbird (Euphagus carolinus). In: The Birds of North America No. 200 (A. Poole and F. Gill, eds.). The Academy of Natural Sciences, Philadelphia, and The American Ornithologist’ Union, Washington, DC.
+Bart, J., B. Andres, S. Brown, G. Donaldson, B. Harrington, H. Johnson, V. Johnston, S.
+
+Jones, R. I. G. Morrison, M. Sallaberry, S. K. Skagen and N. Warnock. 2002. Program for Regional and International Shorebird Monitoring (PRISM), version 0.7, January 26, 2002. Available at: http://www.shorebirdworld.org/fromthefield/PRISM/PRISM1.htm.
+Beedy, E. C. and W. J. Hamilton III. 1999. Tricolored Blackbird. The Birds of North America No. 423. (A. Poole and F. Gill, eds.). The Birds of North America, Inc., Philadelphia, PA.
+Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers, and their allies. U.S. National National Museum Bulletin 211, Smithsonian Institute, Washington DC.
+Brown, C. R., C. Baxter and D. N. Pashley. 1999. The ecological basis for the conservation of migratory birds in the Mississippi Alluvial Valley. In: Strategies for Bird Conservation: The Partners in Flight Planning Process. (R. Bonney, D. N.
+
+
+
+35
+Pashley, R. J. Cooper and L. Niles, eds.). Cornell Lab of Ornithology. http://birds.cornell.edu/pifcapemay.
+Corcoran, R. M. 2005. Lesser scaup nesting ecology in relation to water chemistry and macroinvertebrates on the Yukon Flats, Alaska. M.S. Thesis. University of Wyoming, Laramie, Wyoming.
+Erskine, A. 1977. Birds in boreal Canada. Canadian Wildlife Service Report Series
+
+Number 41.
+
+Evers, D. C. and T. Clair. 2005a. Mercury in northeastern North America: A synthesis of existing databases. Ecotoxicology 14:193-221
+
+Evers, D. C., N. M. Burgess, L. Champoux, B. Hoskins, A. Major, W. M. Goodale, R. J.
+
+Taylor, R. Poppenga, and T. Daigle. 2005b. Patterns and interpretation of mercury exposure in freshwater avian communities in northeastern North America. Ecotoxicology 14:193–221.
+Ford. H. A., N. Forde, and S. Harrington. 1982. Non-destructive methods to determine the diets of birds. Corella 6: 6-10
+Green, R. H. and R. C. Young. 1993. Sampling to detect rare species. Applications 3:
+
+351-356.
+
+Greenberg, R. 1983. The role of neophobia in determining the degree of foraging- specialization in some migrant warblers. American Naturalist 122: 444-453.
+Greenberg, R. 1990. Feeding neophobia and ecological plasticity: A test of the hypothesis with captive sparrows. Animal Behaviour 39: 375-379.
+Greenberg, R. and S. Droege. 1999. On the decline of the RUBL and the use of ornithological literature to document long-term population trends. Conservation Biology 13: 553–559.
+Greenberg, R. and S. Droege 2003. Rusty blackbird: troubled bird of the boreal bog. Bird
+
+Conservation June 2003.
+
+Hefner, J. M. and J. P. Brown. 1984. Wetland trends in Southeastern U. S. Wetlands 4:1­
+
+11.
+
+Hefner. J. M., B. O. Wilen, T. E. Dahl, and W. E. Frayer. 1994. Southeast wetlands:
+
+status and trends, mid-1970s to mid-1980s. US FWS and EPA , Atlanta GA.
+
+
+
+
+
+36
+Hobson, K. A. 1999. Tracing origins and migration of wildlife using stable isotopes: A
+
+review. Oecologia 120: 314-326.
+
+Hobson, K. A., and L. I. Wassenaar. 2001. A stable isotope approach to delineating population structure in migratory wildlife in North America: an example using the Loggerhead Shrike. Ecological Applications 11: 1545-1553.
+Hobson, K. A., E. M. Bayne, and S. L. Van Wilgenburg. 2002. Large-scale conversion of forest to agriculture in the boreal plains of Saskatchewan. Conservation Biology 16:
+1530-1541.
+
+Hobson, K. A., Y. Aubry, and L. I. Wassenaar. 2004. Migratory connectivity in Bicknell’s
+
+Thrush: locating the missing populations using hydrogen isotopes. Condor 106: 905­
+
+909.
+
+Juste, J. and C. Ibanez. 1994. Bats of the Gulf of Guinea islands: faunal composition and origins. Biodiversity and Conservation 3: 837-850.
+Leininger, T. D., E. S. Gardiner, L. Samuelson and J. A. Stanturf. 2002. An estimate of carbon sequestration through afforestation in the Lower Mississippi Alluvial River Valley. 132-133. In: Proceedings of the IUFRO Conference on restoration of boreal and temperate forests – documenting forest restoration knowledge and practices in boreal and temperate ecosystems. (Gardiner, E. S. and L. J. Breland, compilers.). Danish Centre for Forest, Landscape and Planning. Reports No. 11, 238 p.
+Link, W. A., and J. R. Sauer. 1996. Extremes in ecology: avoiding the misleading effects of sampling variation in summary analyses. Ecology 77:1633–1640.
+MacKenzie, D. I., J. D. Nichols, G. B. Lachman, S. Droege, J. A. Royle and C. A.
+
+Langtimm. 2002. Estimating site occupancy rates when detection probabilities are less than one. Ecology 83: 2248-2255.
+Manly, B. F. J., L. L. McDonald, D. L. Thomas, T. L. McDonald and W. P. Erickson.
+
+2002. Resource Selection by Animals: Statistical Design and Analysis for Field
+
+Studies. 2nd ed. Kluwer Academic Publishers, Dordrecht, Netherlands.
+
+Mazerolle, D., K. A. Hobson and L. I. Wassenaar. 2005. Combining stable isotope and band-encounter analyses to delineate migratory patterns and catchment areas of white-throated sparrows at a migration monitoring station. Oecologia, in press.
+
+
+
+
+
+37
+Moreno, E., M. Barluenga and A. Barbosa 2001. Ecological plasticity by morphological design reduces costs of subordination: influence on species distribution. Oecologia
+128: 603-607.
+
+Morse, D. H. 1980. Behavioral mechanisms in ecology. Harvard University Press, Cambridge, Mass.
+Niven, D. K., J. R. Sauer, G. S. Butcher and W. A. Link. 2004. Christmas bird count provides insights into population change in land birds that breed in the boreal forest. American Birds 58: 10–20.
+North American Waterfowl Management Plan. 2004. 2004 North American Waterfowl Management Plan: strengthening the biological foundation. Available at [http://www.fws.gov/birdhabitat/nawmp/images/NAWMP2004.pdf, April 2005].
+Orians, G. 1985. Blackbirds of the Americas: University of Washington Press, Seattle. Pyle, P. 1997. Identification Guide to North American Birds, Part 1. Slate Creek Press,
+Bolinas, CA.
+
+Rimmer, C. C., K. P. McFarland, D. C. Evers, E. K. Miller, Y. Aubry, D. Busby and R. J.
+
+Taylor. in press. Mercury levels in Bicknell's thrush and other insectiviorous passerines in montane forests of northeastern North America. Ecotoxicology 14.
+
+Riordan, B. 2004. Using remote sensing to examine changes of closed–basin surface water area in interior Alaska from 1950–2002. Thesis, University of Alaska, Fairbanks, Alaska, USA.
+
+Rubenstein, D. R. and K. A. Hobson. 2004. From birds to butterflies: animal movement patterns and stable isotopes. Trends in Ecology and Evolution 19: 256-263.
+Sauer, J. R., J. E. Hines and J. Fallon. 2004. The North American Breeding Bird Survey, Results and Analysis 1966–2003. Version 2004.1. USGS Patuxent Wildlife Research Center, Laurel, Maryland. Available at [http://www.mbr-pwrc.usgs.gov/bbs/bbs.html, April 2005].
+Schindler, D. W. 1988. Effect of acid rain on freshwater ecosystems. Science 239: 149­
+
+153.
+
+Schindler, D. W. 1998. A dim future for boreal waters and landscapes. BioScience 48:
+
+157-164.
+
+
+
+
+38
+Sillett, T. S. and R. T. Holmes. 2002. Variation in survivorship of a migratory songbird throughout its annual cycle. Journal of Animal Ecology 71: 296-308.
+
+Sillett, T. S., R. T. Holmes, and T. W. Sherry. 2000. Impacts of a global climate cycle on population dynamics of a migratory songbird. Science 288: 2040-2042.
+
+Simon, N. P. P., A. W. Diamond, and F. E. Schwab. 2003. Do northern forest bird communities show more ecological plasticity than southern forest bird communities in eastern Canada? Ecoscience 10: 289-296.
+Spindler, M. A. and B. Kessel. 1980. Avian populations and habitat use in interior Alaska taiga. Syesis 13: 61–104.
+Stantarf, J. A, C. J. Schweitzer and E.S. Gardener. 1998. Afforestation of marginal land in the lower Mississippi Alluvial Valley, USA. Silva Fennica 32: 281-297.
+Stantarf, J. A. and P. Madsen. 2002. Restoration concepts for temperate and boreal forest of North America and Western Europe. Plant Biosystems 136: 143-158.
+Thompson, W. L.  2004. Sampling rare of elusive species: concepts, designs, and techniques for estimating population parameters. Island Press, Washington, DC.
+Twedt, D. J., P. B. Hamel, R. J. Cooper and M. S. Woodrey. 1999. An evaluation strategy for conservation goals in the Mississippi Alluvial Valley. In: Strategies for Bird Conservation: The Partners in Flight Planning Process. (Bonney, R., D. N. Pashley, R. J. Cooper and L. Niles, eds.). Cornell Lab of Ornithology.  http://birds.cornell.edu/pifcapemay.  
+USDA Natural Rescources Conservation Service. 2004. Farm Bill 2002 Fact Sheet Wetland Reserve Program. 3 p. Available Online. http://www.nrcs.usda.gov/programs/farmbill/2002/pdf/WRPFct.pdf (visited 30 June
+2005).
+
+USDA Farm Services Agency. 2005. Conservation Reserve Program. Online. http://www.fsa.usda.gov/dafp/cepd/crp.htm (visited 30 June 2005).
+U. S. Fish and Wildlife Service. 2004. Waterfowl population status, 2004. U. S.
+
+Department of the Interior, Washington, D.C. U.S.A. Available at [http://migratorybirds.fws.gov/reports/status04/Waterfowl_Status_Report_04_Final.p df, April 2005].
+
+
+39
+Webster, S. and L. Lefebvre 2000. Neophobia by the Lesser Antillean Bullfinch, a foraging specialist, and the Bananaquit, a nectar specialist. Wilson Bulletin 112: 424­
+427.
+
+White, G. C. and K. P. Burnham. 1999. Program MARK: Survival estimation from populations of marked animals. Bird Study 46: 120-138.
+PROGRESS:
+
+Greenberg, R. 2008. Bye-bye blackbird. Zoogoer, July–August, 9–15.
+
+Greenberg, R., D. W. Demarest, S. M. Matsuoka, C. Mettke-Hofmann, M. L. Avery, P. J.
+
+Blancher, D. C. Evers, P. B. Hamel, K. A. Hobson, J. Luscier, D. K. Niven, L. L. Powell, and D. Shaw.  In press.  Understanding declines in Rusty Blackbirds. Studies in Avian Biology.
+Hamel, P. B., and E. Ozdenerol. In press. Using the spatial filtering process to evaluate the nonbreeding range of Rusty Blackbird Euphagus carolinus.  In T. Rich, C. Arizmendi, C. Thompson, and D. Demarest, editors. Proceedings of the 4th International Partners in Flight Conference, McAllen, Texas, USA, 13–16 February
+2008.
+
+Machtans, C. S., S. L. Van Wilgenburg, L. A. Armer, and K. A. Hobson. 2007.
+
+Retrospective comparison of the occurrence and abundance of Rusty Blackbird in the
+
+Mackenzie Valley, Northwest Territories. Avian Conservation and Ecology -
+
+Écologie et conservation des oiseaux 2(1):3. <http://www.ace-eco.org/vol2/iss1/art3> (9 February 2009).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40

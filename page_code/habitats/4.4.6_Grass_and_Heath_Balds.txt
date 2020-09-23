@@ -1,0 +1,28 @@
+{{Habitat Page}}
+=Description=
+<p>Balds are treeless shrub or herb-dominated communities of the high Mountains. The treeless areas do not represent a climatic timberline, and often occur near higher peaks that are forested. The ecological factors creating balds are not well understood. Harsh climate and shallow soil seem to be a factor in some, particularly heath balds, but many examples of both community types are being invaded by trees and, in the case of grassy balds, shrubs. Fire may have been a factor, but many bald sites do not appear prone to fire, and are surrounded by vegetation that apparently did not burn. There are two community types
+in this ecosystem:
+*Grassy balds are open meadows typically dominated by mountain oatgrass and sedges, with a fairly diverse mixture of other species. They usually occur on broad ridgetops.
+*Heath balds are dense thickets of tall shrubs. Catawba Rhododendron and Mountain Laurel are the most common dominants. An unusual dominant at Roan Mountain is Green Alder, not found elsewhere  in North Carolina. Most heath balds are on sharp spur ridges, but some occur on rounded peaks or ridgetops.</p>
+<p>High-elevation communities are characterized by cool temperatures, relatively high moisture levels within forests, short growing seasons, exposed rock and acidic soils, and extreme weather events. Canopy trees are often misshapen due to persistent strong winds. Open (sparse-to-no tree canopy) communities such as heath or grassy balds and rock outcrops are scattered throughout. [[Spreading Avens]] (a federally listed endangered plant species) is endemic to high-elevation grassy balds (Wear and Greis 2012).</p><p>It has been discovered that some places that superficially resemble balds were cleared of forest in historical times, but other balds apparently were open throughout history. The presence of disjunct species which require open habitat suggests that some balds have been open since the Ice Age. Large herbivores, such as Elk and Bison may have kept grassy balds open through grazing. Another possibility is that Native Americans worked to keep grassy balds open for game by burning or by other clearing methods.</p><p>This natural community description is a new addition to the Wildlife Action Plan.
+<p>Grass and heath balds occur only in the highest mountain ranges of western North Carolina, notably in the Great Smokies, Plott Balsams, Great Balsams, Black/Craggy Mountains, Grandfather Mountain, Roan Mountain, and in the Amphibolite Mountains of Ashe County (NCWRC 2005). According to the most recent Southeast GAP analysis, grass and heath balds comprise approximately 4,761 acres (about 1,927 hectares) of land cover in North Carolina (SEGAP 2007; NatureServe 2007). This represents only 0.2% of land cover in the state.</p>
+=Problems Affecting Habitats=
+<p>Warmer temperatures, changes in precipitation or fire regime, or climate-change induced competition from offsite plants may threaten grassy balds (Wear and Greis 2012). Grassy balds and some of the heath balds are already seriously threatened by invasion from native trees and shrubs. The current invasion of native trees and shrubs, development, and conversion to pastures or Christmas tree plantations are much greater concerns than impacts from climate change.</p>
+=Climate Change Compared to Other Threats=
+<p>Comparing climate change to other ecosystem threats can help define shortand long-term conservation actions and recommendations. The effect of climate change on the species of balds is particularly uncertain. Some species are at their southern range limits and some are northern disjuncts, and these may be directly harmed by warmer temperatures. Some are dependent on seeps or wet areas, and may be harmed by more frequent or more intense drought. Habitat specialists and species with restricted ranges will likely be some of the greatest affected by the combined effects of habitat loss and climate change. Such populations are more vulnerable to extinction by rare events and susceptible to additional stressors such as climate change (DeWan et al. 2010).</p>
+=Impacts to Wildlife=
+<p>Many wildlife species that use grass and heath balds are threatened by impacts other than habitat loss. [[Timber Rattlesnake]]s are threatened not only by habitat loss but also by being subject to collection, disturbance of hibernacula/gestation sites, and persecution. There has been considerable effort undertaken in the northeastern United States to determine the impact upon [[Allegheny Woodrat]] populations from a roundworm parasite (McGowan 1993; Stone et al. 1993), though no studies have been conducted within North Carolina to assess the level of threat posed to woodrat populations.</p>
+{{NCWAP15 Citation}}
+[[Category:Habitat]]
+[[Category:NCWAP15 Habitat]]
+{{#set:
+Has NCWAP15 Index=4.4.6
+|Has Geography=North Carolina
+|Has Plan=2015 North Carolina Wildlife Action Plan
+|Has Geography=Southern Blue Ridge
+|Has Community Type=Upland Communities
+|Has Species=Common Yellowthroat
+|Has Species=Eastern Bluebird
+|Has Species=Golden Eagle
+|Has Species=Ruffed Grouse
+}}

@@ -1,0 +1,61 @@
+{{Habitat Page}}
+=Description=
+<p>Woody vegetation on the barrier islands includes well-developed forests with canopies typically dominated by Live Oak, Sand Laurel Oak, and Loblolly Pine; Cabbage Palms are a distinctive component in the Cape Fear area. It also includes the distinctive scrubby woody growth of stabilized sand dunes, dune swales, and sand flats. A few areas on the mainland shore of the sounds share the characteristic species of the barrier island maritime forests. The much rarer maritime deciduous forests are dominated by beech, American Holly, Loblolly Pine, and Hickory on the northern barrier islands.</p><p>Schafale and Weakley’s Third Approximation (1990) classifies maritime forested and shrub communities as Maritime Shrub, Maritime Evergreen Forest, Maritime Deciduous Forest, Maritime Swamp Forest, and Maritime Shrub Forest. Updates to the community description separates maritime forests into Maritime Upland Forest and Maritime Wetland types (Schafale 2012). The Maritime Upland Forest includes shrub, evergreen and deciduous forests, marsh hammock, and coastal fringe shell woodlands in the description. Maritime Wetland Forest includes grassland, interdune marsh and pond, and estuarine forests in the community type.
+*Maritime Upland Forests have relatively low species richness, but a number of species are largely confined to these communities, at least in North Carolina. Such specialized species include Yaupon, Carolina Laurel Cherry, and Devilwood. Salt spray is a major ecological influence on these communities. Where the vegetation is frequently exposed to salt spray, it is significantly stunted. The forest cannot persist in areas with the most severe salt spray and are dependent on the shelter of dunes for their occurrence. Maritime Upland Forests are also subject to the catastrophic disturbances of coastal storms, including high winds, erosion, and saltwater flooding from storm tides and overwash.
+*Maritime Wetland Forests occur in wet sites on barrier islands and near the sounds on the mainland. There are three community types: maritime swamp forest, maritime shrub swamp, and estuarine fringe Loblolly Pine forest.
+*Maritime Swamp Forests and maritime shrub swamps occur on barrier islands in dune swales which are sheltered from the most extreme salt spray and from seawater overwash. The soils are saturated for much of the year and may be flooded for substantial periods. Maritime Swamp Forests have a canopy of tall wetland trees which vary from place to place. Dominants include swamp Black Gum, Red Maple, Ash, Water Oak, Sweetgum, Loblolly Pine, and Bald Cypress.
+*Maritime Shrub Swamps have a canopy of tall shrubs or small trees, usually Red Bay or Swamp Dogwood, which may be tangled together with vines. They are apparently wetter than maritime swamp forests but also may be kept in shrub dominance by periodic disturbance.
+*Estuarine Fringe Loblolly Pine Forests occur on wet flats adjacent to salt or brackish marshes along the sounds. There is often a fairly dense layer of shrubs and greenbriers. All of the dominant plants are species that occur in disturbed wet sites elsewhere  in the Coastal Plain, but these communities appear to be of natural origin. It may be that periodic natural disturbances such as saltwater intrusion prevent succession to hardwoods. It has been suggested that fire occurred naturally in these communities and that the natural aspect was open and grassy rather than shrubby.</p>
+<p>The 2005 WAP described Mid-Atlantic Coastal Plain maritime forest/shrub communities as a priority habitat  (see Chapter 5) (NCWRC 2005). Components in this ecosystem include maritime shrub, evergreen forest, deciduous forest, coastal fringe evergreen forest, and Sandhills communities.</p>
+=Location of Habitat=
+<p>Maritime Evergreen Forest is found throughout the barrier islands and good examples can be found at Buxton Woods, Theodore Roosevelt State Natural Area on Bogue Banks, Brown’s Island, and Bald Head Island. Maritime Shrub is found throughout the barrier islands, but good examples are rare. Some examples exist at Cape Hatteras National Seashore, Shackleford and Core Banks, Brown’s Island, Bear Island in Onslow County, Fort Macon State Park, Bogue Banks, and Fort Fisher. Only one good example of Maritime Deciduous Forest remains at Nags Head Woods in Dare County; an additional example occurs in nearby Kitty Hawk Woods. Maritime Swamp Forest examples can be found in in Buxton Woods and Nags Head Woods. Examples of Estuarine Fringe Loblolly Pine Forests can be found on marsh islands at Swanquarter National Wildlife Refuge and higher uplands at Goose Creek State Park.</p>
+=Problems Affecting Habitats=
+<p>Any loss will be very significant for these already rare communities. The acreage completely lost from this system by community shifts and destruction may be catastrophic. New sites for these communities may be generated as the coastal landscape changes, but only in places not already destroyed by development. Most barrier island examples occur in complexes that are distant from each other, but connections within the complexes can be threatened both naturally by rising sea level and by human actions such as hydrological alteration.</p><p>With limited dune development in many parts, maritime swamp forests are vulnerable to erosion of the foredunes and increased overwash. If erosion breaches swales and exposes them to sea water intrusion or overwash in storms, they will likely become maritime grasslands. If they are low enough  have irregular tidal inundation, they will become brackish marshes. A lack of fire to maintain some variants of these habitats is also leading to successional changes in many of these sites. Burning is almost impossible to conduct in areas surrounded by homes.</p><p>The net change in acreage of this type will likely be drastic only if sea level rises faster than new examples can develop. Increased natural disturbance by wind, salt spray, and storm surge intrusion will be significant. Some of these communities consist of species that can recover from these disturbances, but increased frequency will result in death and regeneration, more time spent in recovery stages, and shifts toward the most tolerant species.</p>
+=Climate Change Compared to Other Threats=
+<p>Comparing climate change to other ecosystem threats can help define shortand long-term conservation actions and recommendations. Climate change may be the biggest threat to remaining examples of this ecosystem group, especially in places where topography or development limits potential for elevational  migration. A combination of synergistic effects with other existing conditions could stress these systems to the point where several species are unable  to persist. Residential and commercial coastal development leading to fragmentation and overall reduction of habitat is the single most important factor leading to the existing loss of this habitat.</p>
+=Impacts to Wildlife=
+<p>These habitats are important breeding and migration stopover points for many migratory birds, and key breeding areas for populations of the [[Painted Bunting|Eastern Painted Bunting]] (Hunter et al. 2000; Johns 2004). These communities are also important for some snake species for which we have little status, distribution, or demographic information. The presence of dense canopies are a key habitat  element in maritime forests; many maritime forest-associated herpetofauna, and their prey, are adapted to survive under particular sun and shade regimes (Bailey et al. 2004).</p><p>There are feral animal impacts (horses, goats, cows, pigs, cats) on some of the barrier islands (e.g., Shackleford Banks and Brown’s Island). Wood et al. (1987) reported that grazing by ungulates can inhibit expansion of maritime forests. Feral horses have been shown to alter the composition of entire communities through grazing and trampling, though trampling may be the greater impact because it degrades soil structure (Turner 1987; Jensen 1985; Porter et al. 2014). In addition, egg predators such as Raccoons and foxes that typically did not inhabit most of the Outer Banks are now widespread because of the increased amount of food available now that people inhabit the area.</p><p>The [[Buxton Woods White-footed Mouse]] might be the only animal essentially limited to this habitat type. The [[Dukes’ Skipper]] occurs mainly in ecotones of maritime forests and adjacent marshes. All guilds linked to this group are associated with other ecosystems that provide greater acreage of habitat.</p>
+{{NCWAP15 Citation}}
+[[Category:Habitat]]
+[[Category:NCWAP15 Habitat]]
+{{#set:
+Has NCWAP15 Index=4.4.14
+|Has Geography=North Carolina
+|Has Plan=2015 North Carolina Wildlife Action Plan
+|Has Plan=2005 North Carolina Wildlife Action Plan
+|Has Geography=Atlantic Coastal Plain
+|Has Geography=Sandhills
+|Has Geography=Piedmont
+|Has Geography=Southern Blue Ridge
+|Has Community Type=Upland Communities
+|Has Threat=Development
+|Has Species=Acadian Flycatcher
+|Has Species=Bald Eagle
+|Has Species=Black-crowned Night-Heron
+|Has Species=Painted Bunting
+|Has Species=Fish Crow
+|Has Species=Glossy Ibis
+|Has Species=Golden-crowned Kinglet
+|Has Species=Great Egret
+|Has Species=Green Heron
+|Has Species=Hermit Thrush
+|Has Species=Marsh Wren
+|Has Species=Mourning Dove
+|Has Species=Northern Bobwhite
+|Has Species=Philadelphia Vireo
+|Has Species=Prairie Warbler
+|Has Species=Purple Martin
+|Has Species=Red-breasted Nuthatch
+|Has Species=Ruby-throated Hummingbird
+|Has Species=Rusty Blackbird
+|Has Species=Snowy Egret
+|Has Species=Tree Swallow
+|Has Species=Tricolored Heron
+|Has Species=White Ibis
+|Has Species=Wild Turkey
+|Has Species=Winter Wren
+|Has Species=Wood Stork
+|Has Species=Yellow-crowned Night-Heron
+|Has Species=Yellow-rumped Warbler
+|Has Species=Yellow-throated Warbler
+}}

@@ -1,0 +1,2364 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Conservation
+Action Plan for
+Bicknell’s Thrush
+(Catharus bicknelli)
+
+
+
+
+July 2010 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+International Bicknell’s Thrush Conservation Group
+A Conservation Action Plan for Bicknell’s Thrush (Catharus bicknelli)
+
+
+
+Editors:                                                                  John Lloyd, Ecostudies Institute
+
+Julie A. Hart Christopher C. Rimmer Randy Dettmers Rebecca M. Whittam Emily A. McKinnon Kent P. McFarland
+
+Members of the International
+Bicknell’s Thrush Conservation Group:
+
+Hubert Askanas, University of New Brunswick
+Yves Aubry, Canadian Wildlife Service / Service Canadien de la Faune
+Philippe Bayard, Société Audubon Haiti
+James Bridgland, Parks Canada / Parcs Canada
+Jorge Brocca, Sociedad Ornitología de la Hispaniola Frédéric Bussière, Regroupement QuébecOiseaux Greg Campbell, Bird Studies Canada /
+Études d’Oiseaux Canada
+Ted Cheskey, Nature Canada
+Andrew Coughlan, Bird Studies Canada/ Études d’Oiseaux Canada
+William DeLuca, University of Massachusetts Randy Dettmers, U.S. Fish and Wildlife Service Antony W. Diamond, University of New Brunswick Andrea Doucette, NewPage Port Hawkesbury Corp Steve Faccio, Vermont Center for Ecostudies
+Kevin Fraser, University of New Brunswick
+James Goetz, Cornell University
+Julie Hart, Vermont Center for Ecostudies
+(current  address: University of Wyoming)
+Mitschka Hartley, U.S. Fish and Wildlife Service
+Thomas Hodgman, Maine Department of
+Inland Fisheries and Wildlife
+David King, USDA Forest Service / University of
+Massachusetts
+J. Daniel Lambert, Vermont Center for Ecostudies
+Carol Lively, USDA Forest Service, Ofﬁce of International  Programs
+Scott Makepeace,
+New Brunswick Department of Natural Resources
+Kent McFarland, Vermont Center for Ecostudies
+Mark McGarrigle,
+New Brunswick Department of Natural Resources
+Emily A. McKinnon, York University
+David Mehlman, The Nature Conservancy Brian Mitchell, U.S. National Park Service Robert Ortiz Alexander,
+Museo Nacional de Historia Natural de Santo Domingo
+John Ozard,
+New York Department of Environmental Conservation
+Julie Paquet, Canadian Wildlife Service / Service Canadien de la Faune
+Leighlan Prout, USDA Forest Service
+Joe Racette,
+New York Department of Environmental Conservation
+Chris Rimmer, Vermont Center for Ecostudies Frank Rivera, U.S. Fish and Wildlife Service Carla Sbert, Nature Canada
+Judith Scarl, Vermont Center for Ecostudies
+Henning Stabins, Plum Creek Timber Company
+Jason Townsend, State University of New York College of
+Environmental Science and Forestry
+Tony Vanbuskirk, Fornebu Lumber Company
+Rebecca M. Whittam, Bird Studies Canada / Études d’Oiseaux Canada
+
+
+Recommended Citation:
+
+IBTCG. 2010. A Conservation Action Plan for Bicknell’s Thrush (Catharus bicknelli). J. A. Hart, C. C. Rimmer, R. Dettmers, R. M. Whittam, E. A. McKinnon, and K. P. McFarland, Eds.
+International  Bicknell’s Thrush Conservation Group. Available at www.bicknellsthrush.org
+
+
+
+
+Front cover photograph: Garth McElroy Back cover photograph: Bryan Pfeiffer Design: Newcomb Studios
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+
+
+Executive Summary 
+
+
+
+
+
+
+Background
+icknell's Thrush (Catharus bicknelli) is a rare, range- restricted passerine breeding in the northeastern U.S. and southeastern Canada and wintering in
+the Greater Antilles, primarily on the island of Hispaniola. On its breeding grounds, Bicknell's Thrush is a habitat specialist restricted to coastal and montane
+forests dominated by balsam ﬁr (Abies balsamea). Winter habitat consists of mesic to wet broadleaf forests with dense understory, over a broad range of elevations. Bicknell's Thrush is one of only two passerines in North America that exhibits a polygynandrous mating system, in which multiple males assist one or more females with feeding nestlings, and paternity is mixed. Bicknell's Thrush also exhibits a male- biased breeding sex ratio of >2:1 males:females, and recent research indicates the existence of habitat segregation by sex on the wintering grounds.
+
+Population Status
+Bicknell's Thrush is considered a Nearctic-Neotropical migrant of high conservation concern, and the International Union for the Conservation of Nature (IUCN) has classiﬁed the species as globally “Vulnerable”. The Committee on the Status of Endangered Wildlife in Canada has recommended a Canadian status of Threatened. Recent analyses have yielded global population estimates of 95,000–126,000 birds. Population trend data show mixed results, but documented annual declines of 7-19% in parts of the species' breeding range are cause for concern.
+
+PopulationThreats
+The following anthropogenic threats have been identiﬁed as having known or potential negative effects on Bicknell's Thrush populations:
+• Direct loss and degradation of habitat
+
+• Climate change effects on habitat
+
+•  Increased mortality rates from migration hazards,  
+introduced mammals, and other factors 
+• Atmospheric pollution at high-elevation breeding  and wintering sites (e.g., mercury deposition, acid  precipitation) 
+
+
+In addition, several demographic and ecological characteristics of Bicknell's Thrush (e.g., male-biased sex ratio, clumped distribution of habitat, winter habitat sexual segregation, small population size) may render the species more vulnerable to anthropogenic threats and stochastic events; however, these characteristics do not themselves pose direct threats to Bicknell's Thrush populations.
+
+Population and Conservation Goals
+The International Bicknell's Thrush Conservation Group (IBTCG) has established an overall goal of increasing the global population of Bicknell's Thrush by 25% over the next 50 years (2011-2060), with no further net loss of distribution.
+Addressing the threat of habitat loss and degradation will lead to the most immediate positive effects in terms of achieving IBTCG's overall conservation goal. Thus, speciﬁc sub-goals of protecting, managing and restoring breeding and winter habitat are identiﬁed. Since the magnitude of effects of threats and limiting factors is not well understood, speciﬁc research actions to address gaps in knowledge are also identiﬁed.
+
+Conservation and Research Actions
+The following actions will address identiﬁed threats, either by direct conservation (i.e., protection of habitat), or by research that will lead to future direct conservation actions
+for Bicknell's Thrush.
+• Partner with timber companies and management agencies to develop and implement Best Management Practices (BMPs).
+•  Maintain a target amount of breeding habitat in  
+industrial forests. 
+
+
+
+1
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+• Improve protection of currently occupied winter habitat.
+• Strengthen and expand the Bicknell's Thrush Habitat
+Protection Fund.
+
+• Develop winter habitat management plans and secure implementation funding.
+• Pilot winter habitat restoration projects.
+
+• Develop strong links with local partners in the
+Caribbean.
+
+• Identify important migratory stopover sites, routes, and patterns.
+• Determine impacts of forestry practices on demography.
+
+• Clarify distribution and winter habitat use on islands other than Hispaniola.
+• Document overwinter survival and demography relative to local habitat condition and quality.
+• Predict and monitor effects of climate change
+
+• Assess the effects of calcium depletion.
+Evaluating Accomplishments
+As a critical step to determine the success of conservation actions in halting declining trends and increasing Bicknell's Thrush populations over time, a range-wide monitoring program, Mountain Birdwatch 2.0, will be implemented. This program will produce estimates of breeding density,
+abundance, distribution, and occupancy at both international and national scales. Mountain Birdwatch 2.0 will also yield reﬁned global population estimates of Bicknell's Thrush over time, and elucidate how speciﬁc threats inﬂuence observed population trends.
+Metrics and explicit targets to evaluate the success of each identiﬁed priority action have been developed as a means
+to assess progress toward IBTCG goals. Actions will be evaluated in terms of these speciﬁc metrics at annual IBTCG meetings, when members will report on the extent to which discrete actions have been implemented or completed. As new information comes to light through ongoing and future research, additional or modiﬁed conservation actions and associated evaluation metrics will be developed to apply research ﬁndings directly to conservation.
+
+
+
+
+2
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+his Plan highlights the priority conservation actions
+needed to address factors contributing to the global
+vulnerability of Bicknell's Thrush. It is not an exhaustive review or assessment of the species' status. Rather, the Plan summarizes salient life history characteristics of Bicknell's
+Thrush, identiﬁes factors that may limit its
+Preface 
+
+
+
+
+
+
+
+
+and strategic approach to conservation. The
+Plan's fundamental goal is to prevent population declines of a magnitude
+that could lead to endangerment of the species. The recommendations proposed are not deﬁnitive or
+all-inclusive, but reﬂect the best available knowledge and are meant to
+be adaptive, as new information comes to light. Not all details necessary to implement
+populations, proposes desired population and habitat goals for conservation, and describes critical activities needed
+to achieve those targets. This Plan is intended to provide an explicit road map for major conservation actions, including research and monitoring, as part of an iterative
+conservation actions have been fully articulated; this Plan attempts to identify those issues for which additional resources must be marshaled to achieve conservation of Bicknell's Thrush.
+
+Field training of Hispaniolan and Cuban conservation partners in the Dominican Republic
+
+
+3
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+I. Background: Bicknell's Thrush 
+
+
+
+
+
+Introduction
+icknell's Thrush (Catharus bicknelli), classiﬁed as a subspecies of Gray-cheeked Thrush (C. minimus) following its 1881 discovery in New York's Catskill Mountains, gained full species status in 1995
+(American Ornithologists' Union 1995). It is among North America's most rare, range-restricted breeding passerines. Detailed information on the life history characteristics of Bicknell's Thrush is available in the Birds of North America Online species account (Rimmer et al. 2001). Below, this Plan summarizes pertinent information on the species' biology
+and ecology, highlighting new ﬁndings or those directly relevant to conservation.
+
+Distribution
+
+Breeding range
+
+Bicknell's Thrush occupies a restricted and highly fragmented breeding range (Figure 1). Northern-most breeding sites include southeastern Québec, inland and coastal localities along the St. Lawrence River and Gaspé Peninsula, northwestern and north-central New Brunswick, and Cape Breton Island, Nova Scotia. Southern breeding limits are reached in the Catskill Mountains of New York, the Green Mountains of southern Vermont, and the White Mountains of central New Hampshire.
+
+Winter range
+
+The known wintering distribution of Bicknell's Thrush is conﬁned to the Greater Antilles (Figure 2; summarized in Rimmer et al. 2001). Recent survey data indicate that the majority of wintering birds occur in the Dominican
+Republic, where the species is widely distributed and locally common from sea level to 2220 m. Remnant populations
+in Haiti are restricted to forest patches at higher elevations, mainly in the southwest (Massif de la Hotte) and east (Massif de la Selle). Bicknell's Thrush is uncommon and local in Jamaica, mainly in the Blue Mountains from 1200–2225 m elevation. The species is likely a regular winter resident in eastern Cuba, where it has been recorded at 1600–1960 m
+in Sierra Maestra. Overwintering birds are rare in eastern
+and southeastern Puerto Rico, known only from the Luquillo
+Mountains at 450-720 m elevation and Sierra de Cayey at
+720 m. There are no conﬁrmed winter records elsewhere.
+
+
+Migration
+
+Little information exists on migration routes of Bicknell's Thrush, but it is generally assumed that individuals follow the eastern ﬂyway along the east coast of North America.
+Banding records suggest that Bicknell's Thrush follow an over water route on fall migration, from the southeastern U.S.
+coast directly to the Caribbean. In contrast, spring banding and nocturnal ﬂight call recordings indicate that Bicknell's Thrush migrate over land in spring (Evans 1994, Rimmer et al. 2001).
+
+Figure 1
+
+Bicknell’s Thrush Breeding Range
+
+
+
+
+
+
+
+
+Quebec                                      New
+Brunswick
+Maine
+
+Nova Scotia
+
+New
+York
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Typical Bicknell’s Thrush montane forest breeding habitat.
+
+
+4
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Habitat
+
+Breeding range
+
+Bicknell's Thrush is a habitat specialist restricted to montane forests dominated by balsam ﬁr (Abies balsamea), with lesser amounts of spruce (Picea rubra and P. mariana), white birch (Betula papyrifera), mountain ash (Sorbus sp.), and other hardwood species. Bicknell's Thrush generally breeds above 1100 m elevation at the southern extent of its range
+in the Catskills Mountains of New York and as low as 380 m on several mountains in Canada (BSC/EOC unpubl. data). Bicknell's Thrush is often associated with disturbed areas undergoing vigorous succession, characterized by standing dead conifers and dense regrowth of balsam ﬁr (Wallace
+1939, Rimmer et al. 2001). Highest densities are typically found in chronically-disturbed (high winds, heavy winter ice accumulation) stands of dense, stunted ﬁr on exposed ridgelines or along edges of human-created openings
+(e.g., ski trails), or in regenerating ﬁr waves (Sprugel 1976).
+Bicknell's Thrush also occupies regenerating stands of relatively mixed forest following forest ﬁres or clear
+
+Figure 2
+
+Bicknell’s Thrush Winter Range
+
+
+
+
+Cuba
+
+Dominican
+Republic
+Jamaica                                                                                  Puerto Rico
+
+Haiti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deforestation of Bicknell’s Thrush winter habitat.
+cutting in industrial highlands in Québec, New Brunswick, Nova Scotia, and Maine (Ouellet 1993, Nixon et al. 2001, Connolly et al. 2002, Chisholm and Leonard 2008).
+The species was previously found in coastal maritime spruce-ﬁr forests near sea level in New Brunswick, Nova Scotia (Erskine 1992), and Québec (Atlas of the Breeding Birds of Québec 1996) where cool sea breezes and higher precipitation levels maintain dense spruce-ﬁr stands selected locally by Bicknell's Thrush.  However, the species may now be extirpated from several of these sites (COSEWIC 2009).
+
+Winter range
+
+Bicknell's Thrush primarily inhabits mesic to wet broadleaf montane forests in the Dominican Republic (Rimmer et
+al. 2001), Haiti (Rimmer et al. 2005b), Cuba (Rompré et al. 2000), Jamaica (VCE, unpubl. data), and Puerto Rico (J. Wunderle, University of Puerto Rico, unpubl. data).
+In the Dominican Republic, the species is found from sea level to 2200 m, although >60% of occupied sites were
+in forests >1000 m elevation, likely due to habitat loss at lower elevations (Rimmer et al. 2001). The majority (75%) of occupied sites were in broadleaf-dominated forests at all
+elevations, 19% were in mixed broadleaf-pine forests, and 6% occurred in pine-dominated forests. The use of regenerating secondary forests (22% of occupied sites) in the Dominican Republic may indicate winter habitat ﬂexibility or a recent shift from preferred primary broadleaf forest habitat, much of which has been lost or degraded from human activities.
+In the Dominican Republic, evidence exists for sexual habitat segregation (Townsend et al. 2009a). In the Sierra de Bahoruco, in predominantly undisturbed broadleaf montane forests, males outnumber females by a 4:1 ratio, whereas
+a population at a mid-elevation, moderately disturbed wet forest site in the Cordillera Septentrional shows a nearly
+1:1 sex ratio. No signiﬁcant differences exist between male and female mean territory size at either site, but research
+has found that females in the Cordillera Septentrional are in better physiological condition relative to females in the Sierra de Bahoruco (J. Townsend, SUNY ESF, pers. obs.). These results suggest that females may be at a disadvantage in the high-elevation, broadleaf forest site.
+
+Migratory stopover
+
+There is little published information on habitat selection during migration, but migrants have been documented at an array of coastal and inland sites, suggesting little speciﬁcity of habitat use (Rimmer et al. 2001).
+
+
+5
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Life History and Demography
+
+Mating system and sex ratio
+
+The mating system of Bicknell's Thrush is unusual
+and appears closest to “female-defense polygynandry”, in which both males and females mate with multiple partners, multiple paternity is common, and nestlings are most often fed by more than one male (Goetz et al. 2003). In Vermont, most broods (>75%) have mixed paternity and some males sire offspring in multiple nests during the same breeding season. This unusual mating system results in a lack of territoriality among males. Consequently, estimation of breeding densities by traditional methods is difﬁcult, since males do not sing regularly to defend territories and may be present when no singing is heard (Ball 2000).
+Based on mist net capture data, the mean sex ratio among breeding adults in Vermont over eight years was >2 males
+for every female (Townsend et al. 2009a). However, the sex ratio of nestlings and ﬂedglings was nearly 1:1, with a slight skew toward females. In two separate Québec breeding populations studied over four years (2002–2005), sex ratios of adults and nestlings were similar to those in Vermont
+(Y. Aubry, CWS/SCF, unpubl. data). The cause of a range- wide male-biased sex ratio is not known, but may relate to differential natal dispersal patterns and survivorship, survival of ﬁrst-year birds, or survival related to segregation of sexes into winter habitats of different quality.
+
+Reproductive success
+
+Of 171 Bicknell's Thrush nests monitored in Vermont from 1993–2007, 48% were successful in ﬂedging at least one chick (McFarland et al. 2008). The major cause of nest failure (accounting for 75% of failed nests) was depredation of eggs or chicks. Rates of nest predation are strongly
+linked to a widespread biennial masting cycle in montane coniferous forests, in which alternating years of high cone crops result in high red squirrel (Tamiasciurus hudsonicus) populations during the following spring and summer. Squirrels are a major nest predator of Bicknell's Thrush and other open-cup nesting birds. In years following low autumn cone yields, spring and summer squirrel populations are invariably reduced, and Bicknell's Thrush nesting success
+is markedly higher, relative to years following high autumn cone yields, when squirrels are abundant. The species' demographic response to this pulsed resource system, which can deviate from a strictly biennial pattern, needs to be considered in the evaluation of population trend data.
+Life span and survivorship
+
+The species' longevity record, based on band returns at a Vermont breeding site, is of an 11-year old male (VCE, unpubl. data). A banded male recaptured in Cape Breton in
+2009 was at least seven years old (BSC/EOC, unpubl. data). Using mark-recapture analysis, the annual survival estimate of adult birds captured at Vermont breeding sites was 65%, independent of year or sex (Rimmer et al. 2004). In Québec, male annual survival was higher (63%) than female survival (28%; COSEWIC 2009).
+Survival rates of juveniles are poorly known and difﬁcult to assess due to apparent natal dispersal: only 6% of ﬂedglings and 19% of independent juveniles banded in Vermont from 1992–2004 returned to their natal mountain. Like other songbirds, survival rates of juvenile Bicknell's Thrush are probably low. On Mt. Mansﬁeld, Vermont in
+2000, only 18% of radio-tagged ﬂedglings were known to have survived beyond 30 days.
+The annual survival rate of wintering individuals captured at a montane broadleaf forest site in the Sierra de Bahoruco, Dominican Republic, from 1994–1999, was 73% (Rimmer et al. 2001).  Overall recapture rates for Bicknell's Thrush in the Dominican Republic are much lower than for birds banded
+at breeding sites in Vermont (28% vs. 65%).
+
+Population Status
+
+Estimated Population Size
+
+The ﬁrst estimate of the global population size of Bicknell's Thrush was made in the early 1990s, when Tony Erskine, CWS/SCF biologist, estimated that only 5,000 breeding
+pairs existed in North America (Nixon 1999). Since then, extensive ﬁeldwork across the breeding range has helped to reﬁne population estimates for the species.
+While regional population estimates have been published for Bicknell's Thrush (Hale 2006), IBTCG recently used range-wide data on densities and extent of potential habitat
+to develop an improved global population estimate. Applying region-speciﬁc density data (derived from point count surveys) to a model of potential habitat (Vermont Center
+for Ecostudies [VCE] 2009) yielded estimates of 57,000 to
+77,000 Bicknell's Thrushes in the U.S. and 37,000 to 49,000 individuals in Canada, resulting in a global population of
+95,000 to 126,000 birds.
+
+
+6
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Population trends
+
+High-elevation songbird monitoring programs generally indicate declining populations of Bicknell's Thrush, especially in core and northern parts of the breeding range. The most comprehensive trend data to date are derived from surveys (point counts) conducted by volunteers and ﬁeld technicians across the northeastern U.S. (Mountain Birdwatch), in
+the White Mountains National Forest (King et al. 2008), and in the Maritime provinces (High Elevation Landbird Survey [HELP]; Campbell et al. 2009). Government and university researchers have monitored sites in Quebec since the late 1990s (Y. Aubry, CWS/SCF, unpubl. data), although no formal survey program is in place. Bicknell's Thrush is poorly represented on survey routes of the North American Breeding Bird Survey (BBS); however, data are available from
+16 Canadian BBS routes. The following trend summaries are derived from these aural surveys and represent the best available trend estimates for breeding Bicknell's Thrush.
+
+United States
+
+• 7% decline in White Mountain National Forest (WMNF; New Hampshire), from 1993-2003 (King et al. 2008, Lambert et al. 2008)
+• Stable overall trend from 2001-2009 across the U.S., based on Mountain Birdwatch data (VCE, unpubl. data)
+• Regionally, abundance appeared to increase in the
+Adirondack Mountains (New York), while showing
+no statistical trend in the Catskills (New York), Green Mountains (Vermont), and the White Mountains (New Hampshire). A disruption of the biennial cone masting cycle in montane forests during this 9-year period may have inﬂuenced these results, masking longer-term trends (McFarland et al. 2008).
+Canada
+
+• 17% annual decline in New Brunswick, from 2002­
+2009 (BSC/EOC, unpubl. data)
+
+• 15% annual decline in Nova Scotia, from 2002-2009 (BSC/EOC, unpubl. data)
+• 29% decrease in probability of occupancy at Mont Gos- ford, Quebec from 2001-2007, with no change in detection probability (Y. Aubry, CWS/SCF, unpubl. data)
+• 60% fewer individuals detected at Mont Gosford,  Quebec, from 2001-2007 (Y. Aubry, CWS/SCF,  unpubl. data) 
+• 9% annual decline in abundance across Canada (BBS) from 1966-2008 (P. Blancher, Environment Canada, unpubl. data).
+
+
+Legal Status
+Conservation managers initially assessed Bicknell's Thrush when it gained species status in 1995. Little information
+was available at the time on population size, trends or distribution. Government researchers and conservation organizations have since collected trend, distribution, demographic, and habitat association data that have led to range-wide evaluations of the species' conservation status.
+
+Federal and global status:
+
+• Species of continental conservation concern. Partners in Flight (Pashley et al. 2000, Rich et al. 2004, Wells
+2007)
+
+• Vulnerable. IUCN (IUCN 2009).
+
+• Threatened. Committee on the Status of Endangered
+Wildlife in Canada (COSEWIC 2009).
+
+• N3 in Canada (nationally vulnerable). NatureServe
+Conservation Status (www.natureserve.org)
+
+• Red. Audubon Watchlist (Butcher et al. 2007)
+
+• Bird Species of National Concern. Division of Migratory
+Bird Management (U.S. Fish and Wildlife Service
+2008).
+
+
+State and provincial status (U. S. and Canada):
+
+• Species of Special Concern in Maine, New York, and
+Vermont
+
+• Species of Special Concern Category  B (Responsibility
+Species) in New Hampshire
+
+• Vulnerable under the Nova Scotia Endangered Species
+Act
+
+• May be at risk in New Brunswick and Quebec
+
+
+Bicknell’s Thrush has been assigned the following rankings by state and provincial Natural Heritage Programs (www.natureserve.org):
+• S1 (Critically Imperiled) in Nova Scotia
+
+• S2 (Imperiled) in New Hampshire and New York
+
+• S3 (Vulnerable) in Maine, New Brunswick, Quebec, and Vermont.
+
+
+7
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Associated Species
+Conservation actions aimed at Bicknell's Thrush are likely to beneﬁt co-occurring species, some of which are also conservation priorities. Tables 1 and 2 list at-risk or endemic species that occupy the same habitats as Bicknell's Thrush and would likely beneﬁt from conservation efforts on the species' breeding and/or wintering grounds. Some species may co-occur with Bicknell's Thrush only in parts of their range, and thus be of regional conservation interest, while others have broad range overlap.
+The Olive-sided Flycatcher will beneﬁt from actions aimed at Bicknell’s Thrush.
+
+
+
+Table 1.
+
+North American at-risk breeding bird species that co-occur with Bicknell’s Thrush at breeding (VCE and BSC/EOC unpubl. data) or wintering (Latta et al. 2003, 2006) sites
+
+Species                                         Scientiﬁc Name                      Site*      U.S. Status (State)                      Canadian Status
+
+Sharp-shinned Hawk               Accipiter striatus                   B            Special  Concern (NY) Spruce Grouse                         Falcipennis canadensis          B             Endangered (VT) Black-backed Woodpecker       Picoides arcticus                    B            Special  Concern (VT)
+Olive-sided Flycatcher             Contopus cooperi                  B                                                                          Threatened
+
+Gray Jay                                  Perisoreus canadensis           B            Special  Concern (VT)
+
+Louisiana Waterthrush             Seiurus motacilla                      W                                                          Special Concern
+
+Wilson's Warbler                      Wilsonia pusilla                    B            Special  Concern (VT)
+
+* B = breeding  sites, W = wintering sites
+
+
+
+Eladio Fernandez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Endangered Hispaniolan endemics such as La Selle Thrush (left) and Black- capped Petrel (right) stand to beneﬁt from conservation actions targeted at Bicknell’s Thrush.
+
+
+
+8
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+Table 2.
+
+Caribbean endemic or resident species at risk that co-occur with Bicknell’s Thrush
+during the boreal winter (Latta et al. 2003, 2006 for Hispaniola; Y. Aubry, CWS/SCF, unpubl. data for Cuba)
+
+Species                                        Scientiﬁc Name                   Island*   Global Status (IUCN 2009)       Endemic?
+
+Black-capped Petrel                      Pterodroma hasitata                 H/C?     Endangered                                N
+
+Sharp-shinned Hawk                   Accipiter striatus striatus            H                                                           y - subspecies striatus
+
+Plain Pigeon                                 Patagioenas inornata                  H        Near-threatened                          N Hispaniolan Quail-Dove              Geotrygon leucometopia            H        Vulnerable                                 y Hispaniolan Parakeet                   Aratinga chloroptera                  H        Vulnerable                                 y Hispaniolan Parrot                       Amazona ventralis                      H        Vulnerable                                 y Hispaniolan Emerald                    Chlorostilbon swainsonii            H                                                           y Hispaniolan Trogon                      Priotelus roseigaster                   H        Near-threatened                          y Broad-billed Tody                         Todus subulatus                          H                                                           y Narrow-billed Tody                      Todus angustirostris                   H                                                           y Hispaniolan Woodpecker             Melanerpes striatus                    H                                                           y Hispaniolan Pewee                      Contopus hispaniolensis             H                                                           y La Selle Thrush                             Turdus swalesi                            H        Endangered                                y Green-tailed Ground-Tanager      Microligea palustris                    H                                                           y Hispaniolan Highland-Tanager    Xenoligea montana                     H        Vulnerable                                 y
+Greater Antillean Elaenia             Elaenia fallax cherriei                H                                                           y - subspecies cherriei Rufous-throated Solitaire             Myadestes genibarbis montanus  H                                                           y - subspecies montanus Black-crowned Palm-Tanager      Phaenicophilus palmarum          H                                                           y
+Gray-crowned Palm-Tanager       Phaenicophilus poliocephalus     H        Near-threatened                          y
+
+Bananaquit                                   Coereba flaveola bananivora      H                                                           y - subspecies bananivora
+
+Eastern Chat-Tanager                   Calyptophilus frugivorus            H        Vulnerable                                 y Western Chat-Tanager                  Calyptophilus tertius                  H        Vulnerable                                 y Hispaniolan Spindalis                  Spindalis dominicensis               H                                                           y
+Antillean Euphonia                      Euphonia musica musica            H                                                           y - subspecies musica Greater Antillean Bullfinch          Loxigilla violacea affinis             H                                                           y - subspecies affinis Hispaniolan Crossbill                   Loxia megaplaga                        H        Endangered                                y
+White-crowned Pigeon                Patagioenas leucocephala          C        Near-threatened                          N Bare-legged Owl                           Otus lawrencii                            C                                                          y Cuban Pygmy-Owl                      Glaucidium siju                          C                                                          y Cuban Trogon                              Priotelus temnurus                      C                                                          y Cuban Tody                                 Todus multicolor                         C                                                          y Cuban Green Woodpecker           Xiphidiopicus percussus              C                                                          y Cuban Vireo                                Vireo gundlachii                         C                                                          y Cuban Solitaire                            Myadestes elisabeth                    C        Near-threatened                          y Oriente Warbler                           Teretistris fornsi                          C                                                          y
+
+
+
+9
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+
+
+II. The International Bicknell's Thrush  Conservation Group 
+
+
+
+
+n response to range-wide conservation concerns for Bicknell's Thrush, the Vermont Center for Ecostudies (VCE) and Bird Studies
+Canada/Études d'Oiseaux Canada (BSC/ EOC) convened a coalition with a common interest in setting priorities for research and conservation needs for this species. Composed of scientists, natural resource managers, and conservation
+
+
+
+
+
+
+
+
+
+International Bicknell’s Thrush Conservation Group
+
+The IBTCG held its inaugural meeting in Woodstock, Vermont in November
+2007. The 25 meeting participants included representatives from academia, federal and state/provincial wildlife agencies, and non-governmental organizations, from five northeastern states and two Canadian provinces. Since then, the group has met yearly.
+With members spanning the
+planners, this group, the International Bicknell's Thrush Conservation Group (IBTCG), is ﬂexible and inclusive, with no requirement for membership beyond a shared interest
+in advancing Bicknell's Thrush conservation. The IBTCG's overarching goal is to develop a broad, scientifically sound approach to conservation of Bicknell's Thrush, in order to prevent further declines and to increase current populations to a sustainable level. The group aims to address threats to Bicknell's Thrush throughout its entire migratory range.
+The administrative structure of IBTCG consists of a Coordination Committee, subgroups, and members. The role of the Coordination Committee is to oversee implementation of this Conservation Action Plan, seek funding, maintain momentum, set meetings and agendas, and identify next steps. The following IBTCG subgroups have been defined: Breeding and Migration Research, Monitoring, Forestry,
+and Wintering Grounds.  Chairs of each subgroup facilitate activities and maintain momentum within their focused area of expertise and interest.
+hemisphere, communication and information sharing are critical to the success of this group. The IBTCG developed a website (www.bicknellsthrush.org) to serve as an accessible clearinghouse for information related to Bicknell's Thrush conservation and to publicize the group's activities. The website hosts a summary of Bicknell's Thrush research conducted across the species' migratory range, as well as a growing bibliography of relevant publications and reports. This Conservation Action Plan and associated non-technical outreach documents are also available for viewing or downloading on the IBTCG web site.
+An immediate objective is to hire an IBTCG coordinator to lead implementation of this Conservation Action
+Plan. The coordinator will be responsible for overseeing implementation of this Plan, setting and meeting IBTCG deadlines, helping to secure funding for IBTCG-related activities, maintaining group momentum, and managing communication and outreach efforts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+
+
+III. Population Threats 
+
+
+
+
+
+
+umerous anthropogenic threats affect Bicknell's Thrush, including habitat loss and degradation, climate change, and pollution. Collectively, these threats are believed to exert strong regulatory
+effects on the species' populations by limiting resources necessary for population growth. Several demographic and ecological characteristics of Bicknell's Thrush may also act synergistically with anthropogenic threats to compromise the species' population stability. For example, the small global population size, clumped distribution of habitat (and thus individuals) at breeding and wintering sites, apparent limited dispersal, skewed adult sex ratio, and potential winter
+habitat sex-segregation are all characteristics that increase the species' vulnerability to threats or stochastic events. Although these attributes may not directly limit population growth,
+they may combine with anthropogenic threats to regulate
+Bicknell's Thrush populations.
+
+effects of threats on population stability and how to reduce their impacts (see Section V).
+
+Habitat Loss and Degradation
+
+Forestry practices
+
+Forestry practices, such as precommercial thinning (PCT) and clear-cutting, could be altering the amount and suitability of breeding habitat in Canada (Chisholm and Leonard 2008) and northern Maine, where Bicknell's Thrush are often found in managed forests. Forest managers use PCT to reduce tree density by 85-95% (Chisholm and Leonard
+2008, Ordre des ingenieurs forestiers du Quebec 2009). Bicknell's Thrush abundance drops locally immediately following the process of PCT (Chisholm and Leonard 2008), but the effects of this practice on productivity or survival are
+unknown.
+An initial goal upon formation of the IBTCG was to                    Clear-cutting in industrial highlands may affect Bicknell's quantify and describe the major
+threats to Bicknell's Thrush populations. The group has identified five broad categories of threats (below), identified several specific threats in
+each category, and ranked the relative extent to which these threats are believed to negatively affect populations (Table 3).  The IBTCG has
+also identified research actions to address knowledge gaps
+in understanding the relative
+
+
+
+
+
+
+
+
+Recently-thinned industrial forest in New Brunswick.
+
+11
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Thrush by temporarily removing forest habitat. Little information is available on Bicknell's Thrush use of mature forest prior to clear-cutting, making it difficult to assess immediate impacts on the species. It has been observed that birds may move to uncut/unthinned  remnant forest nearby, and for at least the first few years after the perturbation (McKinnon 2009; D. Busby, CWS/SCF, pers. comm.). In addition, the use of thinning in forests prior to harvest may obscure impacts of clear-cutting; effects of clear-cutting would be greater in stands never subjected to PCT since these may still be used by Bicknell's Thrush.
+
+Vegetation succession
+
+Control of vegetation succession may also alter the availability or quality of Bicknell's Thrush breeding habitat. The species often breeds in dense regenerating forests that originate from anthropogenic disturbance, such as a clearcut, or natural disturbance, such as fires or insect outbreaks. Suppression of natural disturbance events may result in
+fewer stands regenerating to a stage where they are used by Bicknell's Thrush for breeding. In the industrial highlands in NB, harvesting of wood has declined recently due to
+market pressures. In NS and NB, a decline in the amount of young, regenerating stands within Bicknell's Thrush habitat is currently occurring or predicted to occur over the next
+20 years (COSEWIC 2009). This will result in fewer dense forest stands at the stage where Bicknell's Thrush is most abundant.
+
+Industrial and recreational development
+(wind, telecommunication, ski)
+
+Bicknell's Thrush breeding habitat is at risk of development from activities such as construction and operation of wind power and telecommunications facilities, and recreational skiing. These industries threaten to remove, fragment or alter habitat.
+
+Human disturbance (recreation)
+
+Recreational use of high-elevation areas may also pose a threat. Many protected high-elevation areas in the U.S, such as the WMNF and Adirondack Park, are annually visited by tens of thousands of hikers. The impacts of direct disturbance to breeding Bicknell's Thrush from recreational use of these forests is not well documented, although some evidence suggests that birds can adapt to moderate levels of human disturbance (Rimmer et al. 2001).
+Subsistence farming and logging; human-caused ﬁres
+
+Forest habitat loss from subsistence farming and logging has been severe on the island of Hispaniola. Fires caused
+by people in the Dominican Republic and Haiti are an additional threat to winter habitat. Only 10% of original forest cover remains in the Dominican Republic (Stattersfield et al. 1998), while < 2% persists in Haiti (Paryski et al.
+1989, Sergile 2008). High-elevation cloud forest is the only habitat that consistently supports Bicknell's Thrush in the Dominican Republic's Sierra de Bahoruco (Latta et al. 2003), and is one of the most endangered habitats on Hispaniola (Latta and Lorenzo 2000). Current estimates
+are lacking, but only 1,100 km2 of cloud forest and 3,150 km2 of wet broadleaf forest remained island-wide in the late 1990s (Tolentino and Peña 1998). Current rates of deforestation are unlikely to abate given continuing socio­ economic pressures in both countries (Stattersfield et al.
+1998, Perdomo and Arias 2008, Sergile 2008). Continuing deforestation in the Dominican Republic, both inside and outside of officially protected areas, may have significant conservation implications for Bicknell's Thrush, particularly if winter habitat segregation disproportionately affects
+the susceptibility of males and females to forest loss (see Habitat section p.7). In Cuba, relatively more Bicknell's Thrush habitat is available, since 21% of the island retains forest cover, partly as a result of reforestation since 1960 (Mugica 2008). However, the distribution and size of Bicknell's Thrush populations wintering in Cuba are not well documented.
+
+Feral animals
+
+Dense forest understory is an important characteristic of winter habitat for Bicknell's Thrush. Feral pigs and free- ranging cattle severely damage forest understory at some wintering sites on Hispaniola, degrading habitat quality for Bicknell's Thrush, although the demographic impacts of such degradation are unknown (VCE, unpubl. data).
+
+Coastal development
+
+Currently, spring and fall migration of Bicknell's Thrush
+is believed to follow the East Coast ﬂyway of North America from the Caribbean to the Maritimes. Although specific migratory habitat of Bicknell's Thrush has not been studied, coastal development, development of wind power, and communications towers are known to affect migration habitat for other Nearctic-Neotropical migrants using the eastern ﬂyway (Moore et al. 1995, Moore 2000).
+
+
+12
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Atmospheric Pollution
+Atmospherically-deposited heavy metals and acid precipitation are threats of unknown magnitude. For Bicknell's Thrush populations inhabiting high-elevation breeding or winter habitats, risks may be higher, as deposition of heavy metals and other pollutants is known to be greater than at lower elevations (e.g., Rimmer et al.
+2005a).
+
+
+Mercury bioaccumulation
+
+Mercury, which is released into the atmosphere from coal burning and waste incineration, is of particular concern. Researchers have found elevated levels of toxic methylmercury in Bicknell's Thrush tissues sampled at
+multiple breeding sites and Greater Antillean wintering sites (Rimmer et al. 2005a). Mercury enters the montane forest food web from the abiotic environment and bioaccumulates at successive trophic levels (Rimmer et al. 2009). Mercury's physiological or behavioral effects on Bicknell's Thrush, and their impacts on individual fitness, are not known.
+
+Nitrogen deposition
+
+Atmospheric reactive nitrogen (nitrates and/or ammonia), derived from vehicle and electric utility emissions, is deposited at high elevations as acid precipitation, which can adversely affect forest and watershed health. High-elevation forests where Bicknell's Thrushes breed are affected directly by reactive nitrogen pollution through foliage damage and, indirectly, by reduced stress tolerance (Driscoll et al. 2003).
+
+Calcium depletion
+
+During the past 50 years, acid deposition has accelerated the loss of large amounts of available calcium from soil
+in acid-sensitive areas in the northeastern U.S, including breeding sites of Bicknell's Thrush in the Adirondacks (New york), the Green Mountains (Vermont), the White Mountains (New Hampshire), and in Maine (Driscoll et al.
+2001). Recent studies from northern Europe have found that songbirds breeding in acidified areas may be unable to obtain sufficient high-calcium foods (such as land snails) for eggshell production (Graveland and Drent 1997, Mand et
+al. 2000).  Land snails rely on calcium in leaf litter and live vegetation, which has decreased due to the leaching effects of acid deposition.
+Acid deposition also affects Bicknell's Thrush habitat directly. Since the 1960s, significant growth declines and increased winter injury to red spruce have been observed
+across much of the species' range (Eager and Adams 1992), and recent research suggests that red spruce decline is linked to leaching of calcium from needles by acid rain, mist, and fog (DeHayes et al. 1990, 1999). The loss of calcium in needles reduces their tolerance to low temperatures and
+increases the occurrence of winter injury and subsequent tree damage or death. Increased mortality of spruce may result in encroachment of less suitable trees (such as hardwoods) into Bicknell's Thrush habitat, which may decrease the quality of foraging or nesting areas.
+
+Effects of lead or other trace elements
+
+Despite recent dramatic decreases in atmospheric inputs of lead from gasoline, levels of lead in high-elevation soils
+in the Northeast remain high (Kaste et al. 2006). Lead concentrations known to cause sub-lethal effects have been found in urban populations of some songbirds, despite
+near-zero atmospheric contributions of lead (Scheiﬂer et al. 2006). Research is needed to determine if exposure of Bicknell's Thrush to elevated levels of or other trace elements in montane forest soils could cause sub-lethal physiological or behavioral effects.
+
+Climate Change
+
+Increasing temperature and forest conversion
+
+Climatic warming's most significant impact on Bicknell's Thrush may be an upward shift in elevational distribution of its breeding habitat. Because the extent of fir-dominated montane forests is controlled primarily by climate, projected warming has the potential to alter distribution and abundance of these forests (Rodenhouse et al. 2008). Changes in vegetation communities along elevational gradients in the Northeast are strongly inﬂuenced by temperature (Spear 1989, Botkin et al. 1972). Warmer
+growing seasons could gradually elevate forest ecotones and confine high elevation plant and animal communities to progressively higher, smaller, and more isolated patches. An upward shift in the lower spruce-fir ecotone may already
+be underway on northeastern U.S. mountains (Hamburg and Cogbill 1988, Beckage et al. 2008), where warming is resulting in the encroachment of northern hardwoods into areas previously dominated by red spruce and balsam fir (Lee et al. 2005, Beckage et al. 2008).
+Warming of as little as 1°C is predicted to  reduce potential Bicknell's Thrush habitat by more than half, while an increase of 2°C may eliminate all breeding sites from
+
+
+13
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+the Catskill Mountains of New york and most of Vermont (Rodenhouse et al. 2008). A 3°C increase in growing season temperatures could eliminate nearly all Bicknell's Thrush habitat in the Northeast. By the end of the century, summer temperatures are projected to rise on average by 2.8 °C
+under a lower-emissions scenario and 5.9 °C under a higher- emissions scenario (Union of Concerned Scientists 2006).
+
+Disruption of cone-red squirrel cycle; Change in prey base emergence; Increased interspeciﬁc competition
+Climate change has the potential to affect a variety of environmental and ecological parameters that determine viability of Bicknell's Thrush populations, including timing of predator population cycles (e.g., McCarty 2001), timing of spring prey emergence (e.g., Sillett et al. 2000, Sanz et al.
+2003, Both et al. 2006), and occurrence of competing species (Wormworth and Mallon 2006). These effects are currently not well understood for Bicknell's Thrush and require further research to assess their relative and combined impacts.
+
+Increased precipitation/wind  storms
+
+Most Bicknell's Thrush nest failures are caused by predation; however, climate change scenarios predict an increase in the frequency of precipitation and wind.
+More frequent rain or wind during the breeding season could reduce productivity directly by increasing rates of nest failure. More frequent wind or rain at wintering sites could decrease survival by limiting foraging opportunities, reducing roosting cover, or impairing thermoregulation of wintering birds and or destroy lower altitude habitats.
+
+Increased frequency of tropical storms
+(erratic weather)
+
+In general, more frequent tropical storms and erratic weather caused by climate change (Angeles et al. 2007) could affect Bicknell's Thrush throughout its annual cycle by
+directly or indirectly increasing mortality of individual birds. Fall hurricanes could prove catastrophic to actively migrating birds and damaging to winter habitats, while extreme
+weather events during the wintering period could impair physiological condition and lead to reduced fitness.
+
+Increase or changes in forest pests/pathogens
+
+The distributions of some forest pests, such as the balsam wooly adelgid (Adelges piceae), are controlled by climate. Warmer temperatures could allow expansion of these pests into high-elevation forests previously outside their ranges
+(Iverson et al. 2008), with potentially deleterious effects on
+Bicknell's Thrush breeding habitat quality (Lambert et al.
+2005).
+
+Increased Rates of Direct Mortality
+Catastrophic weather events; Introduced predators (rats and cats); Disease, parasites and decreased immune function; Migration hazards; Incidental take during research.
+Because Bicknell's Thrush populations are relatively small, increased rates of mortality could have large effects on the persistence of the species. The restricted geographic range
+of Bicknell's Thrush also increases the species' vulnerability to catastrophic weather events, since a relatively large proportion of the population could be affected at one time. Introduced rats are known to depredate Bicknell's Thrush on Hispaniola (Townsend et al. 2009b); other introduced predators, such as feral cats, may impact survivorship
+of wintering birds. Migration hazards (e.g., windows, telecommunication towers, wind turbines), disease, parasites, and research activities (i.e. handling, banding, telemetry)
+may result in direct mortality of Bicknell's Thrush. Mortality from research activities is believed to be very low; however, further investigation is required to determine the magnitude of direct mortality from this and other causes.
+
+Incidental take during forestry
+
+Another potential source of direct mortality is incidental take during forestry operations. Industrial highlands are generally accessible for PCT only between June and October; the bulk of PCT activity in New Brunswick, Nova Scotia
+and Quebec occurs from June to August (S. Makepeace, NB DNR; A. Doucette, NewPage Port Hawkesbury; and y. Aubry, CWS/SCF, unpubl. data). Thus, PCT may directly destroy nests or harm individuals, or otherwise disturb nesting attempts by Bicknell's Thrush and other birds in these forests.
+
+Demographic and Ecological Characteristics
+
+Male-biased sex ratio
+
+The highly skewed breeding adult sex ratio of Bicknell's Thrush (>2 males: 1 female; Townsend et al. 2009a) may be linked to sexual habitat segregation during winter and
+supports the need for more in-depth demographic studies on the wintering grounds.
+
+Seasonal interactions and migratory connectivity
+
+Elucidating how anthropogenic threats (e.g., habitat loss
+
+
+14
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+or degradation, climate change) impact populations across the species' annual cycle and how they might interact to regulate populations constitutes a pressing conservation need. Migratory connectivity is defined as the extent of mixing between summer (breeding) and winter (non­
+breeding) populations, as well as the stop-over and migratory pathways between them (Webster et al. 2002). Determining how populations are connected throughout the annual cycle is integral to understanding how anthropogenic threats inﬂuence population dynamics.
+
+Table 3.
+
+Threats to Bicknell’s Thrush populations,  their IBTCG priority rankings for conservation action, and the season(s) of the annual cycle in which they operate
+
+
+Threats                                                                                                        Priority*                             Season(s)**
+
+Habitat Loss and Degradation
+Subsistence farming and logging                                                        High                                 Winter Forestry practices                                                                               High                                 Breeding Coastal development                                                                          Medium                           Migration Vegetation succession                                                                         Medium                           Breeding Feral animals                                                                                      Medium                           Winter Human-caused fires                                                                           Medium                           Winter
+Industrial development (wind, telecommunication, ski)                    Medium                           Breeding, Migration
+Human disturbance (from recreation)                                                Low                                 Breeding
+
+Atmospheric Pollution
+Calcium depletion                                                                              Medium                           Breeding
+Mercury bioaccumulation                                                                  Medium                           Breeding, Winter Effects of lead or other trace elements                                                Low                                 Breeding, Winter Nitrogen deposition                                                                            Low                                 Breeding, Winter
+
+Climate Change
+Increasing temperature and forest conversion                                    High                                 Breeding Disruption of cone-red squirrel cycle                                                 Medium                           Breeding Increased precipitation/wind storms                                                  Medium                           Breeding, Winter Change in prey base emergence                                                         Medium                           Breeding
+Increase or changes in forest pathogens/pests                                     Medium                           Breeding Increased frequency of tropical storms                                               Medium                           All Increased interspecific competition                                                    Low                                 Breeding
+
+Increased Rates of Direct Mortality
+Incidental take during forestry                                                             High                                 Breeding Introduced predators                                                                          Medium                           Winter Catastrophic weather events                                                               Medium                           All Disease, parasites, and decreased immune function                           Low                                 All Incidental take during research                                                          Low                                 All Migration hazards (towers, lights)                                                      Low                                 Migration
+
+Demographic and Ecological Characteristics
+Male-biased sex ratio                                                                          Medium                           Winter
+Seasonal interactions and migratory connectivity                               Medium                           All
+
+* Rankings reﬂect a combined score based on estimated magnitude of effect and level of certainty for each identiﬁed threat, as agreed upon by the IBTCG.** Indicates season(s) of the annual cycle during which each threat is likely to affect populations
+
+
+
+15
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+
+IV. Population and Conservation  Goals and Actions 
+
+
+
+he following section outlines                                                                        ing conservation actions, as well as the range-wide conservation goals                 Conservation Goal:              research actions presented in Section V,
+The overall conservation goal
+set by the IBTCG. Progress
+have been identified by the IBTCG and
+towards the goals will be                   of the IBTCG is to increase        its component subgroups as priorities evaluated every five years.                                   the global population of           within the next five years (2010-2014).
+Although current trend data are                      Bicknell’sThrush by 25%           The conservation actions should be inconsistent across the breeding range,                 over the next 50 years            undertaken immediately in order to ad- the overall indication of declines in                 (2011 2060), and to maintain       vance population and habitat goals, and northern and core portions of the                        or increase the species’           the research actions should be under- species' range, combined with steep               current (as of 2010) extent of       taken to inform conservation action. In rates of winter habitat loss, has created                  breeding occurrence.             the future, IBTCG working groups will
+high levels of conservation concern for
+Bicknell's Thrush. Although a reliable estimate of historical population levels is lacking, recent declines suggest that populations have decreased overall during the past 20 years or more. Steep rates of winter habitat loss further suggest that current populations are likely below historic levels due to the reduced carrying capacity of these habitats. Local extirpations and disproportionately steep declines of some peripheral breeding populations, such as in the Canadian Maritimes, indicate that conservation efforts and approaches may need to be tailored to regional conditions and contexts. These conclusions support establishment of an ambitious population objective that seeks to increase the population beyond its current levels.
+This goal equates to increasing the species' overall numbers while simultaneously sustaining viable populations at the current periphery of the breeding range, such as in
+the Catskill Mountains of New york and the Cape Breton Highlands of Nova Scotia. The goal similarly applies to extent of occurrence on the wintering grounds, although
+more information is needed to clarify the species' distribution outside of Hispaniola. We believe that a 25% increase over
+50 years, while ambitious, is achievable,  if the actions recommended in this Plan are fully implemented.
+Based on current knowledge of Bicknell's Thrush ecology, the most feasible actions to promote population increases are habitat management, protection, and restoration. The follow-
+develop specific, detailed implementa­ tion plans to achieve each priority conservation and research action; these will include justification for the action(s), antici­ pated measurable outcomes, cooperating parties, estimated costs, a timeline for successful implementation, and criteria
+by which to evaluate success.
+
+Protect or manage known and potential breeding habitat.
+On its North American breeding range, Bicknell's Thrush habitat is restricted to higher elevations, where ecological constraints limit possibilities for creating additional habitat. Habitat management is a more practical approach to increasing breeding populations of Bicknell's Thrush. The majority of U.S. breeding habitat is protected because it coincides with fragile high-elevation areas; however, in Maine and Canada, a large portion of Bicknell's Thrush habitat is subject to timber management (“industrial forest”). In these areas, sustainable forestry practices can be implemented on a landscape scale to provide suitable breeding habitat through time, and to ensure no net loss of available breeding habitat.
+
+Conservation Action:
+Partner with timber companies and management  
+agencies to develop and implement  Best Management Practices (BMPs)  for Bicknell's Thrush. 
+
+
+
+16
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+Table 4.
+Summary of habitat conservation goals and highest priority conservation actions identiﬁed by the IBTCG to achieve the overall goal of increasing Bicknell’s Thrush populations  by 25% over the next 50 years.  Primary threats addressed by each conservation action are identiﬁed.
+
+Habitat Conservation Goal
+
+
+Protect or manage known and potential breeding habitat.
+
+
+
+
+
+
+
+
+
+Protect, manage, and restore known and potential winter habitat.
+Conservation Actions
+
+
+• Partner with timber companies and management agencies to develop and implement Best Management Practices (BMPs) for Bicknell’s Thrush.
+
+• Maintain a target amount of Bicknell’s
+Thrush habitat in industrial forests.
+
+
+
+• Improve protection of current winter habitat.
+
+• Expand Bicknell’s Thrush Habitat
+Protection Fund.
+
+• Develop habitat management plans and secure implementation funding.
+
+• Pilot winter habitat restoration projects.
+
+• Develop strong links with Caribbean partners.
+Threat(s) Addressed
+
+
+Habitat Loss and Degradation
+– forestry practices; also Direct
+Mortality – incidental take
+
+
+Habitat Loss and Degradation –
+forestry practices
+
+
+
+All of the winter habitat actions help address threats from Habitat Loss and Degradation – including subsistence farming and logging, human-caused  ﬁres, feral animals, habitat quality and quantity
+
+
+The development of management guidelines for land managers working in Bicknell's Thrush habitat addresses
+the threat of direct mortality from incidental take (including nests, eggs, and young) during forestry operations, as
+well as the threat of habitat loss and degradation, which occur when forest stand structure is drastically changed through thinning, clear cutting, and cutting for trails used by harvesting equipment. Preliminary work has been done toward producing management guidelines for industrial highland forest in the Maritimes and Quebec (Bredin and
+Whittam 2009, Rioux and Poulin 2009). Suggested practices include:
+•  avoiding logging infrastructure development and precommercial thinning (PCT) in areas occupied by Bicknell's Thrush.
+•  employing mitigation measures where PCT cannot
+be avoided, such as reducing the areas treated, and if no other solution is available, conducting PCT only
+outside of the breeding season.
+
+• leaving unthinned patches within thinned stands.
+
+•  employing a "No Net Habitat Loss" policy such that the amount of Bicknell's Thrush habitat in the area of management does not decrease.
+Best management practices aim to minimize the risk of impacts, and mitigate any unavoidable impacts on Bicknell's Thrush, including nests, eggs, young, and adults. To best address region-specific management regimes, BMPs will need to be developed independently by jurisdiction. The following actions are required in order to develop and implement
+BMPs range-wide:
+• Quantify industrial highland forest used or potentially used by Bicknell's Thrush in ME and identify the landowners (this is already completed for Quebec, New Brunswick and Nova Scotia).
+• On public lands, develop partnerships and stewardship
+
+
+17
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+with management agencies and incorporate BMPs for Bicknell's Thrush into legislation or public land management practices whenever possible.
+• On private land, develop partnerships with landowners to implement BMPs.
+• Continually evaluate and adapt BMPs to reﬂect the most up-to-date research and incorporate target amounts of habitat to be supplied within each jurisdiction.
+
+
+Conservation Action:
+Maintain a target amount of Bicknell'sThrush habitat in industrial forests.
+
+It is necessary to identify the amount of habitat needed to maintain and increase populations of Bicknell's Thrush currently nesting on forestry lands in Quebec, New Brunswick, Nova Scotia, and Maine. (Note that almost
+all Bicknell's Thrush habitat in New Hampshire, Vermont, and New york is under government ownership and is not managed for timber harvest.) Establishing explicit target levels of habitat will provide a basis by which to encourage land managers to protect that amount of habitat on an
+annual basis. Such protection could be achieved by adjusting the amount of habitat that is cut and thinned annually. Regenerating forest requires 10-20  years or more post- harvest to reach a stage that supports Bicknell's Thrush (trees
+> 2 m height), and PCT generally occurs 15-20 years post- harvest (or when stands reach 2-3 m in height). By rotating harvests across the range of Bicknell's Thrush habitat and creating a heterogeneous distribution of stand ages, which will undergo PCT and cutting at different times, a consistent amount of suitable habitat should be maintained across the landscape over time.
+Separate targets are likely required for each jurisdiction where Bicknell's Thrush breed on forestry lands, including Quebec, New Brunswick, Nova Scotia, and Maine, because each jurisdiction has different management regimes and goals. Within these jurisdictions, targets may need to be developed separately for public and private lands.
+The following actions are needed before targets can be set. These actions can only be achieved through strong engagement of both provincial/state/private forest
+management partners and federal agencies responsible for migratory bird conservation.
+• Determine Bicknell's Thrush density in industrial forest stands in the various jurisdictions within which the
+species occurs.
+
+• Acquire data on the size, growth stage and management (especially PCT) plans for stands that coincide with potential Bicknell's Thrush habitat.
+• Using Bicknell's Thrush density information, forest stand condition information, and a description of the habitat used by Bicknell's Thrush, estimate the current population of Bicknell's Thrush breeding on forestry lands and set a target population as a management goal. This target population could be based on current populations, or on the amount of pre-industrial forest
+habitat which would have been historically present due to fire, blowdown, and insect outbreak (most of which are now controlled
+• Determine the amount of habitat required to support the target population and model the production of this habitat over time.
+
+
+Protect, manage, or restore known and potential winter habitat.
+Habitat loss and degradation are widely recognized as a major cause of population declines in birds worldwide. In the Caribbean, forests have been extensively cleared for agriculture and subsistence living. Almost all natural
+forest in Haiti has been cleared with < 2% of original forest remaining (Paryski et al. 1989, Sergile 2008). While forested habitat covers 27.5% of the Dominican Republic's land base (Tolentino and Pena 1998), 21% in Cuba (Mugica 2008), and 25% in Jamaica (Stattersfield et al. 1998), much of the
+
+Severe deforestation along the Dominican-Haitian border
+
+
+18
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+extant forest in each country has been dramatically altered from its original state. Of four bird communities analyzed over an elevational gradient in the Dominican Republic's Sierra de Bahoruco by Latta et al. (2003), montane forest was the only habitat shown to support Bicknell's Thrush. Montane forests have been identified as one of the most
+endangered habitats on Hispaniola (Latta and Lorenzo 2000) with only 1100 km2 of cloud forest and 3150 km2 of wet broadleaf forest remaining island-wide (Tolentino and Peña
+1998).
+While additional research is needed to better understand
+Bicknell's Thrush winter habitat selection, including on islands other than Hispaniola, enough is known to implement actions that will strengthen protection of
+core habitat, develop management plans, and begin pilot restoration of degraded habitat. There are indications that conservation efforts can be successful. Efforts in Haiti
+to promote biodiversity conservation and sustainable development have met with some success, despite a high rate of poverty and low public appreciation for natural resources (Sergile and Woods 2001). An analysis of forest recovery in a Dominican riparian forest showed similar canopy height and stem density to original, old-growth forests 40 years post- agriculture; however, secondary forests had a lower basal
+area and a greater percentage of basal area was comprised of invasive species (Martin et al. 2004). This was a natural recovery, suggesting that active efforts to plant native species and remove invasives may speed recolonization. Bicknell's Thrush has been documented to occur in recovering secondary forests similar to those studied by Martin et al. (2004), with two banded individuals recaptured between
+2004 and 2007 suggesting the existence of winter philopatry to such habitats (J. Townsend and C. Rimmer, unpubl. data).
+Habitat protection and restoration in the Caribbean
+could significantly enhance overwinter survival of Bicknell's Thrush, in turn leading to population increases. Current research suggests that regenerating forests in Hispaniola do not support Bicknell's Thrush for 15-20 years post-recovery (C. Rimmer, VCE, pers. obs.). Thus, a 50-year population recovery goal allows adequate time to identify candidate
+sites for habitat restoration, develop relationships with local partners, secure needed funding, implement on-the-ground restoration measures, and document habitat occupancy patterns of Bicknell's Thrush. Concurrent efforts will focus on strengthening protection and management of existing intact habitat.
+
+Conservation Action:
+Improve protection of currently occupied winter habitat.
+
+Bicknell's Thrush habitat on Hispaniola, both inside and outside of formally protected areas, is not well safe-guarded due to lack of resources, including trained staff, and lack
+of knowledge of priority areas for habitat conservation. To improve protection of currently suitable winter habitat, we propose to:
+• Improve enforcement capacity for existing protected areas through increased staffing, training and infrastructure.
+• Identify priority areas for protection (both currently protected and unprotected) taking into account immediacy and severity of threats, potential local conservation partners, and likelihood of success.
+
+
+Conservation Action:
+Develop winter habitat management plans and secure implementation funding.
+
+Legally protected forest areas on Hispaniola require the development of management plans to ensure protection and suitability of habitat for Bicknell's Thrush, based on known habitat preferences. Sustainable funding mechanisms will be needed to implement management plans. Management plans for winter habitat should include:
+• Initiatives to acquire or manage buffer zones around protected forests.
+• Development of community-based, sustainable agriculture, such as cacao or shade coffee agro-forestry.
+• Guidance for invasive species control measures.
+
+• Reference to broader landscape-level conservation initiatives.  By using Bicknell's Thrush as an umbrella species, watersheds or other appropriate ecological units can be protected via sustainable management and restoration of wet broadleaf forest habitats; this approach will also target specific suites of migrant and resident species that benefit from such habitat management.
+• Promoting the use of local, sustainably-grown cocoa and coffee products in North America to raise funds for management of winter habitat.
+
+
+
+
+19
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+Conservation Action:
+Pilot winter habitat restoration projects.
+
+
+The majority of historical Bicknell's Thrush habitat on Hispaniola has been degraded or destroyed; thus habitat recovery, via active restoration and passive regeneration, is critical for increasing populations to attain our overall
+conservation goal. Habitat recovery efforts should include a range of elevations and geographic areas to address the needs of all sex and age classes. Haitian reforestation should focus on currently protected high-elevation areas in the Massif
+de la Hotte and Massif de la Selle. To begin the process of habitat restoration, we propose to:
+• Assess extent and condition of habitats (i.e, from optimum to badly degraded) to evaluate potential for restoration.
+• Secure and distribute funds locally to obtain needed resources (e.g., paid staff, infrastructure, equipment) to implement habitat restoration efforts.
+• Develop explicit strategies to restore areas of degraded forest to conditions suitable for Bicknell's Thrush and associated forest endemic birds.
+• Establish standardized protocols to monitor occupancy/
+use by Bicknell's Thrush (and other species) over time, and evaluate success of efforts to guide future restoration projects.
+
+
+Conservation Action: Develop strong links with local partners in the Caribbean.
+
+Close collaboration with local partners, both in governmental agencies and non-governmental organizations, is critical to the success of any conservation effort. To
+increase participation of Caribbean partners in IBTCG activities and forge stronger connections with local partners throughout the winter range, we propose to:
+• Form new partnerships, strengthen existing relationships, develop opportunities, and provide outreach to local biologists, students, government officials, NGOs, and community members for implementation of conservation activities.
+• Develop strong alliances and working partnerships with government agencies in each country that supports wintering Bicknell's Thrush populations.
+• Recruit additional IBTCG members from the
+Caribbean.
+
+• Regularly host IBTCG meetings in the Dominican
+Republic or other Caribbean countries (i.e. every
+3 years), to show commitment of North American agencies to conservation efforts on the winter range
+• Develop funding mechanisms to ensure participation of Caribbean IBTCG members in annual meetings held in North America and in biennial meetings of the Society for the Conservation and Study of Caribbean Birds
+• Work with identified partners to develop local outreach, training, ecotourism, and other capacity building projects.
+• Develop partnerships and projects with a specific focus on environmental education, to build needed local community support for conservation of birds and their habitats.
+
+
+Conservation Action: Expand the Bicknell'sThrush  Habitat Protection Fund. 
+
+Inadequate funding to support conservation projects on Hispaniola is identified as a limiting factor by the IBTCG and others (e.g., Sergile and Woods 2001, Latta 2005). The Bicknell's Thrush Habitat Protection Fund (BITH Fund)
+was created in 2005 by a consortium of U.S. conservation partners, as a recommended mitigation strategy to offset ski area or related development of breeding habitat (Rimmer
+et al. 2004). The primary purpose of the BITH Fund is to disburse monies via grants to local partners in the Dominican Republic or Haiti for on-the-ground conservation projects
+that target Bicknell's Thrush habitat and related conservation efforts on Hispaniola. The Fund is administered by the Adirondack Community Trust (ACT), with a stipulation that monies cannot be dispersed until the Fund reaches $10,000. Expanding resources of the BITH Fund has significant potential to provide revenue to local partners, thereby strengthening their investment and involvement in Bicknell's Thrush conservation on Hispaniola.
+The BITH Fund's Advisory Committee is composed of representatives from VCE, Adirondack Nature Conservancy, Adirondack Council, Audubon New york, Wildlife Conservation Society, and Fundación Loma Quita Espuela. The role of the Advisory Committee is to advise ACT in developing and managing the Fund, and to oversee a grant­
+
+
+20
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+making process.
+While the BITH Fund is formally established and recently exceeded the $10,000 threshold for disbursement, time constraints on the part of Advisory Committee members have limited progress on implementation. The IBTCG recognizes the potential value of the BITH Fund and wishes to help advance the Advisory Committee's efforts.
+The IBTCG proposes to increase the BITH Fund to US
+$50,000 by the end of 2010, and to expand the long-term inﬂuence of the Fund by:
+• Actively promoting the BITH Fund within North American ski, telecommunications, wind power, and forest products industries, and to carbon sequestering organizations.
+• Suggesting the BITH Fund as a method of
+compensatory mitigation to be applied by the Canadian federal government when issuing permits for Incidental Take (due to forestry operations).
+• Establishing an explicit structure and grant-making process to deliver money from the BITH Fund to
+conservation partners on Hispaniola
+
+• Ensuring balanced representation on the BITH Fund's Advisory Committee from both the Dominican Republic and Haiti.
+• Working closely with a forthcoming "Sister" BITH Fund (Hispaniolan BITH Fund) in the Dominican Republic to coordinate synergistic fundraising and implementation efforts.
+• Assist Dominican partners to secure > $50,000 in the
+Hispaniolan BITH Fund by the end of 2010 and >
+$100,000 by the end of 2011.
+
+• Expanding the reach of the BITH Fund to other
+Caribbean islands.
+
+• Increasing awareness of the BITH Fund among potential donors, grantors and corporations.
+• Expanding the use of local, sustainably grown cocoa and coffee products in North America to raise funds and awareness of conservation issues in Hispaniola.
+
+Mid-elevation wet broadleaf forest in Cordillera Septentrional, Dominican Republic
+
+
+21
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+
+
+V. Research Actions 
+
+
+
+
+
+onservation of Bicknell's Thrush is the driving force behind the work of the IBTCG, yet many threats and limiting factors remain poorly understood. While conservation goals will be
+targeted by specific conservation actions (section IV, above), an important component of conservation of Bicknell's Thrush is to conduct further research on the threats believed to be negatively impacting populations, so that the threats can
+be addressed by well-informed conservation action in the future. The following research actions have been identified by the IBTCG as priorities within the next five years (2010-
+2014).
+
+Research Action:
+Identify important migratory stopover sites, routes, and patterns.
+
+Conservation Action Informed: Identify, protect, and manage important migration habitat, especially along the highly developed Atlantic coast
+
+For a migratory animal like Bicknell's Thrush, understanding its full array of threats and how they interact throughout the annual cycle is integral to guide conservation planning. Determination of migratory patterns, stopover ecology, and population connectivity of Bicknell's Thrush between its breeding and wintering grounds has proved
+an intractable challenge to date.
+
+stop-over and migratory pathways between them (Webster et al. 2002).  Although understanding space-use strategies and habitat preferences of Nearctic-Neotropical migratory songbirds has grown substantially over the last 20 years, knowledge of migratory connectivity remains poor (Remsen
+2001, Marra and Webster 2005). Many migratory songbirds cross distances of over 5,000 km between breeding and wintering sites, yet the exact timing, pathways followed, and degree of connectivity remain speculative. Information from bird banding has been limited by the scattered and irregular nature of banding returns (Webster et al. 2002). Although stable- hydrogen isotope analyses have yielded latitudinal and altitudinal gradients of habitat occupancy and a first
+step towards assessing migratory connectivity (Rubenstein et al. 2002), this technique generally provides only coarse resolution.
+The critical importance of connectivity to understanding the ecology of migratory birds has spurred a long history
+of research. Mark-recapture analyses of bird-banding data appear to have been the first and most broadly-used technique to address this issue for songbirds. However, despite the banding of millions of individuals, extremely low recapture rates have limited the technique's utility (Webster et al. 2002).  For example, only two Bicknell's
+Thrushes (Catharus bicknelli) have been recaptured on their
+Hispaniolan wintering grounds despite the banding of over
+3,000 individuals throughout the species' North American breeding range (Rimmer and McFarland 2001, Townsend
+and Rimmer 2006).
+Elucidating how anthropogenic threats                                                                             Understanding the timing and (e.g., habitat loss or degradation,                                                                                  extent of avian population limitation climate change) operate in different                                                                                and regulation is complicated for parts of the species' annual cycle                                                                                  migratory populations that spend
+and how they inﬂuence population                                                                               different periods of their annual cycle regulation constitutes a pressing                                                                                   in ecologically disparate regions. The conservation need.                                                                                                        "seasonal interaction hypothesis" was Migratory connectivity is defined                                                                             first put forth by Fretwell (1972),
+as the extent of mixing between                                                                                    who argued that breeding density
+summer (breeding) and winter (non- breeding) populations, as well as the
+Bicknell’s Thrush with solar geolocator backpack harness
+
+
+22
+is determined by winter survival, which in turn is related to events
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+Table 5.
+
+Summary of research actions, the threat each will address, the conservation actions to be informed, and the ultimate habitat conservation goal to be achieved
+
+Research
+Action
+
+
+Identify important migratory stopover sites, routes, and patterns.
+
+Determine impacts of forestry on demography.
+
+
+
+Clarify winter distribution and habitat use on islands other than Hispaniola.
+
+Assess the effects of calcium depletion.
+
+
+
+Predict and monitor effects of climate change.
+
+Determine winter survival and demography relative to local habitat condition and quality.
+Threat
+Addressed
+
+
+Habitat Loss and
+Degradation
+
+
+
+Habitat Loss and Degradation/Increased Rates of Direct Mortality
+
+Habitat Loss and
+Degradation
+
+
+
+Atmospheric Pollution
+
+
+
+
+Climate Change
+
+
+
+Other Population Ecology Factors/Habitat Loss and Degradation
+Conservation Action
+Informed
+
+
+Protection of important migration habitat
+
+
+
+Development of forestry BMPs for Bicknell’s Thrush
+
+Protection of winter habitat
+
+
+
+Mitigation of impacts from atmospheric pollution
+
+Mitigation of impacts from climate change
+
+Protection and restoration of winter habitat
+Habitat Conservation
+Goal
+
+
+Protect or manage migration habitat.
+
+
+
+Protect or manage known and potential breeding habitat.
+
+
+
+Protect, manage, and restore known and potential winter habitat.
+
+Protect or manage known and potential breeding habitat.
+
+
+
+Protect or manage known and potential breeding habitat.
+
+Protect, manage, and restore known and potential winter habitat.
+
+
+that occur during the breeding cycle. Recent studies of American Redstarts (Setophaga ruticilla) support the seasonal interaction hypothesis (e.g., Marra et al. 1998).  In this species, winter habitat quality determined physical condition and timing of spring migration departure, which inﬂuenced arrival date and physical condition on the breeding grounds. Subsequent monitoring of redstart breeding demographics revealed a profound interaction between seasons. Robust tests of the seasonal interaction hypothesis such as this require detailed knowledge of migratory connectivity.
+Marshall (2001) postulated that loss of Bicknell's Thrush breeding populations at several sites in Nova Scotia was directly related to extensive deforestation of wintering habitat in Haiti, implying strong population connectivity. However, Hobson et al. (2001) used stable isotope analyses of δD and δ13C to investigate patterns suggesting migratory connectiv­
+ity between breeding and wintering populations of Bicknell's Thrush. They found considerable overlap and high variance in δD values of feathers among all breeding populations sampled, suggesting high natal dispersal, considerable move­ ment of birds among disjunct habitat patches on the breed­ ing grounds, or both. Thrushes sampled on the wintering grounds yielded higher variances in feather δD values than birds sampled on breeding areas of similar size, suggesting that different breeding populations mix in winter.
+Rimmer et al. (2001) summarized the scant data on spring and fall migratory routes of Bicknell's Thrush; many gaps in knowledge remain. Further, little information
+exists on timing of departure from the wintering grounds, rates of spring or fall migration, the existence of stopover sites, or stopover ecology itself. To better understand migratory patterns and ecology of Bicknell's Thrush, as well
+
+
+23
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+as breeding-winter population connectivity, the following research activities are recommended:
+Attach solar geolocators to birds of different age and sex cohorts from discrete regions across the breeding and winter range. Engineers at the British Antarctic Survey recently developed a miniature daylight level data recorder (geolocator) for tracking animals over long periods of
+time (Afanasyev 2004, see http://www.antarctica.ac.uk/ bas_research/instruments/instrument7.php  e). These devices, weighing as little as 1.2 g, can be attached to birds by methods similar to long-standing VHF radio-transmitters used in radio-tracking songbirds over short distances
+and durations.  These loggers take consistent readings of daylight timing for up to two years. Recovered data are then interpreted to determine latitude and longitude of the individual bird for every day the logger was attached and exposed to suitable sunlight.  Geolocators have returned highly accurate and detailed location information on large pelagic birds (e.g., Phillips et al. 2007, Takahashi et al.
+2008), and their utility for small migrating songbirds has recently been demonstrated with Wood Thrush (Hylocichla mustelina) and Purple Martin (Progne subis) using new miniaturized designs (Stutchbury et al. 2009).  One limitation of this technology is that tags must be retrieved before data are acquired, and their current cost may prohibit broad-scale deployment and large sample sizes. Despite these constraints, geolocator tags present an unparalleled opportunity to discover how distant breeding and non- breeding areas connect in space and time. A preliminary rangewide study in 2009 resulted in the attachment of 71 geolocators to adult male Bicknell's Thrushes (22 in New york, 15 in Vermont, 25 in Quebec, 5 in New Brunswick, 4 in Nova Scotia).
+Conduct intensive sampling efforts along migratory
+
+Banding studies yield important data on Bicknell’s Thrush population biology and ecology.
+pathways indicated by geolocator studies to identify specific stopover sites that may support concentrations of individuals and/or are used consistently across years.
+Investigate demography, habitat use, length-of-stay, diet, and physiological condition of individuals at any identified key stopover sites.
+Implement standardized banding protocols, including non-invasive tissue sampling, and establish a coordinated database for the Bicknell's/Gray-cheeked Thrush complex at migration banding stations in eastern North America.
+
+Research Action:
+Determine impacts of forestry on demography.
+
+Conservation Action Informed: Development of best management practices for the industrial highland forests, including the pattern, amount, timing, and landscape configuration of silvicultural treatments that are likely to sustain local Bicknell's Thrush populations.
+
+Nixon et al. (2001), Gardiner (2005), and Chisholm and Leonard (2008) documented Bicknell's Thrush in regenerating clear cuts in New Brunswick. Chisholm and Leonard (2008) found the species to be less abundant in stands immediately following thinning, while Gardiner (2005) found some (albeit non-significant) evidence for an increase in abundance 9-20 years after thinning. McKinnon (2009) documented the first evidence of confirmed breeding in managed NB forests; Bicknell's Thrush nests were located in unthinned and strip-thinned patches, although sample sizes were too small to document any impact of PCT on productivity. Bicknell's Thrush continue to inhabit forest stands in the years following thinning (Chisholm and Leonard 2008, McKinnon 2009, y. Aubry unpubl. data), but relatively little is known about the birds' use of these stands, including whether they contain nests or are used only for foraging, or whether they constitute high- or low-quality habitat. Current knowledge, while limited, suggests that
+the long-term impacts (up to 20 years) of PCT on breeding habitat are negative. The availability of suitable unthinned habitat, both nearby and more broadly across the landscape, likely drives the use of unthinned habitat, probably for activities not directly related to breeding (y. Aubry, CWS/ SCF, pers. comm.)  Research on how forestry practices
+affect spatial use patterns of Bicknell's Thrush in industrial highlands should include the following actions:
+• Create a GIS model(s) of historic and currently
+
+
+24
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+available habitat across the industrial highland forest landscape. This could be done in conjunction with the habitat supply analysis detailed under Conservation Actions above, and may guide the setting of a target population/habitat goal.
+• Conduct a large-scale, landscape-based study of habitat use and home range size in managed forest. This would: a) provide information on birds' activity budgets and (ideally) nesting habits and success within
+stands of varying ages and silvicultural treatments (pre­ thinned, recently thinned, post-thinned, unthinned); and b) allow for an assessment of the landscape-
+level impacts of PCT and clear cutting on Bicknell's Thrush populations, which would in turn guide the development of best management practices and habitat supply.
+• Continue demographic studies of banded populations at several sites over at least five years to determine survivorship and site fidelity in intensively-managed forests; relate findings to stand characteristics and forest management practices such as PCT.
+• Refine the current draft Bicknell's Thrush habitat model (Vermont Center for Ecostudies 2009) by incorporating forest composition parameters, including, ultimately, forest management regimes.
+• Analyze current research results investigating the impacts of thinning on Bicknell's Thrush productivity.
+• Determine how Bicknell's Thrush uses small, isolated, and residual unthinned patches within larger thinned stands.
+• Determine the minimal patch size required to retain breeding Bicknell's Thrush (assessed by aural surveys before and after harvest) in a harvested landscape.
+• Conduct a retrospective analysis to determine if habitat harvested 30 or more years ago has regenerated to
+pre-harvest composition and structure, and assess use by Bicknell's Thrush by surveys and habitat assessment based on known vegetation associations.
+
+
+Research Action:
+Clarify winter distribution and habitat use on islands other than Hispaniola.
+
+Conservation Action Informed:
+Protection and management of winter habitat.
+A clear understanding of the distribution of Bicknell's Thrush and its habitat requirements throughout the Greater Antilles is crucial to prioritize and direct conservation planning. This addresses winter habitat loss and degradation, and is needed to accurately evaluate the occurrence of Bicknell's Thrush outside Hispaniola. The current working assumption of the IBTCG is that the majority of Bicknell's Thrush habitat (and thus wintering individuals), occurs
+on Hispaniola. If Bicknell's Thrush is found to be more widely distributed and abundant on other Greater Antillean islands than is currently known, this may justify redirecting conservation efforts.
+Implementation of the following actions will provide the necessary information to develop spatially explicit distribution maps for each island, assess the protected status of occupied and potential habitat, and refine island population estimates:
+• Establish standardized protocols to monitor occupancy/
+use by Bicknell's Thrush (and other species)
+
+• Assess specific habitat requirements of Bicknell's Thrush throughout the Greater Antilles and determine relative importance of different habitat types to overall viability of wintering populations.
+• Conduct focused surveys on other islands, including: southeastern Cuba (Sierra Maestra and other potential areas), Jamaica (Blue and John Crow Mountains), Puerto Rico, Vieques, and others (if results of geolocator studies indicate that winter distribution extends beyond the Greater Antilles).
+• Use known occurrences and remote sensing data to identify potential Bicknell's Thrush habitat on each island, generate island-specific population estimates, and assess habitat protection and restoration needs.
+
+
+Research Action:
+Assess the effects of calcium depletion on  Bicknell's Thrush. 
+
+Conservation Action Informed: Develop and implement policies aimed at reducing acid deposition and habitat management actions to counteract impacts of calcium depletion.
+
+During the past 50 years, acid deposition has accelerated the loss of large amounts of available calcium from soil
+at acid-sensitive areas in the northeastern U.S. Calcium depletion has been documented at more than a dozen
+
+
+25
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+study sites throughout the region, including sites in the Adirondacks, the Green Mountains, the White Mountains, and in Maine (Driscoll et al. 2001). Depletion occurs when base cations (such as calcium and magnesium) are displaced from the soil by acid deposition at a rate faster than they
+can be replenished by the slow breakdown of parent material (i.e., underlying bedrock) or deposition from the atmosphere.
+Despite the U.S. federal government's 1990 passage
+of the Clean Air Act Amendments, recent research in the northeastern U.S. demonstrates that the effects of acid deposition are pervasive (Driscoll et al. 2001), with effects more complex than those initially identified in the early
+1970s. Scientists now know that acids and acidifying compounds move through soil, vegetation, and surface waters, setting off a cascade of adverse ecological effects (Likens et al. 1998).  These may directly and indirectly impact Bicknell's Thrush.  Recent studies from northern Europe have found that passerines breeding in acidified areas may be unable to obtain sufficient calcium for eggshell
+production, due to declines of land snails (Mand et al. 2000, Graveland and Drent 1997).  Land snails rely on calcium in leaf litter and living vegetation, and this has decreased due to the leaching effects of acid deposition.
+Acid deposition has been shown to directly impact Bicknell's Thrush habitat.  Since the 1960s, significant growth declines and increased winter injury to red spruce have been observed throughout much of its range (Eager and Adams 1992).  Recent research suggests that red
+spruce decline is linked to the leaching of calcium from cell membranes in needles by acid rain, mist, and fog (DeHayes et al. 1990, 1999). The loss of calcium in needles reduces their tolerance to low temperatures and increases the occurrence of winter injury and subsequent tree damage or death.  This phenomenon also impacts balsam fir needles, although it rarely causes damage because this species has a higher freeze tolerance than red spruce.
+Acid deposition and associated calcium depletion have been linked with population declines of Wood Thrush (Hylocichla mustelina; Hames et al. 2002) and may pose a potential threat to Bicknell's Thrush (Rimmer et al. 2001). To better understand the significance of this threat, we propose to implement studies that investigate the effect of calcium depletion on Bicknell's Thrush and its habitat through one
+or several of the following approaches at the individual, population, and landscape levels:
+• Experimental supplementation of calcium in the diet of individual females.
+• Comparison of reproductive parameters at calcium- poor and calcium-rich sites.
+• Terrestrial liming (to reduce acidity) using a before- after, control-impact study design.
+• Examination of calcium depletion across the entire breeding range of Bicknell's Thrush through GIS modeling, and comparison of data with results from standardized monitoring programs.
+
+
+Research Action:
+Predict and monitor effects of climate change.
+
+Conservation Action Informed: Develop and implement policies aimed at reducing and mitigating impacts of climate change, particularly in regard to Bicknell's Thrush habitat.
+
+Climate change has the potential to affect a variety of environmental and ecological parameters that determine Bicknell's Thrush population viability, including distribution of vegetation (Iverson et al. 2008), timing of spring prey emergence (e.g., Sillett et al. 2000, Sanz et al. 2003, Both
+et al. 2006), timing of predator population cycles (e.g., McCarty 2001), location of favorable climatic envelopes (Hilbert et al. 2004), and occurrence of competing species (Wormworth and Mallon 2006).
+The most significant potential change may be upslope migration of breeding habitat. Because the extent of Bicknell's Thrush breeding habitat is primarily controlled by climate, projected warming has the potential to alter the species' distribution and abundance (Rodenhouse et al. 2008). Changes in vegetation communities along elevational gradients in the Northeast are strongly inﬂuenced by temperature (Spear 1989, Botkin et al. 1972). Air heat sums form a near-perfect linear relationship with elevation in the northern Appalachian region (Richardson et al. 2004), and mean July temperature correlates well with forest ecotones throughout the Appalachian Mountains (Cogbill and White
+1991). Mean growing season temperature (May-September) was the highest ranked of 36 climatic, soil, elevation, and land-use variables in an assessment of balsam fir importance values in forest inventory plots across the region (Iverson et al. 2008).
+Warmer growing seasons could gradually elevate forest ecotones and confine high elevation plant and animal communities to progressively higher, smaller, and more isolated patches. An upward shift in the lower spruce-fir
+
+
+26
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+ecotone may be underway on northeastern U.S. mountains (Hamburg and Cogbill 1988, Beckage et al. 2008), where warming enables northern hardwoods to encroach on red spruce and balsam fir (Lee et al. 2005, Beckage et al. 2008). Such ecotone shifts have occurred in the past. Pollen and macrofossils from a high elevation lake on Mt. Washington, NH provide evidence that treeline moved upslope during warming about 3,500 years ago, possibly as high as 1700
+m (Spear 1989; Miller and Spear 1999). Neoglacial cooling began in the White Mountains about 2,500 years ago, lowering treeline to present levels (Miller and Spear 1999).
+A recent modeling simulation of the effects of increasing regional temperatures on distribution of montane fir forests in the U.S. showed that warming of as little as 1°C will reduce potential Bicknell's Thrush habitat by more than half, while an increase of 2°C may eliminate all breeding sites from the Catskill Mountains of New york and most
+of Vermont (Rodenhouse et al. 2008). A 3°C increase in growing season temperatures has the potential to eliminate nearly all Bicknell's Thrush habitat in the Northeast. Summer temperatures are projected to rise on average by 2.8 °C
+under a lower-emissions scenario and 5.9 °C under a higher- emission scenario by the end of the century (Union of Concerned Scientists 2006).
+Rising treelines worldwide (Kullman 2001) suggest that the spatial location of ecotones delimiting spruce-fir habitat can shift measurably within decades; however, the precise amount of warming required to shift ecotones is subject to debate (Spear 1989), and it is highly likely that ecotonal shifts will lag at least decades behind climate changes (Kullman 2001). Lag times may be as long as centuries (Woodward 1992) or span decades (Beckage et al. 2008). Such lags occur due to slowly changing soil characteristics, interactions among tree species and the disturbance required for one forest type to replace an adjacent one under variable climate conditions (Hamburg and Cogbill 1988). The Bicknell's Thrush model projects the amount of habitat that will remain after habitat changes have reached equilibrium with climate changes. The temperature envelope approach should be interpreted to present the range of possible changes in Bicknell's Thrush habitat.
+Upslope encroachment of northern hardwoods has already been documented in Vermont's northern Green Mountains, where Beckage et al. (2008) reported an upward shift of 91-119 m in the northern hardwood-boreal forest ecotone at two high-elevation sites over the last 40 years.
+In the northern, less mountainous portion of Bicknell's
+Thrush breeding range, the spruce-fir habitat may be more
+likely to move northward. Northward expansion of ranges in response to warmer temperatures has been widely documented in birds (Hitch and Leberg 2007, Thomas and Lennon 1999), as well as in other taxa (Parmesan and yohe
+2003, Hickling et al. 2006).
+The areal extent of Bicknell's Thrush habitat will decline over time with predicted increases in growing season temperatures. Rather than focusing solely on monitoring the effects of climate change over time, we propose to examine the adaptability of Bicknell's Thrush to predicted ecological changes, and ultimately to guide planning to mitigate those changes, through the following research projects:
+• Improve understanding of the underlying
+environmental and ecological factors that determine the species' current breeding distribution and how it may
+be altered by climate change.
+
+a. Test the assumption that Bicknell's Thrush distribution will continue to be determined by mean July temperature, latitude, longitude, and elevation as temperatures increase.
+b. Identify and compare the climatic envelopes of regional Bicknell's Thrush populations and track their stability over time.
+• Examine the ability of Bicknell's Thrush to cope with increasingly adverse conditions through stress-based research involving natural experiments.
+a. Collect and compare demographic metrics, such as chick weight and nest success, in years with different weather conditions.
+b. Determine major prey items throughout the breeding season and predict both phenological and abundance changes in relation to climate and weather patterns.
+c. Monitor prey abundance, phenological changes, and avian reproductive success in relation to differing weather conditions.
+d. Monitor changes in the frequency and abundance of conifer cone crop cycles, associated red squirrel population ﬂuctuations, and avian nesting success.
+e. Examine habitat characteristics in areas with documented colonizations and extinctions to create predictive models. Numerous local Bicknell's Thrush extirpations have been documented, mainly from sites at the periphery of the species' breeding range (Rimmer et al. 2001). The species' core U.S. range, however, appears to have remained stable overall, as
+
+27
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Bicknell's Thrush was confirmed on 63 of 73 historic (pre-1992) breeding sites surveyed in 1992-1995 (Atwood et al. 1996).
+f. Develop demographic models for Bicknell's Thrush using existing data from long-term breeding and wintering studies and the results of climate change- related field studies to assess potential impacts on population growth rates.
+g. Conduct food supplementation experiments (e.g., timing and abundance) to investigate sensitivity of breeding Bicknell's Thrush to simulated changes in food supply.
+• Examine adaptive traits of Bicknell's Thrush in different elevational and climatic zones.
+a. Document food availability along elevational, weather, and climate gradients.
+b. Determine if adaptive differences exist in phenotypic populations or among individuals at different elevations.
+c. Investigate the potential for interspecific interactions
+(competition) among co occurring Catharus species.
+
+• Re-survey elevational transects completed in 1973 and
+1974 (Able and Noon 1976) and repeated by the U. S. Forest Service Northeast Research Station in the 1990s (unpub. data).
+a. Track altitudinal shifts in bird communities.
+
+b. Establish georeferenced, long-term monitoring sites for future replication.
+c. Create a predictive model for bird community composition, elevation and vegetation that can be tested and modified with each repeat census.
+• Establish georeferenced, long-term sites to monitor changes in bird populations and habitat (vegetation composition and structure).
+
+
+Research Action:
+Document overwinter survival and demography relative to local habitat condition and quality.
+
+Conservation Action Informed: Protect, restore, and manage key winter habitat for both male and female Bicknell'sThrush in order to improve their survivorship and overwinter condition.
+A basic understanding of survivorship and demographics in all phases of a species' annual cycle is necessary to develop scientifically-sound conservation plans. Improving our knowledge of the degree of migratory connectivity (Webster and Marra 2002) between known breeding and wintering sites can help to appropriately direct conservation action where it would be most effective. If for example, Bicknell's Thrush show strong connectivity between specific breeding and wintering areas, this may indicate less population mixing and greater conservation risk to these populations or the species as a whole. An enhanced understanding of migratory connectivity may help to direct IBTCG's habitat protection and restoration efforts.
+Mapping migratory connections may also allow us to determine how the effects of events in one season carry over to subsequent seasons, e.g., how survivorship and fitness are impacted by winter habitat quality. Population dynamics for migratory birds are greatly inﬂuenced not just by breeding success (fecundity), but also by overwinter survival and demographics (Marra and Holmes 2001). A seasonal carry­ over effect was demonstrated in another neotropical migrant species, American Redstart (Setophaga ruticilla). Norris et al. (2004) found a reduction in the number of young ﬂedged
+by redstarts occupying poor-quality wintering habitat, which arrived at the breeding ground later and in poorer condition. The highly skewed sex ratio of Bicknell's Thrush (>2 males:
+1 female; Townsend et al. 2009a) may be linked to sexual habitat selection and supports the need for more in-depth demographic studies on the wintering grounds. More than
+15 species of migratory songbirds have been reported to show sexual habitat segregation (Runge and Marra 2005).
+Current knowledge based on feather isotope analyses indicates high natal dispersal and mixing of breeding populations on the wintering grounds (Hobson et al. 2001). It has been suggested that the majority of birds sampled in the Dominican Republic's Sierra de Bahoruco may breed in central Quebec and the Canadian Maritimes (Hobson et al.
+2004). Current work in eastern Canada, Vermont, and New Hampshire is using stable isotopes to determine the non- breeding source populations for these breeding areas.
+Research priorities include:
+• Use stable isotope analysis to determine the effects of winter habitat quality on breeding arrival condition and survivorship in the Canadian Maritimes, New Hampshire, Vermont, and other areas of the breeding range.
+
+
+
+
+28
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+• Examine within-season effects of habitat quality on physiological condition of overwintering Bicknell's Thrush.
+• Determine the extent to which over-winter factors, such as habitat segregation by sex and age, may result in disproportionately limited female survival.
+• Examine the ecology and demographics of Bicknell's Thrush occurring in low densities in habitat types that have received less research attention to date (e.g., low elevation, coastal wet forests).
+• Examine survivorship of sex and age classes at sites in both high- and low-elevation wet forests.
+• Continue to monitor arthropod and fruit abundance at high- and low-elevation sites to detect any differences in food resource availability to wintering thrushes.
+• Analyze stable carbon and nitrogen isotopes in blood samples to determine dietary differences between low- and high-elevation wintering thrushes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patrick Johnson 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+International partnerships will be crucial to achieve lasting conservation of Bicknell’s Thrush and its habitats
+
+
+
+
+
+
+29
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+
+
+VI. Evaluating Accomplishments 
+
+
+
+
+his Plan provides an adaptive framework to guide Bicknell's Thrush conservation efforts and is intended to be updated on a regular basis. As goals are achieved and information gaps filled, results
+will be used to refine this Plan and develop increasingly effective strategies to increase the population size of Bicknell's Thrush.
+Evaluating progress toward the IBTCG's overall population goal, to increase populations of Bicknell's Thrush by 25%
+over 50 years with no net loss of distribution, will depend on a rigorous, range-wide monitoring program that will allow estimation of breeding population size and trends at multiple geographic scales. Mountain Birdwatch 2.0 (MBW
+2.0) is a peer-reviewed, statistically rigorous, field-tested survey program based on three years of planning by VCE, BSC/EOC, CWS/SCF, USFWS, and the WMNF. This survey program is designed to be implemented on the breeding grounds, where it is currently most feasible to monitor Bicknell's Thrush. Breeding birds frequently vocalize (and are thus easily detected by aural surveys), and there is greater capacity to conduct a large-scale, volunteer-based monitoring program on the breeding grounds. Hart and Lambert (2008) describe the goals, objectives, and survey protocol for MBW
+2.0; details are summarized at http://www.vtecostudies. org/MBW/MBW2.html.  MBW 2.0 must be implemented annually across the breeding range on a long-term basis so that population status and trends, as well as the species' responses to environmental changes, can be monitored
+at international, national and regional scales. Specifically, implementation of MBW 2.0 will allow the IBTCG to:
+• Document changes in the breeding distribution of
+Bicknell's Thrush over time.
+
+• Estimate an overall population trend, with 80% power to detect a minimum 3% annual change in abundance/ density over 50 years.
+• Document changes in occupancy of breeding sites through estimates of site colonization and extinction rates.
+
+• Estimate regional population trends.
+
+• Relate data on Bicknell's Thrush population trends and demographics to potential threats.
+A parallel need exists to establish standardized protocols to monitor occupancy and habitat use by Bicknell's Thrush (and other species) in wintering areas over time, in order
+to guide and evaluate the success of restoration projects. Monitoring trends of wintering Bicknell's Thrush populations would also be useful to assess the species' status in different parts of its winter range and to evaluate conservation actions being implemented in different countries.
+Table 6 summarizes the actions described in this Plan and lists the IBTCG subgroups with primary responsibility for their implementation. The IBTCG will meet formally at least once annually to track progress on priority actions, discuss funding needs, and revise this Plan as appropriate. Research will lead to new conservation actions that can directly address threats and limiting factors. Research updates
+and progress toward attaining conservation goals will be documented on the IBTCG website on an annual basis. The Plan will be reviewed and updated at least every five years. Progress toward implementing conservation, research, and monitoring actions will be assessed using a variety of metrics identified in Table 6.
+In order to obtain statistically robust measures of population and habitat increases, it is likely that more than five years of data collection and analyses will be required. However, preliminary results will allow us to evaluate the trajectory of progress toward reaching our goals and adjust actions as necessary.
+Every effort will be made to ensure that emerging information is used to inform groups working to conserve Bicknell's Thrush throughout the species' migratory range, and to strengthen links between these groups. Peer-reviewed publication of research and monitoring results will be encouraged as an important means to guide science-based conservation planning, management, and policy.
+
+
+
+
+30
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+Table 6.
+Summary of conservation, research, and monitoring actions, the IBTCG subgroups primarily responsible for their implementation,  and metrics that will be used to evaluate success of each identiﬁed action. Acronyms listed in Appendix A
+
+
+
+Conservation, Research, and Monitoring Actions
+IBTCG Subgroup
+Responsible For
+Implementation                                  Evaluation Metrics And Targets
+
+Partner with timber companies and management agencies to develop and implement Best Management Practices
+(BMPs) for Bicknell’s Thrush.
+
+
+
+
+
+
+Maintain a target amount of Bicknell’s Thrush habitat in industrial forests.
+
+Improve protection of winter habitat in currently protected areas.
+
+
+
+
+
+
+Expand Bicknell’s Thrush
+Habitat Protection Funds.
+
+
+
+
+
+
+
+Develop winter habitat management plans and secure implementation funding.
+Forestry
+
+
+
+
+
+
+
+
+
+
+
+Forestry
+
+
+
+
+Wintering Grounds Wintering Grounds Wintering Grounds
+1. Number of BMPs developed for harvesting and pre­
+commercial thinning (target = 5)
+2. Number of forestry companies and land managers operating on BITH habitat in QC, NB, NS and ME with whom BMPs are shared (target = 100% by 2012)
+3. Proportion of industrial forest lands within the BITH habitat model on which BMPs are applied (target = 80% by 2015)
+
+Target population goals (number of birds) for industrial forest (by jurisdiction) - set by 2011 and reached by 2015
+
+
+
+1. Number of protected areas with demonstrably enhanced infrastructure and patrols.
+2. Number of parks with enforcement of bans on illegal activities (e.g., agriculture, logging, charcoal production).
+3. Number of protected areas with clear demarcation of boundaries, including GIS coverage and physical signage.
+
+1. Increase both Funds to a minimum $50K by end of 2010 and $100K by end of 2011.
+2. Establish an explicit grant-making process for the Funds.
+3. Issue a minimum of one grant to a Hispaniolan conservation partner in 2011 and a minimum of two grants in 2012.
+
+1. Identify all protected areas with BITH habitat and communicate with responsible agency/NGO to develop or review management plans.
+2. Number of individual protected area plans with explicit documentation of known status of BITH and other priority species.
+3.  Number of explicit needs assessments and management plans with identified funding needs.
+4.  Amount of funding secured to implement formal management plans.
+
+
+
+
+31
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+
+Conservation, Research, and Monitoring Actions
+IBTCG Subgroup
+Responsible For
+Implementation                                   Evaluation Metrics And Targets
+
+
+Pilot winter habitat restoration projects.
+
+
+
+
+
+
+
+Develop strong links with
+Caribbean partners.
+
+
+
+
+
+
+
+
+
+Identify important migratory stopover sites, routes, and patterns.
+
+
+
+
+
+
+
+Determine impacts of forestry on demography.
+
+
+
+Clarify winter distribution and habitat use on islands other than Hispaniola.
+
+
+
+
+Assess the effects of calcium depletion.
+Wintering Grounds
+
+
+
+
+
+
+
+
+
+Wintering Grounds
+
+
+
+
+
+
+
+
+
+
+Breeding and
+Migration Research
+
+
+
+
+
+
+
+
+
+Forestry/ Breeding and Migration Research
+
+Wintering Grounds
+
+
+
+
+
+
+
+Breeding and
+Migration Research
+1. Spatially explicit identification and mapping of degraded habitats within individual protected areas.
+2. Identification of plant species appropriate for restoration;
+development of specific protocols.
+3. Number of pilot restoration plots established, using local people to plant, caretake and monitor plots.
+
+1. Hold fall 2010 IBTCG meeting in DR; plan future meeting for Haiti.
+2. Secure funding for 3 Caribbean nationals outside Hispaniola to attend 2010 meeting in DR and 2011 meeting in North America.
+3. Add at least 1 Cuban, 1 Jamaican, 1 Puerto Rican to
+IBTCG by end of 2010.
+
+
+1. Number and location of routes and stop-overs identified via geolocators recovered from 2009 and 2010 field studies.
+2. Development of new studies deploying geolocators.
+3. Publication and other dissemination of geolocator results
+4. Development of demographic and ecological research at identified stop-over sites
+
+Completion of a research project to quantify relationship between forest stand type (early regeneration, pre-thinning, post-thinning, pre-harvest) and BITH productivity
+
+1. Implement targeted surveys on Cuba during 2011, expand to Jamaica and Puerto Rico by 2013
+2. Formally assess BITH conservation needs on other islands; work with local conservation groups to develop conservation strategies.
+
+Initiate or refine research on:
+1. Dietary calcium supplementation in individual BITH
+females.
+2. Comparing reproductive parameters at calcium-poor and calcium-rich sites.
+3. Terrestrial liming using a before-after, control-impact study design.
+4) Calcium depletion across the entire breeding range of
+BITH through GIS modeling, and comparison of data with results from standardized monitoring programs.
+
+
+
+32
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+
+Conservation, Research, and Monitoring Actions
+IBTCG Subgroup
+Responsible For
+Implementation                                   Evaluation Metrics And Targets
+
+
+Predict and monitor effects of climate change.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Determine winter survival and demography relative to local habitat condition and quality.
+
+Document changes in the distribution of Bicknell’s Thrush over time.
+
+
+
+
+Estimate global and regional population trends.
+
+
+
+
+
+
+
+
+
+
+Document changes in occupancy through estimates of breeding site colonization and extinction rates.
+Breeding and Migration Research/ Monitoring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wintering Grounds
+
+
+
+
+Monitoring
+
+
+
+
+
+
+
+Monitoring
+
+
+
+
+
+
+
+
+
+
+
+Monitoring
+Initiate or refine research on:
+1) Underlying environmental and ecological factors determining BITH breeding distribution and how it may be altered by climate change.
+2. The ability of BITH to cope with increasingly adverse conditions through stress-based research involving natural experiments.
+3. Adaptive traits of BITH in different elevational and climatic zones .
+4. Resurvey elevational transects completed in 1973,
+1974, and the 1990s.
+5. Establish georeferenced, long-term sites to monitor changes in bird populations and habitat
+
+Conduct habitat-specific survivorship analyses. If current sample sizes deemed insufficient, design studies to achieve this goal.
+
+1. Produce site-specific occurrence information that can be aggregated to map the breeding distribution.
+2. Assess breeding distribution changes at 5-year intervals.
+3. Utilize spatial analysis of available habitat (MaxEnt) to determine winter vs. summer spatial limitations
+
+1. Produce estimates of BITH density and abundance with coefficients of variation (CV) ≤ 0.20.
+2. Estimate population trends with 80% power to detect a minimum 3% annual change in target species abundance/density over 30 years at a significance level of 0.1.
+3. Maintain a CV about the regression line ≤ 0.40 for each trend estimated over a period 30 years or more.
+
+1. Produce an overall estimate of occupancy of breeding sites with a 95% confidence interval width ≤ 0.20
+
+
+
+
+
+
+
+
+
+
+
+33
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+
+VII. Literature Cited 
+
+
+
+Able, K. P., and B. R. Noon. 1976. Avian community structure along elevational gradients in the northeastern United States. Oecologia 26:275-294.
+
+Afanasyev, V. 2004. A miniature daylight level and activity data recorder for tracking animals over long periods. Memoirs of National Institute Polar Research, Special Issue
+58:227-233.
+
+American Ornithologists' Union. 1995. Fortieth supplement to the American Ornithologists' Union checklist of North American birds. Auk 112:819-830.
+
+Angeles, M. E., J. E. Gonzalez, D. J. Erickson III, and J. L.
+Hernández. 2007. Predictions of future climate change in the Caribbean region using global general circulation models. International Journal of Climatology 27:555-569.
+
+Atlas of the Breeding Birds of Southern Québec. 1996. (J.
+Gauthier and y. Aubry, Eds.) Canadian Wildlife Service- Service Canadienne de la Faune, Quebec.
+
+Atwood, J.L., C.C. Rimmer, K.P. McFarland, S.H. Tsai and L.R. Nagy. 1996. Distribution of Bicknell's Thrush in New England and New york. Wilson Bulletin 108(4): 650-651.
+
+Ball, M. 2000. Vocal behaviour of Bicknell’s Thrush (Catharus bicknelli). Masters of Science Thesis, Dalhousie University, Halifax.
+
+Beckage, B., B. Osborne, D. G. Gavin, C. Pucko, T. Siccama, and T. Perkins. 2008. A rapid upward shift of a forest ecotone during 40 years of warming in the Green Mountains of Vermont. Proceedings of the Natural Academy of Sciences 105:4197-4202.
+
+Both C., S. Bouwhuis, C. M. Lessells, and M. W. Visser. 2006.
+Climate change and population declines in a long-distance migratory bird. Nature 441: 81-83.
+
+Botkin D.B., J. F. Janak, and J. R. Wallis. 1972. Some ecological consequences of a computer model of forest growth. Journal of Ecology 60:849-872.
+
+Bredin, K., and B. Whittam. 2009. Conserving the Bicknell's
+Thrush: stewardship and management practices for Nova Scotia's high elevation forest. Bird Studies Canada, Sackville, NB.
+Butcher, G. S., D. K. Niven, A. O. Panjabi, D. N. Pashley, and
+K. V. Rosenberg.  2007. WatchList: The 2007. WatchList for United States Birds. American Birds 61:18-25.
+
+Campbell, G., B. Whittam, and G. Robertson. 2009. High Elevation Landbird Program: 2008 Report. Bird Studies Canada, Sackville, NB.
+
+Chisholm, S. E., and M. L. Leonard. 2008. Effect of forest management on a rare habitat specialist, the Bicknell's Thrush (Catharus bicknelli). Canadian Journal of Zoology- Revue Canadienne de Zoologie 86:217-223.
+
+Cogbill, C. V. and P. S. White. 1991. The latitude-elevation relationship for spruce-fir forest and treeline along the Appalachian Mountain chain. Plant Ecology 94:153-175.
+
+Connolly, V., G. Seutin, J-P. L. Savard, and G. Rompre. 2002.
+Habitat use by the Bicknell's Thrush in the Estrie region, Quebec. Wilson Bulletin 114:333-341.
+
+COSEWIC. 2009. Unsolicited update: COSEWIC status report on the Bicknell's thrush Catharus bicknelli in Canada, v + 41pp. Submitted to the Committee on the Status of Endangered Wildlife in Canada, Ottawa, Ontario.
+
+DeHayes, D. H., C. E. Waite, M. A. Ingle, and M. W.
+Williams. 1990. Winter injury susceptibility and cold tolerance of current and year-old needles of red spruce trees from several provenances. Forest Science 36:982-994.
+
+Dehayes D. H., P. G. Schaberg, G. J. Hawley, and G. R.
+Strimbeck. 1999. Acid rain impacts on calcium nutrition and forest health. BioScience 49:789-800.
+
+Driscoll, C. T., G. B. Lawrence,  A. J. Bulger, T. J. Butler, C.
+S. Cronan, C. Eagar, K. F. Lambert, G. E. Likens, J. L. Stoddard, and K. C. Weathers. 2001. Acidic deposition in the northeastern United States: sources and inputs, ecosystem effects, and management strategies. BioScience
+51:180-198.
+
+Driscoll, C. T., D. Whitall, J. D. Aber, E. W. Boyer, C. S.
+Cronan, C. L. Goodale, P. Groffman, C. Hopkinson, K. F. Lambert, and G. B. Lawrence.  2003. Nitrogen Pollution: From the Sources to the Sea. Hubbard Brook Research Foundation. Science LinksTM  Publication Vol. 1, no. 2.
+
+
+34
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Eagar, C., and M. B. Adams. 1992. Ecology and decline of red spruce in the eastern U.S. Springer-Verlag, New york.
+
+Evans, W.R. 1994. Nocturnal ﬂight call of Bicknell's Thrush.
+Wilson Bulletin 106:55-61.
+
+Erskine, A. J. 1992. Atlas of Breeding Birds of the Maritimes
+Provinces. Nimbus Publishing Ltd., Halifax.
+
+Fretwell, S. D. 1972. Populations in a seasonal environment.
+Princeton University Press, Princeton, New Jersey, USA.
+
+Gardiner, R. 2005. The long-term effects of pre-commercial thinning on Bicknell's Thrushes and four other high elevation songbirds in the New Brunswick highlands.
+B.Sc. Honours Thesis, Mount Allison University, Sackville, NB.
+
+Goetz, J.E., K. P. McFarland, and C.C. Rimmer. 2003.
+Multiple paternity and multiple male feeders in Bicknell's
+Thrush (Catharus bicknelli). Auk 120:1044-1053.
+
+Graveland, J. and R. H. Drent. 1997. Calcium availability limits breeding success of passerines on poor soils. Journal of Animal Ecology 66:279-288.
+
+Hale, S. R. 2006. Using satellite imagery to model
+distribution and abundance of Bicknell's Thrush (Catharus bicknelli) in New Hampshire's White Mountains. Auk
+123:1038-1051.
+
+Hames, R.S., K.V. Rosenberg, J.D. Lowe, S.E. Barker, and A.A. Dhondt. 2002. Adverse effects of acid rain on the distribution of the Wood Thrush (Hylocichla mustelina) in North America. Proceedings of the National Academy of Sciences of the United States of America 99:11235­
+11240.
+
+Hamburg, S. P., and C. V. Cogbill. 1988. Historical decline of red spruce populations and climatic warming. Nature
+331:428-431.
+
+Hart, J. A., and J. D. Lambert. 2008. Mountain Birdwatch: Protocol and Standard Operating Procedures for Monitoring High-elevation Landbirds in the Northern Appalachian and Laurentian Regions [Online]. Northeast Coordinated Bird Monitoring. Available at www.vtecostudies.org/reports. html
+
+Hickling, R., D. B. Roy, J. K. Hill, R. Fox, and C. D. Thomas.
+2006. The distribution of a wide range of taxonomic groups are expanding polewards. Global Change Biology
+12:450-455.
+Hilbert D.W., M. Bradford, T. Parker, and D. A. Westcott.
+2004. Golden bowerbird (Priondura newtonia) habitat  in past, present and future climates: predicted extinction of
+a vertebrate in tropical highlands due to global warming.
+Biological Conservation  116: 367.
+
+Hitch, A. T. and P. L. Leberg. 2007. Breeding distributions of North American bird species moving north as a result of climate change. Conservation Biology 21:534-539.
+
+Hobson, K. A., K. P. McFarland, L. I. Waasenaar, C. C.
+Rimmer, and J. E. Goetz. 2001. Linking breeding and wintering grounds of Bicknell's Thrush using stable isotope analyses of feathers. Auk 118:16-23.
+
+Hobson, K.A., y. Aubry, and L. I. Wassenaar. 2004. Migratory connectivity in Bicknell's Thrush: locating missing populations with hydrogen isotopes. Condor 106:905-909.
+
+Iverson, L. R., A. M. Prasad, and S. Matthews. 2008.
+Potential changes in suitable habitat for 134 tree species in the northeastern USA. Mitigation and Adaptation Strategies for Global Change 13:517-540.
+
+IUCN 2009. IUCN Red List of Threatened Species, Version
+2009.2 [Online]. Available at www.iucnredlist.org.
+
+Kaste, J. M., B. C. Bostick, and A. W. Schroth. 2006. Fate and speciation of gasoline-derived lead in organic horizons
+of the Northeastern USA. Soil Science Society of America
+Journal 70:1688-1698.
+
+King, D. I., J. D. Lambert, J. P. Buonaccorsi, and L. S. Prout.
+2008. Avian population trends in the vulnerable montane forests of the northern Appalachians,  USA. Biodiversity Conservation 17:2691-2700.
+
+Kullman, L. 2001. 20th century climate warming and
+tree-limit rise in the southern Scandes of Sweden. Ambio
+30:72-80.
+
+Lambert. J. D., D. I. King, J. P. Buonaccorsi, and L.S. Prout.
+2008. Decline of a New Hampshire Bicknell's Thrush population, 1993-2003. Northeastern Naturalist 15:607­
+618.
+
+Lambert, J. D., K. P. McFarland, C. C. Rimmer, S. D. Faccio, and J. L. Atwood. 2005. A practical model of Bicknell's Thrush distribution in the northeastern U.S. Wilson Bulletin 117:1-11.
+
+Latta, S. C. 2005. Complementary areas for conserving avian diversity on Hispaniola. Animal Conservation 8:60-81.
+
+
+
+
+35
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Latta, S. C., and R. Lorenzo (eds.). 2000. Results of the national planning workshop for avian conservation in
+the Dominican Republic. Dirección Nacional de Parques, Santo Domingo, Dominican Republic.
+
+Latta, S. C., C. C. Rimmer, and K. P. McFarland. 2003.
+Winter bird communities in four habitats along an elevational gradient on Hispaniola. Condor 105:179-197.
+
+Latta, S. C., C. C. Rimmer, H. Raffaele, J. Wiley, A. Keith,
+E. M. Fernandez, and K. P. McFarland. 2006. Birds of the Dominican Republic and Haiti. Princeton University Press, Princeton, NJ.
+
+Lee, T. D., J. P. Barrett, and B. Hartman. 2005. Elevation, substrate, and the potential for climate-induced tree migration in the White Mountains, New Hampshire, USA. Forest Ecology and Management 212:75-91.
+
+Likens, G.E., C. T. Driscoll, D. C. Buso, T. G. Siccama, C. E.
+Johnson, G. M. Lovett, T. J. Fahey, W. A. Reiners, D. F. Ryan, C. W. Martin, and S. W. Bailey. 1998. The biogeochemistry of calcium at Hubbard Brook. Biogeochemistry 41:89-173.
+
+Lloyd, J. D. and J. A. Hart. 2009. Mountain Birdwatch 2007­
+2008. Unpublished report to the U.S. Fish and Wildlife
+Service. Vermont Center for Ecostudies, Norwich, VT.
+
+Mand, R., V. Tilgar, and A. Leivits. 2000. Calcium, snails, and birds: a case study. Web Ecology 1:63-69.
+
+Marra, P. P and R. T. Holmes. 2001. Consequences of dominance-mediated habitat segregation in a migratory passerine bird during the non-breeding season. Auk 118:
+92-104.
+
+Marra, P. P. and M. S. Webster. 2005. The importance of understanding migratory connectivity and seasonal interactions. Pp. 199-209 in Birds of Two Worlds: The Ecology and Evolution of Migration (R. Greenberg and P. P. Marra, eds.). Johns Hopkins University Press, Baltimore, London.
+
+Marra, P. P., K. A. Hobson, and R. T. Holmes. 1998. Linking Winter and Summer Events in a Migratory Bird by Using Stable-Carbon Isotopes. Science 282:1884-1886.
+
+Marshall, J. T. 2001. The Gray-cheeked Thrush, Catharus minimus, and its New England subspecies, Bicknell's Thrush, Catharus minimus bicknelli. Publication of the Nuttall Ornithological Club, No. 28.
+Martin, P. H., R. E. Sherman, and T. J. Fahey. 2004. Forty years of tropical forest recovery from agriculture: structure and ﬂoristics of secondary and old-growth riparian forests in the Dominican Republic. Biotropica 36:297-317.
+
+McFarland, K. P., C. C. Rimmer, S. K. Frey, S. D. Faccio, and B. B. Collins. 2008. Demography, ecology and conservation of Bicknell’s Thrush in Vermont, with a special focus on the Northeastern Highlands. Vermont Center for Ecostudies, Technical Report 08-03.
+
+McCarty, J. P. 2001. Ecological consequences of recent climate change. Conservation Biology 15:320-331.
+
+McKinnon, E. A. 2009. Bicknell's Thrush (Catharus bicknelli) in managed forests: nest-site selection, diet,
+and co-occurrence with Swainson's Thrush (C. ustulatus). M.Sc. Thesis, University of New Brunswick, Fredericton, New Brunswick. 127 pp.
+
+Miller N. G. and R. W. Spear. 1999. Late-quaternary history of the alpine ﬂora of the New Hampshire White Mountains. Géographie Physique et Quaternaire 53:137­
+157.
+
+Moore, F. R. [Ed]. 2000. Stopover ecology of Nearctic- Neotropical landbird migrants: habitat relations and conservation implications. Studies in Avian Biology 20.
+
+Moore, F. R., S. A. Gauthreaux, Jr., P. Kerlinger, and T. R.
+Simons. 1995.  Habitat requirements during migration: important link in conservation. Pgs. 121-144 in T. E. Martin and D. M. Finch, eds. Ecology and Management
+of Neotropical  Migratory  Birds: A Synthesis and Review of
+Critical Issues. Oxford University Press, New york, Ny.
+
+Mugica, S. A. 2008. Cuba. Pages 119-142, in Important Bird Areas in the Caribbean: Key Sites for Conservation (D. A. Wege and V. Anadon-Irizarry, Eds.). BirdLife International, Cambridge.
+
+Nixon, E. 1999. COSEWIC status report on the Bicknell's thrush Catharus bicknelli in Canada. Pp 1-43, in COSEWIC assessment and status report on the Bicknell's Thrush Catharus bicknelli in Canada. Committee on the Status of Endangered Wildlife in Canada, Ottawa, ON.
+
+Nixon, E. A., S. B. Holmes, and A. W. Diamond. 2001.
+Bicknell's Thrushes (Catharus bicknelli) in New Brunswick clear cuts: their habitat associations and co-occurrence with Swainson's Thrushes (Catharus ustulatus). Wilson Bulletin 113:33-40.
+
+
+
+36
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Norris, D R., P. P. Marra, T. K Kyser, T. W. Sherry, and L. M.
+Ratcliffe. 2004. Tropical winter habitat limits reproduction success in a migratory bird. Proceedings of the Royal Society 271:59-64.
+
+Ordre des Ingenieurs Forestiers du Quebec 2009. Manuel de foresterie. Éditions MultiMondes, Quebec.
+
+Ouellet, H. 1993. Bicknell's Thrush: taxonomic status and distribution. Wilson Bulletin 105:545-572.
+
+Parmesan, C. and G. yohe. 2003. A globally  coherent fingerprint of climate change impacts across natural systems. Nature 421:37-42.
+
+Paryski, P., C. A. Woods, and F. Sergile. 1989. Conservation strategies and the preservation of biological diversity in Haiti, p. 855-878. In C. A. Woods (ed.), Biogeography of the West Indies: Past, Present, Future. Sandhill Crane Press, Gainesville, FL.
+
+Pashley, D. N., C. J. Beardmore, J. A. Fitzgerald, R. P. Ford, W. C. Hunter, M. S. Morrison, and K. V. Rosenberg.  2000. Partners in Flight: Conservation of the Land Birds of the U.S. American Bird Conservancy, The Plains, VA.
+
+Perdomo, L., and y. Arias. 2008. Dominican Republic. Pages
+157-174 in Important Bird Areas in the Caribbean: Key Sites for Conservation (D. A. Wege and V. Anadon-Irizarry, Eds.). BirdLife International, Cambridge.
+
+Phillips, R. A., P. C. Silk, S. Bearhop, R. McGill, V. Afanasyev, I. J. Strange. 2007. Movements, winter distribution and activity patterns of Falkland and brown skuas: insights from loggers and isotopes. Marine Ecology Progress Series
+345:281-291.
+
+Remsen, J. V. 2001. True winter range of the Veery (Catharus fuscescens): lessons for determining winter ranges of species that winter in the tropics. Auk 118:838-848.
+
+Rich, T. D., C. J. Beardmore, H. Berlanga, P. J. Blancher, M.
+S. W. Bradstreet, G. S. Butcher, D. W. Demarest, E. H. Dunn, W. C. Hunter, E. E. Inigo-Elias,  J. A. Kennedy, A. M. Martell, A. O. Panjabi, D. N. Pashley, K. V. Rosenberg, C. M. Rustay, J. S. Wendt, and T. C. Will. 2004. Partners in Flight North American Landbird Conservation Plan. Cornell Laboratory of Ornithology, Ithaca, Ny.
+
+Richardson A. D., X. Lee, and A. J. Friedland. 2004.
+Microclimatology of treeline spruce-fir forests in mountains of the northeastern United States. Agricultural and Forest Meteorology 125:53-66.
+Rimmer, C. C. and K.P. McFarland. 2001. Known breeding and wintering sites of a Bicknell's Thrush. Wilson Bulletin
+113:234-236.
+
+Rimmer, C. C., K. P. McFarland, W. G. Ellison, and J. E.
+Goetz. 2001. Bicknell's Thrush (Catharus bicknelli), No.
+592 in The Birds of North America (A. Poole and F. Gill, Eds.), The Birds of North America, Inc., Philadelphia, Pennsylvania.
+
+Rimmer, C. C., K. P. McFarland, J. D. Lambert, and R. B.
+Renfrew. 2004. Evaluating the use of Vermont ski areas by Bicknell's Thrush: applications for Whiteface Mountain, New york. Vermont Institute of Natural Science, Woodstock, Vermont.
+
+Rimmer, C. C., K. P. McFarland, D. C. Evers, E. K.
+Miller, y. Aubry, D. Busby, and R. J. Taylor. 2005a. Mercury concentrations in Bicknell's Thrush and other insectivorous passerines in montane forests of
+northeastern North America.  Ecotoxicology 14:223-240.
+
+Rimmer, C. C., J. M. Townsend, A. K. Townsend, E. M.
+Fernández, and J. Almonte. 2005b. Avian diversity, abun­ dance, and conservation status in the Macaya Biosphere Reserve of Haiti. Ornitología Neotropical 16:219-230.
+
+Rimmer, C. C., E. K. Miller, K. P. McFarland, R. J. Taylor, and S. D. Faccio. 2009. Mercury bioaccumulation and trophic transfer in the terrestrial food web of a montane forest. Ecotoxicology. 19:697-709.
+
+Rioux, J., and J.-F. Poulin. 2009. Portrait des enjeux
+d'oiseaux de l'amenagement ecosystemique dans la reserve faunique des Laurentides. Étude realisee par GENIVAR pour le Service canadien de la faune, Environnement Canada dans le cadre du projet pilote du ministère des Ressources naturelles et de la Faune. 114p + annexes.
+
+Rodenhouse, N. L., S. N. Matthews, K. P. McFarland, J. D.
+Lambert, L. R. Iverson, A. Prasad, T. S. Sillett, and R. T. Holmes. 2008. Potential effects of climate change on birds
+of the Northeast. Mitigation  and Adaptation Strategies for
+Global Change 13:517-540.
+
+Rompre, G., y. Aubry, and A. Kirkconnell. 2000. Recent observations of threatened birds in Cuba. Cotinga 13:66.
+
+Rubenstein, D. R., C. P Chamberlain, R. T Holmes, M.
+P Ayres, J. R. Waldbauer, G. R. Graves, and N. C. Tuross. 2002. Linking breeding and wintering ranges of a migratory songbird using stable isotopes. Science
+295:1062-1065.
+
+
+37
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Runge, M. and P.P. Marra. 2005. A demographic model for a migratory passerine bird: population dynamics of the American Redstart. Pp. 375-389 in: Birds of Two Worlds: The Ecology and Evolution of Temperate Tropical Migration. R. Greenberg and P. Marra (eds.). Johns Hopkins University Press, Baltimore, MD and London, UK.
+
+Sanz, J. J., J. Potti, J. Moreno, S. Merino, and O. Frias. 2003.
+Climate change and fitness components of a migratory bird breeding in the Mediterranean region. Global Change Biology 9:461-472.
+
+Scheiﬂer, R., M. Cœurdassier, C. Morilhat, N. Bernard, B.
+Faivre, P. Flicoteaux, P. Giraudoux, M. Noel, P. Piotte, D. Rieffel, A. de Vauﬂeury, and P.-M. Badot. 2006. Lead concentration in feathers and blood of common
+blackbirds (Turdus merula) and in earthworms inhabiting unpolluted and moderately polluted urban areas. Science of the Total Environment 371:197-205.
+
+Sergile, F. E. 2008. Haiti. Pages 193-204 in Important Bird Areas in the Caribbean: Key Sites for Conservation (D. A. Wege and V. Anadon-Irizarry, Eds.). BirdLife International, Cambridge.
+
+Sergile, F. E., and C. A. Woods. 2001. Status of conservation in Haiti: A 10-year retrospective. Pages 547-557 in Biogeography of the West Indies: Patterns and Perspectives,
+2nd ed (C. A. Woods and F. E. Sergile, Eds.). CRC Press, Boca Raton, Florida.
+
+Sillett, T. S., R. T. Holmes, and T. W. Sherry. 2000. Impacts of global climate cycle on population dynamics of a migratory songbird. Science 288:2040-2042.
+
+Spear, R. W. 1989. Late-quaternary history of high-elevation vegetation in the White Mountains of New Hampshire. Ecological Monographs 59:125-151.
+
+Sprugel, D. G. 1976. Dynamic structure of wave-regenerated Abies balsamea forests in the North-eastern United States. Journal of Ecology 64: 889-911.
+
+Stattersfield,  A. J., M. J. Crosby, A. J. Long, and D. C.
+Wege. 1998. Endemic Bird Areas of the World: Priorities for Biodiversity Conservation. BirdLife International, Cambridge, UK.
+
+Stutchbury, B. J. M., S. A. Tarof, T. Done, E. Gow, P. M.
+Kramer, J. Tautin, J. W. Fox, and V. Afanasyev. 2009. Tracking long-distance songbird migration using geolocators. Science 323: 896.
+Takahashi, A., D. Ochi, y. Watanuki, T. Deguchi, N. Oka, V.
+Afanasyev, J. W. Fox, P. N. Trathan. 2008. Post breeding movement and activities of two Streaked Shearwaters in the north-western Pacific. Ornithological Science 7:29-35.
+
+Thomas, C. D., and J. L. Lennon. 1999. Birds extend their ranges northwards. Nature 399:213.
+
+Tolentino, L., and M. Peña. 1998. Inventario de la vegetación y uso de la tierra en la República Dominicana. Moscosoa
+10:179-203.
+
+Townsend, J. M. and C. C. Rimmer. 2006. Known natal and wintering sites of a Bicknell's Thrush.  Journal of Field Ornithology 77:452-454.
+
+Townsend, J. M., C. C. Rimmer, and K. P. McFarland. 2009a.
+Investigating the limiting factors of a rare, vulnerable species: Bicknell's Thrush. Pgs 91-95 in Rich, T.D., C. Arizmendi, D. Demarest and C. Thompson, eds. Tundra to Tropics: Connecting Birds, Habitats and People. Proceedings
+of the 4th International Partners in Flight Conference, McAllen, Texas. Partners in Flight.
+
+Townsend, J. M., C. C. Rimmer, J. Brocca, K. P. McFarland, and A. K. Townsend. 2009b. Predation of a wintering migratory songbird by introduced rats: can nocturnal roosting behavior serve as predator avoidance?  Condor
+111:565-569.
+
+Union of Concerned Scientists. 2006. Climate Change
+in the U.S. Northeast: A Report of the Northeast Climate Impacts Assessment. Union of Concerned Scientists (UCS) Publications, Cambridge, Massachusetts.
+
+U.S. Fish and Wildlife Service. 2008. Birds of Conservation Concern 2008 [Online]. U.S. Department of the Interior, Fish and Wildlife Service, Division of Migratory Bird Management, Arlington, Virginia. Available at www.fws. gov/migratorybirds/.
+
+Vermont Center for Ecostudies (VCE). 2009. Production of a Bicknell's Thrush global breeding distribution model based on known occurrence and potential habitat. Vermont Center for Ecostudies, unpublished report, December 2008, Norwich, Vermont.
+
+Wallace, G. J. 1939. Bicknell’s Thrush, Its Taxonomy, Distribution, and Life History. Proceedings of the Boston Society of Natural History 41:211-402.
+
+
+
+38
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+Webster, M. S., P. P. Marra, S. M. Haig, S. Bensch, and R.
+T. Holmes. 2002. Links between worlds: unraveling migratory connectivity. Trends in Ecology and Evolution
+17:76-83.
+
+Wells, J. V. 2007. Birders Conservation Handbook: 100 North American Birds at Risk. Princeton University Press, Princeton, New Jersey.
+Woodward, F. I. 1992. A review of the effects of climate on vegetation: ranges, competition, and composition. Pp.
+105-123 in: Global Warming  and Biological Diversity  (R.
+L. Peters and T. E. Lovejoy [eds.]). yale University Press, New Haven, CT.
+
+Wormworth, J., and K. Mallon. 2006. Bird Species and Climate Change: The Global Status Report, Version  1.0 [Online]. Climate Risk Limited, Brisbane, Australia. Available at http://assets.panda.org downloads/birdsclimatereportfinal. pdf
+
+
+
+
+
+
+
+North American  montane  forests are well-protected overall, but face numerous  ecological stressors, including the threat of climate change.
+
+
+
+39
+A Conservation Action Plan for Bicknell’s Thrush
+
+
+
+
+
+Appendix A: Key To Acronyms 
+
+
+
+BITH . . . . . . . . Bicknell's Thrush
+
+BMP . . . . . . . . . Best Management  Practice
+
+BSC/EOC . . . . . . Bird Studies Canada-Études d'Oiseaux Canada CWS/SCF . . . . . . Canadian Wildlife Service-Service Canadien de la Faune DR . . . . . . . . . . Dominican Republic
+GIS  . . . . . . . . . Geographic Information Systems
+
+IBTCG  . . . . . . . International Bicknell's Thrush Conservation Group IUCN . . . . . . . . International Union for the Conservation of Nature ME. . . . . . . . . . Maine
+NB . . . . . . . . . . New Brunswick
+
+NB DNR. . . . . . . New Brunswick Department of Natural Resources
+
+NS . . . . . . . . . . Nova Scotia
+
+PCT . . . . . . . . . Precommercial Thinning
+
+QC. . . . . . . . . . Quebec
+
+SUNY ESF  . . . . . State University of New york College of Environmental Studies and Forestry
+
+UNB . . . . . . . . . University of New Brunswick
+
+USFWS . . . . . . . United States Fish and Wildlife Service
+
+VCE . . . . . . . . . Vermont Center for Ecostudies
+
+WMNF . . . . . . . White Mountain National Forest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+International Bicknell’s Thrush Conservation Group

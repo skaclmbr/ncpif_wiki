@@ -1,0 +1,103 @@
+Enabling Effective Conservation Through Connections
+
+Conservation is complex. This is a forum to provide context for the many complexities involved in bird conservation in North Carolina and Beyond.
+
+==Conservation Organizations==
+'''Governmental'''
+{{#ask:[[Category:Government]]
+|format=ul
+|order=asc
+}}
+
+'''Non-Governmental'''
+{{#ask:[[Category:Non-Government]]
+|format=ul
+|order=asc
+}}
+
+'''Partnerships'''
+{{#ask:[[Category:Partnership]]
+|format=ul
+|order=asc
+}}
+
+'''Private'''
+{{#ask:
+ [[Category:Private]]
+|format=ul
+|order=asc
+}}
+
+'''Other'''
+{{#ask:
+ [[Category:!Government]]
+ [[Category:!Non-Government]]
+ [[Category:!Partnership]]
+ [[Category:!Private]]
+|format=ul
+|order=asc
+}}
+
+==Species==
+'''Birds'''
+{{#ask:[[Category:Bird]]
+|format=ul
+|order=asc
+}}
+
+==Habitats==
+{{#ask:
+ [[Category:Habitat]]
+|format=ul
+|order=asc
+}}
+
+==Geographies==
+{{#ask:
+ [[Category:Geography]]
+|format=ul
+|order=asc
+}}
+
+==Projects==
+{{#ask:
+ [[Category:Project]]
+|format=ul
+|order=asc
+}}
+
+==Conservation Plans==
+{{#ask:
+ [[Category:Plan]]
+|format=ul
+|order=asc
+}}
+
+==Tools==
+{{#ask:
+ [[Category:Tool]]
+|format=ul
+|order=asc
+}}
+
+==Recommendations/Priorities==
+{{#ask:
+ [[Category:Recommendation]]
+|hidden=true
+|format=ul
+|order=asc
+}}
+
+==People==
+{{#ask:
+ [[Category:People]]
+|format=ul
+|order=asc
+}}
+
+==Help==
+{{#ask:
+ [[Category:Help]]
+|format=ul
+|order=asc
+}}

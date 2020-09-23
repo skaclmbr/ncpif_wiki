@@ -157,7 +157,7 @@ def main():
 	import_fn = "NC+Bird+Conservation-All-20200907141341.xml"
 	timestamp = import_fn[25:39]
 	o_fn = "NCBirdConservation.cypher"
-	o = open(o_fn, 'w', encoding="utf-8")
+	o = open('output_files/' + o_fn, 'w', encoding="utf-8")
 
 	doc = xml.dom.minidom.parse(import_fn)
 

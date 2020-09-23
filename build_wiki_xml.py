@@ -316,7 +316,7 @@ from xml.sax.saxutils import escape
 
 def openNewOutFile(ts, n):
 	o_fn = str(ts.replace("-","").replace(":",""))+'_wiki_upload'+str(n)+'.xml'
-	o = open(o_fn, 'w', encoding="utf-8")
+	o = open('output_files/' + o_fn, 'w', encoding="utf-8")
 	return o
 
 def main():
@@ -553,5 +553,4 @@ def main():
 
 
 if __name__=="__main__":
->>>>>>> 757f1a3192df6f426c4693325f63cb27a38cffdb
 	main();
