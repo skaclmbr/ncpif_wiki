@@ -20,13 +20,6 @@
 #	3. Export file to folder with this python script
 #	4. Change import_fn below to match export xml.
 
-
-###################################################################
-## End idea: provide a tool to convert wiki data to table format
-## 	-Entities
-## 	-Properties
-## 	-Build and Parse Wiki XML imports/exports
-
 ###################################################################
 ## WIKITEXT STRUCTURE
 ## There are three main components to the wikitext on a page:
@@ -35,17 +28,6 @@
 ##  3. File link (if applicable)
 ##  4. Category declaration(s)
 ##  5. Property declaration(s)
-
-
-###################################################################
-## EXCEL
-## results are stored in an excel workbook with the following structure:
-## - entities (type, title)
-## - categories (title, category)
-## - properties (title, property, value)
-## - wikitext (title, wikitext)
-
-
 
 ###################################################################
 ## QUESTIONS
@@ -110,49 +92,6 @@ def main():
 	# PRIMARY CATEGORIES
 	types = ['Species','Habitat','Organization','Project','Plan','Geography','Priority'] #defines primary category for the entity
 
-	# # DEFAULT COLUMNS
-	# colsEnt = {'type':'A','title':'B'}
-	# colsCat = {'title':'A','category':'B'}
-	# colsPro = {'title':'A','property':'B','value':'C'}
-	# colsWik = {'title':'A','wikitext':'B'}
-
-	# ROW COUNTERS
-	rowEnt = 1
-	rowCat = 1
-	rowPro = 1
-	rowWik = 1
-
-
-	###################################################################
-	# CREATE EXCEL FOR STORING DATA
-	# NOT NEEDED
-
-	# wb = Workbook()
-
-	# wsEnt = wb.active #get the first sheet
-	# wsEnt.title = "entities"
-	# wsCat = wb.create_sheet("categories")
-	# wsPro = wb.create_sheet("properties")
-	# wsWik = wb.create_sheet("wikitext")
-
-	# Add headers
-	# wsEnt[colsEnt['type']+str(rowEnt)] = 'type'
-	# wsEnt[colsEnt['title']+str(rowEnt)] = 'title'
-	rowEnt +=1
-
-	# wsCat[colsCat['title']+str(rowCat)] = 'title'
-	# wsCat[colsCat['category']+str(rowCat)] = 'category'
-	rowCat +=1
-
-	# wsPro[colsPro['title']+str(rowPro)] = 'title'
-	# wsPro[colsPro['property']+str(rowPro)] = 'property'
-	# wsPro[colsPro['value']+str(rowPro)] = 'value'
-	rowPro +=1
-
-	# wsWik[colsWik['title']+str(rowWik)] = 'title'
-	# wsWik[colsWik['wikitext']+str(rowWik)] = 'wikitext'
-	rowWik +=1
-
 	# LOAD XML FILE
 	import_fn = "NC+Bird+Conservation-All-20200907141341.xml"
 	timestamp = import_fn[25:39]
@@ -206,20 +145,14 @@ def main():
 				currCat = wt[currPos:cEnd]
 				if currCat in types: #check to see if one of main spp, add to entities sheet
 					priCat = fNodeLabel(currCat)
-					# nodeLabels.append(priCat)
-					# wsEnt[colsEnt['type']+str(rowEnt)]=priCat
-					# wsEnt[colsEnt['title']+str(rowEnt)]=title
-					rowEnt +=1
 
-				# wsCat[colsCat['title']+str(rowCat)]=title
-				# wsCat[colsCat['category']+str(rowCat)]=currCat
 				nodeLabels.append(fNodeLabel(currCat))
 				rowCat +=1
 
 				#advance cursor
 				currPos = wt.find("[[Category:",cEnd)+11 #find next category
+
 			createText += "".join(nodeLabels)
-			# print (createText)
 
 			cEnd +=2 # set end of category declaration
 
@@ -245,9 +178,6 @@ def main():
 					itemValue=p.replace("\n","").split("=")
 					# DETERMINE if property is a relationship (e.g., Has Species)
 					noun = itemValue[0][itemValue[0].find(" ")+1:]
-					# print(itemValue)
-					# print (noun)
-					#check if it is a relationship
 					if noun in types:
 						itemValue.append(noun)
 						rel = {'typeA':priCat,'typeB':noun,'nodeA':currNodeName,'nodeB':fNodeName(itemValue[1]),'nameA':title,'nameB':itemValue[1],'relType':fRelationshipLabel(itemValue[0])}
@@ -257,26 +187,13 @@ def main():
 						propOutput.append(fPropertyLabel(itemValue[0]) + ": " + fBoolNumString(itemValue[1]))
 
 					rowPro +=1
-				# print (", ".join(propOutput))
-				#close createText
+
 				createText += " { " + ", ".join(propOutput) + "})"
 				print(createText +nl)
-
-			#################
-			# WIKITEXT
-			# SKIP WIKITEXT FOR CYPHER OUTPUT
-
-			# wsWik[colsWik['title']+str(rowWik)]=title
-			# wsWik[colsWik['wikitext']+str(rowWik)]=wt[:wtEnd] #get wikitext until categories start
-
-			rowWik +=1
 
 			## OUTPUT
 			# WRITE CREATE for node
 			o.write(createText + nl)
-
-			# Includes Template, Supplementary Information, and File Links (#s 1-3 above)
-
 
 		## FINISH UP PAGE
 		count +=1
@@ -296,34 +213,11 @@ def main():
 		# outRelText += "WHERE " + i['nodeA'] + ".name = '" + i['nameA'] + "' AND " + i['nodeB'] + ".name = '" + i['nameB'] + "'" + nl
 		# outRelText += "CREATE (" + i['nodeA'] + ")-[r" + i['relType'] + " { name:" + i['nodeA'] + ".name + '<->' + " + i['nodeB'] + ".name }]->(" + i['nameB'] + ")" + nl
 		# outRelText += "RETURN type (r), r.name" + nl
-	
 
-	# print (outJoinDelim.join(outRelText))
+	# OUTPUT ALL RELATIONSHIP CYPHER TEXT
 	o.write(nl + "CREATE" + nl + outJoinDelim.join(outRelText))
 
-	# SAVE EXCEL FILE
-	# format/define tables
-	# style = TableStyleInfo(name="TableStyleMedium9", showFirstColumn=False,showLastColumn=False, showRowStripes=True, showColumnStripes=True)
-
-	# tabEnt = Table(displayName="entities",ref="A1:"+colsEnt['title']+str(rowEnt-1))
-	# tabEnt.tableStyleInfo = style
-	# wsEnt.add_table(tabEnt)
-	# tabCat = Table(displayName="categories",ref="A1:"+colsCat['category']+str(rowCat-1))
-	# tabCat.tableStyleInfo = style
-	# wsCat.add_table(tabCat)
-	# tabPro = Table(displayName="properties",ref="A1:"+colsPro['value']+str(rowPro-1))
-	# tabPro.tableStyleInfo = style
-	# wsPro.add_table(tabPro)
-	# tabWik = Table(displayName="wikitext",ref="A1:"+colsWik['wikitext']+str(rowWik-1))
-	# tabWik.tableStyleInfo = style
-	# wsWik.add_table(tabWik)
-
-
-
-	# wb.save(timestamp + '_wiki_ncpif.xlsx')
-
-	print(str(count) + " Pages Found")
-
+	print(nl + str(count) + " Pages Found")
 
 if __name__=="__main__":
 	main();
