@@ -10,11 +10,4 @@ See website at: http://wiki.ncpif.org
 * 20200429173214_wiki_ncpif.xlsx - example excel spreadsheet created from parse code.
 * 20200429173214_wiki_ncpif_of_upload.xlsx - example excel spreadsheet created from build code.
 * NCBirdConservation.cypher - example output file from wiki_xml_to_cypher.py
-
-
-## Known Issues
-<<<<<<< HEAD
-* there are some...
-=======
-* there are some...
->>>>>>> 757f1a3192df6f426c4693325f63cb27a38cffdb
+* NC+Bird+Conservation+All+20200901141341.xml - example wiki xml export file
