@@ -40,7 +40,7 @@ from openpyxl import Workbook #allows connecting to databases
 from openpyxl.worksheet.table import Table, TableStyleInfo
 
 def fRemoveBadChars(t):
-	r = t.replace("'","").replace(";","").replace(",","").replace("/","")
+	r = t.replace("'","").replace(";","").replace(",","").replace("/","").replace("-","")
 	return r
 
 
@@ -67,7 +67,8 @@ def fPropertyLabel(t):
 	return r
 
 def fNodeName(t):
-	r = t.title().replace(" ","").replace("'","").replace("-","")
+	# r = t.title().replace(" ","").replace("'","").replace("-","")
+	r = fRemoveBadChars(t.title().replace(" ",""))
 	# r = t.lower().replace(" ","")
 	# print (r)
 	return r
@@ -79,7 +80,8 @@ def fBoolNumString(t):
 	elif t.lower()=='true' or t.lower()=='false':
 		r = t.lower()
 	else:
-		r = "'" + fRemoveBadChars(t) + "'"
+		# r = '"' + fRemoveBadChars(t) + '"'
+		r = '"' + t + '"'
 
 	return r
 
@@ -112,18 +114,17 @@ def main():
 
 		#################
 		# TITLE - the key value for each page
-		title = fRemoveBadChars(page.getElementsByTagName("title")[0].childNodes[0].nodeValue)
+		title = page.getElementsByTagName("title")[0].childNodes[0].nodeValue
 		print (nl+"======" + str(title) + "======")
 		currNodeName = fNodeName(title)
 		createText = "CREATE (" + currNodeName
 
 		#################
 		# GET WIKITEXT
-		# NOT USED FOR CYPHER
+		# USED TO EXTRACT CATEGORIES AND PROPERTIES
 		wt = page.getElementsByTagName("text")[0].childNodes[0].nodeValue
 		# wt = wt_raw.replace("{{#set:"+nl+"}}","")
 		# print (wt)
-
 
 		#################
 		# REJECT TEMPLATES AND OTHER PAGES FOR NOW
@@ -173,11 +174,11 @@ def main():
 				propText = wt[pStart:pEnd] #get full property text
 				propList = propText.split(propDelim) #create list from property text
 				propOutput = []
-				propOutput.append("name: '" + title + "'") #add page title as name property
+				propOutput.append('name: "' + title + '"') #add page title as name property
 				for p in propList: #loop through list
-					itemValue=p.replace("\n","").split("=")
+					itemValue=p.replace('\n','').split('=')
 					# DETERMINE if property is a relationship (e.g., Has Species)
-					noun = itemValue[0][itemValue[0].find(" ")+1:]
+					noun = itemValue[0][itemValue[0].find(' ')+1:]
 					if noun in types:
 						itemValue.append(noun)
 						rel = {'typeA':priCat,'typeB':noun,'nodeA':currNodeName,'nodeB':fNodeName(itemValue[1]),'nameA':title,'nameB':itemValue[1],'relType':fRelationshipLabel(itemValue[0])}
