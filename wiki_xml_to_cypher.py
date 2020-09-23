@@ -187,11 +187,12 @@ def main():
 					else: #not a relationship, add as property
 						propOutput.append(fPropertyLabel(itemValue[0]) + ": " + fBoolNumString(itemValue[1]))
 
-				createText += " { " + ", ".join(propOutput) + "})"
+				createText += " { " + ", ".join(propOutput) + "}"
 				print(createText +nl)
 
 			## OUTPUT
 			# WRITE CREATE for node
+			createText += ")"
 			o.write(createText + nl)
 
 		## FINISH UP PAGE

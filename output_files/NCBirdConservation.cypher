@@ -880,7 +880,7 @@ CREATE (AtlanticCoastJointVenture:Organization:Partnership:MigratoryBirdJointVen
 CREATE (AppalachianMountainJointVenture:Organization:Partnership:MigratoryBirdJointVenture { name: "Appalachian Mountain Joint Venture"})
 CREATE (PartnersInFlightEasternWorkingGroup:Organization:Partnership { name: "Partners in Flight Eastern Working Group"})
 CREATE (AfwaMigratoryShoreAndUplandGameBirdWorkingGroup:Organization:WorkingGroup { name: "AFWA Migratory Shore and Upland Game Bird Working Group"})
-CREATE (GoldenEagleWorkingGroup:Organization:WorkingGroup
+CREATE (GoldenEagleWorkingGroup:Organization:WorkingGroup)
 CREATE (LoggerheadShrikeWorkingGroup:Organization:WorkingGroup { name: "Loggerhead Shrike Working Group"})
 CREATE (PartnersInFlight:Organization:Partnership { name: "Partners in Flight"})
 CREATE (SoutheastConservationAdaptationStrategy:Organization:Partnership:MigratoryBirdJointVenture { name: "Southeast Conservation Adaptation Strategy"})
