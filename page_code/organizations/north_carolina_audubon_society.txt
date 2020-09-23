@@ -1,7 +1,0 @@
-{{CC Infobox|categorytype=Organization}}
-
-[[Category:Organization]]
-[[Category:Non-Government]]
-{{#set:
-Has Geography=North Carolina
-}}
