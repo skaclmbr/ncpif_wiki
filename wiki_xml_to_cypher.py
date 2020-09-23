@@ -58,7 +58,7 @@ from openpyxl import Workbook #allows connecting to databases
 from openpyxl.worksheet.table import Table, TableStyleInfo
 
 def fRemoveBadChars(t):
-	r = t.replace("'","").replace(";","").replace(",","")
+	r = t.replace("'","").replace(";","").replace(",","").replace("/","")
 	return r
 
 

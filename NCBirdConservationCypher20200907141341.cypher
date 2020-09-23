@@ -288,7 +288,7 @@ CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority171:Priority:Ncwap15
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority172:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 172', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Protect inland tidal freshwater wetlands which will become extensive estuarine communities in the future and allow the barrier islands to migrate and new inlets to form.', hasNcwap15Index: '4.3.2'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority173:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 173', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Protect habitats in large enough patches to sustain priority species reconnect fragmented habitats restore habitats that have been lost or converted enhance the function and structure of habitats that have been degraded and manage habitats for priority species (ACJV 2004).', hasNcwap15Index: '4.3.2'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority174:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 174', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Work with partners (e.g. NC Coastal Federation Audubon NC TNC Ducks Unlimited) to leverage funding programs such as the North American Wetlands Conservation Act that target conservation of coastal wetlands.', hasNcwap15Index: '4.3.2'})
-CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority175:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 175', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Implement conservation measures outlined in the Albemarle–Pamlico National Estuary Partnership (see http://portal.ncdenr.org/web/apnep).', hasNcwap15Index: '4.3.2'})
+CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority175:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 175', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Implement conservation measures outlined in the Albemarle–Pamlico National Estuary Partnership (see http:portal.ncdenr.orgwebapnep).', hasNcwap15Index: '4.3.2'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority193:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 193', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Initiate partnerships with the Natural Resources Conservation Service to begin cane restoration projects and research.', hasNcwap15Index: '4.3.3', hasNcwap15Index: '4.3.4', hasNcwap15Index: '4.3.5'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority194:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 194', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Continue cooperative efforts with colonial waterbird (wading bird) working groups and follow future management recommendations from the North American Waterbird Management Plan (Kushlan et al. 2002).', hasNcwap15Index: '4.3.3'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority195:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 195', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Work to develop eight patches of forested wetlands at least 10000 acres in size throughout the South [[Atlantic Coastal Plain]] as called for in the South [[Atlantic Coastal Plain]] Partners in Flight Bird Conservation Plan (Hunter et al. 2001b).', hasNcwap15Index: '4.3.3'})
@@ -308,7 +308,7 @@ CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority305:Priority:Ncwap15
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority316:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 316', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Increase buffer widths to mitigate impacts from pollution into river systems and to maintain habitatat the edge of these aquatic communities that will provide cover and foraging areas for many wildlife species using riverine habitat.', hasNcwap15Index: '4.2.10'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority317:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 317', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Pursue land acquisition and easements through cooperation with land trusts in an effort to increase the width of riparian buffers and create larger patches of connected habitat.', hasNcwap15Index: '4.2.10'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority330:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 330', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Protect remaining examples and surrounding forests. Sites should be protected from human disturbance including locations that are already protected through conservation measures. This may be through closure during particular times of the year or permanently prohibiting use of the site.', hasNcwap15Index: '4.4.8'})
-CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority331:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 331', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Given the relative rarity of low-elevation rock outcrops across the state measures need to be taken to conserve as much of this habitat as possible. This includes preservation measures as well as conservation/management measures to ensure that species that rely upon these outcrops continue to be afforded the desired variety of habitat conditions into the future.', hasNcwap15Index: '4.4.8'})
+CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority331:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 331', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Given the relative rarity of low-elevation rock outcrops across the state measures need to be taken to conserve as much of this habitat as possible. This includes preservation measures as well as conservationmanagement measures to ensure that species that rely upon these outcrops continue to be afforded the desired variety of habitat conditions into the future.', hasNcwap15Index: '4.4.8'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority340:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 340', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Close sites to stop direct (trampling loss of habitat to recreation developments such as trails vistas etc.) and indirect (disturbance) human impacts.', hasNcwap15Index: '4.4.5'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority341:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 341', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Use easements and land acquisition to protect from long-term impacts such as housing development.', hasNcwap15Index: '4.4.5'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority357:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 357', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Make remaining coastal maritime habitats a priority for land acquisition efforts. Though coastal uplands are essentially the most costly areas to acquire in the state it is essential to acquire remaining undeveloped maritime forests both on barrier islands and on the mainland.', hasNcwap15Index: '4.4.14'})
@@ -345,7 +345,7 @@ CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority532:Priority:Ncwap15
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority533:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 533', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Over the state as a whole give a high priority to restoring connections that are lost due to construction of four-lane highways and other roads that create near-impassible barriers for all animals except those capable of flight.', hasNcwap15Index: '4.4.18', hasNcwap15Index: '4.4.17'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority54:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 54', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Undertake immediate and continuing efforts to limit water quality deterioration from point sources of pollution as well as nonpoint sources. In general the most critical conservation actions necessary to sustain populations of riverine habitat species involve protection of water quality and aquatic habitats.', hasNcwap15Index: '4.2.2'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority548:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 548', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Eliminate or minimize negative effects of future development in state and federal government holdings (state and federal parks [[USDA Forest Service', hasNcwap15Index: '4.4.2'})
-CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority549:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 549', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Acquire additional acreage of spruce–fir habitat through purchase conservation easement or other perpetual management agreements (particularly in the Plott Balsams and Black/Craggy Mountains).', hasNcwap15Index: '4.4.2'})
+CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority549:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 549', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Acquire additional acreage of spruce–fir habitat through purchase conservation easement or other perpetual management agreements (particularly in the Plott Balsams and BlackCraggy Mountains).', hasNcwap15Index: '4.4.2'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority55:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 55', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Protect floodplains and riparian wetlands from development or land uses that interfere with flood control or floodwater attenuation. Changes in flood patterns (frequency and duration) and flooded lands may periodically require updating flood maps to ensure protection of life and property (Band and Salvesen 2009).', hasNcwap15Index: '4.2.2'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority56:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 56', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Preserve forests and open space farm land rural landscapes and park lands. Manage open lands and plant trees and vegetation in urban areas to aid in carbon sequestration.', hasNcwap15Index: '4.2.2'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority57:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 57', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Plant riparian areas with vegetation with a broad elevational range within a particular watershed and with broad hydrologic tolerance to promote resiliency from climate change.', hasNcwap15Index: '4.2.2'})
@@ -383,7 +383,7 @@ CREATE (Ncwap2015ManagementPracticesPriority164:Priority:Ncwap15Priority:Managem
 CREATE (Ncwap2015ManagementPracticesPriority165:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 165', hasPriorityType: 'Management Practices Priority', hasText: 'Where practical restore marsh habitat by filling drainage ditches and installing ditch plugs and water control structures. Ditches may accelerate erosion and the effects of rising sea level such as saltwater intrusion.', hasNcwap15Index: '4.3.2'})
 CREATE (Ncwap2015ManagementPracticesPriority166:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 166', hasPriorityType: 'Management Practices Priority', hasText: 'Protect suitable nesting habitat for sea turtles and beach-nesting birds to maintain robust populations as disturbance and sea level rise issues mount.', hasNcwap15Index: '4.3.2'})
 CREATE (Ncwap2015ManagementPracticesPriority167:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 167', hasPriorityType: 'Management Practices Priority', hasText: 'Continue working with the US Army Corps of Engineers and others to direct dredged material or conduct other management actions to refurbish waterbird nesting islands.', hasNcwap15Index: '4.3.2'})
-CREATE (Ncwap2015ManagementPracticesPriority168:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 168', hasPriorityType: 'Management Practices Priority', hasText: 'Continue coordination with the NC Division of Marine Fisheries to minimize bycatch of protected/priority species in fishing gear.', hasNcwap15Index: '4.3.2'})
+CREATE (Ncwap2015ManagementPracticesPriority168:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 168', hasPriorityType: 'Management Practices Priority', hasText: 'Continue coordination with the NC Division of Marine Fisheries to minimize bycatch of protectedpriority species in fishing gear.', hasNcwap15Index: '4.3.2'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority104:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 104', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Add to our base of conservation ownership for future generations of the wildlife species associated with the habitat as well as the use and enjoyment of them by future generations of North Carolinians.', hasNcwap15Index: '4.4.4'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority105:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 105', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Protect examples in the most sheltered sites and those that serve as landscape connections to other patches.', hasNcwap15Index: '4.4.4', hasNcwap15Index: '4.4.4'})
 CREATE (Ncwap2015ConservationProgramsAndPartnershipsPriority116:Priority:Ncwap15Priority:ConservationProgramsAndPartnershipsPriority { name: 'NCWAP 2015 Conservation Programs And Partnerships Priority 116', hasPriorityType: 'Conservation Programs And Partnerships Priority', hasText: 'Continue to support partnerships like the [[Southern Blue Ridge]] Fire Learning Network and the North Carolina Prescribed Fire Council to expand efforts at restoring disturbance regimes.', hasNcwap15Index: '4.4.10'})
@@ -438,7 +438,7 @@ CREATE (Ncwap2015ManagementPracticesPriority374:Priority:Ncwap15Priority:Managem
 CREATE (Ncwap2015ManagementPracticesPriority375:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 375', hasPriorityType: 'Management Practices Priority', hasText: 'Control predators (not limited to exotic species) through education efforts trapping or other means to increase sea turtle and beach-nesting bird reproductive success.', hasNcwap15Index: '4.4.15'})
 CREATE (Ncwap2015ManagementPracticesPriority376:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 376', hasPriorityType: 'Management Practices Priority', hasText: 'Make efforts to address beach lighting sand fencing sand pushing and beach stabilization issues so that sea turtles have a better chance for nesting success.', hasNcwap15Index: '4.4.15'})
 CREATE (Ncwap2015ManagementPracticesPriority377:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 377', hasPriorityType: 'Management Practices Priority', hasText: 'Continue the use of bird decoys and sound broadcasts to attract colonial nesting birds to better nesting sites.', hasNcwap15Index: '4.4.15'})
-CREATE (Ncwap2015ManagementPracticesPriority378:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 378', hasPriorityType: 'Management Practices Priority', hasText: 'Continue coordination to influence where dredged material is placed to be most beneficial/least detrimental to beach-nesting birds foraging shorebirds and sea turtles.', hasNcwap15Index: '4.4.15'})
+CREATE (Ncwap2015ManagementPracticesPriority378:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 378', hasPriorityType: 'Management Practices Priority', hasText: 'Continue coordination to influence where dredged material is placed to be most beneficialleast detrimental to beach-nesting birds foraging shorebirds and sea turtles.', hasNcwap15Index: '4.4.15'})
 CREATE (Ncwap2015ManagementPracticesPriority379:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 379', hasPriorityType: 'Management Practices Priority', hasText: 'Reduce disturbance from off-road vehicles people and their pets on coastal beach and dune systems. Continued support for and enhanced coordination among coastal management agencies regarding existing restrictions and programs aimed at regulating beach activities is also critical.', hasNcwap15Index: '4.4.15'})
 CREATE (Ncwap2015ManagementPracticesPriority388:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 388', hasPriorityType: 'Management Practices Priority', hasText: 'Maintain connections between habitatblocks not only to allow adjustments in range in response to climate change but to maintain population resilience and adaptability more generally.', hasNcwap15Index: '4.2.9'})
 CREATE (Ncwap2015ManagementPracticesPriority389:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 389', hasPriorityType: 'Management Practices Priority', hasText: 'Create transportation facilities that utilize longer bridges at streams and wetlands to minimize impacts (and thereby reduce mitigation requirements) and provide crossing options for wildlife that often travel riparian corridors and disperse to upland communities.', hasNcwap15Index: '4.2.9', hasNcwap15Index: '4.4.9'})
@@ -462,7 +462,7 @@ CREATE (Ncwap2015ManagementPracticesPriority463:Priority:Ncwap15Priority:Managem
 CREATE (Ncwap2015ManagementPracticesPriority464:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 464', hasPriorityType: 'Management Practices Priority', hasText: 'Work with adjacent states on mutual planning and conservation for regional species concerns especially since some priority species are likely to expand their range due to climate change impacts.', hasNcwap15Index: '4.4.11'})
 CREATE (Ncwap2015ManagementPracticesPriority465:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 465', hasPriorityType: 'Management Practices Priority', hasText: 'Control invasive species in the short run while populations are relatively limited and small to prevent greater damage by them in the future.', hasNcwap15Index: '4.4.11'})
 CREATE (Ncwap2015ManagementPracticesPriority466:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 466', hasPriorityType: 'Management Practices Priority', hasText: 'Use infrequent prescribed fire and canopy gap management to improve forest structural heterogeneity (frequent fire will limit shrub and understory development necessary to breeding bird species).', hasNcwap15Index: '4.4.11'})
-CREATE (Ncwap2015ManagementPracticesPriority467:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 467', hasPriorityType: 'Management Practices Priority', hasText: 'Manage and protect mixed hardwoods/pine to promote future large unfragmented tracts. This is especially important for amphibians reptiles small mammals and bats.', hasNcwap15Index: '4.4.11'})
+CREATE (Ncwap2015ManagementPracticesPriority467:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 467', hasPriorityType: 'Management Practices Priority', hasText: 'Manage and protect mixed hardwoodspine to promote future large unfragmented tracts. This is especially important for amphibians reptiles small mammals and bats.', hasNcwap15Index: '4.4.11'})
 CREATE (Ncwap2015ManagementPracticesPriority468:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 468', hasPriorityType: 'Management Practices Priority', hasText: 'Target invasive and exotic species control at ecologically sensitive areas and at new and potentially manageable outbreaks.', hasNcwap15Index: '4.4.11'})
 CREATE (Ncwap2015ManagementPracticesPriority47:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 47', hasPriorityType: 'Management Practices Priority', hasText: 'Initiate a drought management program that modifies discharge permits when base flow conditions decrease and the 7Q10 is lowered.', hasNcwap15Index: '4.2.2'})
 CREATE (Ncwap2015ManagementPracticesPriority48:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 48', hasPriorityType: 'Management Practices Priority', hasText: 'Augment in-stream habitat to enhance its structural complexity to increase fish community abundance biomass and diversity (Hrodey and Sutton 2008).', hasNcwap15Index: '4.2.2'})
@@ -488,7 +488,7 @@ CREATE (Ncwap2015ManagementPracticesPriority522:Priority:Ncwap15Priority:Managem
 CREATE (Ncwap2015ManagementPracticesPriority526:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 526', hasPriorityType: 'Management Practices Priority', hasText: 'Maintain and restore connections between habitat blocks not only to allow adjustments in range in response to climate change but to maintain genetic connectivity population resilience and adaptability more generally.', hasNcwap15Index: '4.4.18'})
 CREATE (Ncwap2015ManagementPracticesPriority527:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 527', hasPriorityType: 'Management Practices Priority', hasText: 'Transportation facilities that utilize longer bridges at streams and wetlands not only minimize impacts (and thereby reduce mitigation requirements) but also provide crossing options for wildlife that often travel riparian corridors. Wildlife underpasses should be constructed for all new highway projects as these reduce wildlife-vehicle collisions conserve important travel corridors and provide linkages for bear populations and many other wildlife species.', hasNcwap15Index: '4.4.18'})
 CREATE (Ncwap2015ManagementPracticesPriority528:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 528', hasPriorityType: 'Management Practices Priority', hasText: 'Limit the development of roads or other infrastructure within large unfragmented blocks as this would promote the development of denser human settlement or create connectivity barriers through fragmentation.', hasNcwap15Index: '4.4.18', hasNcwap15Index: '4.4.17'})
-CREATE (Ncwap2015ManagementPracticesPriority545:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 545', hasPriorityType: 'Management Practices Priority', hasText: 'Develop and/or implement techniques for managing pure spruce stands to include habitat components of the entire spruce–fir/northern hardwood community (i.e. thinning).', hasNcwap15Index: '4.4.2'})
+CREATE (Ncwap2015ManagementPracticesPriority545:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 545', hasPriorityType: 'Management Practices Priority', hasText: 'Develop andor implement techniques for managing pure spruce stands to include habitat components of the entire spruce–firnorthern hardwood community (i.e. thinning).', hasNcwap15Index: '4.4.2'})
 CREATE (Ncwap2015ManagementPracticesPriority546:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 546', hasPriorityType: 'Management Practices Priority', hasText: 'Test silvicultural techniques to reintroduce spruce into formerly disturbed areas that have regenerated in northern hardwood or Northern Red Oak communities (i.e. thinning and underplanting).', hasNcwap15Index: '4.4.2'})
 CREATE (Ncwap2015ManagementPracticesPriority547:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 547', hasPriorityType: 'Management Practices Priority', hasText: 'Protect spruce–fir communities from wildfire as this is an important action that can be taken to save the remnants of these communities.', hasNcwap15Index: '4.4.2'})
 CREATE (Ncwap2015ManagementPracticesPriority561:Priority:Ncwap15Priority:ManagementPracticesPriority { name: 'NCWAP 2015 Management Practices Priority 561', hasPriorityType: 'Management Practices Priority', hasText: 'The best benefit for Coastal Plain riverine aquatic communities would be to maintain and enhance riparian buffers.', hasNcwap15Index: '4.2.11'})
@@ -520,7 +520,7 @@ CREATE (Ncwap2015MonitoringPriority111:Priority:Ncwap15Priority:MonitoringPriori
 CREATE (Ncwap2015MonitoringPriority112:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 112', hasPriorityType: 'Monitoring Priority', hasText: 'Enhance current monitoring systems and protocols (e.g. MAPS and BBS) to better cover species not well covered by current monitoring efforts.', hasNcwap15Index: '4.4.10'})
 CREATE (Ncwap2015MonitoringPriority12:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 12', hasPriorityType: 'Monitoring Priority', hasText: 'Monitor amphibian populations to detect incidence of fungal and viral infections (e.g. iridoviruses chytridiomycosis).', hasNcwap15Index: '4.3.1', hasNcwap15Index: '4.4.17', hasNcwap15Index: '4.3.9'})
 CREATE (Ncwap2015MonitoringPriority121:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 121', hasPriorityType: 'Monitoring Priority', hasText: 'Develop monitoring for any North Carolina dry Longleaf Pine bird species that require specialized attention since neither BBS nor standard point counts adequately sample for many species like [[Bachmans Sparrow]] Nightjars [[American Kestrel]] [[Henslows Sparrow]] and [[Red-headed Woodpecker]].', hasNcwap15Index: '4.4.13'})
-CREATE (Ncwap2015MonitoringPriority122:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 122', hasPriorityType: 'Monitoring Priority', hasText: 'Expand and/or target monitoring systems to be able to assess current population status and trend information for all wildlife species associated with dry Longleaf Pine habitats in particular reptiles such as Northern Pinesnake Southern Hognose Snake and Coachwhip.', hasNcwap15Index: '4.4.13'})
+CREATE (Ncwap2015MonitoringPriority122:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 122', hasPriorityType: 'Monitoring Priority', hasText: 'Expand andor target monitoring systems to be able to assess current population status and trend information for all wildlife species associated with dry Longleaf Pine habitats in particular reptiles such as Northern Pinesnake Southern Hognose Snake and Coachwhip.', hasNcwap15Index: '4.4.13'})
 CREATE (Ncwap2015MonitoringPriority13:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 13', hasPriorityType: 'Monitoring Priority', hasText: 'Monitor connectivity of populations separated by fragmentation.', hasNcwap15Index: '4.3.1'})
 CREATE (Ncwap2015MonitoringPriority137:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 137', hasPriorityType: 'Monitoring Priority', hasText: 'Develop and maintain an integrated monitoring network to collect information for assessment of ecosystem outcomes and management actions associated with the implementation of management actions (APNEP 2012).', hasNcwap15Index: '4.2.14'})
 CREATE (Ncwap2015MonitoringPriority138:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 138', hasPriorityType: 'Monitoring Priority', hasText: 'Facilitate the development of protocols and conduct rapid assessments to determine presence and potential threat of invasive species (APNEP 2012).', hasNcwap15Index: '4.2.14'})
@@ -536,7 +536,7 @@ CREATE (Ncwap2015MonitoringPriority183:Priority:Ncwap15Priority:MonitoringPriori
 CREATE (Ncwap2015MonitoringPriority185:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 185', hasPriorityType: 'Monitoring Priority', hasText: 'Investigate the past current and potential future impact of nutria on both floral and faunal communities and individual species.', hasNcwap15Index: '4.3.3'})
 CREATE (Ncwap2015MonitoringPriority188:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 188', hasPriorityType: 'Monitoring Priority', hasText: 'Determine the conservation and restoration efforts needed for priority species in this habitat.', hasNcwap15Index: '4.3.3'})
 CREATE (Ncwap2015MonitoringPriority192:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 192', hasPriorityType: 'Monitoring Priority', hasText: 'Make an attempt to protect waterbird nesting colonies.', hasNcwap15Index: '4.3.3'})
-CREATE (Ncwap2015MonitoringPriority215:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 215', hasPriorityType: 'Monitoring Priority', hasText: 'Expand and/or target monitoring systems to be able to assess current population status and trend information for all wildlife species associated with floodplain forest habitats.', hasNcwap15Index: '4.3.4'})
+CREATE (Ncwap2015MonitoringPriority215:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 215', hasPriorityType: 'Monitoring Priority', hasText: 'Expand andor target monitoring systems to be able to assess current population status and trend information for all wildlife species associated with floodplain forest habitats.', hasNcwap15Index: '4.3.4'})
 CREATE (Ncwap2015MonitoringPriority217:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 217', hasPriorityType: 'Monitoring Priority', hasText: 'Develop monitoring for any North Carolina floodplain forest bird species that require specialized attention since neither BBS nor standard point counts can adequately sample irregularly distributed or clumped species like Kentucky Cerulean and Swainsons warblers.', hasNcwap15Index: '4.3.4', hasNcwap15Index: '4.3.5'})
 CREATE (Ncwap2015MonitoringPriority218:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 218', hasPriorityType: 'Monitoring Priority', hasText: 'Develop or enhance long-term monitoring for amphibians and reptiles (Taylor and Jones 2002).', hasNcwap15Index: '4.3.4'})
 CREATE (Ncwap2015MonitoringPriority219:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 219', hasPriorityType: 'Monitoring Priority', hasText: 'Develop or enhance long-term monitoring for most bat species (Ellis et al. 2002).', hasNcwap15Index: '4.3.4', hasNcwap15Index: '4.3.5'})
@@ -551,7 +551,7 @@ CREATE (Ncwap2015MonitoringPriority298:Priority:Ncwap15Priority:MonitoringPriori
 CREATE (Ncwap2015MonitoringPriority299:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 299', hasPriorityType: 'Monitoring Priority', hasText: 'Monitor priority mammal and reptile population trends and habitat use.', hasNcwap15Index: '4.4.7'})
 CREATE (Ncwap2015MonitoringPriority311:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 311', hasPriorityType: 'Monitoring Priority', hasText: 'Develop or enhance long-term monitoring for amphibians and reptiles (Taylor and Jones 2002). There is also a decided lack of long-term monitoring information on most bat species (Ellis et al. 2002).', hasNcwap15Index: '4.2.10'})
 CREATE (Ncwap2015MonitoringPriority312:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 312', hasPriorityType: 'Monitoring Priority', hasText: 'Continue existing programs and expand monitoring of anoxic and hypoxic water conditions particularly during spring anadromous fish spawning summer droughts and before and after tropical storms.', hasNcwap15Index: '4.2.10'})
-CREATE (Ncwap2015MonitoringPriority313:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 313', hasPriorityType: 'Monitoring Priority', hasText: 'Install new and maintain existing USGS flow/water quality monitoring stations to collect real-time dischargeand DO data.', hasNcwap15Index: '4.2.10'})
+CREATE (Ncwap2015MonitoringPriority313:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 313', hasPriorityType: 'Monitoring Priority', hasText: 'Install new and maintain existing USGS flowwater quality monitoring stations to collect real-time dischargeand DO data.', hasNcwap15Index: '4.2.10'})
 CREATE (Ncwap2015MonitoringPriority325:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 325', hasPriorityType: 'Monitoring Priority', hasText: 'Continue monitoring Green Salamander populations as well as other salamanders of this habitat type (e.g. Crevice and Southern Zigzag salamanders).', hasNcwap15Index: '4.4.8'})
 CREATE (Ncwap2015MonitoringPriority34:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 34', hasPriorityType: 'Monitoring Priority', hasText: 'Monitor aquatic taxa to assess species and ecosystem health and to gauge resiliency of organisms to a changing climate.', hasNcwap15Index: '4.2.2'})
 CREATE (Ncwap2015MonitoringPriority35:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 35', hasPriorityType: 'Monitoring Priority', hasText: 'Develop long-term monitoring strategies to document population trends from which conservation strategies can be specifically designed to target those species which are experiencing declines.', hasNcwap15Index: '4.2.2'})
@@ -590,17 +590,17 @@ CREATE (Ncwap2015MonitoringPriority494:Priority:Ncwap15Priority:MonitoringPriori
 CREATE (Ncwap2015MonitoringPriority505:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 505', hasPriorityType: 'Monitoring Priority', hasText: 'Develop long-term monitoring to identify population trends and to assess performance of conservation actions. Monitoring plans should be coordinated with other existing monitoring programs where feasible.', hasNcwap15Index: '4.4.16'})
 CREATE (Ncwap2015MonitoringPriority506:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 506', hasPriorityType: 'Monitoring Priority', hasText: 'Design an ecological monitoring system that can measure how the beach ecosystem responds to human pressures particular to the coastline. Use long-term monitoring to measure the changing health of the beach in response to long-term and cumulative pressures (Peterson and Manning 2001).', hasNcwap15Index: '4.4.16'})
 CREATE (Ncwap2015MonitoringPriority507:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 507', hasPriorityType: 'Monitoring Priority', hasText: 'Conduct ecological monitoring before during and after construction of shoreline hardening structures and beach renourishment projects to best understand the extent to which the beach ecosystem changes. Monitoring should also continue well after project completion to understand long-term effects of this anthropogenic disturbance as well as cumulative effects of multiple nourishment projects. Scientists should use a scientifically and statistically robust monitoring design that looks at multiple indicators of beach ecosystem health. Analysis of data should include a test of statistical power (Peterson and Manning 2001).', hasNcwap15Index: '4.4.16'})
-CREATE (Ncwap2015MonitoringPriority541:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 541', hasPriorityType: 'Monitoring Priority', hasText: 'Expand and/or target monitoring systems to assess current population status and trend information for all wildlife species associated with spruce–fir forests.', hasNcwap15Index: '4.4.2'})
+CREATE (Ncwap2015MonitoringPriority541:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 541', hasPriorityType: 'Monitoring Priority', hasText: 'Expand andor target monitoring systems to assess current population status and trend information for all wildlife species associated with spruce–fir forests.', hasNcwap15Index: '4.4.2'})
 CREATE (Ncwap2015MonitoringPriority542:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 542', hasPriorityType: 'Monitoring Priority', hasText: 'Establish mechanisms for monitoring the distribution and condition of spruce–fir habitats over time.', hasNcwap15Index: '4.4.2'})
 CREATE (Ncwap2015MonitoringPriority543:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 543', hasPriorityType: 'Monitoring Priority', hasText: 'Monitor phenology of priority species and spruce–fir communities in relation to climate change.', hasNcwap15Index: '4.4.2'})
 CREATE (Ncwap2015MonitoringPriority544:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 544', hasPriorityType: 'Monitoring Priority', hasText: 'Monitor microhabitat and microclimate characteristics in spruce–fir salamander communities in relation to climate change.', hasNcwap15Index: '4.4.2'})
 CREATE (Ncwap2015MonitoringPriority559:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 559', hasPriorityType: 'Monitoring Priority', hasText: 'Monitor water quality below large agricultural farms (including livestock and poultry operations).', hasNcwap15Index: '4.2.11'})
 CREATE (Ncwap2015MonitoringPriority560:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 560', hasPriorityType: 'Monitoring Priority', hasText: 'Establish mist net stations for passerine birds in this habitat type at all times of the year.', hasNcwap15Index: '4.2.11'})
 CREATE (Ncwap2015MonitoringPriority572:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 572', hasPriorityType: 'Monitoring Priority', hasText: 'Develop long-term monitoring strategies to document population trends from which conservation strategies can be specifically designed to target those species.', hasNcwap15Index: '4.4.17'})
-CREATE (Ncwap2015MonitoringPriority573:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 573', hasPriorityType: 'Monitoring Priority', hasText: 'Expand and/or target monitoring systems to assess current population status and trend information for all wildlife species associated with this habitat.', hasNcwap15Index: '4.4.17'})
+CREATE (Ncwap2015MonitoringPriority573:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 573', hasPriorityType: 'Monitoring Priority', hasText: 'Expand andor target monitoring systems to assess current population status and trend information for all wildlife species associated with this habitat.', hasNcwap15Index: '4.4.17'})
 CREATE (Ncwap2015MonitoringPriority596:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 596', hasPriorityType: 'Monitoring Priority', hasText: 'Determine population trends and persistence of small wetland breeding amphibian populations particularly Mole Salamander Eastern Tiger Salamander Dwarf Salamander and Four-toed Salamander.', hasNcwap15Index: '4.3.9'})
 CREATE (Ncwap2015MonitoringPriority611:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 611', hasPriorityType: 'Monitoring Priority', hasText: 'Initiate long-term monitoring once baseline surveys have been conducted. Focus should begin with herpetofauna and bird species in decline or for which little is known about the population fluctuations and demographics.', hasNcwap15Index: '4.3.11'})
-CREATE (Ncwap2015MonitoringPriority69:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 69', hasPriorityType: 'Monitoring Priority', hasText: 'Establish and implement long term monitoring protocol to document bat use of significant cave/mine roosts especially in those caves and mines that are affected by WNS.', hasNcwap15Index: '4.4.1'})
+CREATE (Ncwap2015MonitoringPriority69:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 69', hasPriorityType: 'Monitoring Priority', hasText: 'Establish and implement long term monitoring protocol to document bat use of significant cavemine roosts especially in those caves and mines that are affected by WNS.', hasNcwap15Index: '4.4.1'})
 CREATE (Ncwap2015MonitoringPriority70:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 70', hasPriorityType: 'Monitoring Priority', hasText: 'Develop protocols and procedures for long-term bat banding study and data storage throughout the state.', hasNcwap15Index: '4.4.1'})
 CREATE (Ncwap2015MonitoringPriority71:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 71', hasPriorityType: 'Monitoring Priority', hasText: 'Establish protocol for periodic monitoring and assessment of Allegheny woodrat populations.', hasNcwap15Index: '4.4.1'})
 CREATE (Ncwap2015MonitoringPriority72:Priority:Ncwap15Priority:MonitoringPriority { name: 'NCWAP 2015 Monitoring Priority 72', hasPriorityType: 'Monitoring Priority', hasText: 'Develop and implement systematic long-term population monitoring protocols for cave-dwelling salamanders.', hasNcwap15Index: '4.4.1'})
@@ -668,7 +668,7 @@ CREATE (Ncwap2015ResearchPriority350:Priority:Ncwap15Priority:ResearchPriority {
 CREATE (Ncwap2015ResearchPriority363:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 363', hasPriorityType: 'Research Priority', hasText: 'Identify causal factors responsible for low beach-nesting bird reproductive success initiate predator impact studies (e.g. ghost crabs Fire Ants gulls foxes Raccoons feral cats etc.) (Wolcott and Wolcott 1999).', hasNcwap15Index: '4.4.15'})
 CREATE (Ncwap2015ResearchPriority364:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 364', hasPriorityType: 'Research Priority', hasText: 'Experiment more with creation of overwash fans or ephemeral ponds for nesting or foraging birds.', hasNcwap15Index: '4.4.15'})
 CREATE (Ncwap2015ResearchPriority365:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 365', hasPriorityType: 'Research Priority', hasText: 'Continue sea turtle DNA research to better determine nesting habits and needs.', hasNcwap15Index: '4.4.15'})
-CREATE (Ncwap2015ResearchPriority366:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 366', hasPriorityType: 'Research Priority', hasText: 'Work with owners and managers of buildings containing nesting least terns to increase reproductive success while allowing owners/managers to maintain good public relations.', hasNcwap15Index: '4.4.15'})
+CREATE (Ncwap2015ResearchPriority366:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 366', hasPriorityType: 'Research Priority', hasText: 'Work with owners and managers of buildings containing nesting least terns to increase reproductive success while allowing ownersmanagers to maintain good public relations.', hasNcwap15Index: '4.4.15'})
 CREATE (Ncwap2015ResearchPriority384:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 384', hasPriorityType: 'Research Priority', hasText: 'Collect demographic information on all bat species investigate specific habitatneeds and conduct life history studies.', hasNcwap15Index: '4.2.9'})
 CREATE (Ncwap2015ResearchPriority397:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 397', hasPriorityType: 'Research Priority', hasText: 'Collect demographic information on all bat species investigate specific habitat needs and conduct life history studies.', hasNcwap15Index: '4.4.9'})
 CREATE (Ncwap2015ResearchPriority4:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 4', hasPriorityType: 'Research Priority', hasText: 'Investigate minimum hydroperiods needed by priority amphibian species that utilize ephemeral pools and wetlands. Results can be used to determine when supplemental or interventive measures are needed to support breeding periods and metamorphosis during drought periods.', hasNcwap15Index: '4.3.1'})
@@ -683,12 +683,12 @@ CREATE (Ncwap2015ResearchPriority429:Priority:Ncwap15Priority:ResearchPriority {
 CREATE (Ncwap2015ResearchPriority430:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 430', hasPriorityType: 'Research Priority', hasText: 'Conduct genetics research to determine if the Coastal [[Worm-eating Warbler]] is a separate sub-species.', hasNcwap15Index: '4.3.7'})
 CREATE (Ncwap2015ResearchPriority431:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 431', hasPriorityType: 'Research Priority', hasText: 'Explore alternatives (herbicides or mechanical) to using fire for the initial restoration of severely fire suppressed non-alluvial wetlands.', hasNcwap15Index: '4.3.7'})
 CREATE (Ncwap2015ResearchPriority432:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 432', hasPriorityType: 'Research Priority', hasText: 'Determine why some priority species use this habitat on the coast when the same species primarily is found in the Mountains using completely different habitats (e.g. Waynes [[Black-throated Green Warbler]] [[Worm-eating Warbler]] Wood Frog).', hasNcwap15Index: '4.3.7'})
-CREATE (Ncwap2015ResearchPriority444:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 444', hasPriorityType: 'Research Priority', hasText: 'Conduct genetic studies across taxonomic groups to assess degree of population isolation/gene flow and determine taxonomic status (primarily bird taxa thought to be southern Appalachian endemics).', hasNcwap15Index: '4.4.3'})
+CREATE (Ncwap2015ResearchPriority444:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 444', hasPriorityType: 'Research Priority', hasText: 'Conduct genetic studies across taxonomic groups to assess degree of population isolationgene flow and determine taxonomic status (primarily bird taxa thought to be southern Appalachian endemics).', hasNcwap15Index: '4.4.3'})
 CREATE (Ncwap2015ResearchPriority445:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 445', hasPriorityType: 'Research Priority', hasText: 'Initiate habitat use studies for many species to assess use of microhabitats forest age classes and habitat spatial relationships.', hasNcwap15Index: '4.4.3'})
-CREATE (Ncwap2015ResearchPriority446:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 446', hasPriorityType: 'Research Priority', hasText: 'Conduct research on habitat management techniques to successfully establish mixed spruce–northern hardwood stands in non-forested areas or appropriate pure/young northern hardwood stands.', hasNcwap15Index: '4.4.3'})
+CREATE (Ncwap2015ResearchPriority446:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 446', hasPriorityType: 'Research Priority', hasText: 'Conduct research on habitat management techniques to successfully establish mixed spruce–northern hardwood stands in non-forested areas or appropriate pureyoung northern hardwood stands.', hasNcwap15Index: '4.4.3'})
 CREATE (Ncwap2015ResearchPriority447:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 447', hasPriorityType: 'Research Priority', hasText: 'Research phenological relationships of priority species to better understand how changing climate conditions will affect seasonal availability of food resources.', hasNcwap15Index: '4.4.3'})
 CREATE (Ncwap2015ResearchPriority458:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 458', hasPriorityType: 'Research Priority', hasText: 'Research and identify important wildlife crossing areas evaluate connectivity issues between intact and fragmented habitats used by priority species work with partners to improve crossing and connectivity.', hasNcwap15Index: '4.4.11', hasNcwap15Index: '4.4.18', hasNcwap15Index: '4.4.17'})
-CREATE (Ncwap2015ResearchPriority459:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 459', hasPriorityType: 'Research Priority', hasText: 'Conduct long-term and large-scale replicated studies that have controlled experimental approaches and that focus on population demographics and the response of species to habitat manipulations where appropriate for oak/mixed hardwoods forest taxa including birds bats small mammals amphibians and reptiles.', hasNcwap15Index: '4.4.11'})
+CREATE (Ncwap2015ResearchPriority459:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 459', hasPriorityType: 'Research Priority', hasText: 'Conduct long-term and large-scale replicated studies that have controlled experimental approaches and that focus on population demographics and the response of species to habitat manipulations where appropriate for oakmixed hardwoods forest taxa including birds bats small mammals amphibians and reptiles.', hasNcwap15Index: '4.4.11'})
 CREATE (Ncwap2015ResearchPriority476:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 476', hasPriorityType: 'Research Priority', hasText: 'Examine the relationship between habitat patch size and nesting success of shrubland birds (Burhans and Thompson 1999) and habitat use by small mammals (Litvaitis 2001).', hasNcwap15Index: '4.3.8'})
 CREATE (Ncwap2015ResearchPriority477:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 477', hasPriorityType: 'Research Priority', hasText: 'Determine the best ways to burn these sites or alternative management that will mimic the effects of fire at sites where birds mammals reptiles and amphibians are being monitored.', hasNcwap15Index: '4.3.8'})
 CREATE (Ncwap2015ResearchPriority478:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 478', hasPriorityType: 'Research Priority', hasText: 'Determine how the use of chipping (using a hydro-ax or other heavy chipping machinery) midstory and understory vegetation affects the plant and animal communities. This practice is becoming more common particularly in areas where [[Red-cockaded Woodpecker]]s are present.', hasNcwap15Index: '4.3.8'})
@@ -697,14 +697,14 @@ CREATE (Ncwap2015ResearchPriority489:Priority:Ncwap15Priority:ResearchPriority {
 CREATE (Ncwap2015ResearchPriority490:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 490', hasPriorityType: 'Research Priority', hasText: 'Assess the impacts of Federal Energy Regulatory Commission-mandated changes in water releases at hydroelectric dams on priority species.', hasNcwap15Index: '4.2.13'})
 CREATE (Ncwap2015ResearchPriority491:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 491', hasPriorityType: 'Research Priority', hasText: 'Study the impacts of commercial collecting of turtles on population dynamics and the impact that the 2003 turtle law may have on the trade. This 2003 Session Law amended General Statute 113-333(a) to limit possession and commercial taking of certain amphibian and reptile species when NCWRC determined the species requires conservation measures to prevent addition of the species to the protected animal lists. Section 3.1.1 provides additional information about General Statutes in North Carolina.', hasNcwap15Index: '4.2.13'})
 CREATE (Ncwap2015ResearchPriority5:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 5', hasPriorityType: 'Research Priority', hasText: 'Establish a captive breeding programfor Bog Turtles and work with land conservation partners to identify sites for population augmentation.', hasNcwap15Index: '4.3.1'})
-CREATE (Ncwap2015ResearchPriority504:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 504', hasPriorityType: 'Research Priority', hasText: 'Research to facilitate appropriate conservation actions includes habitat use/preferences spawning location and timing fecundity population dynamics population genetics feeding competition and predation.', hasNcwap15Index: '4.4.16'})
+CREATE (Ncwap2015ResearchPriority504:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 504', hasPriorityType: 'Research Priority', hasText: 'Research to facilitate appropriate conservation actions includes habitat usepreferences spawning location and timing fecundity population dynamics population genetics feeding competition and predation.', hasNcwap15Index: '4.4.16'})
 CREATE (Ncwap2015ResearchPriority515:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 515', hasPriorityType: 'Research Priority', hasText: 'Conduct studies to document the levels of EDCs in wastewater discharges and identify measures that will reduce or eliminate EDCs from wastewater prior to discharge.', hasNcwap15Index: '4.2.8'})
 CREATE (Ncwap2015ResearchPriority516:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 516', hasPriorityType: 'Research Priority', hasText: 'Determine the impacts of “snagging” (removing woody debris after storms) on wildlife populations.', hasNcwap15Index: '4.2.8'})
 CREATE (Ncwap2015ResearchPriority517:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 517', hasPriorityType: 'Research Priority', hasText: 'Conduct research to investigate Nutria population densities population growth rates dispersal range and extent of property damage from burrowing and herbivory.', hasNcwap15Index: '4.2.8'})
 CREATE (Ncwap2015ResearchPriority518:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 518', hasPriorityType: 'Research Priority', hasText: 'Determine the effect Beaver ponds have on downstream movement of pollutants (toxins and sediments).', hasNcwap15Index: '4.2.8'})
 CREATE (Ncwap2015ResearchPriority537:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 537', hasPriorityType: 'Research Priority', hasText: 'Conduct studies to explore the degree of endemism of southern Appalachian populations (e.g. [[Pine Siskin]]s [[Red Crossbill]]s [[Northern Saw-whet Owl]]s [[Black-capped Chickadee]]s etc.).', hasNcwap15Index: '4.4.2'})
 CREATE (Ncwap2015ResearchPriority538:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 538', hasPriorityType: 'Research Priority', hasText: 'Conduct studies to explore the degree of genetic isolation of species restricted to high elevations (e.g. Carolina Northern Flying Squirrels Rock Voles Rock Shrews Wellers Salamanders [[Northern Saw-whet Owl]]s etc.).', hasNcwap15Index: '4.4.2'})
-CREATE (Ncwap2015ResearchPriority539:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 539', hasPriorityType: 'Research Priority', hasText: 'Conduct research on population demographics including trends population structure survivorship reproduction and population viability for all spruce–fir associated species/groups.', hasNcwap15Index: '4.4.2'})
+CREATE (Ncwap2015ResearchPriority539:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 539', hasPriorityType: 'Research Priority', hasText: 'Conduct research on population demographics including trends population structure survivorship reproduction and population viability for all spruce–fir associated speciesgroups.', hasNcwap15Index: '4.4.2'})
 CREATE (Ncwap2015ResearchPriority540:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 540', hasPriorityType: 'Research Priority', hasText: 'Species phenology needs to be investigated especially where there are endemic populations.', hasNcwap15Index: '4.4.2'})
 CREATE (Ncwap2015ResearchPriority552:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 552', hasPriorityType: 'Research Priority', hasText: 'Verify the genetic makeup of the [[Sandhills]] Salamander which has yet to be formally described.', hasNcwap15Index: '4.2.11'})
 CREATE (Ncwap2015ResearchPriority553:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 553', hasPriorityType: 'Research Priority', hasText: 'Examine the extent and impact of exotic species introductions conduct research on effective control measures for the most problematic exotics.', hasNcwap15Index: '4.2.11'})
@@ -723,7 +723,7 @@ CREATE (Ncwap2015ResearchPriority608:Priority:Ncwap15Priority:ResearchPriority {
 CREATE (Ncwap2015ResearchPriority609:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 609', hasPriorityType: 'Research Priority', hasText: 'Determine better ways to construct fire lines and better ways to burn around populated areas where smoke would otherwise be a concern when burning.', hasNcwap15Index: '4.3.11'})
 CREATE (Ncwap2015ResearchPriority610:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 610', hasPriorityType: 'Research Priority', hasText: 'Determine how to effectively restore altered portions of this habitat type and develop methods to manage them without fire.', hasNcwap15Index: '4.3.11'})
 CREATE (Ncwap2015ResearchPriority67:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 67', hasPriorityType: 'Research Priority', hasText: 'In some areas of its range the Longtail Salamander is associated with caves or portions of caves. Investigate its habitat use in North Carolina in conjunction with more generalized research on this species distribution status and habitat in the state.', hasNcwap15Index: '4.4.1'})
-CREATE (Ncwap2015ResearchPriority68:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 68', hasPriorityType: 'Research Priority', hasText: 'Conduct studies to document maternity sites used by bats from specific hibernacula (e.g. find maternity colonies utilizing radio telemetry of individual Virginia Big-eared Bats that hibernate in known caves/mines or track any Indiana or Gray bats captured to their maternity sites or hibernacula).', hasNcwap15Index: '4.4.1'})
+CREATE (Ncwap2015ResearchPriority68:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 68', hasPriorityType: 'Research Priority', hasText: 'Conduct studies to document maternity sites used by bats from specific hibernacula (e.g. find maternity colonies utilizing radio telemetry of individual Virginia Big-eared Bats that hibernate in known cavesmines or track any Indiana or Gray bats captured to their maternity sites or hibernacula).', hasNcwap15Index: '4.4.1'})
 CREATE (Ncwap2015ResearchPriority7:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 7', hasPriorityType: 'Research Priority', hasText: 'Use clearing methods that create the least impacts avoid use of chemicals. Where appropriate use prescribed burning to control encroachment by hardwoods. If mowing limit to once a year or less and set blade height between 1 and 2 feet to avoid destroying nesting bird and small mammal habitat.If using heavy equipment disturb only one patch of the site at a time and minimize ruts and compaction of soils and vegetation to the extent possible (Somers et al. 2000).', hasNcwap15Index: '4.3.1'})
 CREATE (Ncwap2015ResearchPriority8:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 8', hasPriorityType: 'Research Priority', hasText: 'If livestock grazing is allowed limit number of animals to one per acre and allow light to moderate seasonal (winter only) grazing where possible (Somers et al. 2000).', hasNcwap15Index: '4.3.1'})
 CREATE (Ncwap2015ResearchPriority80:Priority:Ncwap15Priority:ResearchPriority { name: 'NCWAP 2015 Research Priority 80', hasPriorityType: 'Research Priority', hasText: 'Determine specific flow regimes necessary to support microhabitat for particular species (e.g. Junaluska Salamander).', hasNcwap15Index: '4.2.3'})
@@ -774,7 +774,7 @@ CREATE (Ncwap2015SurveysPriority335:Priority:Ncwap15Priority:SurveysPriority { n
 CREATE (Ncwap2015SurveysPriority342:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 342', hasPriorityType: 'Surveys Priority', hasText: 'Determine the status and distribution of amphibians and reptiles in maritime communities.', hasNcwap15Index: '4.4.14'})
 CREATE (Ncwap2015SurveysPriority343:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 343', hasPriorityType: 'Surveys Priority', hasText: 'Conduct migration surveys to determine bird use especially during the fall.', hasNcwap15Index: '4.4.14'})
 CREATE (Ncwap2015SurveysPriority344:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 344', hasPriorityType: 'Surveys Priority', hasText: 'Conduct small mammal surveys on barrier island systems to verify species status distribution and community composition.', hasNcwap15Index: '4.4.14'})
-CREATE (Ncwap2015SurveysPriority359:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 359', hasPriorityType: 'Surveys Priority', hasText: 'Surveys are needed to document the distribution relative abundance and status of wildlife species associated with these beach/dune habitats. Priorities for conducting surveys need to focus on species believed to be declining at risk or mainly dependent on these communities.', hasNcwap15Index: '4.4.15'})
+CREATE (Ncwap2015SurveysPriority359:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 359', hasPriorityType: 'Surveys Priority', hasText: 'Surveys are needed to document the distribution relative abundance and status of wildlife species associated with these beachdune habitats. Priorities for conducting surveys need to focus on species believed to be declining at risk or mainly dependent on these communities.', hasNcwap15Index: '4.4.15'})
 CREATE (Ncwap2015SurveysPriority360:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 360', hasPriorityType: 'Surveys Priority', hasText: 'Secondary priority for surveys should be for species for which current distribution information is already available or for species that are considered common.', hasNcwap15Index: '4.4.15'})
 CREATE (Ncwap2015SurveysPriority361:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 361', hasPriorityType: 'Surveys Priority', hasText: 'Conduct shorebird surveys throughout the year to better understand population fluctuations for breeding wintering and migratory birds (especially [[Piping Plover]] [[American Oystercatcher]] and [[Wilsons Plover]]).', hasNcwap15Index: '4.4.15'})
 CREATE (Ncwap2015SurveysPriority362:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 362', hasPriorityType: 'Surveys Priority', hasText: 'Determine distribution and status of wintering shorebirds (Sprandel et al. 2000).', hasNcwap15Index: '4.4.15'})
@@ -789,10 +789,10 @@ CREATE (Ncwap2015SurveysPriority427:Priority:Ncwap15Priority:SurveysPriority { n
 CREATE (Ncwap2015SurveysPriority428:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 428', hasPriorityType: 'Surveys Priority', hasText: 'Survey for other SGCN and high priority species especially snakes and lizards.', hasNcwap15Index: '4.3.7'})
 CREATE (Ncwap2015SurveysPriority440:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 440', hasPriorityType: 'Surveys Priority', hasText: 'Fill in distribution gaps for Carolina Northern Flying Squirrel. Continue survey work on distributions within and between known populations.', hasNcwap15Index: '4.4.3'})
 CREATE (Ncwap2015SurveysPriority441:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 441', hasPriorityType: 'Surveys Priority', hasText: 'Obtain baseline data on SGCN and priority species especially species that depend on high-elevation forests.', hasNcwap15Index: '4.4.3'})
-CREATE (Ncwap2015SurveysPriority442:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 442', hasPriorityType: 'Surveys Priority', hasText: 'Conduct shrew surveys to determine the distribution of Long-tailed Pygmy and Water shrews and surveys to document the response of shrews to disturbance/management.', hasNcwap15Index: '4.4.3'})
+CREATE (Ncwap2015SurveysPriority442:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 442', hasPriorityType: 'Surveys Priority', hasText: 'Conduct shrew surveys to determine the distribution of Long-tailed Pygmy and Water shrews and surveys to document the response of shrews to disturbancemanagement.', hasNcwap15Index: '4.4.3'})
 CREATE (Ncwap2015SurveysPriority443:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 443', hasPriorityType: 'Surveys Priority', hasText: 'Conduct surveys for rare salamanders like Wellers Northern and Southern Pygmy Seepage and Tellico as well as more common species such as Ravine Salamanders to determine their actual distribution and better define their habitat associations.', hasNcwap15Index: '4.4.3'})
 CREATE (Ncwap2015SurveysPriority456:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 456', hasPriorityType: 'Surveys Priority', hasText: 'Conduct surveys to document priority and common species in areas poised for development (edge of urban expansion) to establish baseline populations and identify problems before development expands.', hasNcwap15Index: '4.4.11'})
-CREATE (Ncwap2015SurveysPriority457:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 457', hasPriorityType: 'Surveys Priority', hasText: 'Determine the current baseline distribution and status of species mainly associated with oak and mixed hardwood/pine forests (especially those that are state-listed or believed to be declining) for which that information is lacking.', hasNcwap15Index: '4.4.11'})
+CREATE (Ncwap2015SurveysPriority457:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 457', hasPriorityType: 'Surveys Priority', hasText: 'Determine the current baseline distribution and status of species mainly associated with oak and mixed hardwoodpine forests (especially those that are state-listed or believed to be declining) for which that information is lacking.', hasNcwap15Index: '4.4.11'})
 CREATE (Ncwap2015SurveysPriority475:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 475', hasPriorityType: 'Surveys Priority', hasText: 'Determine status and distribution for Waynes [[Black-throated Green Warbler]] Worm-eating warbler [[Swainsons Warbler]] [[Black-billed Cuckoo]] (may warrant further documentation) and other neotropical migrants.', hasNcwap15Index: '4.3.8'})
 CREATE (Ncwap2015SurveysPriority486:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 486', hasPriorityType: 'Surveys Priority', hasText: 'Determine the status and distribution of reservoir-associated birds (e.g. ospreys herons swallows possibly rails) and help identify threats to populations.', hasNcwap15Index: '4.2.13'})
 CREATE (Ncwap2015SurveysPriority487:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 487', hasPriorityType: 'Surveys Priority', hasText: 'Survey for shorebird migration activity on large reservoirs (e.g. Falls Lake Kerr Lake) in spring summer and fall.', hasNcwap15Index: '4.2.13'})
@@ -818,8 +818,8 @@ CREATE (Ncwap2015SurveysPriority62:Priority:Ncwap15Priority:SurveysPriority { na
 CREATE (Ncwap2015SurveysPriority63:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 63', hasPriorityType: 'Surveys Priority', hasText: 'Survey for potential nesting birds in caves such as [[Turkey Vulture]]s [[Black Vulture]]s and [[Common Raven]]s.', hasNcwap15Index: '4.4.1'})
 CREATE (Ncwap2015SurveysPriority64:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 64', hasPriorityType: 'Surveys Priority', hasText: 'Inventory salamander communities associated with cave habitat (particularly in the twilight zone of caves).', hasNcwap15Index: '4.4.1'})
 CREATE (Ncwap2015SurveysPriority65:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 65', hasPriorityType: 'Surveys Priority', hasText: 'Conduct bat surveys in caves and mines that have not been previously evaluated.', hasNcwap15Index: '4.4.1'})
-CREATE (Ncwap2015SurveysPriority66:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 66', hasPriorityType: 'Surveys Priority', hasText: 'Conduct surveys for Cave Salamanders (Eurycea lucifuga) in areas along the Tennessee/ North Carolina border.', hasNcwap15Index: '4.4.1'})
-CREATE (Ncwap2015SurveysPriority77:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 77', hasPriorityType: 'Surveys Priority', hasText: 'Conduct baseline surveys to determine current distributions for the several SGCN associated with stream habitats in western North Carolina that are known in only a few localities and/or are considered rare or declining (e.g. Water Shrew Hellbender Junaluska and Longtail Salamanders Mudpuppy Eastern Spiny Softshell and Loggerhead Musk Turtles).', hasNcwap15Index: '4.2.3'})
+CREATE (Ncwap2015SurveysPriority66:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 66', hasPriorityType: 'Surveys Priority', hasText: 'Conduct surveys for Cave Salamanders (Eurycea lucifuga) in areas along the Tennessee North Carolina border.', hasNcwap15Index: '4.4.1'})
+CREATE (Ncwap2015SurveysPriority77:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 77', hasPriorityType: 'Surveys Priority', hasText: 'Conduct baseline surveys to determine current distributions for the several SGCN associated with stream habitats in western North Carolina that are known in only a few localities andor are considered rare or declining (e.g. Water Shrew Hellbender Junaluska and Longtail Salamanders Mudpuppy Eastern Spiny Softshell and Loggerhead Musk Turtles).', hasNcwap15Index: '4.2.3'})
 CREATE (Ncwap2015SurveysPriority78:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 78', hasPriorityType: 'Surveys Priority', hasText: 'Gather better information about the status and distribution of more common species associated with stream habitats (e.g. Shovel-nosed and Three-linedSalamanders).', hasNcwap15Index: '4.2.3'})
 CREATE (Ncwap2015SurveysPriority79:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 79', hasPriorityType: 'Surveys Priority', hasText: 'Investigate population status of native Brook Trout.', hasNcwap15Index: '4.2.3'})
 CREATE (Ncwap2015SurveysPriority89:Priority:Ncwap15Priority:SurveysPriority { name: 'NCWAP 2015 Surveys Priority 89', hasPriorityType: 'Surveys Priority', hasText: 'Distributional and status surveys are needed for aquatic snails crayfish mussels and fish (in order of general need).', hasNcwap15Index: '4.2.4'})
@@ -846,7 +846,7 @@ CREATE (HighElevationCliffsAndRockOutcrops:Habitat:Ncwap15Habitat:UplandCommunit
 CREATE (LowElevationFlatrocksCliffsAndRockOutcrops:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Low Elevation Flatrocks Cliffs and Rock Outcrops', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.8'})
 CREATE (MesicForests:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Mesic Forests', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.9'})
 CREATE (DryConiferousWoodlands:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Dry Coniferous Woodlands', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.10'})
-CREATE (OakAndMixedHardwood/PineForestsAndManagedTimber:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Oak and Mixed Hardwood/Pine Forests and Managed Timber', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.11'})
+CREATE (OakAndMixedHardwoodpineForestsAndManagedTimber:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Oak and Mixed HardwoodPine Forests and Managed Timber', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.11'})
 CREATE (MontaneOakForests:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Montane Oak Forests', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.12'})
 CREATE (DryLongleafPineCommunities:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Dry Longleaf Pine Communities', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.13'})
 CREATE (MaritimeForests:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Maritime Forests', hasCommunityType: 'Upland Communities', hasThreat: 'Development', hasNcwap15Index: '4.4.14'})
@@ -859,14 +859,14 @@ CREATE (CavesAndMines:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Caves an
 CREATE (ColdwaterStreams:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Coldwater Streams', hasNcwap15Index: '4.2.3'})
 CREATE (CoolwaterStreams:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Coolwater Streams', hasNcwap15Index: '4.2.4'})
 CREATE (EstuarineAquaticCommunities:Ncwap15Habitat:Habitat:AquaticCommunities { name: 'Estuarine Aquatic Communities', hasNcwap15Index: '4.2.14', hasCommunityType: 'Aquatic Communities'})
-CREATE (GroundwaterSprings/Caves:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Groundwater Springs/Caves', hasCommunityType: 'Aquatic Communities', hasNcwap15Index: '4.2.6'})
-CREATE (HeadwaterStreams/SmallCreeks:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Headwater Streams/Small Creeks', hasCommunityType: 'Aquatic Communities', hasNcwap15Index: '4.2.7'})
+CREATE (GroundwaterSpringscaves:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Groundwater SpringsCaves', hasCommunityType: 'Aquatic Communities', hasNcwap15Index: '4.2.6'})
+CREATE (HeadwaterStreamssmallCreeks:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Headwater StreamsSmall Creeks', hasCommunityType: 'Aquatic Communities', hasNcwap15Index: '4.2.7'})
 CREATE (LargeRiverSystems:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Large River Systems', hasCommunityType: 'Aquatic Communities', hasNcwap15Index: '4.2.10'})
 CREATE (MediumRiverSystems:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Medium River Systems', hasCommunityType: 'Aquatic Communities', hasNcwap15Index: '4.2.9'})
 CREATE (NaturalLakes:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Natural Lakes', hasCommunityType: 'Aquatic Communities', hasNcwap15Index: '4.2.12'})
 CREATE (ReservoirsAndImpoundments:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Reservoirs and Impoundments', hasCommunityType: 'Aquatic Communities', hasNcwap15Index: '4.2.13'})
 CREATE (SandShellAndWrackActiveShoreline:Habitat:Ncwap15Habitat:UplandCommunities { name: 'Sand Shell and Wrack Active Shoreline', hasCommunityType: 'Upland Communities', hasNcwap15Index: '4.4.16'})
-CREATE (SmallRiverSystems/LargeCreeks:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Small River Systems/Large Creeks', hasCommunityType: 'Aquatic Communities', hasNcwap15Index: '4.2.8'})
+CREATE (SmallRiverSystemslargeCreeks:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Small River SystemsLarge Creeks', hasCommunityType: 'Aquatic Communities', hasNcwap15Index: '4.2.8'})
 CREATE (StreamSwamps:Habitat:Ncwap15Habitat:AquaticCommunities { name: 'Stream Swamps', hasCommunityType: 'Aquatic Communities', hasNcwap15Index: '4.2.11'})
 CREATE (GoldenWingedWarblerWorkingGroup:Organization:Partnership { name: 'Golden-Winged Warbler Working Group', HasScopeOf: 'national '})
 CREATE (ConservationTrustForNorthCarolina:Non-Government:Organization { name: 'Conservation Trust for North Carolina', HasGeography: 'North Carolina'})
@@ -899,7 +899,7 @@ CREATE (AtlanticFlywayShorebirdBusinessStrategy2013:Plan { name: 'Atlantic Flywa
 CREATE (ConservationPlanForTheAmericanOystercatcher2007:Plan { name: 'Conservation Plan For The American Oystercatcher 2007', hasPrimaryAuthorOrganization: 'United States Fish and Wildlife Service', hasPrimaryAuthorOrganization: 'USGS North Carolina Cooperative Fish and Wildlife Research Unit', hasPrimaryAuthorOrganization: 'Manomet Center for Conservation Sciences', hasPublicationYear: '2007'})
 CREATE (ConservationActionPlanForTheCeruleanWarbler2007:Plan { name: 'Conservation Action Plan For The Cerulean Warbler 2007', hasPrimaryAuthorOrganization: 'United States Fish and Wildlife Service', hasPublicationYear: '2007'})
 CREATE (GoldenWingedWarblerStatusReviewAndConservationPlan2012:Plan { name: 'Golden-Winged Warbler Status Review And Conservation Plan 2012', hasPrimaryAuthorOrganization: 'United States Fish and Wildlife Service', hasPublicationYear: '2007'})
-CREATE (SummaryOfSecretiveMarshBirdSurveysInTheAtlanticFlyway2020:Plan:Report { name: 'Summary of Secretive Marsh Bird Surveys in the Atlantic Flyway 2020', hasPublicationDate: '04/21/2020', hasPublicationYear: '2020'})
+CREATE (SummaryOfSecretiveMarshBirdSurveysInTheAtlanticFlyway2020:Plan:Report { name: 'Summary of Secretive Marsh Bird Surveys in the Atlantic Flyway 2020', hasPublicationDate: '04212020', hasPublicationYear: '2020'})
 CREATE (BirdConservationRegion29:Geography:BirdConservationRegion { name: 'Bird Conservation Region 29'})
 CREATE (AtlanticCoastalPlain:Geography:Ecoregion { name: 'Atlantic Coastal Plain'})
 CREATE (SouthernBlueRidge:Geography:Ecoregion { name: 'Southern Blue Ridge'})
@@ -5594,96 +5594,96 @@ CREATE
 (DryConiferousWoodlands)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority107),
 (DryConiferousWoodlands)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority108),
 (DryConiferousWoodlands)-[:HAS_SPECIES]->(WilsonSSnipe),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_GEOGRAPHY]->(NorthCarolina),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_GEOGRAPHY]->(AtlanticCoastalPlain),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_GEOGRAPHY]->(Sandhills),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_GEOGRAPHY]->(Piedmont),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_GEOGRAPHY]->(SouthernBlueRidge),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2005),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2015),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BarnOwl),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackVulture),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackAndWhiteWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackBilledCuckoo),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackburnianWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackCappedChickadee),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackThroatedGreenWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlueGrosbeak),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlueJay),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlueHeadedVireo),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BroadWingedHawk),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BrownCreeper),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BrownHeadedCowbird),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(BrownHeadedNuthatch),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(CanadaWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(CarolinaChickadee),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(CarolinaWren),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(CeruleanWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(ChippingSparrow),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(ChuckWillSWidow),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(CommonYellowthroat),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(CooperSHawk),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(EasternScreechOwl),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(EasternTowhee),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(EasternWoodPewee),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(EveningGrosbeak),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(GoldenCrownedKinglet),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(GoldenWingedWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(GreatCrestedFlycatcher),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(GreatHornedOwl),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(HairyWoodpecker),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(HermitThrush),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(HoodedWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(KentuckyWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(MourningDove),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(NashvilleWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(NorthernFlicker),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(Ovenbird),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(PileatedWoodpecker),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(PineWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(PurpleMartin),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(RedBelliedWoodpecker),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(RedBreastedNuthatch),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(RedEyedVireo),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(RedHeadedWoodpecker),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(RedTailedHawk),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(RoseBreastedGrosbeak),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(RubyThroatedHummingbird),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(ScarletTanager),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(SharpShinnedHawk),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(SummerTanager),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(TennesseeWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(TreeSwallow),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(TurkeyVulture),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(VesperSparrow),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(EasternWhipPoorWill),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(WhiteBreastedNuthatch),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(WildTurkey),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(WinterWren),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(WoodThrush),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(YellowBelliedSapsucker),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(YellowBilledCuckoo),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(YellowBreastedChat),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_SPECIES]->(YellowRumpedWarbler),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority469),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority470),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority471),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority472),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority473),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority474),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority463),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority464),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority465),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority466),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority467),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority468),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015MonitoringPriority460),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015MonitoringPriority461),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015MonitoringPriority462),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority458),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority459),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority456),
-(OakAndMixedHardwood/PineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority457),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_GEOGRAPHY]->(NorthCarolina),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_GEOGRAPHY]->(AtlanticCoastalPlain),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_GEOGRAPHY]->(Sandhills),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_GEOGRAPHY]->(Piedmont),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_GEOGRAPHY]->(SouthernBlueRidge),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2005),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2015),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BarnOwl),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackVulture),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackAndWhiteWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackBilledCuckoo),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackburnianWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackCappedChickadee),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlackThroatedGreenWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlueGrosbeak),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlueJay),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BlueHeadedVireo),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BroadWingedHawk),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BrownCreeper),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BrownHeadedCowbird),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(BrownHeadedNuthatch),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(CanadaWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(CarolinaChickadee),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(CarolinaWren),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(CeruleanWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(ChippingSparrow),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(ChuckWillSWidow),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(CommonYellowthroat),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(CooperSHawk),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(EasternScreechOwl),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(EasternTowhee),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(EasternWoodPewee),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(EveningGrosbeak),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(GoldenCrownedKinglet),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(GoldenWingedWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(GreatCrestedFlycatcher),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(GreatHornedOwl),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(HairyWoodpecker),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(HermitThrush),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(HoodedWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(KentuckyWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(MourningDove),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(NashvilleWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(NorthernFlicker),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(Ovenbird),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(PileatedWoodpecker),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(PineWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(PurpleMartin),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(RedBelliedWoodpecker),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(RedBreastedNuthatch),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(RedEyedVireo),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(RedHeadedWoodpecker),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(RedTailedHawk),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(RoseBreastedGrosbeak),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(RubyThroatedHummingbird),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(ScarletTanager),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(SharpShinnedHawk),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(SummerTanager),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(TennesseeWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(TreeSwallow),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(TurkeyVulture),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(VesperSparrow),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(EasternWhipPoorWill),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(WhiteBreastedNuthatch),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(WildTurkey),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(WinterWren),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(WoodThrush),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(YellowBelliedSapsucker),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(YellowBilledCuckoo),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(YellowBreastedChat),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_SPECIES]->(YellowRumpedWarbler),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority469),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority470),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority471),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority472),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority473),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ConservationProgramsAndPartnershipsPriority474),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority463),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority464),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority465),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority466),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority467),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority468),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015MonitoringPriority460),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015MonitoringPriority461),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015MonitoringPriority462),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority458),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority459),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority456),
+(OakAndMixedHardwoodpineForestsAndManagedTimber)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority457),
 (MontaneOakForests)-[:HAS_GEOGRAPHY]->(NorthCarolina),
 (MontaneOakForests)-[:HAS_GEOGRAPHY]->(SouthernBlueRidge),
 (MontaneOakForests)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2005),
@@ -6186,29 +6186,29 @@ CREATE
 (EstuarineAquaticCommunities)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority136),
 (EstuarineAquaticCommunities)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority131),
 (EstuarineAquaticCommunities)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority132),
-(GroundwaterSprings/Caves)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2015),
-(GroundwaterSprings/Caves)-[:HAS_GEOGRAPHY]->(NorthCarolina),
-(GroundwaterSprings/Caves)-[:HAS_GEOGRAPHY]->(AtlanticCoastalPlain),
-(GroundwaterSprings/Caves)-[:HAS_GEOGRAPHY]->(Piedmont),
-(GroundwaterSprings/Caves)-[:HAS_GEOGRAPHY]->(Sandhills),
-(GroundwaterSprings/Caves)-[:HAS_GEOGRAPHY]->(SouthernBlueRidge),
-(HeadwaterStreams/SmallCreeks)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2015),
-(HeadwaterStreams/SmallCreeks)-[:HAS_GEOGRAPHY]->(NorthCarolina),
-(HeadwaterStreams/SmallCreeks)-[:HAS_GEOGRAPHY]->(AtlanticCoastalPlain),
-(HeadwaterStreams/SmallCreeks)-[:HAS_GEOGRAPHY]->(Piedmont),
-(HeadwaterStreams/SmallCreeks)-[:HAS_GEOGRAPHY]->(Sandhills),
-(HeadwaterStreams/SmallCreeks)-[:HAS_GEOGRAPHY]->(SouthernBlueRidge),
-(HeadwaterStreams/SmallCreeks)-[:HAS_SPECIES]->(CattleEgret),
-(HeadwaterStreams/SmallCreeks)-[:HAS_SPECIES]->(GreatBlueHeron),
-(HeadwaterStreams/SmallCreeks)-[:HAS_SPECIES]->(GreatEgret),
-(HeadwaterStreams/SmallCreeks)-[:HAS_SPECIES]->(WilsonSSnipe),
-(HeadwaterStreams/SmallCreeks)-[:HAS_SPECIES]->(WoodDuck),
-(HeadwaterStreams/SmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority292),
-(HeadwaterStreams/SmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015MonitoringPriority291),
-(HeadwaterStreams/SmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority289),
-(HeadwaterStreams/SmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority290),
-(HeadwaterStreams/SmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority287),
-(HeadwaterStreams/SmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority288),
+(GroundwaterSpringscaves)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2015),
+(GroundwaterSpringscaves)-[:HAS_GEOGRAPHY]->(NorthCarolina),
+(GroundwaterSpringscaves)-[:HAS_GEOGRAPHY]->(AtlanticCoastalPlain),
+(GroundwaterSpringscaves)-[:HAS_GEOGRAPHY]->(Piedmont),
+(GroundwaterSpringscaves)-[:HAS_GEOGRAPHY]->(Sandhills),
+(GroundwaterSpringscaves)-[:HAS_GEOGRAPHY]->(SouthernBlueRidge),
+(HeadwaterStreamssmallCreeks)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2015),
+(HeadwaterStreamssmallCreeks)-[:HAS_GEOGRAPHY]->(NorthCarolina),
+(HeadwaterStreamssmallCreeks)-[:HAS_GEOGRAPHY]->(AtlanticCoastalPlain),
+(HeadwaterStreamssmallCreeks)-[:HAS_GEOGRAPHY]->(Piedmont),
+(HeadwaterStreamssmallCreeks)-[:HAS_GEOGRAPHY]->(Sandhills),
+(HeadwaterStreamssmallCreeks)-[:HAS_GEOGRAPHY]->(SouthernBlueRidge),
+(HeadwaterStreamssmallCreeks)-[:HAS_SPECIES]->(CattleEgret),
+(HeadwaterStreamssmallCreeks)-[:HAS_SPECIES]->(GreatBlueHeron),
+(HeadwaterStreamssmallCreeks)-[:HAS_SPECIES]->(GreatEgret),
+(HeadwaterStreamssmallCreeks)-[:HAS_SPECIES]->(WilsonSSnipe),
+(HeadwaterStreamssmallCreeks)-[:HAS_SPECIES]->(WoodDuck),
+(HeadwaterStreamssmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority292),
+(HeadwaterStreamssmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015MonitoringPriority291),
+(HeadwaterStreamssmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority289),
+(HeadwaterStreamssmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority290),
+(HeadwaterStreamssmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority287),
+(HeadwaterStreamssmallCreeks)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority288),
 (LargeRiverSystems)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2015),
 (LargeRiverSystems)-[:HAS_GEOGRAPHY]->(NorthCarolina),
 (LargeRiverSystems)-[:HAS_GEOGRAPHY]->(AtlanticCoastalPlain),
@@ -6481,44 +6481,44 @@ CREATE
 (SandShellAndWrackActiveShoreline)-[:HAS_PRIORITY]->(Ncwap2015MonitoringPriority507),
 (SandShellAndWrackActiveShoreline)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority504),
 (SandShellAndWrackActiveShoreline)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority503),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2015),
-(SmallRiverSystems/LargeCreeks)-[:HAS_GEOGRAPHY]->(NorthCarolina),
-(SmallRiverSystems/LargeCreeks)-[:HAS_GEOGRAPHY]->(AtlanticCoastalPlain),
-(SmallRiverSystems/LargeCreeks)-[:HAS_GEOGRAPHY]->(Piedmont),
-(SmallRiverSystems/LargeCreeks)-[:HAS_GEOGRAPHY]->(Sandhills),
-(SmallRiverSystems/LargeCreeks)-[:HAS_GEOGRAPHY]->(SouthernBlueRidge),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(AcadianFlycatcher),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(AmericanBlackDuck),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(Anhinga),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(BaldEagle),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(BankSwallow),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(CanadaGoose),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(CattleEgret),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(EasternKingbird),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(Gadwall),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(GreatBlueHeron),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(GreatEgret),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(GreenHeron),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(GreenWingedTeal),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(HoodedMerganser),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(KentuckyWarbler),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(LouisianaWaterthrush),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(PiedBilledGrebe),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(RingNeckedDuck),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(SpottedSandpiper),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(WilsonSSnipe),
-(SmallRiverSystems/LargeCreeks)-[:HAS_SPECIES]->(WoodDuck),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority519),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority520),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority521),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority522),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority515),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority516),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority517),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority518),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority512),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority513),
-(SmallRiverSystems/LargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority514),
+(SmallRiverSystemslargeCreeks)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2015),
+(SmallRiverSystemslargeCreeks)-[:HAS_GEOGRAPHY]->(NorthCarolina),
+(SmallRiverSystemslargeCreeks)-[:HAS_GEOGRAPHY]->(AtlanticCoastalPlain),
+(SmallRiverSystemslargeCreeks)-[:HAS_GEOGRAPHY]->(Piedmont),
+(SmallRiverSystemslargeCreeks)-[:HAS_GEOGRAPHY]->(Sandhills),
+(SmallRiverSystemslargeCreeks)-[:HAS_GEOGRAPHY]->(SouthernBlueRidge),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(AcadianFlycatcher),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(AmericanBlackDuck),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(Anhinga),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(BaldEagle),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(BankSwallow),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(CanadaGoose),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(CattleEgret),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(EasternKingbird),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(Gadwall),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(GreatBlueHeron),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(GreatEgret),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(GreenHeron),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(GreenWingedTeal),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(HoodedMerganser),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(KentuckyWarbler),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(LouisianaWaterthrush),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(PiedBilledGrebe),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(RingNeckedDuck),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(SpottedSandpiper),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(WilsonSSnipe),
+(SmallRiverSystemslargeCreeks)-[:HAS_SPECIES]->(WoodDuck),
+(SmallRiverSystemslargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority519),
+(SmallRiverSystemslargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority520),
+(SmallRiverSystemslargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority521),
+(SmallRiverSystemslargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ManagementPracticesPriority522),
+(SmallRiverSystemslargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority515),
+(SmallRiverSystemslargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority516),
+(SmallRiverSystemslargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority517),
+(SmallRiverSystemslargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015ResearchPriority518),
+(SmallRiverSystemslargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority512),
+(SmallRiverSystemslargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority513),
+(SmallRiverSystemslargeCreeks)-[:HAS_PRIORITY]->(Ncwap2015SurveysPriority514),
 (StreamSwamps)-[:HAS_PLAN]->(NorthCarolinaWildlifeActionPlan2015),
 (StreamSwamps)-[:HAS_GEOGRAPHY]->(NorthCarolina),
 (StreamSwamps)-[:HAS_GEOGRAPHY]->(AtlanticCoastalPlain),
