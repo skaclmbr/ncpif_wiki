@@ -1,5 +1,4 @@
 # NC Partners in Flight Wiki
-Python code for extracting and reformatting wiki xml export data for the NC Partners in Flight wiki (wiki.ncpif.org)
 Python code for extracting and reformatting wiki xml export data for the NC Partners in Flight wiki (wiki.ncpif.org) with Semantic MediaWiki data.
 
 See website at: http://wiki.ncpif.org
@@ -12,4 +11,8 @@ See website at: http://wiki.ncpif.org
 
 
 ## Known Issues
+<<<<<<< HEAD
 * there are some...
+=======
+* there are some...
+>>>>>>> 757f1a3192df6f426c4693325f63cb27a38cffdb
