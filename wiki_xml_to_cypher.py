@@ -184,11 +184,11 @@ def main():
 					# itemValue[1] = fBoolNumString(itemValue[1])
 					# DETERMINE if property is a relationship (e.g., Has Species)
 					noun = itemValue[0][itemValue[0].find(' ')+1:] #strip off the verb in the relationship to get to the noun
-					print (itemValue)
+					# print (itemValue)
 					if noun in types:
 						itemValue.append(noun)
 						rel = {'typeA':priCat,'typeB':noun,'nodeA':currNodeName,'nodeB':fNodeName(itemValue[1]),'nameA':title,'nameB':itemValue[1],'relType':fRelationshipLabel(itemValue[0])}
-						relList.append(rel)
+						if rel not in relList: relList.append(rel)
 
 					else: #not a relationship, add as property
 						propOutput.append(fPropertyLabel(itemValue[0]) + ": " + fBoolNumString(itemValue[1]))
