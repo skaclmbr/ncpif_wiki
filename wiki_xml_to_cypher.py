@@ -178,7 +178,7 @@ def main():
 				for p in propList: #loop through list
 					itemValue=p.replace('\n','').split('=')
 					#clean up the name of the value
-					itemValue[1] = fBoolNumString(itemValue[1])
+					# itemValue[1] = fBoolNumString(itemValue[1])
 					# DETERMINE if property is a relationship (e.g., Has Species)
 					noun = itemValue[0][itemValue[0].find(' ')+1:] #strip off the verb in the relationship to get to the noun
 					if noun in types:
@@ -188,7 +188,7 @@ def main():
 						relList.append(rel)
 
 					else: #not a relationship, add as property
-						propOutput.append(fPropertyLabel(itemValue[0]) + ": " + itemValue[1])
+						propOutput.append(fPropertyLabel(itemValue[0]) + ": " + fBoolNumString(itemValue[1]))
 
 				createText += " { " + ", ".join(propOutput) + "}"
 				print(createText +nl)
