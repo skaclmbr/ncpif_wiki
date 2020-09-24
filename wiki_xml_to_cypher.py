@@ -153,7 +153,10 @@ def main():
 				#advance cursor
 				currPos = wt.find("[[Category:",cEnd)+11 #find next category
 
-			createText += "".join(nodeLabels)
+			# THIS IS FOR INCLUDING ALL CATEGORIES AS NODE LABELS
+			# createText += "".join(nodeLabels)
+			# THIS INCLUDES ONLY THE PRIMARY CATEGORY AS NODE LABEL
+			createText += priCat
 
 			cEnd +=2 # set end of category declaration
 
@@ -183,14 +186,11 @@ def main():
 					noun = itemValue[0][itemValue[0].find(' ')+1:] #strip off the verb in the relationship to get to the noun
 					print (itemValue)
 					if noun in types:
-						print ("found in types")
 						itemValue.append(noun)
-						itemValue
 						rel = {'typeA':priCat,'typeB':noun,'nodeA':currNodeName,'nodeB':fNodeName(itemValue[1]),'nameA':title,'nameB':itemValue[1],'relType':fRelationshipLabel(itemValue[0])}
 						relList.append(rel)
 
 					else: #not a relationship, add as property
-						print ("logged as property")
 						propOutput.append(fPropertyLabel(itemValue[0]) + ": " + fBoolNumString(itemValue[1]))
 
 				createText += " { " + ", ".join(propOutput) + "}"
