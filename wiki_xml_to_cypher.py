@@ -40,7 +40,7 @@ from openpyxl import Workbook #allows connecting to databases
 from openpyxl.worksheet.table import Table, TableStyleInfo
 
 def fRemoveBadChars(t):
-	r = t.replace("'","").replace(";","").replace(",","").replace("/","").replace("-","").replace("–","").replace("’","")
+	r = t.replace("'","").replace(";","").replace(",","").replace("/","").replace("-","").replace("–","").replace("’","").replace("&","").replace(".","").replace(":","")
 	return r
 
 
@@ -181,13 +181,16 @@ def main():
 					# itemValue[1] = fBoolNumString(itemValue[1])
 					# DETERMINE if property is a relationship (e.g., Has Species)
 					noun = itemValue[0][itemValue[0].find(' ')+1:] #strip off the verb in the relationship to get to the noun
+					print (itemValue)
 					if noun in types:
+						print ("found in types")
 						itemValue.append(noun)
 						itemValue
 						rel = {'typeA':priCat,'typeB':noun,'nodeA':currNodeName,'nodeB':fNodeName(itemValue[1]),'nameA':title,'nameB':itemValue[1],'relType':fRelationshipLabel(itemValue[0])}
 						relList.append(rel)
 
 					else: #not a relationship, add as property
+						print ("logged as property")
 						propOutput.append(fPropertyLabel(itemValue[0]) + ": " + fBoolNumString(itemValue[1]))
 
 				createText += " { " + ", ".join(propOutput) + "}"
